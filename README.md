@@ -1,10 +1,10 @@
-# PFT Linux (Post on 4PDA)
+# PFT Linux ([Post on 4PDA](http://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=94908974))
 
 ## Main authors of PFT
 
-• friendki11er - author of the original PFT tool for Windows, file to get half-root rights ( post with PFT )
-• jno - ported PFT for Linux ( original port of PTF on Linux )
-• Zalexanninev15 - minor edits for PTF port for Linux, exclusive installer, new PFT port for Linux and PFT Linux Project
+- friendki11er - author of the original PFT tool for Windows, file to get half-root rights ([post with PFT](http://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=85383238))
+- jno - ported PFT for Linux
+- Zalexanninev15 - minor edits for PTF port for Linux, exclusive installer, new PFT port for Linux and PFT Linux Project
 
 ## Description
 
@@ -12,8 +12,8 @@ Installer (for tools) & tools for flash/dump partitions for ZTE Blade V9 Vita an
 
 ## System requirements
 
-• For Linux distros: Mint/Ubuntu/Debian, possibly others
-• Additional: Internet (only for Installer)
+- For Linux distros: Mint/Ubuntu/Debian, Manjaro (without Installer)
+- Additional: Internet (only for Installer)
 
 ## Instruction for use
 
@@ -26,8 +26,8 @@ Installer (for tools) & tools for flash/dump partitions for ZTE Blade V9 Vita an
 2. Write "8)" and write your password
 3. Set your smartphone into EDL mode:
 
-• ADB: Write "2)" and wait, then check the port in item "3)", enter "S"
-• DFU: Item 4. , write "1)", item 4. (the port may change, so it may be necessary to change it (enter "N" when they ask about the port, then follow the instructions and the port will be checked))
+- ADB: Write "2)" and wait, then check the port in item "3)", enter "S"
+- DFU: Item 4. , write "1)", item 4. (the port may change, so it may be necessary to change it (enter "N" when they ask about the port, then follow the instructions and the port will be checked))
 
 4. Check the appearance of the diagnostic port "/dev/ttyUSB0". Write "3" and "S"
 
