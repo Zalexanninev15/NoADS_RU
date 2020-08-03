@@ -13,6 +13,6 @@
 
 **Список буду расширять по мере посещения сайтов**
 ## Проверено на расширениях
-* uBlock Origin (*1.27.10 & 1.23.0*) (***Desktop***)
+* uBlock Origin (*1.28.4 & 1.27.10 & 1.23.0*) (***Desktop***)
 * AdGuard Content Blocker для Samsung Browser и Яндекс Браузер (*2.6.0*) (***Mobile***)
 * AdGuard Антибаннер (*3.4.31*) (***Desktop***)
