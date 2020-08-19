@@ -1,4 +1,4 @@
-# NoADS_RU | [Последняя версия списка](https://github.com/Zalexanninev15/NoADS_RU/blob/master/ADS%20List/my-ublock-static-filters_2020-08-17_14.24.00.txt)
+# NoADS_RU | [Последняя версия списка](https://github.com/Zalexanninev15/NoADS_RU/blob/master/ADS%20List/my-ublock-static-filters_2020-08-19_13.08.29.txt)
 ![](https://i.imgur.com/9yk8yUq.jpg)
 ## Описание
 Мой собственный список для блокировки элементов на сайтах. **РЕКОМЕНДУЮ ИСПОЛЬЗОВАТЬ ЕГО ВСЕМ БЕЗ ИСКЛЮЧЕНИЯ**
