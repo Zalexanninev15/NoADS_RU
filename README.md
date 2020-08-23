@@ -1,4 +1,4 @@
-# NoADS_RU | [Последняя версия списка](https://github.com/Zalexanninev15/NoADS_RU/blob/master/ADS%20List/my-ublock-static-filters_2020-08-19_13.08.29.txt)
+# NoADS_RU | [Последняя версия списка](https://github.com/Zalexanninev15/NoADS_RU/blob/master/ADS%20List/my-ublock-static-filters_2020-08-23_18.37.59.txt)
 ![](https://i.imgur.com/9yk8yUq.jpg)
 ## Описание
 Мой собственный список для блокировки элементов на сайтах. **РЕКОМЕНДУЮ ИСПОЛЬЗОВАТЬ ЕГО ВСЕМ БЕЗ ИСКЛЮЧЕНИЯ**
@@ -13,6 +13,6 @@
 
 **Список буду расширять по мере посещения сайтов**
 ## Проверено на расширениях
-* uBlock Origin (*1.28.4 & 1.27.10 & 1.23.0*) (***Desktop***)
+* uBlock Origin (*1.23.0 и выше*) (***Desktop***)
 * AdGuard Content Blocker для Samsung Browser и Яндекс Браузер (*2.6.0*) (***Mobile***)
 * AdGuard Антибаннер (*3.4.31*) (***Desktop***)
