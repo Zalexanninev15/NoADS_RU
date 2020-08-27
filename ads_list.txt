@@ -86,10 +86,6 @@ www.gog.com##.menu-account__submenu.menu-submenu > div.menu-submenu-item--hover.
 www.gog.com##div.menu-submenu-item--hover.menu-submenu-item:nth-of-type(10) > .ng-scope.menu-submenu-link
 www.gog.com##.menu-account__submenu.menu-submenu > div.menu-submenu-separator:nth-of-type(9)
 
-! 13.02.2020 https://www.youtube.com
-www.youtube.com###guide-links-primary
-www.youtube.com###guide-links-secondary
-
 ! 13.02.2020 https://cloud.mail.ru
 cloud.mail.ru##.portal-promo_with-icon.portal-promo
 cloud.mail.ru###leftcol > div:nth-of-type(4)
@@ -264,19 +260,6 @@ www.nvidia.com##.center-content
 www.nvidia.com##.page-footer__social
 www.nvidia.com##.subscribe-container
 www.nvidia.com##.page-footer__subscribe
-
-! 13.02.2020 https://www.comss.ru
-www.comss.ru##.nav-pills.nav
-||img.comss.net/adaptive-fit-in/filters:fill(FFFFFF)):quality(30)/action/915x258-final.png$image
-www.comss.ru##.hidden-sm.hidden-xs.container-fluid
-
-! 13.02.2020 https://rsload.net
-rsload.net##[href="https://rsload.net/tutvce.html"]
-rsload.net##div.side-box:nth-of-type(1) > .side-bc
-rsload.net##div.side-box:nth-of-type(1) > .icon-l.side-bt
-rsload.net##.center.flex-row.fbottom
-||rsload.net/images5/2019-02-14-16-30-19.jpg$image
-rsload.net##.clearfix.video-box.full-text.short-text > center
 
 ! 13.02.2020 https://stopgame.ru
 stopgame.ru##td.menu-cell:nth-of-type(10) > .menu-submenu.menu-parent > .menu-link
@@ -1881,9 +1864,6 @@ make-games.ru##[href="https://www.uweb.ru/"]
 make-games.ru##.pb3QvcCt
 make-games.ru##.pbI_t2YO
 
-! 05.03.2020 https://www.comss.ru
-www.comss.ru###gsc
-
 ! 05.03.2020 http://www.wincore.ru
 ||www.wincore.ru/templates/wincorenew/images/ico-twitter.png$image
 ||www.wincore.ru/templates/wincorenew/images/ico-fb.png$image
@@ -2255,10 +2235,6 @@ vk.com###ads_ad_box_ad_c1b023f3eeed6353
 vk.com##.size_site.repeat_ver.ver.ads_ads_box2
 vk.com###ads_left
 
-! 27/03/2020 https://www.youtube.com
-www.youtube.com###masthead-ad
-www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
-
 ! 27.03.2020 https://yandex.ru
 yandex.ru##.media-grid_js_inited.font-regular.i-bem.media-grid_theme_white.media-grid_visible_yes.media-grid
 yandex.ru##.teaser__content
@@ -2625,9 +2601,6 @@ docviewer.yandex.ru##.uv-cyo
 docviewer.yandex.ru##.wugyodj.qgnohvkrn.dldeomvdy > gohcakc-rz
 docviewer.yandex.ru##.phutoiasr.xnrkb.dldeomvdy > gohcakc-rz
 
-! 20.05.2020 https://www.youtube.com
-www.youtube.com###content > .ytd-rich-section-renderer.style-scope
-
 ! 22.05.2020 https://disk.yandex.ru
 disk.yandex.ru##.notification__corner_side_top-left.notification__corner > svg
 disk.yandex.ru##.notification__corner_side_top-left.notification__corner
@@ -2870,9 +2843,6 @@ vk.com##div.more_div:nth-of-type(3)
 vk.com###l_watch_home > .left_row > .left_fixer > .fl_l.left_icon
 vk.com###l_watch_home > .left_row > .left_fixer > .inl_bl.left_label
 
-! 29.05.2020 https://www.comss.ru
-www.comss.ru##.col-lg-4.col-md-4.hidden-sm.hidden-xs > div
-
 ! 29.05.2020 https://aliexpress.ru
 aliexpress.ru###login-sns-wrap > .sns-btn-lists > div.sns-item-wrap:nth-of-type(3)
 aliexpress.ru###login-sns-wrap > .sns-btn-lists > div.sns-item-wrap:nth-of-type(2)
@@ -3070,9 +3040,6 @@ mail.yandex.ru##.mail-MoreServices.mail-Toolbar-Item_link.mail-Toolbar-Item.ns-v
 mail.yandex.ru##.mail-MoreServices.mail-Toolbar-Item_link.mail-Toolbar-Item.ns-view-id-246.ns-view-more-services
 mail.yandex.ru##.mail-App-Footer-Wrap_3pane.js-mail-app-footer.mail-App-Footer-Wrap.ns-view-id-115.ns-view-footer
 
-! 19.06.2020 https://www.comss.ru
-www.comss.ru##div.container-fluid:nth-of-type(2)
-
 ! 23.06.2020 https://remontka.pro
 remontka.pro##.rem-rightbar
 remontka.pro##.uk-panel-box-primary.uk-panel-box.uk-panel
@@ -3097,3 +3064,1111 @@ yadi.sk##a.inline-services-menu__link.link_theme_dark.link.control:nth-of-type(2
 lenta.ru##.jxuilv.dxilri > div:nth-of-type(1)
 lenta.ru##.b-longgrid-column.okeovzb
 lenta.ru##.nrkqe__rxkz
+
+! 24.06.2020 https://4pda.ru
+||s.4pda.to/dry7LxUNuYBpV0XyvCMSsxbWLNYiJbollpEE4jtdQQmAseZQxErz2X6v0.jpg$image
+4pda.ru##.icon-YOUTUBE
+
+! 24.06.2020 https://yougame.biz
+yougame.biz##div.pre-footer--column:nth-of-type(1) > .pre-footer--container > .pre-footer--content > .pre-footer--links > li:nth-of-type(4)
+yougame.biz###js-XFUniqueId136
+yougame.biz###js-XFUniqueId137
+yougame.biz###viber_share
+yougame.biz##div.otstup:nth-of-type(2)
+yougame.biz##div.otstup:nth-of-type(5) > table > tbody > tr > td
+yougame.biz##div.otstup:nth-of-type(6) > table > tbody > tr > td
+yougame.biz##div.otstup:nth-of-type(7) > table > tbody > tr > td
+yougame.biz##div.otstup:nth-of-type(4) > table > tbody > tr > td
+yougame.biz##div.otstup:nth-of-type(3)
+yougame.biz##div.otstup:nth-of-type(1)
+yougame.biz##div.sponsor-banners:nth-of-type(7)
+yougame.biz##.top-banners
+
+! 25.06.2020 https://4pda.ru
+4pda.ru##.menu-brands
+
+! 25.06.2020 https://disk.yandex.ru
+disk.yandex.ru##.js-prevent-mouse-selection.app-promo-banner
+disk.yandex.ru##.sidebar__app-link-wrapper
+
+! 25.06.2020 https://yadi.sk
+yadi.sk##a.inline-services-menu__link.link_theme_dark.link.control:nth-of-type(1)
+
+! 26.06.2020 http://kbyte.ru
+||my2.imgsmail.ru//r/my/app/connect/connect-button.png$image
+kbyte.ru##.mrc__connectButton
+||kbyte.ru/Content/Themes/Native5x/images/panel-0-c.gif$image
+kbyte.ru##.rightPanel > div.panel:nth-of-type(4) > .panelBody > .panelContent
+kbyte.ru##.rightPanel > div.panel:nth-of-type(4) > .panelTitle > tbody > tr > .c
+||kbyte.ru/Content/Themes/Native5x/images/panel-0-l.gif$image
+kbyte.ru##.rightPanel > div.panel:nth-of-type(4) > .panelTitle > tbody > tr > .l
+||kbyte.ru/Content/Themes/Native5x/images/panel-0-r.gif$image
+kbyte.ru##.rightPanel > div.panel:nth-of-type(4) > .panelTitle > tbody > tr > .r
+kbyte.ru##.rightPanel > div.panel:nth-of-type(4) > .panelBody
+kbyte.ru##.leftPanel > div.panel:nth-of-type(4) > .panelBody > .panelContent
+||kbyte.ru/Content/Themes/Native5x/images/panel-0-c.gif$image
+kbyte.ru##.leftPanel > div.panel:nth-of-type(4) > .panelTitle > tbody > tr > .c
+||kbyte.ru/Content/Themes/Native5x/images/panel-0-r.gif$image
+kbyte.ru##.leftPanel > div.panel:nth-of-type(4) > .panelTitle > tbody > tr > .r
+||kbyte.ru/Content/Themes/Native5x/images/panel-0-l.gif$image
+kbyte.ru##.leftPanel > div.panel:nth-of-type(4) > .panelTitle > tbody > tr > .l
+kbyte.ru##.leftPanel > div.panel:nth-of-type(4) > .panelBody
+||kbyte.ru/Content/Images/facebook.gif$image
+||kbyte.ru/Content/Images/twitter.gif$image
+||feeds.feedburner.com/kbyte-ru.1.gif$image
+
+! 26.06.2020 https://delphisources.ru
+delphisources.ru##.link_fon
+delphisources.ru###left_panel > p
+delphisources.ru##body > p:nth-of-type(3)
+delphisources.ru##body > div:nth-of-type(3)
+delphisources.ru##[href="/pages/reclama.html"]
+delphisources.ru##tr:nth-of-type(4) > td > p:nth-of-type(2)
+
+! 27.06.2020 https://ok.ru
+||ok.ru/res/i/sprt/socials/3f64f05deb2b50a2bd28eb2892bf43b5.png$image
+ok.ru##.__gp.__s.social-icon
+ok.ru##.__gp.__small.social-icon-button.h-mod
+||ok.ru/res/i/sprt/socials/3f64f05deb2b50a2bd28eb2892bf43b5.png$image
+ok.ru##.__fb.__s.social-icon
+ok.ru##.__fb.__small.social-icon-button.h-mod
+ok.ru##[href="https://ok.ru/adsmanager"]
+
+! 27.06.2020 https://4pda.ru
+4pda.ru###revive-0-0
+||s.4pda.to/dry7Ndn2mFPz1JFLjFWWT8Ni01s1C.jpg?_=1593174145$image
+4pda.ru##div.MC3OmFwl6D:nth-of-type(3)
+||s.4pda.to/dry7LxUNuYBpV0XyvCMSsxbWLNYiJbollpEE4jtdQQmAseZQxErz2X6v0.jpg$image
+
+! 27.06.2020 https://www.playground.ru
+||www.google.com/recaptcha/api2/anchor?ar=1&k=6Lc6EY8UAAAAAEZ3D_4Qky1yKOA1YO4p0BF_RWlD&co=aHR0cHM6Ly93d3cucGxheWdyb3VuZC5ydTo0NDM.&hl=ru&v=NMoy4HgGiLr5NAQaEQa2ho8X&size=invisible&cb=wzcjgkfpsa1m$subdocument
+www.playground.ru##.grecaptcha-badge
+www.playground.ru##.js-oauth.btn-google.btn-sm.btn
+www.playground.ru###notificationBlock
+
+! 27.06.2020 https://vk.com
+vk.com##.flat_button.PlaceholderSmall_button
+vk.com##.CatalogSection__rightColumn
+vk.com##._audio_section_tab__playlists._audio_section_tab__my_playlists > .ui_tab
+
+! 28.06.2020 https://answers.microsoft.com
+answers.microsoft.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
+
+! 28.06.2020 https://www.cyberforum.ru
+www.cyberforum.ru##table:nth-of-type(3) > tbody > tr > td:nth-of-type(1)
+www.cyberforum.ru##table:nth-of-type(3) > tbody > tr > td:nth-of-type(2)
+www.cyberforum.ru##div:nth-of-type(8)
+
+! 29.06.2020 https://app.simplenote.com
+app.simplenote.com##.cookiebanner
+||www.google.com/recaptcha/api2/anchor?ar=1&k=6LfMOq0UAAAAANTnVx9i_DfiDZa7QKR7DMLdu7eE&co=aHR0cHM6Ly9hcHAuc2ltcGxlbm90ZS5jb206NDQz&hl=ru&v=NMoy4HgGiLr5NAQaEQa2ho8X&size=invisible&cb=24m59o6tky1e$subdocument
+app.simplenote.com##.grecaptcha-badge
+
+! 29.06.2020 https://www.avito.ru
+www.avito.ru##.apps-banner_vertical.apps-banner
+||static.avito.ru/s/cc/resources/ab226e3acf6c.svg$image
+||static.avito.ru/s/cc/resources/1e3b642c62eb.svg$image
+www.avito.ru##.carousel-scroll-button_right-circle-2Xxw2.carousel-scroll-button_circle-UMyzs.carousel-scroll-button_right-2Bj6e.carousel-scroll-button-1DC50
+www.avito.ru##.width-width-12-2VZLz.carousel-content-wrap_right-shadow-k5Ni0.carousel-layout-XP-XZ
+www.avito.ru##.item-view-ads
+www.avito.ru##.alert-design-warning-31szd.alert-alert-ZNQt1
+www.avito.ru##.carousel-list-1efLg
+
+! 29.06.2020 https://www.ozon.ru
+www.ozon.ru##li.c4p2:nth-of-type(1) > .ui-a0s9
+||cdn1.ozone.ru/s3/cms/44/t93/wc*0/certificates_b2b_320x160.png$image
+www.ozon.ru##.c3w9.c3w2
+www.ozon.ru##div.b1s2.b1t5:nth-of-type(3) > .b1s0
+www.ozon.ru##li.c4l5:nth-of-type(1) > .c4l6.a0f1
+www.ozon.ru##div.b1t5:nth-of-type(1) > .b1s0.b1t0
+www.ozon.ru##div.b1s0:nth-of-type(2) > .b1s2.a7w3 > .a7w6.a7w5 > .az7 > .a0a5.az8.a0f1 > .a0a0 > .a0h3 > .a0h7
+www.ozon.ru##div.b1s0:nth-of-type(2) > .b1s2.a7w3 > .a7w6.a7w5 > .az7 > .a0a5.az8.a0f1 > .a0a0 > .a0h3
+www.ozon.ru##div.b1s2.aq7:nth-of-type(4)
+www.ozon.ru##div.b1s2.aq7:nth-of-type(3)
+www.ozon.ru##.b7h2.b7g6.b7g0.b7f0.b7f.b7e7.b7e5 > div.b1t5:nth-of-type(3) > .b1s0.b1s5
+www.ozon.ru##div.b1s2.aq7:nth-of-type(2)
+www.ozon.ru##.b1s2.a7t
+www.ozon.ru##a.c4q9.a0f1:nth-of-type(4) > .c4q7
+www.ozon.ru##a.c4q9.a0f1:nth-of-type(4)
+www.ozon.ru##a.c4q9.a0f1:nth-of-type(3) > .c4q7
+www.ozon.ru##a.c4q9.a0f1:nth-of-type(3)
+www.ozon.ru##a.c4q9.a0f1:nth-of-type(2) > .c4q7
+www.ozon.ru##a.c4q9.a0f1:nth-of-type(2)
+www.ozon.ru##.c4l0 > .c4k3 > div:nth-of-type(1)
+www.ozon.ru##div.c4k5:nth-of-type(3) > span.c4k8
+www.ozon.ru##div.c4k5:nth-of-type(3) > .c4k8.a0f1
+
+! 29.06.2020 https://www.soundeffectsplus.com
+||www.soundeffectsplus.com/uploads/prosoundpack.jpg$image
+
+! 29.06.2020 https://rus.windscribe.com
+rus.windscribe.com##.footer-secondary.footer-link-cont > ul > li:nth-of-type(5)
+rus.windscribe.com##div.footer-link-cont:nth-of-type(3) > ul > li:nth-of-type(8)
+rus.windscribe.com##div.footer-link-cont:nth-of-type(3) > ul > li:nth-of-type(9)
+
+! 29.06.2020 https://www.indiegala.com
+www.indiegala.com##.relative.popup-relative
+www.indiegala.com##.social-menu.right.default-social-menu.browse-default-browse-social-menu > ul > li:nth-of-type(3)
+www.indiegala.com##.social-menu.right.default-social-menu.browse-default-browse-social-menu > ul > li:nth-of-type(2)
+
+! 29.06.2020 https://duckduckgo.com
+duckduckgo.com##.js-badge-link-button.btn--primary.btn.badge-link__btn
+duckduckgo.com##.badge-link__rating > p:nth-of-type(1)
+duckduckgo.com##span:nth-of-type(6)
+duckduckgo.com##.badge-link__rating-wrap
+
+! 29.06.2020 https://drive.google.com
+drive.google.com###\:65 > .a-S-x-j.a-s-tb-pa > .NtyuW.PEfnhb > .i6Fqyc
+drive.google.com##.NtyuW.PEfnhb > .i6Fqyc
+
+! 29.06.2020 http://passgen.ru
+passgen.ru##.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+passgen.ru##.ya-share2__item_service_moimir.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+passgen.ru##.ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+
+! 29.06.2020 https://gdeposylka.ru
+gdeposylka.ru##.promo.container
+gdeposylka.ru##div.col-sm-6.col-md-3:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(3)
+gdeposylka.ru##[href="/cookie"]
+
+! 29.06.2020 https://www.computerra.ru
+www.computerra.ru##.opened.subscription
+
+! 29.06.2020 https://europaplus.ru
+europaplus.ru##.content.scroll-container__wrapper-content
+europaplus.ru##.cookie-notification
+europaplus.ru##.menu__content-menu-share.social > a.social__link:nth-of-type(5) > .svg-image > svg
+europaplus.ru##.menu__content-menu-share.social > a.social__link:nth-of-type(4) > .svg-image > svg
+europaplus.ru##.menu__content-menu-share.social > a.social__link:nth-of-type(2) > .svg-image > svg
+
+! 29.06.2020 https://store.steampowered.com
+||steamcdn-a.akamaihd.net/store/promo/summer2020/tiling_orange.png?v=2$image
+store.steampowered.com###promo_header_banner
+
+! 01.07.2020 https://answers.microsoft.com
+answers.microsoft.com##.cc-container
+
+! 01.07.2020 https://support.microsoft.com
+support.microsoft.com##.x-hidden-focus.x-p-t-4x.banner-aboveuhf-content
+
+! 02.07.2020 https://yougame.biz
+yougame.biz##.sotka > .nf_f_li
+yougame.biz##.f_op > .nf_f_li
+yougame.biz##li.notice--dark.js-notice.notice:nth-of-type(1) > .notice-content
+yougame.biz##li.notice--dark.js-notice.notice:nth-of-type(2) > .notice-content
+yougame.biz##.mr_first_post
+||yougame.biz/imgs/bg8.png$image
+||yougame.biz/imgs/bg8.png$image
+yougame.biz###js-XFUniqueId17
+yougame.biz###js-XFUniqueId15
+yougame.biz###js-XFUniqueId14
+
+! 03.07.2020 https://www.fosshub.com
+www.fosshub.com##.ad
+
+! 03.07.2020 https://sourceforge.net
+sourceforge.net###newsletter-floating
+sourceforge.net###mirror
+
+! 03.07.2020 https://2ip.ru
+2ip.ru##[href="https://2ip.ru/browser-update/"]
+
+! 03.07.2020 https://yougame.biz
+yougame.biz###js-XFUniqueId133
+yougame.biz###js-XFUniqueId134
+yougame.biz###js-XFUniqueId25
+yougame.biz###js-XFUniqueId22
+yougame.biz###js-XFUniqueId23
+yougame.biz###js-XFUniqueId548
+yougame.biz###js-XFUniqueId549
+yougame.biz###js-XFUniqueId551
+yougame.biz##.p-footer-copyright
+
+! 03.07.2020 https://www.dns-shop.ru
+||as.dns-shop.ru/assets/49e46824/images/md-min.jpg$image
+
+! 03.07.2020 https://namechk.com
+namechk.com###top-sponsor
+namechk.com##section.banner:nth-of-type(2)
+namechk.com##.cc-color-override-52627589.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 06.07.2020 https://yandex.ru
+yandex.ru##.i-bem.popup2_alt-shadow_yes.popup2_direction_left-center.popup2_visible_yes.popup2_theme_normal.popup2_view_default.services-new__onboarding.popup2
+
+! 06.07.2020 https://docviewer.yandex.ru
+docviewer.yandex.ru##.qhbupjn.avgyjbrqn.uymekyaoj > yzw-rcxuhawbcf
+
+! 08.07.2020 https://icon-icons.com
+icon-icons.com###istockphoto-banner
+icon-icons.com###istockphoto-placeholder
+icon-icons.com##.fondo-blanco.bsa-placeholder
+icon-icons.com###bsa-placeholder-search
+
+! 08.07.2020 https://www.flaticon.com
+www.flaticon.com##.bg-youtube.flaticon-youtube
+
+! 13.07.2020 https://www.playground.ru
+www.playground.ru###userAdvertInstance
+
+! 15.07.2020 https://www.cyberforum.ru
+www.cyberforum.ru##[href="https://www.cyberforum.ru/advert.php"]
+
+! 15.07.2020 https://ru.stackoverflow.com
+ru.stackoverflow.com###js-gdpr-consent-banner
+ru.stackoverflow.com##.js-primary-footer-links.-list > li.-item:nth-of-type(6)
+
+! 16.07.2020 https://www.wildberries.ru
+www.wildberries.ru##.j-li-go-to-mobile-site.c-link-out3
+www.wildberries.ru##.mobile-site
+www.wildberries.ru##.apps.item-footer
+www.wildberries.ru##.soc-net.item-footer > ul > li:nth-of-type(6)
+www.wildberries.ru##.soc-net.item-footer > ul > li:nth-of-type(2)
+www.wildberries.ru##.soc-net.item-footer > ul > li:nth-of-type(3)
+www.wildberries.ru##.j-promo-carousel-wrapper.similar-goods-wrapper > .j-slider-gallery.i-slider-gallery
+www.wildberries.ru##div.similar-goods-wrapper:nth-of-type(6) > div > .j-slider-gallery.i-slider-gallery
+www.wildberries.ru##.also-buy-wrapper.similar-goods-wrapper > div > .j-slider-gallery.i-slider-gallery
+www.wildberries.ru##.limited.i-tags-group
+www.wildberries.ru##.j-recent-goods-container.i-visited-goods > .j-products-container.list
+www.wildberries.ru##.visited-goods-header
+www.wildberries.ru##span:nth-of-type(5) > [href="//style.wildberries.ru/"]
+www.wildberries.ru##.compatability
+www.wildberries.ru##.mm
+www.wildberries.ru##.twitter
+www.wildberries.ru##.fb
+www.wildberries.ru##.tags-group-title
+www.wildberries.ru##.j-tags-list.tags-group-list
+www.wildberries.ru##.tooltipster-fade-show.tooltipster-fade.i-cardSIze-tooltip.tooltipster-base
+
+! 16.07.2020 https://pikabu.ru
+pikabu.ru##.auth__footer > a.social-icon_square.social-icon:nth-of-type(2)
+pikabu.ru##.auth__footer > a.social-icon_square.social-icon:nth-of-type(3)
+||www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf5DUsUAAAAAGeOi2l8EpSqiAteDx5PGFMYPkQW&co=aHR0cHM6Ly9waWthYnUucnU6NDQz&hl=ru&v=6uMSoEJtPugDt7Qm0Uu5iuSY&size=invisible&badge=bottomleft&cb=4atxv15cid1w$subdocument
+pikabu.ru##.grecaptcha-badge
+pikabu.ru##div.footer__section:nth-of-type(1) > div.footer__item:nth-of-type(5)
+pikabu.ru##.sidebar-block-links__apps > [href="https://redirect.appmetrica.yandex.com/serve/386534266126799147"]
+pikabu.ru##[href="https://redirect.appmetrica.yandex.com/serve/386535754232273159"]
+pikabu.ru##.sidebar-block-links__social > a.social-icon_square.social-icon:nth-of-type(2)
+
+! 16.07.2020 https://www.google.com
+www.google.com##.BIB1wf.tvh9oe > .Y6heUd > .OUZ5W > .QnfS4e > div.ZUo4Ze:nth-of-type(1) > .fwCBrd > .L43GYb > a.OFxjge:nth-of-type(1)
+www.google.com##.jklcHd
+
+! 17.07.2020 https://stackoverflow.com
+stackoverflow.com###js-gdpr-consent-banner
+
+! 17.07.2020 https://account.xiaomi.com
+account.xiaomi.com###cookie-usage-notify
+
+! 18.07.2020 https://e.mail.ru
+e.mail.ru##.c0117.c0115
+
+! 18.07.2020 https://www.google.com
+www.google.com##.dkw61e.sh-sp__btn
+
+! 18.07.2020 https://www.mvideo.ru
+www.mvideo.ru##[href^="/promo/vneplanovaya-chernaya-pyatnica-mark165903130"] > .lazy-loaded.lazy-load-image-holder
+www.mvideo.ru##.no-shadow-block.banner-top
+
+! 19.07.2020 https://twitter.com
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1tlfku8.r-14lw9ot.css-1dbjc4n:nth-of-type(1) > .css-1dbjc4n
+twitter.com##a.r-qvutc0.r-1qfoi16.r-bcqeeo.r-hrzydr.r-1sf4r6n.r-16dba41.r-n6v787.r-1qd0xha.r-1loqt21.r-1re7ezh.css-901oao.css-18t94o4.css-4rbku5:nth-of-type(4) > .r-qvutc0.r-bcqeeo.r-ad9z0x.r-1qd0xha.css-16my406.css-901oao
+
+! 21.07.2020 https://qiwi.com
+qiwi.com##.cookies-self-299
+
+! 21.07.2020 https://security.wildberries.ru
+security.wildberries.ru##.mobile-site
+security.wildberries.ru##.apps.item-footer
+
+! 21.07.2020 https://foxmults.ru
+||cyberget.org/v4/templates/button/153/img_01.gif$image
+foxmults.ru##.cc_mod_153_2
+foxmults.ru##li:nth-of-type(2) > [href="https://foxmults.ru/anime.html"]
+foxmults.ru##li:nth-of-type(3) > [href="https://foxmults.ru/anime.html"] > span
+
+! 21.07.2020 https://vk.com
+vk.com###short_video_feed_block_wrapper
+vk.com##.ShortVideoFeedBlock__title
+
+! 21.07.2020 https://lk.wildberries.ru
+lk.wildberries.ru##.mobile-site
+lk.wildberries.ru##.apps.item-footer
+
+! 22.07.2020 https://thesaurus.rusnano.com
+thesaurus.rusnano.com##.cookie__content
+
+! 22.07.2020 https://www.programmersforum.ru
+www.programmersforum.ru##div:nth-of-type(1) > .page > div > center
+www.programmersforum.ru##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
+www.programmersforum.ru##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2)
+
+! 22.07.2020 https://qna.habr.com
+qna.habr.com##.question__additionals > div:nth-of-type(5)
+qna.habr.com##.alert_info.alert
+qna.habr.com##.menu_socials > .menu_inline.menu > li.menu__item:nth-of-type(1)
+qna.habr.com##.menu_socials > .menu_inline.menu > li.menu__item:nth-of-type(2)
+
+! 23.07.2020 https://yandex.ru
+yandex.ru##a.services-new__item.home-link:nth-of-type(6)
+yandex.ru##.xHIficRhRZFB6exmwPHY
+yandex.ru##.jca65a213.p9a5fd1e3.nac908c89.x55b448c9.d3aa81452
+yandex.ru###htafvdg
+yandex.ru##.xFZvtYQtgeWtdVkA.xHIficRhRZFB6aBSh.card
+yandex.ru##a.link_js_inited.xFsXuYBA.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru###mntql
+yandex.ru##.xHITlaBxLdSJGaByyOmb3ieBh9INdSCNdgFYEH9jLBFOmZ4P9
+yandex.ru###igwoc
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.xFsXuYBA.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru###ncukfu
+yandex.ru###oxhee
+yandex.ru###lfpeu
+yandex.ru###ymow
+yandex.ru###iikpbpp
+yandex.ru###xntacwx
+yandex.ru###tuft
+yandex.ru###muqss
+yandex.ru##.xCI3tcRVaYiJIaACkC133n5J08p5ASyZWul0aMw.xCI3tcRVaYiJIaACkC133nw.xCI3tcRVaYiJIaACk__loyier-exsist
+yandex.ru##.y3df045db.p3d50e7ad
+yandex.ru##.we6c926fd.n7afa08d5.nac908c89.x55b448c9.d3aa81452
+yandex.ru##.ymaps-2-1-75-copyright__content
+yandex.ru##._popup-destructor_js_inited._popup-destructor.xFsXuYBA.xCI3tcRVaYiJIaACk__legal-button
+yandex.ru##.xCI3tcRVaYiJIaACk__legal-button
+yandex.ru###vdqfka
+yandex.ru###jfdqo
+yandex.ru###vpdzgb
+yandex.ru###tglptw
+
+! 24.07.2020 https://convertonlinefree.com
+convertonlinefree.com###acceptCookies
+
+! 24.07.2020 https://img2txt.com
+img2txt.com##.cc-color-override-688238583.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+
+! 24.07.2020 https://github.com
+github.com##.p-3.bg-white.border.js-notice-dismiss.mb-4.rounded-2.position-relative
+
+! 24.07.2020 https://auto.ru
+auto.ru##.IndexSocialLinks__item_fb.IndexSocialLinks__item
+auto.ru##.IndexSocialLinks__item_tw.IndexSocialLinks__item
+auto.ru##.Footer__important-links > div.Footer__column:nth-of-type(1) > a.Footer__link:nth-of-type(1)
+
+! 24.07.2020 https://market.yandex.ru
+market.yandex.ru##div.layout_border_top.layout:nth-of-type(18)
+
+! 24.07.2020 https://yandex.ru
+yandex.ru##.wBawFiMDaqPMYya_iAF4
+yandex.ru##.w394b0087
+yandex.ru##.xf95e7ba7.s2f808e51
+yandex.ru##.b70f4d881.ifd4516a9.o86a99575.ye965d1b5.q92b3be2e
+yandex.ru##.wDvAKmNPrtcg_5rY.wBawFiMDaqPMY2OLz.card
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.wDa4Jmcg.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.sa35713ef.wfe43989f.o86a99575.ye965d1b5.q92b3be2e
+yandex.ru##.wBecdo9HNrMkY3e_3DUmV.wBecdo9Xbr_Mq1ujxAAeDOy551fM.wBecd
+yandex.ru###frjzcrwq
+yandex.ru###qhqeu
+yandex.ru###qdnozsam
+yandex.ru###xgtcqezt
+yandex.ru###qjgwht
+yandex.ru##.ccesLTqo2_js_inited.ccesLTqo2_visible.ca7IASKw.ccu0NS6cmbQ__container.ccesLTqo2
+yandex.ru##.ccOoAT6Q9Rk6JBJpfbNwtQWg.ccOoAT6Q9Rk6JBJo
+yandex.ru###cd_ELXA453
+yandex.ru##.ccv4FSOwsdnaeDph0QeosQGT5PAu5U5e30QyCauafJBQPQg.ccv4FSOwsdnaeDph0QeosQGT5PA
+yandex.ru###cd_ELXA454
+yandex.ru##.ccv4FSOwsdnaeDph0QeosQGT5PAuyVZyn2BuCauafJBQPQg.ccv4FSOwsdnaeDph0QeosQGT5PA
+yandex.ru###yzwaxno
+yandex.ru###wrvmga
+yandex.ru###zfhxt
+yandex.ru###A1595578286536
+yandex.ru###cd_ELXA522 > nlryu-mq
+yandex.ru##.link_js_inited.ca7IASKw.header-favorites-button__link.link_theme_normal.link
+yandex.ru##.ccv4FSOwsdnaeDph0QeopRnDDLz2wXZan.ccv4FSOwsdnaeDph0QeopRnA
+yandex.ru###cd_ELXA523 > nlryu-mq
+yandex.ru###cd_ELXA523
+yandex.ru###cd_ELXA524 > nlryu-mq
+yandex.ru###cd_ELXA524
+
+! 24.07.2020 https://realty.yandex.ru
+realty.yandex.ru##.wVUc1_ScoXh9x8g__ads
+realty.yandex.ru##.wUkc24CwvST1B7NaFwbXvSNA.wUkc24CwvST1B7MeJiKL4Q9D85WCU.wUkc24CwvST0
+realty.yandex.ru##a.Link_view_yellow-ghost.Link_theme_islands.Link_size_m.Link_js_inited.Link:nth-of-type(2)
+
+! 24.07.2020 https://beru.ru
+beru.ru##._2i5OuB1upo > div > div
+beru.ru##.S3SK_G9Azk
+beru.ru##div:nth-of-type(2) > div > div > div > ._2wp9gdzk3f._1_MhGKBSdf > .KgZT-UYxg1 > .cia-vs > div
+beru.ru##div:nth-of-type(3) > div > div > div > ._2wp9gdzk3f._1_MhGKBSdf
+beru.ru##._3Gvj1DDOQJ
+beru.ru##.H9XxVYls5e
+beru.ru##._3Uc73lzxcf.wxzRj_epSz._3yaDJZrDU0._3ioN70chUh
+beru.ru##._1dVZ35q5yJ._2er7mzKEW5._1_MhGKBSdf > .KgZT-UYxg1 > .cia-vs > div
+
+! 24.07.2020 https://yandex.ru
+yandex.ru##.wBecdo9HNrMkYy_Ln.wBecdo9Xbr_Mq1ujxAAeSPT5olanta5c.wBecd
+yandex.ru##.wDa4Jmcg.yaplus__link.link_theme_normal.link
+
+! 24.07.2020 https://taxi.yandex.ru
+taxi.yandex.ru##.SignBoardBase__close
+taxi.yandex.ru##.SignBoardBase__content
+taxi.yandex.ru##.SignBoardBase_type_b2bcargo.SignBoardBase.BannerB2bCargo
+
+! 24.07.2020 https://travel.yandex.ru
+travel.yandex.ru##a.FJ1J4.wQJKd:nth-of-type(5)
+
+! 24.07.2020 https://droidnews.ru
+droidnews.ru##aside
+droidnews.ru##._3sEn7KL._1rbE-e_
+droidnews.ru##._2PZJ9YE
+droidnews.ru##.social-subscribe-twitter
+||droidnews.ru/img/social_twitter.png$image
+
+! 24.07.2020 https://lifehacker.ru
+lifehacker.ru##.desktop-fixed-bar__social > .desktop-social-likes > .social-likes_ready.social-likes_visible.social-likes > .social-likes__widget_facebook.social-likes__widget > .social-likes__wrapper_facebook.social-likes__wrapper
+lifehacker.ru##.desktop-fixed-bar__social > .desktop-social-likes > .social-likes_ready.social-likes_visible.social-likes > .social-likes__widget_facebook.social-likes__widget
+lifehacker.ru##.desktop-fixed-bar__social > .desktop-social-likes > .social-likes_ready.social-likes_visible.social-likes > .social-likes__widget_twitter.social-likes__widget > .social-likes__wrapper_twitter.social-likes__wrapper
+lifehacker.ru##.desktop-fixed-bar__social > .desktop-social-likes > .social-likes_ready.social-likes_visible.social-likes > .social-likes__widget_twitter.social-likes__widget
+
+! 24.07.2020 https://zen.yandex.ru
+zen.yandex.ru###-\32 551804230292044422 > ._is-desktop.card-wrapper > ._with-transitions._has-animation-fit._is-desktop.card-video-block > .card-video-block__clickable
+zen.yandex.ru###\31 _2 > .featuring-promo-card > .featuring-promo-card__content > .featuring-promo-card__header
+||avatars.mds.yandex.net/get-zen-logos/1526540/pub_5beafea9d55c0d00aa97cdbd_5e39e407fab596799fe4acc9/xxh$image
+zen.yandex.ru###\31 _2 > .featuring-promo-card > .featuring-promo-card__content > .featuring-promo-card__info > .featuring-promo-card__logo
+zen.yandex.ru###\31 _2 > .featuring-promo-card > .featuring-promo-card__content
+||avatars.mds.yandex.net/get-zen-logos/201842/featuring_5ecf9a0a3630c64ee07eeb62_5ecf9a0a3630c64ee07eeb63/434x425$image
+zen.yandex.ru###\31 _2 > .featuring-promo-card > .featuring-promo-card__background > .blur-image > .blur-image__wrap > ._is-loaded._mode_bci.blur-image__image
+zen.yandex.ru###\31 _2 > .featuring-promo-card > .featuring-promo-card__background > .blur-image > .blur-image__wrap > div:nth-of-type(1) > ._mode_bci.blur-image__preview
+zen.yandex.ru###\31 _2 > .featuring-promo-card > .featuring-promo-card__background > .blur-image > .blur-image__wrap
+zen.yandex.ru###\31 _2 > .featuring-promo-card > .featuring-promo-card__background > .blur-image
+zen.yandex.ru###\31 _2 > .featuring-promo-card > .featuring-promo-card__background
+zen.yandex.ru###\31 _2 > .featuring-promo-card
+zen.yandex.ru###\31 _2
+zen.yandex.ru##div.feed__row:nth-of-type(34) > div._size_small.feed__item-wrap:nth-of-type(1)
+zen.yandex.ru###-\35 180096852925505976 > ._is-desktop.card-wrapper > ._with-transitions._has-animation-fit._is-desktop.card-video-block > .card-video-block__clickable
+zen.yandex.ru###ya-video-player-167cafbb597abf9a08437557cec222c75f6028c53540xWEBx4835x1595578811 > .StreamPlayer > div._2n8_7eB:nth-of-type(1) > ._2n8_7eB > ._3D52tih._1ll4Zna._20Eh5WL._3IkwtZe
+zen.yandex.ru###ya-video-player-167cafbb597abf9a08437557cec222c75f6028c53540xWEBx4835x1595578811 > .StreamPlayer > div._2n8_7eB:nth-of-type(1) > ._2n8_7eB
+zen.yandex.ru###ya-video-player-167cafbb597abf9a08437557cec222c75f6028c53540xWEBx4835x1595578811 > .StreamPlayer > div._2n8_7eB:nth-of-type(1)
+zen.yandex.ru###-\35 180096852925505976 > ._is-desktop.card-wrapper
+zen.yandex.ru###-\35 180096852925505976
+zen.yandex.ru##div.feed__row:nth-of-type(35) > ._size_big.feed__item-wrap
+zen.yandex.ru###\33 333483101378754008 > ._is-desktop.card-wrapper > ._with-transitions._has-animation-fit._is-desktop.card-video-block > .card-video-block__clickable
+zen.yandex.ru###ya-video-player-673efc0f841fb105c0ba988cd012658dde3ce8dd996axWEBx4835x1595578869 > .StreamPlayer > div._2n8_7eB:nth-of-type(1) > ._2n8_7eB > ._3D52tih._1ll4Zna._20Eh5WL._3IkwtZe
+zen.yandex.ru###ya-video-player-673efc0f841fb105c0ba988cd012658dde3ce8dd996axWEBx4835x1595578869 > .StreamPlayer > div._2n8_7eB:nth-of-type(1) > ._2n8_7eB
+zen.yandex.ru###ya-video-player-673efc0f841fb105c0ba988cd012658dde3ce8dd996axWEBx4835x1595578869 > .StreamPlayer > div._2n8_7eB:nth-of-type(1)
+zen.yandex.ru###\33 333483101378754008 > ._is-desktop.card-wrapper
+zen.yandex.ru###\33 333483101378754008
+zen.yandex.ru##div.feed__row:nth-of-type(39) > ._size_big.feed__item-wrap
+zen.yandex.ru##div.feed__row:nth-of-type(39)
+
+! 24.07.2020 https://radio.yandex.ru
+radio.yandex.ru##.notify_shown.notify__message
+
+! 24.07.2020 https://tv.yandex.ru
+tv.yandex.ru##.qTZKCM9ZGsOk4bQ_is-now.qTZKCM9ZGsOk4bQ_is-top.qTZKCM9ZGsOk4bQ > .qTZKCM9ZGsOk4bQ__qS4SdeoxMvPk.grid__pNKYyRw > .qS4SdepZEtv0xY3Q__wrapper > .qS4SdepZEtv0xY3Q
+tv.yandex.ru##.qTZKCM9ZGsOk4bQ_is-now.qTZKCM9ZGsOk4bQ_is-top.qTZKCM9ZGsOk4bQ > .qTZKCM9ZGsOk4bQ__qS4SdeoxMvPk.grid__pNKYyRw
+tv.yandex.ru##div.qTZKCM9ZGsOk4bQ:nth-of-type(2) > .qTZKCM9ZGsOk4bQ__qS4SdeoxMvPk.grid__pNKYyRw
+tv.yandex.ru##.main-controller__qS4SdeplKrOg5aw > .qS4SdepZEtv0xY3Q__wrapper > .qS4SdepZEtv0xY3Q
+tv.yandex.ru##.vmapihpdq > div:nth-of-type(3)
+
+! 24.07.2020 https://afisha.yandex.ru
+afisha.yandex.ru##.ejze5zVy9UQwwPDQrXhR8HhLOpRjinFk.enCSyzF2_UQwwPDQrXg.ejze5zVy9UQwwPDQrXhRjFwTWvjPEkUUaos0CaTu3Lw.ejze5zVy9UQwwPDQrXg
+afisha.yandex.ru##.kBxUqY.Root-sc-1g2lm4j-0
+afisha.yandex.ru##.gAZMty.FbIcon-pmivq9-4.Icon-pmivq9-2
+afisha.yandex.ru##div.LTXaY.Cell-ewtgjx-2:nth-of-type(2) > .eCzBWD.Text-sc-5fj8op-0 > .jNsrDb.Link-ewtgjx-12
+afisha.yandex.ru##.ejze5zVy9UQwwPDQrXhR8HhLOpRjinFk.ejze5zVy9UQwwPDQrXg_tld_ru.ejze5zVy9UQwwPDQrXg
+
+! 24.07.2020 https://yandex.ru
+yandex.ru##.sidebar-view__panel-spacer
+yandex.ru##.rdu__bbcbebbebfdef
+yandex.ru##.co__beaffadbbbacedcf
+yandex.ru##.zcbag__acaaf
+yandex.ru##.zm__fbafcaac
+yandex.ru##.zzy__dfcaaeacaaf
+yandex.ru##.boe__abcbeaafccddbf
+yandex.ru##.pmr__acceabbbefcffbf
+yandex.ru##.vujce__aabafdadecea
+yandex.ru##.ir__bacdadaeffbbb
+yandex.ru##.il__bbbecfcf
+yandex.ru##.umdwo__feabffabaf
+yandex.ru##.qqcb__bfdbadfdb
+yandex.ru##.v__eeafdaaeeed
+yandex.ru##.rmi__ccababebee
+yandex.ru##.us__dcdbefffadcdf
+yandex.ru##.b__bcebb
+yandex.ru##.a__eeacaeaffbee
+yandex.ru##.pqg__bebfebff
+yandex.ru##.w__fcbdfaeea
+yandex.ru##.iz__acadedddadcdcaaf
+yandex.ru##.ldk__cdedaeaeadeea
+yandex.ru##.q__cccabafcee
+yandex.ru##.ah__baebdcebbacfbc
+yandex.ru##.jicqy__eddcbbaefadb
+yandex.ru##.suub__babfaefdaaaddedffb
+yandex.ru##.nkhcv__abbcdbccadbb
+yandex.ru##.bkfo__deccaaacfc
+yandex.ru##.wbp__fcfdcfcf
+yandex.ru##.zkl__ffebbcebdaddc
+yandex.ru##.dtrq__ecbeadae
+yandex.ru##.r__ebaebaaffbbda
+yandex.ru##.c__cafccdadffdebc
+yandex.ru##.iclmk__cbfbaddecbbebece
+yandex.ru##.mstb__ecfeddabedbcfdbe
+yandex.ru##.brqqk__ebcfbfffe
+yandex.ru##.fjqzp__fddafbddbb
+yandex.ru##.um__dfcfccbadc
+yandex.ru##.ex__cecabcddbfcae
+yandex.ru##.gpe__cffabdfbfcbdcce
+yandex.ru##.upx__beabbcf
+yandex.ru##.o__eefeabedfdefe
+yandex.ru##.eoi__fcaecccccfbabdaf
+yandex.ru##.ggrd__fbeffaeedfcae
+yandex.ru##.k__bfcecbbabfbcaaa
+yandex.ru##.ohyg__abdcccdaeabd
+yandex.ru##.ie__aafeababbbddbd
+yandex.ru##.vpl__bdeadaeaae
+yandex.ru##.wae__caacaebffd
+yandex.ru##.bt__acedbfccfadbc
+yandex.ru##.eqvdm__eeabcebdad
+yandex.ru##.hfnca__affadbacd
+yandex.ru##.havwg__acdaaeedbae
+yandex.ru##.ylvwh__aaeaefdef
+yandex.ru##.pn__cbeaecacfbdb
+yandex.ru##.cvf__aabacaecbc
+yandex.ru##.lzjxa__acaddbfcec
+yandex.ru##.xio__dcceefdacba
+yandex.ru##.ojsk__acecbacdeccc
+yandex.ru##.r__fdcbacdfbcda
+yandex.ru##.v__ddfccedeead
+yandex.ru##.dfm__aaddadbaaeccb
+yandex.ru##.mh__dbeccbdbaabde
+yandex.ru##.zq__dcffccadccccc
+yandex.ru##.ngcu__edeaaaceb
+yandex.ru##.dtv__acaadccfbcd
+yandex.ru##.oydp__aeeffaddbc
+yandex.ru##.q__defeaabaefcca
+yandex.ru##.gndj__becaceecbdbedf
+yandex.ru##.n__caddecae
+yandex.ru##.wuyek__cbffbbeaf
+yandex.ru##.yy__bcecdbdbed
+yandex.ru##.qo__defebeafbbcecfc
+yandex.ru##.ml__ddfcaffbaeabcea
+yandex.ru##.dvm__bcceaabfeebaecfc
+yandex.ru##.uupgz__dfeabceec
+yandex.ru##.wgqr__fadbddfcdfed
+yandex.ru##.ztu__bbfebabadeb
+yandex.ru##.usz__feecadacebfbbd
+yandex.ru##.o__cffbbbfacdbe
+yandex.ru##.m__facacfcbcbbdbef
+yandex.ru##.ucymt__babefeddebd
+yandex.ru##.tbym__facbbaeacedfc
+yandex.ru##.nslq__bacbeeffcced
+yandex.ru##.jakq__ebfdcacabfacfbd
+yandex.ru##.iomd__ddeccfefcdfbde
+yandex.ru##.wgysb__fffaecbfcbfedf
+yandex.ru##.u__aafcadddbfcbc
+yandex.ru##.x__dbdccceabbcaead
+yandex.ru##.nrb__dacadabbbaeeeb
+yandex.ru##.rhapa__aafbfebfecfcffef
+yandex.ru##.zhgc__bafdfdeeaf
+yandex.ru##.sra__febaceefbadffeabe
+yandex.ru##.skfpd__dbccdccbbe
+yandex.ru##.dpw__bbfeacfdbebbd
+yandex.ru##.ee__fafdcdddadcfc
+yandex.ru##.suhf__ffdfbbedcb
+yandex.ru##.l__eddccebcfebeeb
+yandex.ru##.hs__fabdacfcebbedce
+yandex.ru##.wpb__efbedbabdcbcbcd
+yandex.ru##.v__fccdefde
+yandex.ru##.iuru__daeebedcc
+yandex.ru##.ej__abcbaddabaafcbb
+yandex.ru##.rys__ecfddbbbbedcaa
+yandex.ru##.ef__ddacaadfcc
+yandex.ru##.r__efafcebebb
+yandex.ru##.lszc__aadcfbfceaafefe
+yandex.ru##.cm__fecacfacadfdfbbb
+yandex.ru##.gkwt__fcccebdbbf
+yandex.ru##.bxu__ecabebccaafc
+yandex.ru##.rpsxc__eabbcbeadebf
+yandex.ru##.bt__edbaafeaeec
+yandex.ru##.zqoo__fefcafaecaf
+yandex.ru##.vrm__edfaafadacb
+yandex.ru##.lehi__edeafbbffcc
+yandex.ru##.q__afacdcffbdeccbeaf
+yandex.ru##.hpb__bdfdcafcfcfa
+yandex.ru##.boex__fdccbdc
+yandex.ru##.gcsq__efadbbbeaecbddb
+yandex.ru##.zi__efbaabcc
+yandex.ru##.w__bfbeabcadaaece
+yandex.ru##.njyl__cabfdbfedefccdaa
+yandex.ru##.hjjkq__cbaebce
+yandex.ru##.ql__cdceddebde
+yandex.ru##.tengj__aabcdffceef
+yandex.ru##.ztdi__fcbfbdbfdcaf
+yandex.ru##.x__caefafafef
+yandex.ru##.sutvk__dafefdabefcaeebd
+yandex.ru##.ijw__bccecdedeee
+yandex.ru##.xma__ecefafedc
+yandex.ru##.glso__adefdecbbeeef
+yandex.ru##.msyq__beebefcbdf
+yandex.ru##.zy__fcadfbedbdecda
+yandex.ru##.eqs__acadbecdefb
+yandex.ru##.zif__cefdfabae
+yandex.ru##.tt__adfdccfadccc
+yandex.ru##.w__aeaaeeacdafeaa
+yandex.ru##.gekdi__dffbdadedbba
+yandex.ru##.fml__cefbcbbbecaab
+yandex.ru##.uz__abfbdfdbbfbcddd
+yandex.ru##.ne__afedbc
+yandex.ru##.zyaj__fcaafbbefeaecf
+yandex.ru##.l__abdbdbeabcaf
+yandex.ru##.c__cadbebeabbdea
+yandex.ru##.lkad__bdebbf
+yandex.ru##.jnyib__fafcadabbeeefecef
+yandex.ru##.xvrh__cdeebdbfeaceecbeb
+yandex.ru##.iea__dffedcaddcb
+yandex.ru##.zj__aabfaadeaedcdb
+yandex.ru##.dije__eaccaeebeaa
+yandex.ru##.eep__efcaebcbabea
+yandex.ru##.vagx__bddabeafcfaabd
+yandex.ru##.d__debedbbdacc
+yandex.ru##.zi__ebaddcd
+yandex.ru##.v__ecfcdabbecfdaca
+yandex.ru##.tf__efdfdbebccee
+yandex.ru##.bv__cfcbaefd
+yandex.ru##.tlokv__bdaecbafebfda
+yandex.ru##.bfl__eecdfcfccfaecd
+yandex.ru##.c__fafdcabfbeafcbfbb
+yandex.ru##.ns__ebcdceaecabeedf
+yandex.ru##.e__affbbdd
+yandex.ru##.sgw__dcacca
+yandex.ru##.xlnmr__eefafdecbacdadf
+yandex.ru##.t__ffdfcfaeadefaaeafebf
+yandex.ru##.bd__bcbdeebffeebabec
+yandex.ru##.xk__abffcacfed
+yandex.ru##.xkd__acafbfbadc
+yandex.ru##.h__cfcbfbdfbae
+yandex.ru##.vg__dbadfebafe
+yandex.ru##.jqb__bfcdaadbbcc
+yandex.ru##.wy__bfefbeaeaaccbcce
+yandex.ru##.p__ecfcabeafce
+yandex.ru##.l__adedcaceebadebd
+yandex.ru##.f__eafbacdaadfacdb
+yandex.ru##.us__abbbaceeddbcdcbbb
+yandex.ru##.qkphn__deeafbfd
+yandex.ru##.efxn__dcafaaccdae
+yandex.ru##.y__eeefbcbddbeba
+yandex.ru##.xrxli__fecdacbdbdf
+yandex.ru##.rv__fbcfeebd
+yandex.ru##.gaqc__aacffbbebcdf
+yandex.ru##.dzgxw__aecbbccea
+yandex.ru##.xfokj__bdecfabbeaafbeb
+yandex.ru##.zilhd__ddfddecfbcdbdb
+yandex.ru##.lb__dbdbaeebcc
+yandex.ru##.npq__eaecbfbafc
+yandex.ru##.lf__aebeadfbcfc
+yandex.ru##.qwpz__dabccbff
+yandex.ru##.h__eadbefaa
+yandex.ru##.yhnvu__afabfcaecccde
+yandex.ru##.blndw__fbefdcebf
+yandex.ru##.pu__eecdcabe
+yandex.ru##.x__decafbedcdb
+yandex.ru##.zvsy__bfedabaebeefdfd
+yandex.ru##.um__deebebca
+yandex.ru##.ysiu__cdbeae
+yandex.ru##.witji__ffddcbaddfbd
+yandex.ru##.wr__ebaecabaebed
+yandex.ru##a.user-menu-item-view:nth-of-type(7)
+yandex.ru##.wzqj__faeadccfcfaade
+yandex.ru##.mwoeh__fcbfdabace
+yandex.ru##.y__dfacafafec
+yandex.ru##.bhrvw__bebcdeddadaacb
+yandex.ru##.j__ddbfbaeeea
+yandex.ru##.qilq__cecaebccaedf
+yandex.ru##.iwpf__dedeebfaafeaaded
+yandex.ru##.vhpdu__effddbfcdeacbe
+yandex.ru##.majkr__ebefaeebbe
+yandex.ru##.qbfgb__eafdc
+yandex.ru##.pf__efdbacbfacad
+yandex.ru##.distr-smartbanner_js_inited.i-dbn-cookie_js_inited.i-bem.i-dbn-cookie.distr-smartbanner_type_features.distr-smartbanner_size_m.distr-smartbanner
+yandex.ru##.i__becbaffafaeebfdc
+yandex.ru##.ilm__daceeffabdaacde
+yandex.ru##.fza__adbafadddfcdaecdf
+yandex.ru##.zaiso__dbebdddcdbaab
+yandex.ru##.r__bbdfafffbfffeadddfdc
+yandex.ru##.loxdq__edfebcadedddf
+yandex.ru##.iwpbn__aeeceefed
+yandex.ru##.gf__bbcbacbcf
+yandex.ru##.xd__bfaedcfccaa
+yandex.ru##.t__cdaafabfeefc
+yandex.ru##.tr__eebdffccbbaaf
+yandex.ru##.fkm__eaafbbbeddeb
+yandex.ru##.ys__bcaabbeebacaca
+yandex.ru##.akae__feafdcebfb
+yandex.ru##.q__ffcaaebccdbce
+yandex.ru##.drwb__aaacddfbe
+yandex.ru##.a__fdbcabdad
+yandex.ru##.qebbm__bdeabcbab
+yandex.ru##.scroll-spy_js_inited.serp-footer_js_inited.serp_js_inited.i-bem.serp.flex-none.scroll-spy.serp-footer_type_distro.serp-footer
+yandex.ru##.region-change
+yandex.ru##.competitors
+yandex.ru##.distr-promo-block_js_inited.i-bem.distr-promo-head__content.card__divided.distr-promo-block_dark_yes.distr-promo-block_theme_features.distr-promo-block
+yandex.ru##.distr-smartbanner_js_inited.i-dbn-cookie_js_inited.i-bem.i-dbn-cookie.distr-smartbanner_type_default.distr-smartbanner_size_m.distr-smartbanner
+yandex.ru##.BlogPost-Buttons
+yandex.ru##div.scroller__item.grid__col_width_3.grid__col_mode_static.grid__col.showcase__item_optimized_yes.showcase__item:nth-of-type(1) > .i-bem.overlay__ajax-handler.clearfix.showcase__link.link_theme_normal.link > .i-bem.showcase__item-thumb.poster > .poster__top-right > .favorite-client_js_inited.favorite-connector_js_inited.favorite-button_js_inited.i-bem.favorite-client.favorite-connector.favorite-button_theme_white.favorite-button > .i-bem.favorite-button__button.button2_view_classic.button2_theme_clean.button2_size_s.button2
+
+! 24.07.2020 https://m.vk.com
+m.vk.com##.Row.Pad__header
+m.vk.com##.ServicesBar__leftPart > .ServicesBar__app
+m.vk.com##.ServicesBar__wrapper
+m.vk.com##.Slider__line
+m.vk.com##div.basisDefault__row:nth-of-type(5) > .Separator
+m.vk.com##div.basisDefault__row:nth-of-type(4) > .Separator
+m.vk.com##div.basisDefault__row:nth-of-type(5) > .Pad_theme_gray.Pad_style_extraTopPadding.Pad.MainMenu__menu > a.Row.al_menu.MainMenu__menuItem:nth-of-type(3)
+
+! 24.07.2020 https://mail.yandex.ru
+mail.yandex.ru##.promoPanel-content
+mail.yandex.ru##.leftPanel-touchVersion
+mail.yandex.ru##.leftPanel-group_labels.leftPanel-group
+mail.yandex.ru##div:nth-of-type(2) > .leftPanel-group > a.leftPanelItem-link:nth-of-type(2) > .leftPanel-item > .leftPanelItem-icon
+mail.yandex.ru##div:nth-of-type(2) > .leftPanel-group > a.leftPanelItem-link:nth-of-type(2)
+
+! 24.07.2020 https://translate.yandex.ru
+translate.yandex.ru##.icon_type_collections.icon_left.icon
+translate.yandex.ru##.social-link_fb.social-link
+translate.yandex.ru##.social-link_tw.social-link
+translate.yandex.ru##.install.landing_button
+
+! 24.07.2020 https://mail.yandex.ru
+mail.yandex.ru##.ico_embedded.ico_withFading.ico_calendar-app.ico > use
+
+! 24.07.2020 https://aliexpress.ru
+aliexpress.ru###user-benefits
+aliexpress.ru##.advertise-main
+aliexpress.ru##.festival-sub-venue > div
+aliexpress.ru##.festival-main-venue
+
+! 24.07.2020 https://m.aliexpress.ru
+m.aliexpress.ru##.smb-dialog-btn__ok.smb-dialog-btn--fullfil.smb-dialog-btn
+m.aliexpress.ru##.smb-dialog-btn__no.smb-dialog-btn
+m.aliexpress.ru##.smb-dialog-content
+m.aliexpress.ru##.smb-dialog-title
+||ae01.alicdn.com/kf/H1289a68594544dfd8c9c87811c49b93c8.png_.webp$image
+m.aliexpress.ru##.smb-banner__content
+m.aliexpress.ru##.smb-banner__main
+
+! 24.07.2020 https://cloud.mail.ru
+cloud.mail.ru##div.b-nav__group:nth-of-type(4) > .b-nav__group__name > .js-href.b-nav__item_group-name.b-nav__item
+
+! 24.07.2020 https://4pda.ru
+||s.4pda.to/dry7Ndn2mF9V3629LvVz0OVu2aFk4.jpg?_=1595010564$image
+
+! 24.07.2020 https://sourceforge.net
+||www.google.com/recaptcha/api2/anchor?ar=1&k=6LeVgCEUAAAAACtawUTrPTBy0mTrGtjpPn_Xh-ZW&co=aHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQ6NDQz&hl=ru&v=r8WWNwsCvXtk22_oRSVCCZx9&size=invisible&badge=bottomleft&cb=1mrwny6c5wqq$subdocument
+sourceforge.net##.grecaptcha-badge
+
+! 24.07.2020 https://docviewer.yandex.ru
+docviewer.yandex.ru##.wtzxx.jhgzabdww.ofelmy > vvqcl-furxwwzas
+docviewer.yandex.ru##.jkmojhzsa.daydi.ofelmy > vvqcl-furxwwzas
+docviewer.yandex.ru##.njeqgrwmo.tjentze.fpirtz > riq-feaveyxvv
+docviewer.yandex.ru##.eabef.wewdioy.fpirtz > riq-feaveyxvv
+docviewer.yandex.ru##.qfejc.vchxsyawb.xdurgbv > nh-ielfgdvnc
+docviewer.yandex.ru##.oejtcyd.ywnioho.xdurgbv > nh-ielfgdvnc
+
+! 24.07.2020 https://www.canon.ru
+www.canon.ru##.cookie-bar--active.canon-bg--grey-light.cookie-bar--bottom.cookie-bar.flex-global-style__old-template
+
+! 24.07.2020 https://docviewer.yandex.ru
+docviewer.yandex.ru##.xuvthbea.pbulyudxl.iddeqy > kxmh-kegzip
+docviewer.yandex.ru##.cjlyuqfuv.dhzczssv.iddeqy > kxmh-kegzip
+docviewer.yandex.ru##.tpkkiwrt.asvzbkouu.tqpnfq > qwssvkne-ujhljsqm
+docviewer.yandex.ru##.yjgwuypzi.lpeihf.tqpnfq > qwssvkne-ujhljsqm
+docviewer.yandex.ru##.cqbwnc.arxics.bkbsqphst > wslfdksawr-pvtajwgg
+docviewer.yandex.ru##.tcouflmgu.rxxezrk.bkbsqphst > wslfdksawr-pvtajwgg
+docviewer.yandex.ru##.anrhjssuw.pwkjit.kazwzvq > ebsxdca-xfrk
+docviewer.yandex.ru##.baavxk.fvzcnp.kazwzvq > ebsxdca-xfrk
+
+! 26.07.2020 https://icon-icons.com
+icon-icons.com##.col-md-4
+
+! 27.07.2020 https://online-comics.ru
+online-comics.ru###clearfy-cookie
+
+! 27.07.2020 https://docviewer.yandex.ru
+docviewer.yandex.ru##.odacx.wtpljefgi.rmcqlqpo > xuke-ircwdtjay
+docviewer.yandex.ru##.jjyyzvx.byzje.rmcqlqpo > xuke-ircwdtjay
+docviewer.yandex.ru##.jqxdgow.hhzorg.tjgbbyl > esqphamqx-vl
+docviewer.yandex.ru##.pvhslz.fbskotza.tjgbbyl > esqphamqx-vl
+
+! 27.07.2020 https://zen.yandex.ru
+zen.yandex.ru##._c2a-view-type_action._size_l.ui-lib-call-to-action-bar__background
+zen.yandex.ru##._c2a-view-type_action._size_l.ui-lib-call-to-action-bar__channel-name
+zen.yandex.ru##._width-type_regular._is-transition-enabled._view-type_rounded-yellow._size_new-xl.ui-lib-button > .ui-lib-button__content-wrapper
+zen.yandex.ru##._width-type_regular._is-transition-enabled._view-type_rounded-yellow._size_new-xl.ui-lib-button
+zen.yandex.ru##._c2a-view-type_action._size_l.ui-lib-call-to-action-bar__container
+zen.yandex.ru##.article_fifth-design.article_article-ad.article > .article__content_new-layout.article__content > .article__right_new-layout.article__right
+zen.yandex.ru##.article__ad-atricle-v5-bottom-control
+zen.yandex.ru##.article_fifth-design.article_article-ad.article > .article__content_new-layout.article__content
+zen.yandex.ru##.article_fifth-design.article_article-ad.article
+
+! 27.07.2020 https://mmo13.ru
+mmo13.ru##.youtube.promo
+
+! 27.07.2020 https://zen.yandex.ru
+zen.yandex.ru##.article-scroll-to-site-design-9
+zen.yandex.ru##._width-type_regular._is-transition-enabled._view-type_yellow._size_xxl.ui-lib-button
+
+! 27.07.2020 https://docviewer.yandex.ru
+docviewer.yandex.ru##.fhnukxvne.kfpbedyt.zlasabsh > qfx-tw
+docviewer.yandex.ru##.hkzzokmj.wyont.zlasabsh > qfx-tw
+
+! 01.08.2020 http://mrnone.blogspot.com
+mrnone.blogspot.com###cookieChoiceInfo
+
+! 01.08.2020 https://cloud.mail.ru
+cloud.mail.ru##.portal-footer_portal-footer.portal-footer
+cloud.mail.ru##.footer__wrapper
+cloud.mail.ru##.footer__push
+
+! 01.08.2020 https://4pda.ru
+||s.4pda.to/dry7Ky5pfDKqD26qXVhz0PHWY87RjZihDZDv6Ez2hq4b0ohez0fbTRqpBaL.jpg$image
+
+! 02.08.2020 https://portapps.io
+portapps.io##.cc-color-override-1885746317.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+
+! 02.08.2020 https://forum.xda-developers.com
+forum.xda-developers.com###edit63413895 > div:nth-of-type(5)
+
+! 02.08.2020 https://soft.mydiv.net
+soft.mydiv.net##td:nth-of-type(3)
+||mydiv.net/build/public/images/899f5a7bdf5828c2d069802285050aca.png$image
+soft.mydiv.net##.index-social-button_type_facebook.index-social-button
+||mydiv.net/build/public/images/899f5a7bdf5828c2d069802285050aca.png$image
+soft.mydiv.net##.index-social-button_type_twitter.index-social-button
+
+! 02.08.2020 https://exelab.ru
+||exelab.ru/images/videokurs_16_window.png$image
+exelab.ru###kurs_txt > center
+exelab.ru###kurs_txt
+exelab.ru###kurs_container
+
+! 03.08.2020 https://4pda.ru
+||s.4pda.to/dry7Ndn2mFvz1mOHdUBYuHei0X6vW.jpg?_=1596441073$image
+
+! 04.08.2020 http://rutor.info
+rutor.info##[href="/advertise.php"]
+
+! 04.08.2020 http://hack-port.ru
+hack-port.ru##td > center:nth-of-type(2) > table
+hack-port.ru##.contentdiv
+hack-port.ru##table:nth-of-type(2) > tbody > tr > td:nth-of-type(4)
+
+! 04.08.2020 https://fex.net
+||www.google.com/recaptcha/api2/anchor?ar=1&k=6LfNLaMUAAAAACEgm8exvkblfmTn4Tpwr2lOB8cz&co=aHR0cHM6Ly9mZXgubmV0OjQ0Mw..&hl=ru&v=IU7gZ7o6RDdDE6U4Y1YJJWnN&size=invisible&cb=7y2hzn1wqq76$subdocument
+fex.net##.grecaptcha-badge
+
+! 04.08.2020 https://youla.ru
+youla.ru##a.dHRelH.sc-kehdeE.hWiZqg.sc-fznBtT:nth-of-type(2)
+youla.ru##.biNzGn.sc-pAncQ > li.jfONyh.sc-pIjat:nth-of-type(3) > .hlyzWq.sc-pQdCa.sc-fzqARJ > .kRPxKC.sc-pITNg.sc-pAyMl
+youla.ru##.biNzGn.sc-pAncQ > li.jfONyh.sc-pIjat:nth-of-type(4) > .hlyzWq.sc-pQdCa.sc-fzqARJ > .jSBHbr.sc-qXHHN.sc-qPLKk
+youla.ru##div.cLiMkX.sc-jNeAlz.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(8) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(2) > .PddyA.sc-pkSdh.sc-oTPCg
+youla.ru##div.cLiMkX.sc-jNeAlz.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(8) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(2)
+youla.ru##div.cLiMkX.sc-jNeAlz.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(5) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(3) > .PddyA.sc-pkSdh.sc-oTPCg
+youla.ru##div.cLiMkX.sc-jNeAlz.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(5) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(3)
+
+! 04.08.2020 https://zen.yandex.ru
+zen.yandex.ru##.article-right-suggested-publications-wrapper__margin-block
+zen.yandex.ru##.featuring-promo-card__info
+zen.yandex.ru##.featuring-promo-card__header
+zen.yandex.ru##.featuring-promo-card__content
+||avatars.mds.yandex.net/get-zen-logos/1597769/featuring_5ecf9e80a636ba66a937a71a_5ecf9e80a636ba66a937a71b/434x425$image
+zen.yandex.ru##.featuring-promo-card__background > .blur-image > .blur-image__wrap > ._is-loaded._mode_bci.blur-image__image
+zen.yandex.ru##.featuring-promo-card__background > .blur-image > .blur-image__wrap > div:nth-of-type(1) > ._mode_bci.blur-image__preview
+zen.yandex.ru##.featuring-promo-card__background > .blur-image > .blur-image__wrap
+zen.yandex.ru##.featuring-promo-card__background > .blur-image
+zen.yandex.ru##.featuring-promo-card__background
+zen.yandex.ru##.featuring-promo-card
+zen.yandex.ru###\31
+zen.yandex.ru##div.feed__row:nth-of-type(10) > div._size_small.feed__item-wrap:nth-of-type(2)
+zen.yandex.ru###\31 _1
+zen.yandex.ru##div.feed__row:nth-of-type(37) > div._size_small.feed__item-wrap:nth-of-type(1)
+
+! 06.08.2020 https://www.flaticon.com
+||media.flaticon.com/dist/assets/dccc814adf3f1267219e0ffddba97cdb.jpg$image
+www.flaticon.com###notification-cart
+
+! 07.08.2020 https://yandex.ru
+yandex.ru##.obZRj15VaH2m2iEv3jPM
+yandex.ru##.oZIhsx4ZrAlKRpRI.obZRj15VaH2m2m0bm.card
+yandex.ru##.r9f7b1fea.mda57b1a.q190b1270.s428cfe30.ia25f00ab
+yandex.ru##a.link_js_inited.oZ9Zvxp0.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru###aqkaagg
+yandex.ru###zrehpy
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.oZ9Zvxp0.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru###rbupnfi
+yandex.ru##.obZdkzpFADhuKm071iuMtXBXtkWpKcWIfIpFH_9AObkw0rEZV
+yandex.ru##.ob597_IRNG1O2nkvigeQ4.ob597_IBbGGmElUzkjKouQUz6kWk.ob597
+
+! 10.08.2020 https://www.softportal.com
+www.softportal.com###cookie_wrapper
+
+! 10.08.2020 https://trade.aliexpress.ru
+trade.aliexpress.ru##.col-xs-48 > div:nth-of-type(1)
+trade.aliexpress.ru##.mobile-app.me-ui-box
+
+! 11.08.2020 https://docviewer.yandex.ru
+docviewer.yandex.ru##fkgkahkwl-vwwkvofz
+
+! 14.08.2020 https://docviewer.yandex.ru
+docviewer.yandex.ru##.nlvlqp.tiexav.boawbreoq > hiitglsg-kyodoo
+docviewer.yandex.ru##.buchjprsx.uwfpvzyw.boawbreoq > hiitglsg-kyodoo
+
+! 14.08.2020 https://wallpaperscraft.ru
+wallpaperscraft.ru##.JS-Fix-fixed.JS-Fix-Target > .app > .app__list > li.app__item:nth-of-type(2)
+||wallpaperscraft.ru/public/img/general/icons/app.svg$image
+
+! 14.08.2020 https://megasensor.com
+megasensor.com###catapult-cookie-bar
+||www.google.com/recaptcha/api2/anchor?ar=1&k=6LfldrkUAAAAAAn4AtLUZmMXRhd2carfSz0TcC-g&co=aHR0cHM6Ly9tZWdhc2Vuc29yLmNvbTo0NDM.&hl=ru&v=TPiWapjoyMdQOtxLT9_b4n2W&size=invisible&cb=ilzd3pn40nux$subdocument
+megasensor.com##.grecaptcha-badge
+||megasensor.com/wp/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_twitter.png$image
+megasensor.com###sfsi-widget-7 > .sfsi_widget > .sfsi_wDiv.norm_row > div.shuffeldiv.sfsi_wicons:nth-of-type(2)
+||megasensor.com/wp/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png$image
+megasensor.com###sfsi-widget-7 > .sfsi_widget > .sfsi_wDiv.norm_row > div.shuffeldiv.sfsi_wicons:nth-of-type(1)
+megasensor.com###sfsi-widget-5 > .sfsi_widget > .sfsi_wDiv.norm_row > div.shuffeldiv.sfsi_wicons:nth-of-type(1)
+megasensor.com###sfsi-widget-5 > .sfsi_widget > .sfsi_wDiv.norm_row > div.shuffeldiv.sfsi_wicons:nth-of-type(2)
+megasensor.com##.top-footer
+
+! 14.08.2020 https://www.remove.bg
+www.remove.bg##.buorg-pad
+www.remove.bg##.pr-4.px-md-2.p-1.position-absolute.align-items-center.d-flex
+www.remove.bg##.cookies-alert.text-left.alert-dismissable.alert-warning.alert
+www.remove.bg###buorg
+
+! 15.08.2020 https://kizi.com
+kizi.com##.ot-sdk-container > .ot-sdk-row
+
+! 15.08.2020 https://fireboyand-watergirl.co
+fireboyand-watergirl.co##div.show.bottom-left.cookieBubble:nth-of-type(9) > .cb-wrapper
+fireboyand-watergirl.co##div.show.bottom-left.cookieBubble:nth-of-type(9)
+fireboyand-watergirl.co##div.show.bottom-left.cookieBubble:nth-of-type(4) > .cb-wrapper
+fireboyand-watergirl.co##div.show.bottom-left.cookieBubble:nth-of-type(4)
+
+! 15.08.2020 https://www.izzygames.com
+www.izzygames.com###CybotCookiebotDialog
+
+! 15.08.2020 http://www.fatalgame.com
+||www.fatalgame.com/content/images/scorpion-subzero.jpg$image
+www.fatalgame.com##.banner-battle
+www.fatalgame.com##td > noindex
+www.fatalgame.com##.content-main > noindex
+
+! 15.08.2020 http://full-and-freegamesdownloadswf.blogspot.com
+full-and-freegamesdownloadswf.blogspot.com###cookieChoiceInfo
+
+! 15.08.2020 http://www.softwareok.com
+www.softwareok.com###cookiebar
+
+! 17.08.2020 https://rsload.net
+rsload.net##div.side-box:nth-of-type(2) > .side-bc
+rsload.net##div.side-box:nth-of-type(2) > .icon-l.side-bt
+||rsload.net/images5/icon85782745r.png$image
+
+! 17.08.2020 https://www.softslot.com
+www.softslot.com##.software > div:nth-of-type(5)
+
+! 17.08.2020 https://www.dll.ru
+www.dll.ru##.cc-color-override-446793004.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+||www.google.com/recaptcha/api2/anchor?ar=1&k=6LcvOcUUAAAAAOkIP__QAM4wU6alMa8c4WWODH0R&co=aHR0cHM6Ly93d3cuZGxsLnJ1OjQ0Mw..&hl=ru&v=TPiWapjoyMdQOtxLT9_b4n2W&size=invisible&cb=m4rpvxgqa9jx$subdocument
+www.dll.ru##.grecaptcha-badge
+
+! 17.08.2020 https://losst.ru
+||losst.ru/wp-content/uploads/2020/07/DevOps_336h280.gif.gif$image
+
+! 17.08.2020 https://pingvinus.ru
+||pingvinus.ru/themes/pingvinus3/images/i/twitter.png$image
+pingvinus.ru##.menu > .subscribers > li:nth-of-type(5) > [href="#"]
+
+! 17.08.2020 https://yandex.ru
+yandex.ru##a.services-new__item.home-link:nth-of-type(8)
+
+! 17.08.2020 https://docviewer.yandex.ru
+docviewer.yandex.ru##.ihijf.kgiqwntav.iyxmza > pbzk-qzlyt
+docviewer.yandex.ru##.ddtju.mnfsdy.iyxmza > pbzk-qzlyt
+
+! 17.08.2020 https://convertio.co
+convertio.co##.chrome-app
+
+! 17.08.2020 https://upread.ru
+upread.ru###kuk
+
+! 18.08.2020 https://crackwatch.com
+crackwatch.com##.announcement
+
+! 18.08.2020 https://wp-seven.ru
+wp-seven.ru##[href="/advertisement"]
+
+! 18.08.2020 https://dictation.io
+dictation.io##.cc-color-override-1827372716.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2020-08-18 https://skeitol.ru
+skeitol.ru##.left-con-block > .text-center
+skeitol.ru##.right-con > .selector.small-block
+
+! 2020-08-18 https://alexbruni.ru
+alexbruni.ru##[href="https://bit.ly/aplaycas"]
+alexbruni.ru##td > table > tbody > tr > td:nth-of-type(2)
+alexbruni.ru##td > table > tbody > tr > td:nth-of-type(1)
+
+! 2020-08-18 https://zen.yandex.ru
+zen.yandex.ru##.article-right-ad-block__main
+
+! 2020-08-19 https://uploadrar.com
+uploadrar.com###gdpr-cookie-notice
+
+! 2020-08-20 https://docviewer.yandex.ru
+docviewer.yandex.ru##.qtxehgmnf.joothgk.kfngrky > uqdbcleza-ut
+docviewer.yandex.ru##.exyid.wuqrvaxw.kfngrky > uqdbcleza-ut
+
+! 2020-08-23 https://4pda.ru
+||s.4pda.to/dry7Ndn2mFvz1mOHdUBYuHei0X6vW.jpg?_=1597821619$image
+||s.4pda.to/dry7UiVIypv42mC8x0ORaCuz1nz2l4keu24V60.jpg$image
+4pda.ru##div.post:nth-of-type(13) > .BI3E5cnB
+
+! 2020-08-23 https://market.yandex.ru
+market.yandex.ru##._32MQPGi7g3 > div > div > div:nth-of-type(1) > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
+market.yandex.ru##div:nth-of-type(2) > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
+market.yandex.ru##div:nth-of-type(3) > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
+market.yandex.ru##div:nth-of-type(4) > div > div > div > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
+market.yandex.ru##div:nth-of-type(2) > div > .eDeStLBs54 > .rLYRaRF5Wu > ._32MQPGi7g3
+market.yandex.ru##.kAi97Ptx1o._1ymdq-y0eR
+market.yandex.ru##div:nth-of-type(5) > div > .eDeStLBs54 > .rLYRaRF5Wu > ._32MQPGi7g3 > div > div > div > div > div > div > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
+market.yandex.ru##div:nth-of-type(5) > div > .eDeStLBs54 > .rLYRaRF5Wu > ._32MQPGi7g3
+market.yandex.ru##._2wiG-mm8qc
+market.yandex.ru##._1uYDgxImqp
+market.yandex.ru##div:nth-of-type(5) > div > div:nth-of-type(3) > div > div > div > div > div > div > div
+
+! 2020-08-23 https://www.paypal.com
+www.paypal.com###ccpaCookieBanner
+
+! 2020-08-23 https://www.xda-developers.com
+www.xda-developers.com##.hosted_by
+
+! 2020-08-23 https://userstyles.org
+userstyles.org##.android_button_banner
+userstyles.org##.NotificationLine
+userstyles.org###top_android_button
+||userstyles.org/ui/images/280x294.png$image
+userstyles.org##div.us-stylecard--short:nth-of-type(3) > .fallbackDiv
+userstyles.org##div.us-stylecard--short:nth-of-type(3)
+userstyles.org##div.us-stylecard--short:nth-of-type(5) > .fallbackDiv
+userstyles.org##div.us-stylecard--short:nth-of-type(5)
+userstyles.org##div.us-stylecard--short:nth-of-type(12) > .fallbackDiv
+
+! 2020-08-25 https://www.gog.com
+www.gog.com##.ng-scope._floating-banner
+
+! 2020-08-26 https://4pda.ru
+||s.4pda.to/dry7Ndn2mF9U13BUnZ62Oz2egW5VV.jpg?_=1598428092$image
+||s.4pda.to/dry7Kmeawfz1DKRz2wgWfbUKy2z0LKGr6AUTNT4BcPdz2r7iSI29LbtQOfH4.jpg$image
+
+! 2020-08-27 https://htmlweb.ru
+htmlweb.ru###d-top
+htmlweb.ru##[href="/reklama.php"]
