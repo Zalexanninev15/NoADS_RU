@@ -28,7 +28,7 @@
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/master/uBlockOrigin-how.gif)
 Ссылка, которую нужно вставить: https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt
 ### b) Без автообновления списка (полностью вручную)
-1. Зайдите по [этой](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt) ссылке и нажмите в люое место правой кнопкой мыши
+1. Зайдите по [этой](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt) ссылке и нажмите в любое место правой кнопкой мыши
 2. Выберите пункт "Сохранить как" и сохраните в нужное вам место
 3. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 4. Следуйте данной гифке
