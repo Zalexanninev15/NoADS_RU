@@ -1,4 +1,4 @@
-# NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt)
+# NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt) | [Подписка](https://subscribe.adblockplus.org/?location=https://github.com/Zalexanninev15/NoADS_RU/raw/master/ads_list.txt&title=NoADS_RU)
 ![](https://i.imgur.com/9yk8yUq.jpg)
 ## Описание
 Мой собственный список для блокировки элементов на сайтах. **РЕКОМЕНДУЮ ИСПОЛЬЗОВАТЬ ЕГО ВСЕМ БЕЗ ИСКЛЮЧЕНИЯ**
