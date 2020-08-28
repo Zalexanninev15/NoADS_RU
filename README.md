@@ -1,4 +1,4 @@
-# NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt) | [Файл](https://github.com/Zalexanninev15/NoADS_RU/blob/master/ads_list.txt)
+# NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt)
 ![](https://i.imgur.com/9yk8yUq.jpg)
 ## Описание
 Мой собственный список для блокировки элементов на сайтах. **РЕКОМЕНДУЮ ИСПОЛЬЗОВАТЬ ЕГО ВСЕМ БЕЗ ИСКЛЮЧЕНИЯ**
@@ -16,3 +16,9 @@
 * uBlock Origin (*1.23.0 и выше*) (***Desktop***)
 * AdGuard Content Blocker для Samsung Browser и Яндекс Браузер (*2.6.0*) (***Mobile***)
 * AdGuard Антибаннер (*3.4.31*) (***Desktop***)
+
+## Инструкция по использованию (на примере uBlock Origin)
+1. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
+2. Следуем данной гифке
+![](https://github.com/Zalexanninev15/NoADS_RU/blob/master/uBlockOrigin-how.gif)
+Ссылка, которую нужно вставить: https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt
