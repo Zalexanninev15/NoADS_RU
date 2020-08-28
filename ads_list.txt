@@ -4304,3 +4304,71 @@ tproger.ru##.icon-twitter.social-footer-a
 
 ! 2020-08-28 https://www.youtube.com
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
+
+! 2020-08-28 https://www.hwinfo.com
+www.hwinfo.com##.cookie-agree-with-use
+
+! 2020-08-28 https://www.lansweeper.com
+www.lansweeper.com###CybotCookiebotDialog
+
+! 2020-08-28 https://www.fosshub.com
+www.fosshub.com##.cc-color-override--1985164196.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2020-08-28 https://4pda.ru
+||s.4pda.to/dry7Nd1W4Ta3Ik6ZKQ9Q49Vz1Y0M8.jpg?_=1598474839$image
+
+! 2020-08-28 https://aliexpress.ru
+||ae01.alicdn.com/kf/Hd7f7e319ecf349849caa3538f3b1f118v.jpg$image
+aliexpress.ru##.store-header-bg
+
+! 2020-08-28 https://meduza.io
+meduza.io##.GDPRPanel-root
+meduza.io##.GeneralMaterial-aside
+meduza.io##.Footer-apps.Footer-group
+
+! 2020-08-28 https://disk.yandex.ru
+disk.yandex.ru##.b2b-banner__right-block
+||yastatic.net/disk/_/_eEFEoMHLt9endCaa5MHNJLozQbS.svg$image
+disk.yandex.ru##.promo-banner
+
+! 2020-08-28 https://yandex.ru
+yandex.ru##.unScbwlx5aZaKQYcFxxo
+yandex.ru##.if9d6730.pc7be36c0.lca72c12a.fec3f1e6a.r58cd031
+yandex.ru##.ulDsU0k9I5KStbN4.unScbwlx5aZaKUooU.card
+yandex.ru##.link_js_inited.ul2UX01Q.links-section__link.link_theme_normal.link
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.ul2UX01Q.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.unSQc21hj6O22UoIHwQpf_1G9ooUQCi7QQuz0ak6tIzgxcKId
+yandex.ru###ikbpipqz
+yandex.ru##.unywD6U1u_aWKV4cQyg1K.unywD6Ul4_pa4XIAWx0Nc4giqooY.unywD
+
+! 2020-08-28 https://calendar.yandex.ru
+calendar.yandex.ru##div.AsideFooter__footerLink--1mr5I:nth-of-type(2)
+
+! 2020-08-28 https://yandex.ru
+yandex.ru##.uiS0UwlFy_a24Up4R8DFf6SOopJgNCSvbeOfO1g.uiS0UwlFy_a24Up4R8DFf6Q.uiS0UwlFy_a24Up4R__loyier-exsist
+
+! 2020-08-28 https://afisha.yandex.ru
+afisha.yandex.ru##.d_qRMnBhrrKjGA6aK5M37JBV7Mc3l7cs.d_qRMnBhrrKjGA6aK5A_tld_ru.d_qRMnBhrrKjGA6aK5A
+afisha.yandex.ru##.d_qRMnBhrrKjGA6aK5M37JBV7Mc3l7cs.d7bdHnRlprKjGA6aK5A.d_qRMnBhrrKjGA6aK5M3kLQNjKubD4NfT9LhYqc_YJw.d_qRMnBhrrKjGA6aK5A
+
+! 2020-08-28 https://browser.yandex.ru
+browser.yandex.ru##li.footer__link:nth-of-type(4)
+
+! 2020-08-28 https://money.yandex.ru
+money.yandex.ru##.YUwMP.platforms__StyledHideTouchPhone-z6cnhr-0 > div.hsWvuB.FooterSection__StyledFooterSection-sc-20rxww-0:nth-of-type(2) > div
+||money.yandex.ru/layout-service-portal/static/icons/social-icon_clear_instagram-primary.svg$image
+money.yandex.ru##.faPGpL.SocialIcon__StyledSocialIcon-ajnc67-0
+money.yandex.ru##a.gnyfIL.FooterSocialIcons__StyledSocialIcon-sc-1mnp1hr-2:nth-of-type(2)
+||money.yandex.ru/layout-service-portal/static/icons/social-icon_clear_facebook-primary.svg$image
+money.yandex.ru##.gKSObv.SocialIcon__StyledSocialIcon-ajnc67-0
+money.yandex.ru##a.gnyfIL.FooterSocialIcons__StyledSocialIcon-sc-1mnp1hr-2:nth-of-type(1)
+||money.yandex.ru/layout-service-portal/static/icons/social-icon_clear_twitter-primary.svg$image
+money.yandex.ru##.eTqGzf.SocialIcon__StyledSocialIcon-ajnc67-0
+money.yandex.ru##a.gnyfIL.FooterSocialIcons__StyledSocialIcon-sc-1mnp1hr-2:nth-of-type(5)
+
+! 2020-08-28 https://taxi.yandex.ru
+taxi.yandex.ru##.BannerGo
+
+! 2020-08-28 https://travel.yandex.ru
+travel.yandex.ru##._25Qfa
+travel.yandex.ru##._2ahoD._2raHZ.Rn944.Link_lego._7U37p.Link_theme_normal.Link
