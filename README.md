@@ -1,4 +1,4 @@
-# NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt) | [Подписка](https://subscribe.adblockplus.org/?location=https://github.com/Zalexanninev15/NoADS_RU/raw/master/ads_list.txt&title=NoADS_RU)
+# NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt)
 ![](https://i.imgur.com/9yk8yUq.jpg)
 ## Описание
 Мой собственный список для блокировки элементов на сайтах. **РЕКОМЕНДУЮ ИСПОЛЬЗОВАТЬ ЕГО ВСЕМ БЕЗ ИСКЛЮЧЕНИЯ**
@@ -18,6 +18,9 @@
 * AdGuard Антибаннер (*3.4.31*) (***Desktop***)
 
 ## Инструкция по использованию (на примере uBlock Origin)
+### Автоматически
+Нажмите на [это](https://subscribe.adblockplus.org/?location=https://github.com/Zalexanninev15/NoADS_RU/raw/master/ads_list.txt&title=NoADS_RU) и согласитесь на добавление в плагин. **МОЖЕТ ПОТРЕБОВАТЬСЯ VPN**
+### Вручную
 1. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 2. Следуем данной гифке
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/master/uBlockOrigin-how.gif)
