@@ -19,7 +19,7 @@
 
 ## Инструкция по использованию (на примере uBlock Origin)
 ### Автоматически
-Нажмите на [это](https://subscribe.adblockplus.org/?location=https://github.com/Zalexanninev15/NoADS_RU/raw/master/ads_list.txt&title=NoADS_RU) и согласитесь на добавление в плагин (нажмите ОК на всех всплывающих сообщениях при подключении списка к плагину). **МОЖЕТ ПОТРЕБОВАТЬСЯ VPN**
+Нажмите на [это](https://subscribe.adblockplus.org/?location=https://github.com/Zalexanninev15/NoADS_RU/raw/master/ads_list.txt&title=NoADS_RU) и согласитесь на добавление в плагин (нажмите ОК на всех всплывающих сообщениях при подключении списка к плагину). **У НЕКОТОРЫХ МОЖЕТ ПОТРЕБОВАТЬСЯ VPN**
 ### Вручную
 1. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 2. Следуем данной гифке
