@@ -4230,3 +4230,77 @@ yandex.ru##.adf__ffbafccdee
 yandex.ru##.glp__fecbbbbaad
 yandex.ru##.r__edbffbdcbaeb
 yandex.ru##.ztd__fdafbfbbcf
+
+! 2020-08-27 https://www.sendspace.com
+www.sendspace.com##.cc-color-override--1608664607.cc-top.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+www.sendspace.com##li:nth-of-type(6)
+
+! 2020-08-27 https://www.osp.ru
+www.osp.ru##._3sEn7KL._1rbE-e_
+www.osp.ru##.marketing-text
+www.osp.ru##.marketing-vertical
+www.osp.ru##tbody.-Wf0b3W:nth-of-type(6) > tr > ._26FhGev._1vtSrNd
+www.osp.ru##.PZMbFiK
+
+! 2020-08-28 https://convertlive.com
+convertlive.com###sid-container
+
+! 2020-08-28 https://www.online-convert.com
+www.online-convert.com###qg-toast
+www.online-convert.com##.pt-3.pb-3.footer-divider
+www.online-convert.com##div.p-b-10:nth-of-type(3) > .p-t-10.no-padding.container
+www.online-convert.com##.no-margin.float-right.list-unstyled.social-icons
+
+! 2020-08-28 https://m.vk.com
+m.vk.com##.ni_app.notify_item
+
+! 2020-08-28 http://about-windows.ru
+about-windows.ru##.td-front-end-display-block.td-more-articles-box
+
+! 2020-08-28 https://yandex.ru
+yandex.ru##.mg-grid__col_sm_3.mg-grid__col_xs_0.mg-grid__col
+yandex.ru##div.news-app__heading.news-top-rubric-heading:nth-of-type(28)
+yandex.ru##div.news-footer__column:nth-of-type(2) > div.news-footer__item.mg-footer__item:nth-of-type(3)
+yandex.ru###u-,hdqnphzd-rvmtaxtmv
+yandex.ru##div.news-app__t9KP1Q9yh-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(9) > div.mg-grid__col_xs_4.mg-grid__col:nth-of-type(3)
+yandex.ru##div.news-app__t9KP1Q9yh-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(9)
+yandex.ru##div.news-app__heading.news-top-rubric-heading:nth-of-type(8)
+yandex.ru##div.news-app__t9KP1Q9yh-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(29) > div.mg-grid__col_xs_4.mg-grid__col:nth-of-type(3)
+yandex.ru##div.news-app__t9KP1Q9yh-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(29)
+
+! 2020-08-28 https://cloud.mail.ru
+||img.imgsmail.ru/hb/cloud-landings-static/omega-test/static/687618d4bd94e5e955d786fbb711d347151154b6/landing/cloud-web/img/cloudDrBannerSmall.png$image
+cloud.mail.ru##.js-action-banner.cloud-dr-banner
+cloud.mail.ru##.UploadDropArea__pulse--2pXrA > svg > circle
+cloud.mail.ru##.js-trashbin-marker.b-nav__marker.b-pulsar
+cloud.mail.ru##.active.visible.transition.dimmer.modals.page.ui
+
+! 2020-08-28 https://youla.ru
+youla.ru##.gnqdsa.sc-kczZbr
+youla.ru##a.iuTBfL.sc-jXaMZB.hWiZqg.sc-fznBtT:nth-of-type(2)
+youla.ru##.dSwnjw.sc-jSwCyv
+youla.ru##a.gDzKzD.sc-pTHAw.sc-fznLPX:nth-of-type(3) > .eTuTmp.sc-AxjAm
+youla.ru##.bclJUr.sc-fzoKki.sc-fzqBkg.sc-fzolEj > .gmIFFO.sc-pAncQ > li.jfONyh.sc-pIjat:nth-of-type(4) > .hlyzWq.sc-pQdCa.sc-fzqARJ > .jSBHbr.sc-qXHHN.sc-qPLKk
+youla.ru##.bclJUr.sc-fzoKki.sc-fzqBkg.sc-fzolEj > .gmIFFO.sc-pAncQ > li.jfONyh.sc-pIjat:nth-of-type(3) > .hlyzWq.sc-pQdCa.sc-fzqARJ > .kRPxKC.sc-pITNg.sc-pAyMl
+
+! 2020-08-28 https://yandex.ru
+yandex.ru##a.services-new__more-popup-item.services-new__item.home-link:nth-of-type(9)
+
+! 2020-08-28 https://www.dns-shop.ru
+||c.dns-shop.ru/original/st1/08fc5be488a97ff0d205e8aaef7858a1/5586f101c479cdb3e581f9b6800ed42dd4c2d99eb3781c75c97c58982445f828.jpg$image
+www.dns-shop.ru###b-1ff60ce4-7371-4072-98fa-c715c26f8452
+www.dns-shop.ru##.banner-slider-block.banner-header.banner > .ec-promo
+www.dns-shop.ru##.banner-slider-block.banner-header.banner
+
+! 2020-08-28 https://gdeposylka.ru
+gdeposylka.ru##.col-sm-6.col-md-2 > ul > li:nth-of-type(4)
+
+! 2020-08-28 https://tproger.ru
+tproger.ru###cookie-notice-wrapper
+tproger.ru##a.footer-a:nth-of-type(3)
+tproger.ru##a.footer-a:nth-of-type(2)
+tproger.ru##.icon-facebook.social-footer-a
+tproger.ru##.icon-twitter.social-footer-a
+
+! 2020-08-28 https://www.youtube.com
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
