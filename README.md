@@ -20,7 +20,7 @@
 ## Инструкция по использованию (на примере uBlock Origin)
 ### a) С автообновлением списка
 #### Добавление автоматически
-Нажмите на [это](https://subscribe.adblockplus.org/?location=https://github.com/Zalexanninev15/NoADS_RU/raw/master/ads_list.txt&title=NoADS_RU) и согласитесь на добавление в плагин (нажмите ОК на всех всплывающих сообщениях при подключении списка к плагину). 
+Нажмите на [это](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt&title=NoADS_RU) и согласитесь на добавление в плагин (нажмите ОК на всех всплывающих сообщениях при подключении списка к плагину). 
 
 *Если у вас при нажатии на ссылку откроется новая вкладка, то закройте её, перезагрузите данную страницу и нажмите на ссылку вновь.*
 #### Добавление вручную
