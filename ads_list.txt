@@ -4372,3 +4372,153 @@ taxi.yandex.ru##.BannerGo
 ! 2020-08-28 https://travel.yandex.ru
 travel.yandex.ru##._25Qfa
 travel.yandex.ru##._2ahoD._2raHZ.Rn944.Link_lego._7U37p.Link_theme_normal.Link
+
+! 2020-08-28 https://ocomp.info
+ocomp.info##.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+ocomp.info##.ya-share2__item_service_collections.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+
+! 2020-08-28 http://www.outsidethebox.ms
+www.outsidethebox.ms##[href="http://twitter.com/sterkin_ru"]
+
+! 2020-08-29 https://4pda.ru
+||s.4pda.to/dry7Kmeawfz1DKRz2wgWfbUKy2z0LKGr6AUTNT4BcPdz2r7iSI29LbtQOfH4.jpg$image
+||s.4pda.to/dry7Ndn2mFvz0sN9RuqYOXmmss2JX.jpg?_=1598427890$image
+
+! 2020-08-29 https://onlinemultfilmy.ru
+onlinemultfilmy.ru###top-block > .social_links > .ya-share2_inited.ya-share2 > .ya-share2__container_shape_normal.ya-share2__container_color-scheme_normal.ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_collections.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+onlinemultfilmy.ru###top-block > .social_links > .ya-share2_inited.ya-share2 > .ya-share2__container_shape_normal.ya-share2__container_color-scheme_normal.ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+onlinemultfilmy.ru###top-block > .social_links > .ya-share2_inited.ya-share2 > .ya-share2__container_shape_normal.ya-share2__container_color-scheme_normal.ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+onlinemultfilmy.ru###top-block > .social_links > .ya-share2_inited.ya-share2 > .ya-share2__container_shape_normal.ya-share2__container_color-scheme_normal.ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_moimir.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+
+! 2020-08-29 https://yandex.ru
+yandex.ru##.divjson2-gallery_js_inited.i-bem.divjson2-gallery_height-ref_parent.divjson2-gallery_align_start.divjson2-gallery.divjson2__block-inner > .imageloader_visible_yes.imageloader_js_inited.imageloader_different_yes.imageloader.i-bem.divjson2-gallery__wrapper.scroller__hider > .scroller_js_inited.i-bem.imageloader__scroller.divjson2-gallery__scroller.scroller
+yandex.ru##.divjson2-gallery_js_inited.i-bem.divjson2-gallery_height-ref_parent.divjson2-gallery_align_start.divjson2-gallery.divjson2__block-inner > .imageloader_visible_yes.imageloader_js_inited.imageloader_different_yes.imageloader.i-bem.divjson2-gallery__wrapper.scroller__hider
+yandex.ru##.divjson2-gallery_js_inited.i-bem.divjson2-gallery_height-ref_parent.divjson2-gallery_align_start.divjson2-gallery.divjson2__block-inner
+yandex.ru##.divjson2-container_has-height-content_yes.divjson2-container_orientation_vertical.divjson2-container_halign_left.divjson2-container_valign_top.divjson2-container.divjson2__block-inner > div.divjson2__block_halign-self_default.divjson2__block_valign-self_default.divjson2__block_height_content.divjson2__block_width_parent.divjson2__block:nth-of-type(1) > .divjson2__clickable.divjson2-text.divjson2__block-inner
+yandex.ru##div.divjson2__block_halign-self_default.divjson2__block_valign-self_default.divjson2__block_height_content.divjson2__block_width_parent.divjson2__block:nth-of-type(2) > .divjson2__clickable.divjson2-text.divjson2__block-inner
+yandex.ru##.insert_shown.divjson2-block_visible_yes.divjson2-block_js_inited.i-bem.block.mix-tabber_size_narrow.mix-tabber_theme_lightgray.i-delayed-bem.divjson2-block > .divjson2_js_inited.i-bem.divjson2 > .divjson2__block_halign-self_default.divjson2__block_valign-self_default.divjson2__block_height_content.divjson2__block_width_parent.divjson2__block > .divjson2-container_has-height-content_yes.divjson2-container_orientation_vertical.divjson2-container_halign_left.divjson2-container_valign_top.divjson2-container.divjson2__block-inner
+yandex.ru##div.scroller__item.grid__col_width_3.grid__col_mode_static.grid__col.showcase__item_optimized_yes.showcase__item:nth-of-type(2) > .i-bem.overlay__ajax-handler.clearfix.showcase__link.link_theme_normal.link > .i-bem.showcase__item-thumb.poster > .poster__top-right > .favorite-client_js_inited.favorite-connector_js_inited.favorite-button_js_inited.i-bem.favorite-client.favorite-connector.favorite-button_theme_white.favorite-button > .i-bem.favorite-button__button.button2_view_classic.button2_theme_clean.button2_size_s.button2
+yandex.ru##a.header3__service:nth-of-type(7)
+yandex.ru##.serp-list__page > .serp-list__card_collapse_bottom.serp-list__card.serp-item
+yandex.ru##.related__divider.rounded-divider_paddings.rounded-divider_bottom.rounded-divider_top.rounded-divider
+
+! 2020-08-29 https://www.google.com
+www.google.com##.hww53CMqxtL__visible.hww53CMqxtL__mobile-promo
+
+! 2020-08-29 https://onlinemultfilmy.ru
+onlinemultfilmy.ru##.fctrl > .social_links > .ya-share2_inited.ya-share2 > .ya-share2__container_shape_normal.ya-share2__container_color-scheme_normal.ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_collections.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+onlinemultfilmy.ru##.fctrl > .social_links > .ya-share2_inited.ya-share2 > .ya-share2__container_shape_normal.ya-share2__container_color-scheme_normal.ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_moimir.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+onlinemultfilmy.ru##.fctrl > .social_links > .ya-share2_inited.ya-share2 > .ya-share2__container_shape_normal.ya-share2__container_color-scheme_normal.ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+onlinemultfilmy.ru##.fctrl > .social_links > .ya-share2_inited.ya-share2 > .ya-share2__container_shape_normal.ya-share2__container_color-scheme_normal.ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+
+! 2020-08-29 https://yandex.ru
+yandex.ru##.v9JVZVndxej3uXNVLtZA
+yandex.ru##.ya2aedcf8.n60b69088.i9f8884e2.k727bbfa2.o7b9350f9
+yandex.ru##.v_YlWRmRAZwbJcYw.v9JVZVndxej3uT9ha.card
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.v_tdVR38.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.v9p5BfWZmfgfuXMhO.v9p5BfWJwfT3cQdJYtclc7xkhS3k5sj0.v9p5B
+yandex.ru##.la50b76c0.v119b4eb0.c4f6b80da.ga873c1a.v6b4af2c1
+yandex.ru###ewbfra
+yandex.ru###fqjyc
+yandex.ru##.y61bdd7cb.r81f47449.n34e74853.c73d0a360
+yandex.ru##.j4f550eb0
+yandex.ru##.e646e403c
+yandex.ru##.haa6a40a2
+yandex.ru##.u30cc06de.b1e6d9eae.k6fe3bac4.n85a0e484.yf1c5461f
+yandex.ru###raqx
+yandex.ru###dsup
+yandex.ru###hdqc
+yandex.ru###wium
+yandex.ru###aeolcjt
+yandex.ru###ulkc
+yandex.ru###tjjvcc
+yandex.ru###gclfve
+yandex.ru###euumdycd
+yandex.ru###ardmpskq
+yandex.ru###lojg
+yandex.ru###gfklp
+yandex.ru###idmgbgco
+yandex.ru###neqyc
+yandex.ru###obyt
+yandex.ru###ozadi
+yandex.ru###bcazreo
+yandex.ru###lzpdibv
+yandex.ru###sbqvajn
+yandex.ru###bdbrd
+yandex.ru###ggzg
+yandex.ru##.v9p5BfWZmfgfuStVeuIdb.v9p5BfWJwfT3cQdJYtclN6QkwCWM.v9p5B
+yandex.ru##.v4J9WVnp6fE_cT8xfgrtO4iIyD305tDSsBDH3Gg.v4J9WVnp6fE_cT8xfgrtO4g.v4J9WVnp6fE_cT8xf__loyier-exsist
+yandex.ru###o88yr6xmgcs > cgzn-nmiljhnzuz
+yandex.ru###o88yr6xmgcs
+yandex.ru###N-I-281769-3224 > .advert__loader.loader
+yandex.ru###N-I-281769-3224
+yandex.ru###va09b9dkvxg
+yandex.ru###N-I-281769-3225 > .advert__loader.loader
+yandex.ru###N-I-281769-3225
+yandex.ru###j0hnbce5yx > cgzn-nmiljhnzuz
+yandex.ru###j0hnbce5yx
+yandex.ru###N-I-281769-3226 > .advert__loader.loader
+yandex.ru###N-I-281769-3226
+yandex.ru###vghs57r953 > cgzn-nmiljhnzuz
+yandex.ru##sksf-vb
+yandex.ru##urkdpyml-sbsbldaj
+yandex.ru##fquy-vxgqaqz
+yandex.ru##myfeg-bawkatighz
+yandex.ru##whgot-da
+yandex.ru##gvetgi-izli
+yandex.ru##bcndao-awvdiadwpw
+yandex.ru##tcr-uim
+yandex.ru##ne-sx
+yandex.ru##qvfeqwg-gaquyvk
+yandex.ru##okpqju-gi
+yandex.ru##zqiwk-eiujczhzku
+yandex.ru##yy-to
+yandex.ru##ybo-zdhrfbql
+yandex.ru##owosylo-lb
+yandex.ru##ue-azylrzsy
+yandex.ru##nucrib-dhzomx
+yandex.ru##vudcovdqw-hs
+yandex.ru##ofvklxsf-ofkn
+yandex.ru##sv-uqusxwhtcr
+yandex.ru##hmjycw-uctibely
+yandex.ru##uappqtomcf-dbizdyljgo
+yandex.ru##su-budyis
+yandex.ru##jyaltitk-hmbicnuzx
+yandex.ru##oheljmohd-ncqjgjsvlv
+yandex.ru##fwwzd-sksuhz
+yandex.ru##bketpd-qplm
+yandex.ru##niuyew-wbwzvbaak
+yandex.ru##tndtqzdch-yp
+yandex.ru##ezgogdzmfw-qrcc
+yandex.ru##bi-snddpkjvc
+yandex.ru##gxsovcbgw-egqdqrgk
+yandex.ru##mule-dfcunaqke
+yandex.ru##wgbewkov-znvsef
+yandex.ru##div.divjson2-block_visible_yes.divjson2-block_js_inited.i-bem.block.mix-tabber_size_narrow.mix-tabber_theme_lightgray.i-delayed-bem.divjson2-block:nth-of-type(18) > .divjson2_js_inited.i-bem.divjson2 > .divjson2__block_halign-self_default.divjson2__block_valign-self_default.divjson2__block_height_content.divjson2__block_width_parent.divjson2__block > .divjson2-container_has-height-content_yes.divjson2-container_orientation_vertical.divjson2-container_halign_left.divjson2-container_valign_top.divjson2-container.divjson2__block-inner
+yandex.ru##.mheader3__favorites.home-link
+
+! 2020-08-29 https://zen.yandex.ru
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N > .lBkLJgx0rYyo5lL93a0o
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(17) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N > .lBkLJgx0rYyo5lL93a0o
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(17) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(17) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(17) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(17) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(23) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N > .lBkLJgx0rYyo5lL93a0o
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(23) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(23) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(23) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(23) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N > .lBkLJgx0rYyo5lL93a0o
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g
+
+! 2020-08-29 https://m.ok.ru
+m.ok.ru##div.__splitter.l-sidebar_i:nth-of-type(4)
+m.ok.ru##ul.l-sidebar_lst:nth-of-type(5) > .p-block.l-sidebar_i > .js-adv.p-block_lnk.alnk.ai
