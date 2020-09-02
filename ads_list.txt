@@ -4560,3 +4560,43 @@ solutics.ru##.social-button--whatsapp.social-button
 
 ! 2020-09-01 https://tor19.labtor.tv
 tor19.labtor.tv##.adblock-warningcqxp67ywxr29tgm25dp
+
+! 2020-09-02 https://vk.com
+vk.com###old_browser_wrap
+
+! 2020-09-02 https://m.vk.com
+m.vk.com##a.Row.al_menu.MainMenu__menuItem:nth-of-type(9)
+
+! 2020-09-02 https://translate.yandex.ru
+||yastatic.net/s3/translate/v20.8.5/i/welcome_common.jpg$image
+translate.yandex.ru##.landing-text
+translate.yandex.ru###promoWrapperNew > .header
+
+! 2020-09-02 https://zen.yandex.ru
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U > .a5vXdrf9rCOaGFiKuz_V24h93 > .a6f7avcQlBaaHAVCm3vk
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U > .a5vXdrf9rCOaGFiKuz_V24h93
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(17) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U > .a5vXdrf9rCOaGFiKuz_V24h93 > .a6f7avcQlBaaHAVCm3vk
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(17) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U > .a5vXdrf9rCOaGFiKuz_V24h93
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(17) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(17) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(17) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U > .a5vXdrf9rCOaGFiKuz_V24h93 > .a6f7avcQlBaaHAVCm3vk
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U > .a5vXdrf9rCOaGFiKuz_V24h93
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg
+zen.yandex.ru##.app-button__link
+zen.yandex.ru##.app-button__close
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(37) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U > .a5vXdrf9rCOaGFiKuz_V24h93 > .a6f7avcQlBaaHAVCm3vk
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(37) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U > .a5vXdrf9rCOaGFiKuz_V24h93
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(37) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(37) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(37) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U > .a5vXdrf9rCOaGFiKuz_V24h93 > .a6f7avcQlBaaHAVCm3vk
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U > .a5vXdrf9rCOaGFiKuz_V24h93
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8
+zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg
