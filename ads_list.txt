@@ -4522,3 +4522,41 @@ zen.yandex.ru##div._mode_card.feed-item:nth-of-type(30) > .lCUnOkyZlfCgri4VpI0e4
 ! 2020-08-29 https://m.ok.ru
 m.ok.ru##div.__splitter.l-sidebar_i:nth-of-type(4)
 m.ok.ru##ul.l-sidebar_lst:nth-of-type(5) > .p-block.l-sidebar_i > .js-adv.p-block_lnk.alnk.ai
+
+! 2020-08-29 https://m.habr.com
+m.habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1) > .tm-svg-icon.tm-svg-img > use
+m.habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(2) > .tm-svg-icon.tm-svg-img > use
+m.habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(2) > .tm-svg-icon.tm-svg-img
+m.habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1) > .tm-svg-icon.tm-svg-img
+m.habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1)
+m.habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(2)
+
+! 2020-08-29 https://4pda.ru
+||s.4pda.to/dry7VR1Q2uLBblEz0aRahjIxKWmM.jpg?_=1598427890$image
+||s.4pda.to/dry7VR1Q2CTkymz15eb7TQcfvDTx.jpg?_=1598474839$image
+
+! 2020-08-29 https://zen.yandex.ru
+zen.yandex.ru###\34 578203091537998373 > .lLFbFnCMsIiUvgoQgfVCiDQ.lLFbFnCMsIiI5yoRofUajAJw.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N > .lBkLJgx0rYyo5lL93a0o
+zen.yandex.ru###\34 578203091537998373 > .lLFbFnCMsIiUvgoQgfVCiDQ.lLFbFnCMsIiI5yoRofUajAJw.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N
+zen.yandex.ru###\34 578203091537998373 > .lLFbFnCMsIiUvgoQgfVCiDQ.lLFbFnCMsIiI5yoRofUajAJw.lCUnOkyZlbCo4g81_ekY
+zen.yandex.ru###\34 578203091537998373
+zen.yandex.ru##div.feed__row:nth-of-type(7) > div._size_small.feed__item-wrap:nth-of-type(1)
+
+! 2020-08-30 http://csharpcoderr.com
+csharpcoderr.com##div:nth-of-type(3) > div:nth-of-type(2)
+csharpcoderr.com##div:nth-of-type(10)
+||csharpcoderr.com/images/1.png$image
+csharpcoderr.com##.admania_lay3entrycontentright > div:nth-of-type(2) > p
+
+! 2020-08-30 https://solutics.ru
+solutics.ru###secondary
+solutics.ru###la-93-dd0a9d4e8hh
+solutics.ru###la-93-cf1311b5fhc
+solutics.ru##.la-93-146337719hila-block-parent.la-93-146337719hila-mark-wrapper > div:nth-of-type(1)
+solutics.ru###content_rb_144517
+solutics.ru##.social-button--twitter.social-button
+solutics.ru##.social-button--facebook.social-button
+solutics.ru##.social-button--whatsapp.social-button
+
+! 2020-09-01 https://tor19.labtor.tv
+tor19.labtor.tv##.adblock-warningcqxp67ywxr29tgm25dp
