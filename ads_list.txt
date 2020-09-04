@@ -4600,3 +4600,28 @@ zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG
 zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8 > .awarWovoiRueHX2Kz2f5F2A.a5vXdrf9rCOaGFiKuz_U
 zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8
 zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg
+
+! 2020-09-03 http://csharpsourescode.blogspot.com
+csharpsourescode.blogspot.com###cookieChoiceInfo
+
+! 2020-09-04 https://yadi.sk
+yadi.sk##.b2b-banner__right-block
+yadi.sk##.js-prevent-mouse-selection.b2b-banner_dir.b2b-banner
+
+! 2020-09-04 https://alexbruni.ru
+alexbruni.ru##td > div:nth-of-type(1)
+alexbruni.ru##td > div:nth-of-type(1)
+alexbruni.ru##.anim_getimg > input
+
+! 2020-09-04 https://yandex.ru
+yandex.ru###ocwxx
+yandex.ru##.xKDJatETk_1KTanbPILc
+yandex.ru##.j207b9be
+yandex.ru##.q1b3b8fca.x85393dfc
+yandex.ru##.xKDJatETk_1KTeXve.card
+yandex.ru##.m845b7c82.u71c0bbb2.mde982c18.mc398b8d8.hdc206743
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.xInBypUw.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru###zlxsp
+yandex.ru##.xKjlmn1Xza2iTamvK.xKjlmn1HlaFKhd3HcIO6h7382BOJyRLo.xKjlm
+yandex.ru###elmbmcm
+yandex.ru###imizbzsj
