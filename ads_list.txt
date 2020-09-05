@@ -4643,3 +4643,61 @@ yandex.ru###xmzjuk
 yandex.ru###qztajzrg
 yandex.ru##.pIhn2ktYilBGInx2vlerj.pIhn2ktI0lyu6lBqpmKT15DqybR0.pIhn2
 yandex.ru##.pNBjhucoallm6mgSur9b27xGwawMvmIYnOasRTw.pNBjhucoallm6mgSur9b27w.pNBjhucoallm6mgSu__loyier-exsist
+
+! 2020-09-05 https://zen.yandex.ru
+zen.yandex.ru###\32 153790044752429176 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES > .iV28KAw_Jj78BKqMBcY4
+zen.yandex.ru###\32 153790044752429176 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES
+zen.yandex.ru###\32 153790044752429176 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII
+zen.yandex.ru###\32 153790044752429176
+zen.yandex.ru##div.feed__row:nth-of-type(14) > ._size_big.feed__item-wrap
+zen.yandex.ru###-\35 92926878013502649 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES > .iV28KAw_Jj78BKqMBcY4
+zen.yandex.ru###-\35 92926878013502649 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES
+zen.yandex.ru###-\35 92926878013502649 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII
+zen.yandex.ru###-\35 92926878013502649
+zen.yandex.ru##div.feed__row:nth-of-type(17) > ._size_big.feed__item-wrap
+zen.yandex.ru###-\33 546484747508760426 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES > .iV28KAw_Jj78BKqMBcY4
+zen.yandex.ru###-\33 546484747508760426 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES
+zen.yandex.ru###-\33 546484747508760426 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII
+zen.yandex.ru###-\33 546484747508760426
+zen.yandex.ru##div.feed__row:nth-of-type(29) > ._size_big.feed__item-wrap
+zen.yandex.ru###\31 787142712009359844 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES > .iV28KAw_Jj78BKqMBcY4
+zen.yandex.ru###\31 787142712009359844 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES
+zen.yandex.ru###\31 787142712009359844 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII
+zen.yandex.ru###\31 787142712009359844
+zen.yandex.ru##div.feed__row:nth-of-type(23) > ._size_big.feed__item-wrap
+zen.yandex.ru###-\38 645780841917037788 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES > .iV28KAw_Jj78BKqMBcY4
+zen.yandex.ru###-\38 645780841917037788 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES
+zen.yandex.ru###-\38 645780841917037788 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII
+zen.yandex.ru###-\38 645780841917037788
+zen.yandex.ru##div.feed__row:nth-of-type(38) > ._size_big.feed__item-wrap
+
+! 2020-09-05 https://games.mail.ru
+games.mail.ru##.custom-push__content
+games.mail.ru##.custom-push
+games.mail.ru##.b-header-agreement
+games.mail.ru##.notification__text
+games.mail.ru##a.footer__social-button:nth-of-type(3) > .footer__social-icon
+games.mail.ru##a.footer__social-button:nth-of-type(3)
+games.mail.ru##a.footer__social-button:nth-of-type(4)
+
+! 2020-09-05 https://zen.yandex.ru
+zen.yandex.ru###\33 321007874230287895 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES > .iV28KAw_Jj78BKqMBcY4
+zen.yandex.ru###\33 321007874230287895 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII > .iWGQNEzSHgL8APdEJYILpDEES
+zen.yandex.ru###\33 321007874230287895 > .ifXsGHDHOzrcBdJgeZ4vCPFA.iWGQNEzSHgL8APdEJYII
+zen.yandex.ru###\33 321007874230287895
+zen.yandex.ru##div.feed__row:nth-of-type(44) > ._size_big.feed__item-wrap
+
+! 2020-09-05 https://www.dns-shop.ru
+||as.dns-shop.ru/assets/5ca32780/images/md-min.jpg$image
+||c.dns-shop.ru/original/st1/355abffd98ecfca40b0189b3ff49dc76/f0b72286f2ea924a20770dd00613b5ecde4631d08c7c458adce69bd8f16c27dd.jpg$image
+www.dns-shop.ru###b-72373e11-3814-47b1-a825-4cf66152b9a3
+www.dns-shop.ru###b-a243106a-aa55-4471-95a6-d660ab4f1552
+||c.dns-shop.ru/original/st1/4164f15d5b078499288df75599e0a7bd/d80a3c5c54fc04cfe07045e85456eb74fce3db7cbf526deeb43e4aedc4fd9ac7.jpg$image
+www.dns-shop.ru###b-aec66135-c1b4-4f37-bcc3-ce015c72147e
+||c.dns-shop.ru/original/st1/adce124b530a3d238716d0558890e65c/e664467ad34373c6596bed9d0a922530149c3cbbe0df70715576a26de338aaed.jpg$image
+www.dns-shop.ru###b-29166d3d-dac6-46e8-a0fe-02674cebc0c3
+||c.dns-shop.ru/original/st1/cb43c88f3e72bc6307feb264b3204e4f/6164aca3370c4bd063d1df0299ff006c0208e6686d1c9696152105ee37fe1b95.jpg$image
+www.dns-shop.ru###b-bcab5bd1-0297-4309-9eb5-e351b9efbc21
+
+! 2020-09-05 https://www.amd.com
+www.amd.com###cookieCompliance
