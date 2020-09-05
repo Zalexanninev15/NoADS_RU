@@ -4625,3 +4625,21 @@ yandex.ru###zlxsp
 yandex.ru##.xKjlmn1Xza2iTamvK.xKjlmn1HlaFKhd3HcIO6h7382BOJyRLo.xKjlm
 yandex.ru###elmbmcm
 yandex.ru###imizbzsj
+
+! 2020-09-04 https://market.yandex.ru
+market.yandex.ru##._3HwY9qUDno.tamefSzMtq > div > div
+market.yandex.ru##._2CQs-Y9Tvu > ._1VOIQMEr_p > ._3VNncOiEJb._3myJvVEYHb > .CuWJ7r8WeJ._2UqGYJ6mvJ > .-gbRKGQ5JR
+market.yandex.ru##.y8fEW2XwIR
+
+! 2020-09-05 https://yandex.ru
+yandex.ru##.pIBLuucc1kCuIiR26mP0
+yandex.ru##.pKQ7hqdQEjRCvpEQ.pIBLuucc1kCuImhCr.card
+yandex.ru##.s15313d34.f354e2502
+yandex.ru##.f5bc60c7c.ea1ca43cc.ic6e3b66.n4a2565a6.x97c8167d
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.pKlDiqM8.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.f8b3dee52.y3a5500ba.ic6e3b66.n4a2565a6.x97c8167d
+yandex.ru##.pIBHpoMMvgVm0mhi4nu32aWOlbR4ym4MsAeArY9gf61AzBvBA
+yandex.ru###xmzjuk
+yandex.ru###qztajzrg
+yandex.ru##.pIhn2ktYilBGInx2vlerj.pIhn2ktI0lyu6lBqpmKT15DqybR0.pIhn2
+yandex.ru##.pNBjhucoallm6mgSur9b27xGwawMvmIYnOasRTw.pNBjhucoallm6mgSur9b27w.pNBjhucoallm6mgSu__loyier-exsist
