@@ -4701,3 +4701,41 @@ www.dns-shop.ru###b-bcab5bd1-0297-4309-9eb5-e351b9efbc21
 
 ! 2020-09-05 https://www.amd.com
 www.amd.com###cookieCompliance
+
+! 2020-09-06 https://staminaon.com
+staminaon.com##.cookie-notice-container
+
+! 2020-09-06 https://chocolatey.org
+chocolatey.org##.border-top.p-2.mb-0.text-center.show.fade.alert-dismissible.bg-primary.alert.cookies-popup
+
+! 2020-09-07 https://dotnet.microsoft.com
+dotnet.microsoft.com##.x-hidden-focus.cc-container
+
+! 2020-09-07 https://www.flaticon.com
+www.flaticon.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+||static.freepikcompany.com/flaticon/groove/img/popup/bg-content.svg$image
+www.flaticon.com###banner-iconize
+
+! 2020-09-08 https://yandex.ru
+||yastatic.net/s3/front-maps-static/maps-front-maps/_/a70a4c329abea46a3e6b42fdc0b921dc.svg$image
+yandex.ru##a.orgpage-social-links-view__icon:nth-of-type(3)
+||yastatic.net/s3/front-maps-static/maps-front-maps/_/54b25b1e22891fc5b5e44daeb089bb9f.svg$image
+yandex.ru##a.orgpage-social-links-view__icon:nth-of-type(1)
+yandex.ru##.maillist-form-view
+yandex.ru##div.dbp__eebbfffedad:nth-of-type(16) > .dydp__aceedcdffc
+yandex.ru##div.dbp__eebbfffedad:nth-of-type(1) > .dydp__aceedcdffc
+
+! 2020-09-09 https://www.google.com
+www.google.com##.szppmdbYutt__middle-slot-promo
+
+! 2020-09-09 https://www.youtube.com
+www.youtube.com##tbody
+
+! 2020-09-09 https://yandex.ru
+yandex.ru##.edCVFumDH8NNdaEM.efTlKqnP27eh6Vhd0.card
+yandex.ru##.link_js_inited.ed3tGu3s.links-section__link.link_theme_normal.link
+yandex.ru##.efTlKqnP27eh6RRplXxk
+yandex.ru##.efTpNs3fs_JpGVh9nWQlfaAxLHajrUOGcVOz6wUCuPGaYcJnj
+yandex.ru##.efzJSgWLh6dJ6UxpwUg5K.efzJSgWb36uhIWB12X0Bc5VVcHas.efzJS
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.ed3tGu3s.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.eaTNFqn7965pIVgNxaDJf7n5eGfX2UaSXbufA7Q.eaTNFqn7965pIVgNxaDJf7g.eaTNFqn7965pIVgNx__loyier-exsist
