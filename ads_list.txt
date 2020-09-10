@@ -4739,3 +4739,48 @@ yandex.ru##.efTpNs3fs_JpGVh9nWQlfaAxLHajrUOGcVOz6wUCuPGaYcJnj
 yandex.ru##.efzJSgWLh6dJ6UxpwUg5K.efzJSgWb36uhIWB12X0Bc5VVcHas.efzJS
 yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.ed3tGu3s.links-section__link.link_theme_normal.link:nth-of-type(1)
 yandex.ru##.eaTNFqn7965pIVgNxaDJf7n5eGfX2UaSXbufA7Q.eaTNFqn7965pIVgNxaDJf7g.eaTNFqn7965pIVgNx__loyier-exsist
+yandex.ru##div.divjson2-block_visible_yes.divjson2-block_js_inited.i-bem.block.mix-tabber_size_narrow.mix-tabber_theme_lightgray.i-delayed-bem.divjson2-block:nth-of-type(19) > .divjson2_js_inited.i-bem.divjson2 > .divjson2__block_halign-self_default.divjson2__block_valign-self_default.divjson2__block_height_content.divjson2__block_width_parent.divjson2__block > .divjson2-container_has-height-content_yes.divjson2-container_orientation_vertical.divjson2-container_halign_left.divjson2-container_valign_top.divjson2-container.divjson2__block-inner
+yandex.ru##.organic_adv.organic
+
+! 2020-09-09 https://www.dns-shop.ru
+||as.dns-shop.ru/assets/64d0249a/images/md-min.jpg$image
+
+! 2020-09-09 https://duckduckgo.com
+duckduckgo.com##.js-atb-banner-mainmsg.atb-banner__bottom
+
+! 2020-09-10 https://www.msi.com
+www.msi.com###ccc-notify
+
+! 2020-09-10 https://blog.foolsoft.ru
+blog.foolsoft.ru###text-4
+blog.foolsoft.ru###wm-link > li
+blog.foolsoft.ru###text-9
+
+! 2020-09-10 https://sergeistrelec.ru
+sergeistrelec.ru##.cc-color-override--1360619034.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+||sergeistrelec.ru/templates/sstr/images/style/h8.gif$image
+sergeistrelec.ru##a[href^="/index.php"]:nth-of-type(3)
+
+! 2020-09-10 https://www.gogalaxy.com
+www.gogalaxy.com##.c-cookies__frame
+
+! 2020-09-10 https://www.softportal.com
+www.softportal.com##tr:nth-of-type(3) > td > table > tbody > tr:nth-of-type(2) > .TdLCatSubCLR
+||www.softportal.com/img/green/left/bgtitle.gif$image
+www.softportal.com##[href="https://www.facebook.com/softportalcom/"]
+www.softportal.com##[href="https://twitter.com/softportal/"]
+||www.softportal.com/img/fb.png$image
+www.softportal.com##.social-bottom-fb.social-bottom
+||www.softportal.com/img/twitter.png$image
+www.softportal.com##.social-bottom-tw.social-bottom
+
+! 2020-09-10 https://yandex.ru
+yandex.ru##.eBjWmZDrcVPZJGHU.eDympdCntSc1uJiHc.card
+yandex.ru##.je4c409b0.ade3a1bc6
+yandex.ru##.t715f35f8.ic434ae9c.qa713fc62.r7a0747a2.a14330879
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.eBWulZSE.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.eDympdCntSc1uNSzNJQY
+yandex.ru##.t715f35f8.qc0d0e908.qa713fc62.r7a0747a2.a14330879
+yandex.ru##.eDSKxXzj6TfduIyzYKBGa.eDSKxXzzsTs1cKCveJVaMjPjg5xw.eDSKx
+yandex.ru##.eGyOmdCTmT79cJjXZEi2Ph9Pi4QKEs9QgB7yAkg.eGyOmdCTmT79cJjXZEi2Phw.eGyOmdCTmT79cJjXZ__loyier-exsist
+yandex.ru##.eGyOmdCTmT79cJjXZ__legal-button
