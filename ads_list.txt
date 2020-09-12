@@ -4784,3 +4784,42 @@ yandex.ru##.t715f35f8.qc0d0e908.qa713fc62.r7a0747a2.a14330879
 yandex.ru##.eDSKxXzj6TfduIyzYKBGa.eDSKxXzzsTs1cKCveJVaMjPjg5xw.eDSKx
 yandex.ru##.eGyOmdCTmT79cJjXZEi2Ph9Pi4QKEs9QgB7yAkg.eGyOmdCTmT79cJjXZEi2Phw.eGyOmdCTmT79cJjXZ__loyier-exsist
 yandex.ru##.eGyOmdCTmT79cJjXZ__legal-button
+
+! 2020-09-11 https://ru.wikihow.com
+ru.wikihow.com###gdpr
+||ru.wikihow.com/extensions/wikihow/SocialFooter/images/tt.svg$image
+ru.wikihow.com###sf_tt
+||ru.wikihow.com/extensions/wikihow/SocialFooter/images/fb.svg$image
+ru.wikihow.com###sf_fb
+ru.wikihow.com###gatFollowApp
+ru.wikihow.com###gatFollowAndroid
+ru.wikihow.com###gatFollowFacebook
+ru.wikihow.com###gatFollowTwitter
+||ru.wikihow.com/skins/owl/images/pinterest_rgb_opti.png?7e799$image
+ru.wikihow.com###gatFollowTumblr
+ru.wikihow.com###gatFollowPinterest
+
+! 2020-09-12 https://yandex.ru
+yandex.ru##.kt2LuEf_uHxmVt6dRbMM9d7jh6os7uREiPkuazg.kt2LuEf_uHxmVt6dRbMM9dw.kt2LuEf_uHxmVt6dR__loyier-exsist
+yandex.ru##.l177a1901
+yandex.ru##.md3b2c835.i7da19dc3
+yandex.ru##.g9922a47d.n4e731b0d.bc19567e7.f537d6227.p864cedbc
+yandex.ru##.cc679d613.e1c464499.bc19567e7.f537d6227.p864cedbc
+yandex.ru##.koWP5OuPyHVGnsr5QVv8o.koWP5OufkHmuVublWW7EafJPj7JU.koWP5
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.kqSrtAPo.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.ko2jhEfLlGWunpL5FWag
+yandex.ru##.kqnTuAeHUBFCAiec.ko2jhEfLlGWunt7NU.card
+
+! 2020-09-12 https://www.ozon.ru
+www.ozon.ru##div.b6e2:nth-of-type(4) > .b5y.b5y4
+||cdn1.ozone.ru/s3/cms/46/t59/wc*0/frame_113_1.png$image
+www.ozon.ru##div.b6e3.container:nth-of-type(4) > .c6b1.c6a5
+www.ozon.ru##a.c6n1.a0k9:nth-of-type(2) > .c6n
+www.ozon.ru##a.c6n1.a0k9:nth-of-type(2)
+www.ozon.ru##a.c6n1.a0k9:nth-of-type(3) > .c6n > path
+www.ozon.ru##a.c6n1.a0k9:nth-of-type(3) > .c6n
+www.ozon.ru##a.c6n1.a0k9:nth-of-type(3)
+www.ozon.ru##.c4w6.c4w5.a0k9 > span
+www.ozon.ru##li.c4w8:nth-of-type(2) > .ui-a0s9 > .c4w5.a0k9 > span
+www.ozon.ru##li.c4w8:nth-of-type(3) > .ui-a0s9 > .c4w5.a0k9 > span
+www.ozon.ru##div:nth-of-type(1) > a.c6g2.a0k9:nth-of-type(2)
