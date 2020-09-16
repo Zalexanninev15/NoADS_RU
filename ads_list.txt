@@ -4823,3 +4823,38 @@ www.ozon.ru##.c4w6.c4w5.a0k9 > span
 www.ozon.ru##li.c4w8:nth-of-type(2) > .ui-a0s9 > .c4w5.a0k9 > span
 www.ozon.ru##li.c4w8:nth-of-type(3) > .ui-a0s9 > .c4w5.a0k9 > span
 www.ozon.ru##div:nth-of-type(1) > a.c6g2.a0k9:nth-of-type(2)
+
+! 2020-09-12 http://pantherbar-app.com
+pantherbar-app.com##.cookie-notice-container
+
+! 2020-09-12 https://forum.xda-developers.com
+||www.xda-developers.com/files/2020/09/HDD2_v2_300x100.jpg$image
+forum.xda-developers.com###hosted-by
+
+! 2020-09-13 https://community.devexpress.com
+community.devexpress.com###wsMsgWnd
+
+! 2020-09-13 https://anonymousfiles.io
+anonymousfiles.io##[href="/link/mudrex"] > p:nth-of-type(2)
+anonymousfiles.io##[href="/link/mudrex"]
+anonymousfiles.io##h4
+
+! 2020-09-14 https://question-it.com
+question-it.com##.dobanner-wrapper
+
+! 2020-09-15 https://progtask.ru
+progtask.ru##.cookie-notice-container
+
+! 2020-09-15 https://www.youtube.com
+www.youtube.com##[href="https://www.youtube.com/ads/"]
+
+! 2020-09-16 https://yandex.ru
+yandex.ru##.y3no5areVfetlk2Y.y12Y2eqSkYNBCrTL9.card
+yandex.ru##.y12Y2eqSkYNBCvj_stOU
+yandex.ru##.a69822a8a.i54cfd2fc
+yandex.ru##.oafb7c5c2.v294e6fa6.jf509258.x58698f98.ea95b6143
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.y3SQ6a6w.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.g9c57ef2c.k1e7a6cf.jf509258.x58698f98.ea95b6143
+yandex.ru##.y1W0uUbWzZOpCqD_5ufKb.y1W0uUbGlZ9Bwozj_tLyNrOehpfY.y1W0u
+yandex.ru###efwzkbpi
+yandex.ru##.yw2w5eqmvZqJwrSb4g86Op8yjoah2ALXNQKN7AQ.yw2w5eqmvZqJwrSb4g86Opw.yw2w5eqmvZqJwrSb4__loyier-exsist
