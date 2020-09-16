@@ -4858,3 +4858,20 @@ yandex.ru##.g9c57ef2c.k1e7a6cf.jf509258.x58698f98.ea95b6143
 yandex.ru##.y1W0uUbWzZOpCqD_5ufKb.y1W0uUbGlZ9Bwozj_tLyNrOehpfY.y1W0u
 yandex.ru###efwzkbpi
 yandex.ru##.yw2w5eqmvZqJwrSb4g86Op8yjoah2ALXNQKN7AQ.yw2w5eqmvZqJwrSb4g86Opw.yw2w5eqmvZqJwrSb4__loyier-exsist
+yandex.ru##a.home-link_black_yes.services-new__more-popup-bottom-link.home-link:nth-of-type(1)
+yandex.ru##.menu.header__menu > a.menu__item:nth-of-type(1)
+yandex.ru##a.menu__item:nth-of-type(2)
+
+! 2020-09-16 https://beru.ru
+beru.ru##div:nth-of-type(5) > div > div > div > div > div > div > ._2IgjZJs0lI._3B9auZA-kd.section
+beru.ru##div._3P0bsUXnav:nth-of-type(4) > div > .v0LVwt9-_e._2BUQxcqKF7 > ._2FbMnl5WYr.TyYugfiSCL > ._34n95BJuhn > ._1zYszmgEzn._1RjY7YIluf > div > div > div > div > div > ._1dVZ35q5yJ._2er7mzKEW5._1_MhGKBSdf
+beru.ru##div:nth-of-type(1) > div > div > div > div > div > div > ._2IgjZJs0lI._3B9auZA-kd.section
+beru.ru##._1JAV-9Ttks
+
+! 2020-09-16 https://www.kinopoisk.ru
+www.kinopoisk.ru##.styles_content__1WWnk
+www.kinopoisk.ru##._3pjY877w5GGLkxGpluyQZb
+www.kinopoisk.ru##.yandex-ugc-dialog
+www.kinopoisk.ru##._32neIELTgpZAYtuxQ08dr7.S7kcb8PsbpfVNeOA3SdKu.NBlXdBqH3lwsbyMe_ad2y
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footersj476cxjhrwjvzbq36d__content-item:nth-of-type(7) > ._3Rkutv2b09UBzWZI15ckk9.footersj476cxjhrwjvzbq36d__content-link
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footersj476cxjhrwjvzbq36d__content-item:nth-of-type(2) > ._3Rkutv2b09UBzWZI15ckk9.footersj476cxjhrwjvzbq36d__content-link
