@@ -4875,3 +4875,19 @@ www.kinopoisk.ru##.yandex-ugc-dialog
 www.kinopoisk.ru##._32neIELTgpZAYtuxQ08dr7.S7kcb8PsbpfVNeOA3SdKu.NBlXdBqH3lwsbyMe_ad2y
 www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footersj476cxjhrwjvzbq36d__content-item:nth-of-type(7) > ._3Rkutv2b09UBzWZI15ckk9.footersj476cxjhrwjvzbq36d__content-link
 www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footersj476cxjhrwjvzbq36d__content-item:nth-of-type(2) > ._3Rkutv2b09UBzWZI15ckk9.footersj476cxjhrwjvzbq36d__content-link
+
+! 2020-09-17 https://codeby.net
+codeby.net##.notice-content
+codeby.net##.uix_noticeInner
+
+! 2020-09-17 https://studassistent.ru
+studassistent.ru###sidebar_body
+studassistent.ru##.edu_1hwew0z.edu_lhyvu6
+studassistent.ru##.edu_11fdvhg
+studassistent.ru##.order-box
+
+! 2020-09-18 http://r40.ru
+r40.ru##.banner-block > table > tbody > tr:nth-of-type(2) > td
+r40.ru##.adv_group_wrapper
+||r40.ru/images/fb.png$image
+r40.ru##[href="/advertisers/"]
