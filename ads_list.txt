@@ -1446,6 +1446,8 @@ zen.yandex.ru##._is-desktop._paused._started._visible.video-card > ._hidden.vide
 zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__player-wrapper.video-player-desktop > .video-player-desktop__container > div:nth-of-type(2)
 zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__player-wrapper.video-player-desktop > .video-player-desktop__container
 zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__player-wrapper.video-player-desktop
+zen.yandex.ru##.video-player-desktop__container > div:nth-of-type(2)
+zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__
 zen.yandex.ru##div.feed__row:nth-of-type(13)
 zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__content > .video-card__clickable
 zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__player-wrapper.video-player-desktop > .video-player-desktop__container
