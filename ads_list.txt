@@ -197,14 +197,6 @@ mail.google.com##.nn.bAw.nH
 ! 13.02.2020 https://drive.google.com
 drive.google.com##.a-da-ub-ce
 
-! 13.02.2020 http://192.168.0.1
-192.168.0.1###ip_mac_bind
-192.168.0.1###sys_upgrade
-192.168.0.1###adv_remoteweb
-192.168.0.1###adv_cloud
-192.168.0.1###adv_virtualServer
-192.168.0.1##.icons-guest.icon
-
 ! 13.02.2020 https://xn--90abhbolvbbfgb9aje4m.xn--p1ai
 xn--90abhbolvbbfgb9aje4m.xn--p1ai##.footer
 xn--90abhbolvbbfgb9aje4m.xn--p1ai##div.clearfix.block:nth-of-type(4)
@@ -1456,7 +1448,6 @@ zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__
 zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__player-wrapper.video-player-desktop
 zen.yandex.ru##div.feed__row:nth-of-type(13)
 zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__content > .video-card__clickable
-zen.yandex.ru##.video-player-desktop__container > div:nth-of-type(2)
 zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__player-wrapper.video-player-desktop > .video-player-desktop__container
 zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__player-wrapper.video-player-desktop
 zen.yandex.ru##._is-desktop._started._visible.video-card
@@ -4891,3 +4882,57 @@ r40.ru##.banner-block > table > tbody > tr:nth-of-type(2) > td
 r40.ru##.adv_group_wrapper
 ||r40.ru/images/fb.png$image
 r40.ru##[href="/advertisers/"]
+
+! 2020-09-19 https://osdn.net
+osdn.net##.cookie-bar__inner
+
+! 2020-09-20 https://www.kinopoisk.ru
+www.kinopoisk.ru##.ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link
+www.kinopoisk.ru##.ya-share2__item_service_facebook.ya-share2__item
+www.kinopoisk.ru##.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link
+www.kinopoisk.ru##.ya-share2__item_service_twitter.ya-share2__item
+
+! 2020-09-20 https://youla.ru
+youla.ru##div.hSQcSH.sc-jIDryR.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(37) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(2) > .gAhzgk.sc-psOQA.sc-pcmTJ
+youla.ru##div.hSQcSH.sc-jIDryR.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(37) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(2)
+youla.ru##div.hSQcSH.sc-jIDryR.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(35) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(3) > .gAhzgk.sc-psOQA.sc-pcmTJ
+youla.ru##div.hSQcSH.sc-jIDryR.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(35) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(3)
+youla.ru##div.hSQcSH.sc-jIDryR.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(34) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(3) > .gAhzgk.sc-psOQA.sc-pcmTJ
+youla.ru##div.hSQcSH.sc-jIDryR.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(34) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(3)
+youla.ru##div.hSQcSH.sc-jIDryR.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(32) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(2) > .gAhzgk.sc-psOQA.sc-pcmTJ
+youla.ru##div.hSQcSH.sc-jIDryR.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(32) > div.gZsBtu.sc-fzoxKX.sc-fzolEj:nth-of-type(2)
+
+! 2020-09-20 https://zen.yandex.ru
+zen.yandex.ru###-\35 589184558120279715 > .kaXPyqQde0aiPpkfBpbPFcs4.k3Gz5pgIXneCO7w7Woro > .k3Gz5pgIXneCO7w7WorruQt8q > .k02fatjlZkuCPaHzes7Y
+zen.yandex.ru###-\35 589184558120279715 > .kaXPyqQde0aiPpkfBpbPFcs4.k3Gz5pgIXneCO7w7Woro > .k3Gz5pgIXneCO7w7WorruQt8q
+zen.yandex.ru###-\35 589184558120279715 > .kaXPyqQde0aiPpkfBpbPFcs4.k3Gz5pgIXneCO7w7Woro
+zen.yandex.ru###-\35 589184558120279715
+zen.yandex.ru##div.feed__row:nth-of-type(41) > ._size_big.feed__item-wrap
+zen.yandex.ru###\36 105025136715373270 > .kaXPyqQde0aiPpkfBpbPFcs4.k3Gz5pgIXneCO7w7Woro > .k3Gz5pgIXneCO7w7WorruQt8q > .k02fatjlZkuCPaHzes7Y
+zen.yandex.ru###\36 105025136715373270 > .kaXPyqQde0aiPpkfBpbPFcs4.k3Gz5pgIXneCO7w7Woro > .k3Gz5pgIXneCO7w7WorruQt8q
+zen.yandex.ru###\36 105025136715373270 > .kaXPyqQde0aiPpkfBpbPFcs4.k3Gz5pgIXneCO7w7Woro
+zen.yandex.ru###\36 105025136715373270
+zen.yandex.ru##div.feed__row:nth-of-type(47) > ._size_big.feed__item-wrap
+zen.yandex.ru###\36 091412885082167361 > .kaXPyqQde0aiPpkfBpbPFcs4.k3Gz5pgIXneCO7w7Woro > .k3Gz5pgIXneCO7w7WorruQt8q > .k02fatjlZkuCPaHzes7Y
+zen.yandex.ru###\36 091412885082167361 > .kaXPyqQde0aiPpkfBpbPFcs4.k3Gz5pgIXneCO7w7Woro > .k3Gz5pgIXneCO7w7WorruQt8q
+zen.yandex.ru###\36 091412885082167361 > .kaXPyqQde0aiPpkfBpbPFcs4.k3Gz5pgIXneCO7w7Woro
+zen.yandex.ru###\36 091412885082167361
+zen.yandex.ru##div.feed__row:nth-of-type(50) > ._size_big.feed__item-wrap
+
+! 2020-09-20 https://yandex.ru
+yandex.ru##.rNUwvXbDrZhTT7QE.rPFAgTaPaey_001Wh.card
+yandex.ru##.rPFAgTaPaey_0wFiwGPI
+yandex.ru##.md7e8e5dd.s7365d8ab
+yandex.ru##.b77cea015.b5b767271.w6e24d08f.b842c6ccf.h91ef8154
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.rNhIsXKs.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.u5c05ea27.ha02cdf4b.yc42a9db8
+yandex.ru##.sd45eeaee
+yandex.ru##.s97e6a96c
+yandex.ru##.e466cfd4e.yc42a9db8
+yandex.ru##.hca68a768.b8b6180c0.gbe485b1c.ad2046dc.tdd36c507
+yandex.ru##.f9067cd3f.q6a10d209
+yandex.ru##.r80b8eed9.c8b958c31.r954f376d.xe3ca042d.f4bb52976
+yandex.ru##.rPFMnVKfAal3I012yHuIi9SPGomf_JCslxSMwC4LF1JxIWQuf
+yandex.ru##.rPls4ZrLNfxX01lilFeU3.rPls4ZrbbfC_G3VajGKsh6HrRomQ.rPls4
+yandex.ru###wavimvn
+yandex.ru##.rKFovTa7RfV3G00GkL9ki41HTpHriJy4u_ygKJw.rKFovTa7RfV3G00GkL9ki4w.rKFovTa7RfV3G00Gk__loyier-exsist
