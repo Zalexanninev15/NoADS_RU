@@ -4938,3 +4938,40 @@ yandex.ru##.rPFMnVKfAal3I012yHuIi9SPGomf_JCslxSMwC4LF1JxIWQuf
 yandex.ru##.rPls4ZrLNfxX01lilFeU3.rPls4ZrbbfC_G3VajGKsh6HrRomQ.rPls4
 yandex.ru###wavimvn
 yandex.ru##.rKFovTa7RfV3G00GkL9ki41HTpHriJy4u_ygKJw.rKFovTa7RfV3G00GkL9ki4w.rKFovTa7RfV3G00Gk__loyier-exsist
+
+! 2020-09-20 https://psp-psv.net
+psp-psv.net##.fa-twitter.fa.sb
+psp-psv.net##.fa-facebook.fa.sb
+
+! 2020-09-21 https://www.youtube.com
+www.youtube.com##.ytd-rich-metadata-renderer.style-scope.yt-simple-endpoint
+
+! 2020-09-21 https://www.cryptopro.ru
+www.cryptopro.ru##.show.cookiealert.text-center.alert-dismissible.alert
+
+! 2020-09-22 https://4pda.ru
+||s.4pda.to/dry7Nd1W4Ta0Jk6ZKQ9QavdIChqz0.jpg?_=1598525956$image
+
+! 2020-09-22 https://yandex.ru
+yandex.ru##.smart-banner_visible_yes.smart-banner_js_inited.smart-banner_appsearch.smart-banner_wide.smart-banner_high.i-bem.smart-banner.bottom-popup
+yandex.ru##.smart-banner_visible_yes.smart-banner_js_inited.smart-banner_yabro.smart-banner_wide.smart-banner_high.i-bem.smart-banner.bottom-popup
+yandex.ru###j63z1uyxsqo
+yandex.ru###N-I-281769-3533 > .advert__loader.loader
+yandex.ru###N-I-281769-3533
+yandex.ru###zg7s1gn1wfb
+yandex.ru###N-I-281769-3534 > .advert__loader.loader > .loader__inner > .loader__text
+yandex.ru###N-I-281769-3534 > .advert__loader.loader
+yandex.ru###N-I-281769-3534
+yandex.ru###kahfzsw4pv
+yandex.ru###N-I-281769-3535 > .advert__loader.loader
+yandex.ru###N-I-281769-3535
+yandex.ru##.wWk6ByICz7R6gVi0.wU1KO2JOC8CWHaHlL.card
+yandex.ru##.p4ec01c57.c88216e67.hf228674d.x82be28d.cd1e00c16
+yandex.ru##.wU1KO2JOC8CWHe3RaR8M
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > .link_js_inited.wWRCCyZs.links-section__link.link_theme_normal.link
+yandex.ru##.w3caf331f.o32e3b7a9
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.wWRCCyZs.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.y24832bf9.t2f846a9a.hf228674d.x82be28d.cd1e00c16
+yandex.ru##.y24832bf9.l3d6f7c91.hf228674d.x82be28d.cd1e00c16
+yandex.ru##.wUVmW84KV9BaHbXRPStSI.wUVmW84aD9yW1ZnNJR5qeNUljDac.wUVmW
+yandex.ru##.wR1iB2J6J9le1aG1OcOidPmJhCfmHwM9LGjWwEA.wR1iB2J6J9le1aG1OcOidPg.wR1iB2J6J9le1aG1O__loyier-exsist
