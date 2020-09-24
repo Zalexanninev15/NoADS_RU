@@ -5003,3 +5003,47 @@ zen.yandex.ru##div.feed__row:nth-of-type(77)
 zen.yandex.ru##div.feed__row:nth-of-type(92)
 zen.yandex.ru##div.feed__row:nth-of-type(110)
 zen.yandex.ru##div.feed__row:nth-of-type(104)
+
+! 2020-09-22 https://www.humblebundle.com
+www.humblebundle.com###_evidon_banner
+
+! 2020-09-23 https://poweruser.guru
+poweruser.guru###js-gdpr-consent-banner
+
+! 2020-09-23 https://www.youtube.com
+www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-simple.badge
+
+! 2020-09-24 https://lp.gog.com
+lp.gog.com###edi-l2j3kqb
+
+! 2020-09-24 https://yandex.ru
+yandex.ru##.o84q3wc_svZSP0ca79g8
+||yandex.ru/weather/_cry/13bso8437/07d155-JGtx/dm45uSxzYil_xVzaPTsp9G3y-8Z553efQYkQdNN-VtILlQdw7qsLMU4uhMdHJ2TfIYlS9EFR2Cql8R9k6iXsPvHsvn74JPTrfkKTUq98-2U-5vNWO3boltoEGbRXesRN1BWa5espXPaSL5XBzCz2EGLRB_EP3Rg-Zi-XJHEvK7fxMys-4HGlIWuOXE80_Lnz_7pygfku4QaNRwU7jyUEX4ueh3GzZNxznzuTjs1pdEUnS9i3ms8ZaLpr37J94To0prToqyXlJ_txBFgTsm27cXhz7cdzruVQRptdf9v8BE2VE1GxrydLecxiHEuGtTecvdEa98QW2eR4qNUkOXX4eKStPic6JGWi65Mej-0urDJ1-bOWOW-yU8RJRXhUPVoUCdQHcq6vVPmfb5SAAKpmGO2FRSvP00f-6rEVcbHjJ7G2sCssf3Q4eyuSEBf24GHl_Cb5V7xsL9pFmVmiG_xYjA6BWjwxecszjHvZR0llYhh_DFY2WFbJorjt3ni4IeA9vPzuIia7Nee005PSfyRv-Do__Aour6eaTMSVvwy5VBBb1ldyqi2WY5YlUA8H9K-FqZEGNsDfAS6qatUk9SykOKSsoa-4eKXi68hcTng8KLPqJDmXseEllNhbWrgNeUTbnxsR4qVrS7MWYxvEUOhnEe_RHuoEFUeipGrWMqptrTCm8WKuOHtl4XyKX5o-e-s-67u7UG4osBLYQV32jX0ZlBgWVuWrOVR0kyoSUkfqtAQqkJi_mNfAK7hryrMobarxpvU-ZPj0Mvq3D1IZNqr4NWp_9hBuLODSBMmE99WkAx_ZA1hl8-mLuxOrUQPEYmsV7YZaugbYQmqn5QgzNqni-TM2KqYvZXpuudIWjzfr5zP7ZDpKLGDthoTARCJQcVKMUhtY-m5k0nRR5kTUTitgnf4RHStBGs0jr21VpnIjZiC_bL5teH8-Z3fOUhC3ouS7dbR4QLtjIkE$image
+yandex.ru##.m6a12325d
+yandex.ru##.w8cde1d5b
+yandex.ru##.a795792b5.m69d0ebd1.s4addeeaf.v2b660cef.vd0666334
+yandex.ru##.oapa40dzdoKao_JY.o84q3wc_svZSPwsKq.card
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.oaci70Mc.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.wf8045e60.j20ff0be2.n336ccef8.p32fbbe8b
+yandex.ru##.c8258f4d7
+yandex.ru##.ma9f7567d.p32fbbe8b
+yandex.ru##.a795792b5.na2d37e45.s4addeeaf.v2b660cef.vd0666334
+yandex.ru##.o8YGv6t77ua6Px8auaxhj.o8YGv6trtupS9zMio9lZ1Yvi2usk.o8YGv
+yandex.ru###urmereka
+yandex.ru##.o54C4wcLnuaa9wtavwSR2adO0vNfxyuwJ1pCUWQ.o54C4wcLnuaa9wtavwSR2aQ.o54C4wcLnuaa9wtav__loyier-exsist
+
+! 2020-09-24 https://afisha.yandex.ru
+afisha.yandex.ru##.eZTr9Xr7lnAffEElJlNziua7PomEvdsc.edin2X7_nnAffEElJlA.eZTr9Xr7lnAffEElJlNz9svjXuUoJe9v2vDSc8WnYlA.eZTr9Xr7lnAffEElJlA
+afisha.yandex.ru##.eZTr9Xr7lnAffEElJlNziua7PomEvdsc.eZTr9Xr7lnAffEElJlA_tld_ru.eZTr9Xr7lnAffEElJlA
+
+! 2020-09-24 https://zen.yandex.ru
+zen.yandex.ru##div.feed__row:nth-of-type(31)
+zen.yandex.ru##div.feed__row:nth-of-type(43)
+zen.yandex.ru###\31 524000769274953576 > .zEt8XvKfdS8MjZxVXTpB_CHw.zN8Acs6KUBcsiLlxASZk > .zN8Acs6KUBcsiLlxASZlUOG2S > .zOMsbo5naCssjOS5IWJU
+zen.yandex.ru###\31 524000769274953576 > .zEt8XvKfdS8MjZxVXTpB_CHw.zN8Acs6KUBcsiLlxASZk > .zN8Acs6KUBcsiLlxASZlUOG2S
+zen.yandex.ru###\31 524000769274953576 > .zEt8XvKfdS8MjZxVXTpB_CHw.zN8Acs6KUBcsiLlxASZk
+zen.yandex.ru###\31 524000769274953576
+zen.yandex.ru##div.feed__row:nth-of-type(55)
+
+! 2020-09-24 https://yandex.ru
+yandex.ru##._2WF5PC5PMD._2vmRAt0Ooy._2UF3XADhpo
