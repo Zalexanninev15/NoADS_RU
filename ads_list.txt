@@ -5047,3 +5047,6 @@ zen.yandex.ru##div.feed__row:nth-of-type(55)
 
 ! 2020-09-24 https://yandex.ru
 yandex.ru##._2WF5PC5PMD._2vmRAt0Ooy._2UF3XADhpo
+
+! 2020-09-25 https://yadi.sk
+yadi.sk##.js-prevent-mouse-selection.b2b-banner
