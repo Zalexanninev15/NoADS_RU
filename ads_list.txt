@@ -5050,3 +5050,47 @@ yandex.ru##._2WF5PC5PMD._2vmRAt0Ooy._2UF3XADhpo
 
 ! 2020-09-25 https://yadi.sk
 yadi.sk##.js-prevent-mouse-selection.b2b-banner
+
+! 2020-09-25 https://vk.com
+vk.com###ui_rmenu_coronavirus
+
+! 2020-09-25 https://ourcodeworld.com
+ourcodeworld.com##.vptcszmcn0pc
+ourcodeworld.com##.cc-color-override--1657739092.cc-right.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
+
+! 2020-09-25 https://windowsnotes.ru
+||windowsnotes.ru/wp-content/themes/metro/img/social/dark/icon-twitter.png$image
+windowsnotes.ru##.twitter.color-dark.social
+||windowsnotes.ru/wp-content/themes/metro/img/social/dark/icon-facebook.png$image
+windowsnotes.ru##.facebook.color-dark.social
+
+! 2020-09-27 https://money.yandex.ru
+money.yandex.ru##.kwQuAj.Gdpr__StyleContent-sc-1252o7i-1
+
+! 2020-09-29 https://losst.ru
+losst.ru##[href^="https://otus.ru/lessons/linux-professional/"]
+
+! 2020-09-30 https://www.dns-shop.ru
+||c.dns-shop.ru/original/st1/9989312d6431fd84a83b29729eb4c18f/b1b62374456371b80502770ee32bb4274203dec1c09a740fc2f268356ec39ed5.jpg$image
+www.dns-shop.ru##.items-group__banner
+
+! 2020-09-30 https://yandex.ru
+yandex.ru##.g69ZRuf5RIJPJm_B38lQ
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.g4ZRdqPY.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.s368ec749.pa0a83eb9.tea6652d3.rd4b1b093.w1371e1c8
+yandex.ru##.g4speqe1gPajutqk.g69ZRuf5RIJPJiP1m.card
+||yandex.ru/weather/_cry/c28e5514i/c8b39a4/M1LvegFe-P3h7dp-04b9Diot-obJqp5jAPEBQ_PMnCfqac02Nx2swFriS6xaDB2XEGngNKqiJeE96AtMrfnavyAToP2D2T8ptnsYf1RJdZxt_2vV3aIOIZFjD8W8xVyj7vtS96PAOsJUO8092wQZ2tG5YLj3teG2cSgeErNxh3Z6GCn9XEx_MeMq0mqYhmgH7b39FIEj2ePJZ5iPP9nTe7E7SzYp3a6dlTUIfU8CXNEWOzUxbe3ncKMpRJ44uVF79gOqqtuP6vR3qAhwEoI0gXy_f5NIvJ8iQSsPmHXO0i6gJsSqbl3jH8i0CewWFFGUyHjsrKx1Ij7iqAfOr25Hd6JB7_ODGWUwrrQPap5J_kDsPDtWgT1PrVA2mA7_j13ocGPS-GrGLQJRft85londX48s9fk272w7Y3YMFK_uR25zw6a_XZipdO-20rgTRPocO_z6AQol3nSBNsFYYVnTefFskjQqzafdUHICbNsCEBgYKSgx9CLnf77_gxYyONixY1LifROIImlquhVqRgQwXPNsNBEAppnvT3aJRbOIXyTu-oK47MVtHcigWGxPS13GFDksruys-vRiqB-R-7AVMreSv3CXm2apIH0JMIWR6Utw6rodT2yYIs10jA35AAuo6mOOe7cDIE8f9UrsUQjcBtOsdC6mKvq54rRMmng03fwyUaCxAwh-dHf3iX4TzCkKrSR8GIs8GnTJaw_Gs4vK4WXkCzRuQjuKHHcee1pVTFZX5vQ89rQmeaM3yRr48EA5fd4-6kIIfrX3v91t0ga9TjQ9f1zc_U6sESaORz0EHaGwKtDqL93mQkr4X_NbhJWaGa6kL6-s-fVzaY9Zr3kR9qBDvTRdD_80KqpY9hIT_MU3pL5AgOfS6ABqhoQ7BBVuc6wL92_A5cHfd8L1XcCaGgh7bLlhNeY1-WgF27IznrD_H2V8wdjsqe2xlHbYiDeEs-C1no8pGKGEpN8$image
+yandex.ru##.r5d817427
+yandex.ru##.o77a4c81.x3a3d43f7
+yandex.ru##.pf1dd198.q732402d.tea6652d3.rd4b1b093.w1371e1c8
+yandex.ru##.g6d1Jku9GJKnJjfBi_0ML.g6d1JkutQJ5P7hvdk8g0d_jTyqvI.g6d1J
+yandex.ru##.g_9xeufNaJuH7iOljxX8e9R_wrOxdJ6lpvQ6OIQ.map-left-pane__ad.g_9xeufNaJuH7iOljxX8e9Q
+
+! 2020-09-30 https://mail.yandex.ru
+mail.yandex.ru##.mail-App-Footer-Item_rek.mail-App-Footer-Item > .mail-ui-Link
+
+! 2020-09-30 https://www.zotac.com
+www.zotac.com##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-opt-out.cc-banner.cc-window
+
+! 2020-09-30 https://www.youtube.com
+www.youtube.com###gs_ok50
