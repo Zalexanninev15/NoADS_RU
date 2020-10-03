@@ -1,5 +1,5 @@
 # NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt)
-![](https://i.imgur.com/9yk8yUq.jpg)
+![](https://github.com/Zalexanninev15/NoADS_RU/blob/master/NoADS_RU%20Logo.png?raw=true)
 ## Описание
 Мой список для блокировки элементов на русскоязычных, и не только, сайтах. Список составляю вручную, поэтому блокируется и то, что не может заблокировать никакое расширение.
 
