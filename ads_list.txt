@@ -5094,3 +5094,75 @@ www.zotac.com##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-o
 
 ! 2020-09-30 https://www.youtube.com
 www.youtube.com###gs_ok50
+
+! 2020-09-30 https://vk.com
+vk.com###l_svd > .left_row > .left_fixer > .fl_l.left_icon
+vk.com###l_svd > .left_row > .left_fixer > .inl_bl.left_label
+vk.com###l_mk > .left_row > .left_fixer > .inl_bl.left_label
+vk.com###l_mk > .left_row > .left_fixer > .fl_l.left_icon
+
+! 2020-09-30 https://yandex.ru
+yandex.ru## ei-sconc
+yandex.ru##.Viewer-Icon_empty.Viewer-Icon_icon_favorites.Viewer-Icon.Icon
+
+! 2020-09-30 https://www.nvidia.ru
+www.nvidia.ru###sideNav > div:nth-of-type(3)
+
+! 2020-10-01 https://www.facebook.com
+www.facebook.com###u_0_20
+
+! 2020-10-03 https://4pda.ru
+||s.4pda.to/dry7VR1Q2yjymkDxh3ODoY3Oz13e.jpg?_=1601392388$image
+
+! 2020-10-03 https://yandex.ru
+yandex.ru##.rPBedUy8UBycM518Z_Pk
+yandex.ru##.jd1c9770f.d1bd86dbf.nd7ee8b15.n7756d555.p985a284e
+yandex.ru##.rNQuSQzwlGhwrygY.rPBedUy8UBycM9FII.card
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.rNlWRQic.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.i3664c3c7.ib9911bf1
+yandex.ru##.t91badc9e.n79e4602b.nd7ee8b15.n7756d555.p985a284e
+yandex.ru##.rPhyFeD4DAx0M8V8M8e6t.rPhyFeDoVACcaalgK_KC7qnnYzjM.rPhyF
+yandex.ru##.rPhyFeD4DAx0M50Ic.rPhyF
+
+! 2020-10-03 https://music.yandex.ru
+music.yandex.ru##.payment-plus__border
+music.yandex.ru##.payment-plus__content
+music.yandex.ru##.typo.payment-plus__wrapper
+music.yandex.ru##.full-height.payment-plus
+music.yandex.ru##.popup_modal.deco-pane-popup.popup.payment-plus-popup
+music.yandex.ru##.overlay_shown.deco-pane-overlay.overlay
+music.yandex.ru##.bar-below-configurable
+
+! 2020-10-03 https://pokupki.market.yandex.ru
+pokupki.market.yandex.ru##._11ZmuAyi66
+
+! 2020-10-03 https://market.yandex.ru
+||yastatic.net/market-skubi/_/7c73661.jpg$image
+market.yandex.ru##._1fNItgwdKT
+market.yandex.ru##.kln0yDAbxH
+market.yandex.ru##._240jfNaXRZ
+
+! 2020-10-03 https://yandex.ru
+yandex.ru##div.news-app__nyNu1MMaF-group.news-nyNu1MMaF-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(9) > div.mg-grid__col_sm_4.mg-grid__col_xs_4.mg-grid__col:nth-of-type(1)
+yandex.ru##div.news-app__nyNu1MMaF-group.news-nyNu1MMaF-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(9)
+
+! 2020-10-03 https://auto.ru
+auto.ru##div.Index__block:nth-of-type(11) > .Index__row
+auto.ru###peetf2jd05
+
+! 2020-10-03 https://rasp.yandex.ru
+rasp.yandex.ru##li.Footer__item:nth-of-type(5)
+
+! 2020-10-03 https://taxi.yandex.ru
+taxi.yandex.ru##.SignBoardBase_type_fk.SignBoardBase.BannerFK
+
+! 2020-10-03 https://zen.yandex.ru
+zen.yandex.ru###\32 838937692973873959 > .tJA9m4HowizBJM5f24AJPjHM.tARBt7395xThIet7h5ws > .tARBt7395xThIet7h5wtkvGIC > .tDhtq_0Q3yjhJbazp9gc
+zen.yandex.ru###\32 838937692973873959 > .tJA9m4HowizBJM5f24AJPjHM.tARBt7395xThIet7h5ws > .tARBt7395xThIet7h5wtkvGIC
+zen.yandex.ru###\32 838937692973873959 > .tJA9m4HowizBJM5f24AJPjHM.tARBt7395xThIet7h5ws
+zen.yandex.ru###\32 838937692973873959
+zen.yandex.ru##div.feed__row:nth-of-type(61)
+zen.yandex.ru###\34 038668146364786982 > .tJA9m4HowizBJM5f24AJPjHM.tARBt7395xThIet7h5ws > .tARBt7395xThIet7h5wtkvGIC > .tDhtq_0Q3yjhJbazp9gc
+zen.yandex.ru###\34 038668146364786982 > .tJA9m4HowizBJM5f24AJPjHM.tARBt7395xThIet7h5ws > .tARBt7395xThIet7h5wtkvGIC
+zen.yandex.ru###\34 038668146364786982 > .tJA9m4HowizBJM5f24AJPjHM.tARBt7395xThIet7h5ws
+zen.yandex.ru###\34 038668146364786982
