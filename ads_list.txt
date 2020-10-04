@@ -5181,3 +5181,8 @@ studio.youtube.com##.opened.ytcp-top-banner.style-scope
 ! 2020-10-04 https://zen.yandex.ru
 zen.yandex.ru##div.feed__row:nth-of-type(53)
 zen.yandex.ru##div.feed__row:nth-of-type(86)
+
+! 2020-10-04 https://cloud.mail.ru
+cloud.mail.ru##.TooltipAutumnSaleContent
+cloud.mail.ru##.TooltipAutumnSaleBox
+cloud.mail.ru##.Tooltip__arrow--d1fTW
