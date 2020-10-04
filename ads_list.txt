@@ -5166,3 +5166,18 @@ zen.yandex.ru###\34 038668146364786982 > .tJA9m4HowizBJM5f24AJPjHM.tARBt7395xThI
 zen.yandex.ru###\34 038668146364786982 > .tJA9m4HowizBJM5f24AJPjHM.tARBt7395xThIet7h5ws > .tARBt7395xThIet7h5wtkvGIC
 zen.yandex.ru###\34 038668146364786982 > .tJA9m4HowizBJM5f24AJPjHM.tARBt7395xThIet7h5ws
 zen.yandex.ru###\34 038668146364786982
+
+! 2020-10-04 https://ru.malwarebytes.com
+ru.malwarebytes.com##.optanon-alert-box-bg
+ru.malwarebytes.com##.hide-cookie-setting-button.optanon-alert-box-wrapper
+
+! 2020-10-04 https://4pda.ru
+||s.4pda.to/dry7Nd1W4Ta0SnsROagipTTxB7wc.jpg?_=1601392388$image
+
+! 2020-10-04 https://studio.youtube.com
+studio.youtube.com##.opened.ytcp-top-banner.style-scope > .ytcp-banner.style-scope.container
+studio.youtube.com##.opened.ytcp-top-banner.style-scope
+
+! 2020-10-04 https://zen.yandex.ru
+zen.yandex.ru##div.feed__row:nth-of-type(53)
+zen.yandex.ru##div.feed__row:nth-of-type(86)
