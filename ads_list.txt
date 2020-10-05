@@ -5186,3 +5186,28 @@ zen.yandex.ru##div.feed__row:nth-of-type(86)
 cloud.mail.ru##.TooltipAutumnSaleContent
 cloud.mail.ru##.TooltipAutumnSaleBox
 cloud.mail.ru##.Tooltip__arrow--d1fTW
+
+! 2020-10-04 https://www.ozon.ru
+www.ozon.ru##.b5y1.a7s5
+www.ozon.ru##div.b6e3.container:nth-of-type(1) > .c3t2
+www.ozon.ru##div.b6e2:nth-of-type(3) > .b5y > div.b5y1.ax0:nth-of-type(2) > .ax3.ax2
+www.ozon.ru##div.b6e3.container:nth-of-type(1) > div.b6e2:nth-of-type(3) > .b5y
+www.ozon.ru##.b0k.b0j3.b0i.b0h8 > div:nth-of-type(1)
+www.ozon.ru##div.b6e2:nth-of-type(2) > .b5y.b5y8 > .b5y1.c3t2
+www.ozon.ru##.b5y1.b6e7 > div.c3t2:nth-of-type(4)
+www.ozon.ru##.b0k.b0j3.b0i.b0h8 > div.b6e2:nth-of-type(4) > .b5y
+www.ozon.ru##div:nth-of-type(2) > .b6e2 > .b5y.b5y8 > div.b5y1.c3t2:nth-of-type(4)
+
+! 2020-10-04 https://ru.wikipedia.org
+ru.wikipedia.org##.cbnnr-main
+
+! 2020-10-05 https://ok.ru
+ok.ru##div.feed-w:nth-of-type(17) > .h-mod.__no-ava.js-video-scope.feed
+ok.ru##div.feed-w:nth-of-type(40) > .h-mod.__no-ava.js-video-scope.feed
+ok.ru##div.feed-w:nth-of-type(43) > .h-mod.__no-ava.js-video-scope.feed
+ok.ru##div.feed-w:nth-of-type(71) > .h-mod.__no-ava.js-video-scope.feed
+ok.ru##div.feed-w:nth-of-type(136) > .h-mod.__no-ava.js-video-scope.feed
+ok.ru##.h-mod.__no-ava.__photo-motivator.js-motivator-portlet-15137.js-video-scope.feed
+ok.ru##div.feed-w:nth-of-type(192) > .h-mod.__no-ava.js-video-scope.feed
+ok.ru##div.feed-w:nth-of-type(201) > .h-mod.__no-ava.js-video-scope.feed
+ok.ru##div.feed-w:nth-of-type(208) > .h-mod.__no-ava.js-video-scope.feed
