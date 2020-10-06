@@ -5257,3 +5257,16 @@ yandex.ru##.lbvbcf
 yandex.ru##a.link_js_inited.links-section__link.link_theme_normal.link:nth-of-type(1)
 yandex.ru##.b-page__container > .footer > .footer__links > div.links-section:nth-of-type(2) > .links-section__list > a.links-section__link.link_theme_normal.link:nth-of-type(1)
 yandex.ru##.content > .map-left-pane_js_inited.map-left-pane > .scrollable_has-scroll_no.scrollable_js_inited.scrollable > .scrollable__container > .scrollable__content > .map-left-pane__ad
+
+! 2020-10-06 https://4pda.ru
+||s.4pda.to/dry7Ndn2mFfTf0j1XB2evCsvEEDo.jpg?_=1601392388$image
+
+! 2020-10-06 https://yandex.ru
+yandex.ru##.divjson2-block_visible_yes.divjson2-block_js_inited.i-bem.block.mix-tabber_size_narrow.mix-tabber_theme_lightgray.i-delayed-bem.divjson2-block
+yandex.ru##div._mode_full-width-card.feed-item
+
+! 2020-10-06 https://music.yandex.ru
+music.yandex.ru##.bar-below_plus.bar-below
+
+! 2020-10-06 https://pokupki.market.yandex.ru
+pokupki.market.yandex.ru##body > div:nth-of-type(1) > .skuPage > div:nth-of-type(1) > ._2JU13fzXEa > ._1SEkJje5GJ > div:nth-of-type(1) > div
