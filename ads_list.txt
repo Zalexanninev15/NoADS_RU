@@ -5211,3 +5211,49 @@ ok.ru##.h-mod.__no-ava.__photo-motivator.js-motivator-portlet-15137.js-video-sco
 ok.ru##div.feed-w:nth-of-type(192) > .h-mod.__no-ava.js-video-scope.feed
 ok.ru##div.feed-w:nth-of-type(201) > .h-mod.__no-ava.js-video-scope.feed
 ok.ru##div.feed-w:nth-of-type(208) > .h-mod.__no-ava.js-video-scope.feed
+
+! 2020-10-05 https://yandex.ru
+yandex.ru###page > ._3b1VaYchoj > ._1RPcHiqvtz.nBjSWTvuiz > ._2aRzzMIe2G._1pqYHGJDa8 > div > ._2pnVt2pSFI._1Gjk57PrtF > ._1RBWGJi4Hg > ._3mvrIYzHLM.Hl2u5Vrrag > ._1GJTPr1KKm > div > .YEXOJpmftK > .FHZoJpDbXr > dcdhmefac-ojcoi
+yandex.ru###page > ._3b1VaYchoj > ._1RPcHiqvtz.nBjSWTvuiz > ._2aRzzMIe2G._1pqYHGJDa8 > div > ._2pnVt2pSFI._1Gjk57PrtF > ._1RBWGJi4Hg > ._3mvrIYzHLM.Hl2u5Vrrag > ._1GJTPr1KKm
+yandex.ru###page > ._3b1VaYchoj > ._1RPcHiqvtz.nBjSWTvuiz > ._2aRzzMIe2G._1pqYHGJDa8 > div > ._157-ANw7zl._1Gjk57PrtF > div._1FSePyqD3Z.Hl2u5Vrrag
+
+! 2020-10-05 https://psp-psv.net
+psp-psv.net###dle-content > center
+
+! 2020-10-05 https://docviewer.yandex.ru
+docviewer.yandex.ru###app > .with-bottom-native-direct.with-native-direct-after-title.with-native-direct.with-content-direct.small-header > .fullscreen-container._2CEesNCDUL_sehXWi8HgOS > .zveyifl.mfssixgt.jtzqhibk > egls-qpvsmllx
+docviewer.yandex.ru###app > .with-bottom-native-direct.with-native-direct-after-title.with-native-direct.with-content-direct.small-header > .fullscreen-container._2CEesNCDUL_sehXWi8HgOS > .vgmpcqusi.uecfzvyx.gzfmxxkzc > wlovfzzycn-jugvwoszx
+
+! 2020-10-06 http://candykond-sergio.blogspot.com
+candykond-sergio.blogspot.com##.singleton-element.cookie-choices-info
+
+! 2020-10-06 https://ryanwintaraga.wordpress.com
+ryanwintaraga.wordpress.com##.widget_eu_cookie_law_widget.widget > .ads-active.hide-on-button
+
+! 2020-10-06 http://pspfreakyd.blogspot.com
+pspfreakyd.blogspot.com##.singleton-element.cookie-choices-info
+
+! 2020-10-06 https://www.mediafire.com
+www.mediafire.com##.CookieAcceptance
+
+! 2020-10-06 https://docviewer.yandex.ru
+docviewer.yandex.ru###app > .with-bottom-native-direct.with-native-direct-after-title.with-native-direct.with-content-direct.small-header > .fullscreen-container._2CEesNCDUL_sehXWi8HgOS > .kyfmljf.hbuhsjfzu.mxkxg > jfhkpvm-mppay
+docviewer.yandex.ru###app > .with-bottom-native-direct.with-native-direct-after-title.with-native-direct.with-content-direct.small-header > .fullscreen-container._2CEesNCDUL_sehXWi8HgOS > .gxxelshzu.qsokvy.nefqidyck > zdzlaq-vynyyotbl
+
+! 2020-10-06 https://mail.yandex.ru
+mail.yandex.ru##.mail-HeaderServicesPopup.popup2_target_anchor.popup2_visible_yes.popup2_direction_bottom-center.popup2_theme_normal.popup2_view_default.popup2 > .mail-HeaderServicesPopup__container > div.mail-HeaderServicesPopup__list-item:nth-of-type(1) > a.mail-HeaderServicesPopup__item:nth-of-type(1) > .mail-HeaderServicesPopup__item__inner
+
+! 2020-10-06 https://www.youtube.com
+www.youtube.com###buttons > ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
+www.youtube.com###sections > ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+
+! 2020-10-06 https://vk.com
+vk.com###feed_rmenu > .ui_rmenu_sep
+
+! 2020-10-06 https://yandex.ru
+yandex.ru##.my0GUeLczl9qgMOdlzr8
+yandex.ru##.mwl2baKQCiuGHHb4.my0GUeLczl9qgIap0.card
+yandex.ru##.lbvbcf
+yandex.ru##a.link_js_inited.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.b-page__container > .footer > .footer__links > div.links-section:nth-of-type(2) > .links-section__list > a.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.content > .map-left-pane_js_inited.map-left-pane > .scrollable_has-scroll_no.scrollable_js_inited.scrollable > .scrollable__container > .scrollable__content > .map-left-pane__ad
