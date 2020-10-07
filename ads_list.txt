@@ -5270,3 +5270,36 @@ music.yandex.ru##.bar-below_plus.bar-below
 
 ! 2020-10-06 https://pokupki.market.yandex.ru
 pokupki.market.yandex.ru##body > div:nth-of-type(1) > .skuPage > div:nth-of-type(1) > ._2JU13fzXEa > ._1SEkJje5GJ > div:nth-of-type(1) > div
+
+! 2020-10-06 https://tproger.ru
+tproger.ru##.subscription-widget.float-widget-container.tproger-widget
+
+! 2020-10-06 https://ok.ru
+ok.ru##.h-mod.__no-ava.js-video-scope.feed
+
+! 2020-10-06 https://vk.com
+vk.com###feed_rows > div.feed_row > .feed_groups_recomm.page_block
+
+! 2020-10-06 https://ru.qr-code-generator.com
+ru.qr-code-generator.com###iubenda-cs-banner
+
+! 2020-10-07 https://ichip.ru
+ichip.ru##.disclamer
+ichip.ru##.icon-fb.color-fb.social-block__item.js-share-link
+ichip.ru##.icon-tw.color-tw.social-block__item.js-share-link
+ichip.ru##.layout > .page-content > .js-scroll-container > .container > .row > .flex-block.sticky_parent.article-default > .default-width > .default-width.article > .wrapper > .article-content > .sticky_parent.article-content__body > .sticky-init.hidden-xs.sticky.article-content__share > .social-block > li:nth-of-type(4)
+ichip.ru##.layout > .page-content > .js-scroll-container > .container > .row > .flex-block.sticky_parent.article-default > .default-width > .default-width.article > .wrapper > .article-content > .sticky_parent.article-content__body > .sticky-init.hidden-xs.sticky.article-content__share > .social-block > li:nth-of-type(1)
+
+! 2020-10-07 https://taxi.yandex.ru
+taxi.yandex.ru##.Page__footer.Footer_theme_white.Footer
+
+! 2020-10-07 https://travel.yandex.ru
+travel.yandex.ru##a._1MtxE.Link_lego._7U37p.Link_theme_pseudo.Link:nth-of-type(6)
+
+! 2020-10-07 https://yandex.ru
+yandex.ru##.body > .app > .sidebar-container > ._shown._name_traffic.sidebar-view > .sidebar-view__panel > ._width_narrow.scroll > .scroll__container > .scroll__content > .vtrl__ffcfbfafccbc > .u__feaccaaddbeb
+yandex.ru##.hzrcn__defbe
+
+! 2020-10-07 https://2ip.ru
+2ip.ru##.page-wrapper > .footer > .container > .footer-menu > ul > li > [href="/adv/"]
+2ip.ru##.page-wrapper > .footer > .container > .social > .social-list > .fb.social-item > [href="https://www.facebook.com/2ipru/"]
