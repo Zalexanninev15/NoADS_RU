@@ -55,10 +55,6 @@ drive.google.com##.Kk7lMc-Yb-Il-j
 drive.google.com##.wo35tf
 drive.google.com###lZwQje
 
-! 13.02.2020 https://vk.com
-vk.com##a.left_menu_nav:nth-of-type(3)
-vk.com##div.left_menu_nav_wrap:nth-of-type(4) > a.left_menu_nav:nth-of-type(1)
-
 ! 13.02.2020 https://4pda.ru
 ||s.4pda.to/dry7UiFpz28iVt3WhdUAxhEqSWpHqz2hl2MBv9g3ENlyLs14YRu8wdTW60.jpg$image
 4pda.ru###ASVyjffh5F
@@ -950,11 +946,6 @@ vk.com###ui_rmenu_lists
 ||vk.com/images/icons/msg_cog.png$image
 vk.com##._im_dialogs_settings.ui_grey_block.im-page--dialogs-footer
 vk.com###tbt_stickers_new > .ui_tab
-vk.com###ui_rmenu_comments
-vk.com###ui_rmenu_updates
-vk.com###ui_rmenu_likes
-||vk.com/images/icons/edit_newsfeed.png$image
-||vk.com/images/icons/edit_newsfeed.png$image
 vk.com###videocat_page_block_lives
 vk.com###videocat_page_block_games
 
@@ -2062,8 +2053,6 @@ vk.com##.stories_groups_block_stories_empty
 
 ! 09.03.2020 https://4pda.ru
 4pda.ru###gfooter > tbody > tr > td:nth-of-type(1)
-4pda.ru## .nowrap.min-90.green.g-btn
-4pda.ru## .nowrap.min-90.red.g-btn
 
 ! 10.03.2020 https://cloud.mail.ru
 cloud.mail.ru##.b-promo-banner-spring-discount__content
@@ -5095,14 +5084,7 @@ www.zotac.com##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-o
 ! 2020-09-30 https://www.youtube.com
 www.youtube.com###gs_ok50
 
-! 2020-09-30 https://vk.com
-vk.com###l_svd > .left_row > .left_fixer > .fl_l.left_icon
-vk.com###l_svd > .left_row > .left_fixer > .inl_bl.left_label
-vk.com###l_mk > .left_row > .left_fixer > .inl_bl.left_label
-vk.com###l_mk > .left_row > .left_fixer > .fl_l.left_icon
-
 ! 2020-09-30 https://yandex.ru
-yandex.ru## ei-sconc
 yandex.ru##.Viewer-Icon_empty.Viewer-Icon_icon_favorites.Viewer-Icon.Icon
 
 ! 2020-09-30 https://www.nvidia.ru
@@ -5247,9 +5229,6 @@ mail.yandex.ru##.mail-HeaderServicesPopup.popup2_target_anchor.popup2_visible_ye
 www.youtube.com###buttons > ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
 www.youtube.com###sections > ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 
-! 2020-10-06 https://vk.com
-vk.com###feed_rmenu > .ui_rmenu_sep
-
 ! 2020-10-06 https://yandex.ru
 yandex.ru##.my0GUeLczl9qgMOdlzr8
 yandex.ru##.mwl2baKQCiuGHHb4.my0GUeLczl9qgIap0.card
@@ -5277,9 +5256,6 @@ tproger.ru##.subscription-widget.float-widget-container.tproger-widget
 ! 2020-10-06 https://ok.ru
 ok.ru##.h-mod.__no-ava.js-video-scope.feed
 
-! 2020-10-06 https://vk.com
-vk.com###feed_rows > div.feed_row > .feed_groups_recomm.page_block
-
 ! 2020-10-06 https://ru.qr-code-generator.com
 ru.qr-code-generator.com###iubenda-cs-banner
 
@@ -5303,3 +5279,31 @@ yandex.ru##.hzrcn__defbe
 ! 2020-10-07 https://2ip.ru
 2ip.ru##.page-wrapper > .footer > .container > .footer-menu > ul > li > [href="/adv/"]
 2ip.ru##.page-wrapper > .footer > .container > .social > .social-list > .fb.social-item > [href="https://www.facebook.com/2ipru/"]
+
+! 2020-10-07 https://aliexpress.ru
+||campaign.aliexpress.com/wow/gcp/9ab458bc1f2b4b6885d4ece4e757d6a7_1598857100700?__poplayer_position_sign=pc_homepage&__prefix=&__poplayer_preserve_uuid=24317&wh_weex=true&wh_trace=true$subdocument
+
+! 2020-10-07 https://www.advancedinstaller.com
+www.advancedinstaller.com###ai-footer > .padd-y-10px.padd-x-20px
+
+! 2020-10-07 https://planshet-info.ru
+planshet-info.ru###post-3287 > .entry--item.entry-content > div:nth-of-type(43)
+planshet-info.ru##.la-93-d6b690001dgla-block__items
+
+! 2020-10-07 https://www.youtube.com
+www.youtube.com###contents > ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+
+! 2020-10-09 http://file.karelia.ru
+file.karelia.ru##.android_app
+
+! 2020-10-09 https://vk.com
+vk.com###l_covid19 > .left_row
+# vk.com##.ui_gallery__inner_cont
+vk.com##.ShortVideoFeedBlock__header
+vk.com###l_svd > .left_row
+vk.com###l_job > .left_row
+vk.com##.top_profile_vkconnect_descr
+
+! 2020-10-09 https://connect.vk.com
+connect.vk.com##section.Group--android.Group:nth-of-type(2) > .Group__inner--sizeX-regular.Group__inner
+connect.vk.com##.MenuItem__active.MenuItem.Cell--android.Cell > .Cell__in > .Tappable--inactive.SimpleCell--exp.SimpleCell--sizeX-regular.SimpleCell--android.SimpleCell.Tappable--android.Tappable
