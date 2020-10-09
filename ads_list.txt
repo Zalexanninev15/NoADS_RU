@@ -5324,3 +5324,20 @@ vk.com###l_ap > .left_row
 vk.com##.olist_item_wrap_on.olist_item_no_apps.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
 vk.com##.olist_item_wrap_on.olist_item_no_worki_app.olist_item_menu.olist_item_wrap
 vk.com##.olist_item_wrap_on.olist_item_no_apps.olist_item_menu.olist_item_wrap
+
+! 2020-10-09 https://m.vk.com
+m.vk.com##.mmi_ads > .al_menu.mm_item
+
+! 2020-10-09 https://vk.com
+vk.com##.ui_gallery__inner_cont
+
+! 2020-10-09 https://www.ableton.com
+www.ableton.com##.text-white.bg-black.abl-pa-20-ml.abl-pa-10
+
+! 2020-10-09 https://docviewer.yandex.ru
+docviewer.yandex.ru##.impnr.jkgnb.zkrsagerv
+docviewer.yandex.ru##lmradzq-ujtnoltvkt
+
+! 2020-10-09 https://yandex.ru
+yandex.ru##.z1nZlaYDq7fScwsRcllo
+yandex.ru##.z32pqeZPb8Ma7750.z1nZlaYDq7fSc0clN.card
