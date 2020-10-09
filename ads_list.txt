@@ -5307,3 +5307,20 @@ vk.com##.top_profile_vkconnect_descr
 ! 2020-10-09 https://connect.vk.com
 connect.vk.com##section.Group--android.Group:nth-of-type(2) > .Group__inner--sizeX-regular.Group__inner
 connect.vk.com##.MenuItem__active.MenuItem.Cell--android.Cell > .Cell__in > .Tappable--inactive.SimpleCell--exp.SimpleCell--sizeX-regular.SimpleCell--android.SimpleCell.Tappable--android.Tappable
+
+! 2020-10-09 https://vk.com
+vk.com###pv_tag_link
+vk.com##.audio_promo
+vk.com###l_mk > .left_row
+||vk.com/images/icons/common.png?6$image
+||vk.com/images/icons/common.png?6$image
+vk.com###l_mk > .left_settings
+vk.com##.olist_item_no_ads_link.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
+vk.com##.olist_item_wrap_on.olist_item_no_covid19_app.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
+vk.com##.olist_item_wrap_on.olist_item_no_worki_app.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
+vk.com##.olist_item_wrap_on.olist_item_no_market.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
+vk.com##.olist_item_wrap_on.olist_item_no_clips.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
+vk.com###l_ap > .left_row
+vk.com##.olist_item_wrap_on.olist_item_no_apps.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
+vk.com##.olist_item_wrap_on.olist_item_no_worki_app.olist_item_menu.olist_item_wrap
+vk.com##.olist_item_wrap_on.olist_item_no_apps.olist_item_menu.olist_item_wrap
