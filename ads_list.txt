@@ -5341,3 +5341,12 @@ docviewer.yandex.ru##lmradzq-ujtnoltvkt
 ! 2020-10-09 https://yandex.ru
 yandex.ru##.z1nZlaYDq7fScwsRcllo
 yandex.ru##.z32pqeZPb8Ma7750.z1nZlaYDq7fSc0clN.card
+
+! 2020-10-10 https://www.w3resource.com
+www.w3resource.com##.cc_container--open.cc_container.cc_banner
+
+! 2020-10-10 https://4pda.ru
+||s.4pda.to/dry7HxlYnTRs9eN7QZYbknleuldcAs82QQKC0FZTcFe0BMff5DpmPA73.jpg$image
+||s.4pda.to/dry7HxlYnTRs9eN7QZYbknleuldcAs82QQKC0FZTcFe0BMff5DpmPA73.jpg$image
+4pda.ru##.i29Se6dMPBjRCUoZZKJOYF0bdmx
+||s.4pda.to/dry7HxlYnTRs9eN7QZYbknleuldcAs82QQKC0FZTcFe0BMff5DpmPA73.jpg$image
