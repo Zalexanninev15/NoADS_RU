@@ -5350,3 +5350,16 @@ www.w3resource.com##.cc_container--open.cc_container.cc_banner
 ||s.4pda.to/dry7HxlYnTRs9eN7QZYbknleuldcAs82QQKC0FZTcFe0BMff5DpmPA73.jpg$image
 4pda.ru##.i29Se6dMPBjRCUoZZKJOYF0bdmx
 ||s.4pda.to/dry7HxlYnTRs9eN7QZYbknleuldcAs82QQKC0FZTcFe0BMff5DpmPA73.jpg$image
+
+! 2020-10-11 https://qiwi.com
+qiwi.com##.cookies-self-300
+
+! 2020-10-12 https://www.comss.ru
+www.comss.ru##.hidden-sm.hidden-xs.container-fluid
+
+! 2020-10-12 https://4pda.ru
+||s.4pda.to/dry7VR1Q2GLZX5FUoSerUiuIFOo.jpg?_=1602444622$image
+
+! 2020-10-12 https://yandex.ru
+yandex.ru##.ujnFKbnQh0SZAKlVjuu5AnA_page_preview.ujnFKbnQh0SZAKlVjuu5AnA_native.ujnFKbnQh0SZAKlVjuu5AnA_platform_desktop.ujnFKbnQh0SZAKlVjuu5AnA_position_1.ujnFKbnQh0SZAKlVjuu5AnA_placement_under-player.ujnFKbnQh0SZAKlVjuu5AnA.ujnFKbnQhwT1cN1dp
+yandex.ru##.ujnFKbnQh0SZAKlVjuu5AnA_page_preview.ujnFKbnQh0SZAKlVjuu5AnA_native.ujnFKbnQh0SZAKlVjuu5AnA_platform_desktop.ujnFKbnQh0SZAKlVjuu5AnA_position_1.ujnFKbnQh0SZAKlVjuu5AnA_placement_right-column.ujnFKbnQh0SZAKlVjuu5AnA.ujnFKbnQhwT1cN1dp
