@@ -5363,3 +5363,13 @@ www.comss.ru##.hidden-sm.hidden-xs.container-fluid
 ! 2020-10-12 https://yandex.ru
 yandex.ru##.ujnFKbnQh0SZAKlVjuu5AnA_page_preview.ujnFKbnQh0SZAKlVjuu5AnA_native.ujnFKbnQh0SZAKlVjuu5AnA_platform_desktop.ujnFKbnQh0SZAKlVjuu5AnA_position_1.ujnFKbnQh0SZAKlVjuu5AnA_placement_under-player.ujnFKbnQh0SZAKlVjuu5AnA.ujnFKbnQhwT1cN1dp
 yandex.ru##.ujnFKbnQh0SZAKlVjuu5AnA_page_preview.ujnFKbnQh0SZAKlVjuu5AnA_native.ujnFKbnQh0SZAKlVjuu5AnA_platform_desktop.ujnFKbnQh0SZAKlVjuu5AnA_position_1.ujnFKbnQh0SZAKlVjuu5AnA_placement_right-column.ujnFKbnQh0SZAKlVjuu5AnA.ujnFKbnQhwT1cN1dp
+
+! 2020-10-14 https://ru.msi.com
+ru.msi.com###ccc-notify
+
+! 2020-10-14 https://www.sega60th.com
+www.sega60th.com##.ccc-content--dark.ccc-notify__notify
+
+! 2020-10-15 https://windows64.net
+||windows64.net/123456.jpg$image
+||windows64.net/123456.jpg$image
