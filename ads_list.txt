@@ -5373,3 +5373,11 @@ www.sega60th.com##.ccc-content--dark.ccc-notify__notify
 ! 2020-10-15 https://windows64.net
 ||windows64.net/123456.jpg$image
 ||windows64.net/123456.jpg$image
+
+! 2020-10-16 https://yandex.ru
+yandex.ru##.uATgY02JDqj10SQcIi5s
+yandex.ru##.uCCQXw3FytwZTZF4.uATgY02JDqj10WgoZ.card
+
+! 2020-10-19 https://4pda.ru
+||s.4pda.to/dry7VR1Q2ur82pOQuD3tR5Vk9NA.jpg?_=1602867884$image
+||s.4pda.to/dry7VR1Q2Gb0MHDRxBCldZWEPVz1.jpg?_=1602865524$image
