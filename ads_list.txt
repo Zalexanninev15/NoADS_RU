@@ -5404,3 +5404,31 @@ docviewer.yandex.ru##.daemrs.tguhdrcr.hiccekpu > bgbiamho-uo
 
 ! 2020-10-21 https://www.youtube.com
 www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
+
+! 2020-10-21 https://yandex.ru
+yandex.ru##.wUya4z8Kmyv_DHWoHVec
+yandex.ru##.wWjO339GX18TkMDM.wUya4z8Kmyv_DDmcW.card
+yandex.ru##div.news-app__ae65aq9rc-group.news-ae65aq9rc-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(9)
+yandex.ru##div.news-app__ae65aq9rc-group.news-ae65aq9rc-group.mg-grid__row_gap_8.mg-grid__row
+
+! 2020-10-21 https://www.kinopoisk.ru
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footeru4m8ouf5vt6be3oapid__content-item:nth-of-type(2) > ._3Rkutv2b09UBzWZI15ckk9.footeru4m8ouf5vt6be3oapid__content-link
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footeru4m8ouf5vt6be3oapid__content-item:nth-of-type(7) > ._3Rkutv2b09UBzWZI15ckk9.footeru4m8ouf5vt6be3oapid__content-link
+
+! 2020-10-21 https://travel.yandex.ru
+travel.yandex.ru##a._1MtxE.Link_lego._7U37p.Link_theme_pseudo.Link:nth-of-type(5)
+
+! 2020-10-21 https://afisha.yandex.ru
+afisha.yandex.ru##.zeIgS295eeviwcFPU0dlVHMSENeRG_Yo.za5sZ2t9ceviwcFPU0Q.zeIgS295eeviwcFPU0dlKFdKcLs9g8JZJIMT0dPa8iA.zeIgS295eeviwcFPU0Q
+
+! 2020-10-21 https://school.yandex.ru
+school.yandex.ru##.app__content > .footer > .footer__layout.layout > .footer__item.social-networks > li.social-networks__social-network:nth-of-type(3) > .social-networks__link_name_Твиттер.social-networks__link
+school.yandex.ru##.social-networks__link_name_Фейсбук.social-networks__link
+
+! 2020-10-21 https://yandex.ru
+yandex.ru##div.description-card:nth-of-type(6)
+
+! 2020-10-21 https://edadeal.ru
+edadeal.ru##.b-download-banner__root
+||yastatic.net/s3/edadeal-public-static/web/moby/d3118de674649/static/img/icons/socials/twitter.svg$image
+||yastatic.net/s3/edadeal-public-static/web/moby/d3118de674649/static/img/icons/socials/twitter.svg$image
