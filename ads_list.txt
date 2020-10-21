@@ -5381,3 +5381,26 @@ yandex.ru##.uCCQXw3FytwZTZF4.uATgY02JDqj10WgoZ.card
 ! 2020-10-19 https://4pda.ru
 ||s.4pda.to/dry7VR1Q2ur82pOQuD3tR5Vk9NA.jpg?_=1602867884$image
 ||s.4pda.to/dry7VR1Q2Gb0MHDRxBCldZWEPVz1.jpg?_=1602865524$image
+
+! 2020-10-19 https://yandex.ru
+yandex.ru##.dsJBCQ2t1NUr5fLFiLyI
+yandex.ru##.duYxNU3hEKHHeUeg.dsJBCQ2t1NUr5b7xz.card
+
+! 2020-10-19 https://pokupki.market.yandex.ru
+pokupki.market.yandex.ru##div._3P0bsUXnav:nth-of-type(6)
+
+! 2020-10-19 https://www.codeproject.com
+www.codeproject.com##.cc-color-override--316233370.cc-bottom.cc-theme-edgeless.cc-type-opt-in.cc-banner.cc-window
+
+! 2020-10-19 https://4pda.ru
+||s.4pda.to/dry7Nd1W4TqWDwasLPFLy51jixy9.jpg?_=1602867884$image
+
+! 2020-10-20 https://winaero.com
+winaero.com###cookie-law-info-bar
+
+! 2020-10-21 https://docviewer.yandex.ru
+docviewer.yandex.ru##.oofihmhrc.kfvbvq.hiccekpu > bgbiamho-uo
+docviewer.yandex.ru##.daemrs.tguhdrcr.hiccekpu > bgbiamho-uo
+
+! 2020-10-21 https://www.youtube.com
+www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
