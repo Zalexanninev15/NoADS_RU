@@ -1,3 +1,8 @@
+! List: NoADS_RU
+! Author: Zalexanninev15
+! License: MIT
+! GitHub: https://github.com/Zalexanninev15/NoADS_RU
+
 ! 13.02.2020 https://yandex.ru
 yandex.ru##.ya-chat-button__container_size_normal.ya-chat-button__container
 yandex.ru##.ya-chat-widget_size_normal.ya-chat-widget_theme_light.ya-chat-widget_desktop.ya-chat-widget
@@ -5432,3 +5437,19 @@ yandex.ru##div.description-card:nth-of-type(6)
 edadeal.ru##.b-download-banner__root
 ||yastatic.net/s3/edadeal-public-static/web/moby/d3118de674649/static/img/icons/socials/twitter.svg$image
 ||yastatic.net/s3/edadeal-public-static/web/moby/d3118de674649/static/img/icons/socials/twitter.svg$image
+
+! 2020-10-21 https://vk.com
+vk.com##a.left_menu_nav:nth-of-type(3)
+
+! 2020-10-22 https://4pda.ru
+||s.4pda.to/dry7VR1Q2ObA7wFz1YKyNhz0p0257.jpg?_=1603361172$image
+
+! 2020-10-22 https://docviewer.yandex.ru
+docviewer.yandex.ru##.howbxszh.miizzamb.qqvqelmhv > div
+
+! 2020-10-28 https://4pda.ru
+||s.4pda.to/dry7VR1Q2SjUblEz0aRahD2JGAnr.jpg?_=1603894256$image
+
+! 2020-10-28 https://yandex.ru
+yandex.ru##.yaTogwTSgJjapC4RAa7I
+yandex.ru##.y8CYv0SeROwSOJt0.yaTogwTSgJjapGIlR.card
