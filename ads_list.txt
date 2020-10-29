@@ -5454,3 +5454,22 @@ docviewer.yandex.ru##.howbxszh.miizzamb.qqvqelmhv > div
 ! 2020-10-28 https://yandex.ru
 yandex.ru##.yaTogwTSgJjapC4RAa7I
 yandex.ru##.y8CYv0SeROwSOJt0.yaTogwTSgJjapGIlR.card
+
+! 2020-10-29 https://www.fanatical.com
+www.fanatical.com##.show.collapse
+
+! 2020-10-29 https://yoomoney.ru
+yoomoney.ru##.cBgfcj.Footer__StyledFooterFixedWrapper-ydh5x-6
+yoomoney.ru##.gVgUDw.MainPagestyles__StyledMobileTopCell-ijxvyz-5.MainPagestyles__StyledCell-ijxvyz-2
+yoomoney.ru##.YUwMP.platforms__StyledHideTouchPhone-z6cnhr-0 > div.hsWvuB.FooterSection__StyledFooterSection-sc-20rxww-0:nth-of-type(2) > div
+yoomoney.ru###promo > div
+||yoomoney.ru/layout-service-portal/static/icons/social-icon_clear_twitter-primary.svg$image
+||yoomoney.ru/layout-service-portal/static/icons/social-icon_clear_twitter-primary.svg$image
+||yoomoney.ru/layout-service-portal/static/icons/social-icon_clear_twitter-primary.svg$image
+||yoomoney.ru/layout-service-portal/static/icons/social-icon_clear_twitter-primary.svg$image
+||yoomoney.ru/layout-service-portal/static/icons/social-icon_clear_twitter-primary.svg$image
+||yoomoney.ru/layout-service-portal/static/icons/social-icon_clear_twitter-primary.svg$image
+yoomoney.ru##.dPDgDy.Footer__StyledFooterWrap-ydh5x-1 > div:nth-of-type(3)
+
+! 2020-10-29 https://vgtimes.ru
+vgtimes.ru##.show.write_gr
