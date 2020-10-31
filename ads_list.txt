@@ -5473,3 +5473,14 @@ yoomoney.ru##.dPDgDy.Footer__StyledFooterWrap-ydh5x-1 > div:nth-of-type(3)
 
 ! 2020-10-29 https://vgtimes.ru
 vgtimes.ru##.show.write_gr
+
+! 2020-10-30 https://fex.net
+fex.net##.padding_vertical_25.container_width_primary.container.flex > .margin_left_auto
+
+! 2020-10-30 https://4pda.ru
+||s.4pda.to/dry7VR1Q2SjUblEz0aRahD2JGAnr.jpg?_=1604010029$image
+
+! 2020-10-31 https://yandex.ru
+yandex.ru##.yabp6ey5jNcBdmwHH55I
+yandex.ru##.y8KZ1az1SKPt6tlg.yabp6ey5jNcBdiAzW.card
+yandex.ru##.turbo-myUKtR3Iq__item_rendered.turbo-myUKtR3Iq__item_type_yandex.turbo-myUKtR3Iq__item
