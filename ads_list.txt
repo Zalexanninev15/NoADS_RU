@@ -5500,6 +5500,5 @@ duckduckgo.com##.results--powered
 duckduckgo.com##.js-badge-link.badge-link--full.badge-link
 duckduckgo.com##.content-info__title
 
-! 2020-10-31 https://starwars.fandom.com
-starwars.fandom.com##.warn.wds-warning.wds-banner-notification
-starwars.fandom.com##.warn.wds-warning.wds-banner-notification
+! 2020-10-31 https://community.fandom.com/
+community.fandom.com##.warn.wds-warning.wds-banner-notification
