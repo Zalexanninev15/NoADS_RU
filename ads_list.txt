@@ -5484,3 +5484,22 @@ fex.net##.padding_vertical_25.container_width_primary.container.flex > .margin_l
 yandex.ru##.yabp6ey5jNcBdmwHH55I
 yandex.ru##.y8KZ1az1SKPt6tlg.yabp6ey5jNcBdiAzW.card
 yandex.ru##.turbo-myUKtR3Iq__item_rendered.turbo-myUKtR3Iq__item_type_yandex.turbo-myUKtR3Iq__item
+
+! 2020-10-31 https://msreview.net
+msreview.net##.pulse-widget
+msreview.net##div.block:nth-of-type(3)
+
+! 2020-10-31 https://4pda.ru
+||s.4pda.to/dry7VR1Q2SjUblEz0aRahD2JGAnr.jpg?_=1604086017$image
+
+! 2020-10-31 https://duckduckgo.com
+duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
+duckduckgo.com##.header__label.showcase.header--aside__item > .js-hl-button.header__clickable > .js-popout.popout-trig
+duckduckgo.com##.header__label.showcase.header--aside__item > .js-hl-button.header__clickable > .js-popout-trig
+duckduckgo.com##.results--powered
+duckduckgo.com##.js-badge-link.badge-link--full.badge-link
+duckduckgo.com##.content-info__title
+
+! 2020-10-31 https://starwars.fandom.com
+starwars.fandom.com##.warn.wds-warning.wds-banner-notification
+starwars.fandom.com##.warn.wds-warning.wds-banner-notification
