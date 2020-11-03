@@ -5500,5 +5500,31 @@ duckduckgo.com##.results--powered
 duckduckgo.com##.js-badge-link.badge-link--full.badge-link
 duckduckgo.com##.content-info__title
 
-! 2020-10-31 https://community.fandom.com/
+! 2020-10-31 https://community.fandom.com
 community.fandom.com##.warn.wds-warning.wds-banner-notification
+
+! 2020-11-01 https://varlamov.ru
+varlamov.ru##.j-w--s2-varlamov-after-first-widget.enwp50l1.j--w.j-w
+varlamov.ru##.es776lfzisg3e4k.j-beta-w.j-w
+
+! 2020-11-02 https://www.techpowerup.com
+www.techpowerup.com##.clearfix.site-header
+
+! 2020-11-02 https://cloud.mail.ru
+cloud.mail.ru##.b-react-component > div.TreeNode__root--22m4E:nth-of-type(4) > .TreeNode__item--24fww
+
+! 2020-11-02 https://disk.yandex.ru
+disk.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(3)
+
+! 2020-11-02 https://drive.google.com
+drive.google.com##.g-Yd-Na.g-Yd-Ya.a-Ff-B.a-la-B.g-Yd
+
+! 2020-11-03 https://www.youtube.com
+www.youtube.com##.ytd-popup-container.style-scope > .ytd-mealbar-promo-renderer.style-scope
+
+! 2020-11-03 https://yandex.ru
+yandex.ru##.tooltip__buttons
+yandex.ru##.typo_line_m.typo_text_s.typo.label_horizontal-padding_m.label_align_top.label_theme_cinema.label
+yandex.ru###bk-container
+yandex.ru##.hDNzEQ4uxiP5ShrQTMM4
+yandex.ru##.hBcDLU5iAlcV1qa0.hDNzEQ4uxiP5SlbkC.card
