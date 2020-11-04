@@ -5528,3 +5528,22 @@ yandex.ru##.typo_line_m.typo_text_s.typo.label_horizontal-padding_m.label_align_
 yandex.ru###bk-container
 yandex.ru##.hDNzEQ4uxiP5ShrQTMM4
 yandex.ru##.hBcDLU5iAlcV1qa0.hDNzEQ4uxiP5SlbkC.card
+
+! 2020-11-04 https://4pda.ru
+||s.4pda.to/dry7VR1Q2Kz0sX5FUoSerz1yGMbPH.jpg?_=1604325271$image
+
+! 2020-11-04 https://telemost.yandex.ru
+telemost.yandex.ru##.promo
+telemost.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderService_theme_dark.PSHeaderService:nth-of-type(3)
+
+! 2020-11-04 https://calendar.yandex.ru
+calendar.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(3)
+
+! 2020-11-04 https://disk.yandex.ru
+disk.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
+
+! 2020-11-04 https://yandex.ru
+yandex.ru##.yamb-contacts-block
+
+! 2020-11-04 https://youla.ru
+youla.ru##.ezLUQn.sc-jxsHlP
