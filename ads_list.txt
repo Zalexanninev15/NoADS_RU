@@ -5547,3 +5547,21 @@ yandex.ru##.yamb-contacts-block
 
 ! 2020-11-04 https://youla.ru
 youla.ru##.ezLUQn.sc-jxsHlP
+
+! 2020-11-06 https://4pda.ru
+||s.4pda.to/dry7VR1Q285QFkjhZNwOp1Lz2YLF.jpg?_=1604331052$image
+
+! 2020-11-09 https://linuxmint.com
+linuxmint.com##.cookiebanner
+
+! 2020-11-09 https://4pda.ru
+||s.4pda.to/dry7VR1Q2ObA7wFz1YKyNhz0p0257.jpg?_=1604906165$image
+
+! 2020-11-09 https://www.e-katalog.ru
+www.e-katalog.ru###list_form1 > .model-short-div
+www.e-katalog.ru##.rb-div
+www.e-katalog.ru##.left-art-block
+www.e-katalog.ru##div.va-m.table-cell
+
+! 2020-11-10 https://4pda.ru
+||s.4pda.to/dry7Nd1W4TqY0dJ27KIWDz1hCz2LNB.jpg?_=1604906165$image
