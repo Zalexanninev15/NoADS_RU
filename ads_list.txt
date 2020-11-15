@@ -5565,3 +5565,23 @@ www.e-katalog.ru##div.va-m.table-cell
 
 ! 2020-11-10 https://4pda.ru
 ||s.4pda.to/dry7Nd1W4TqY0dJ27KIWDz1hCz2LNB.jpg?_=1604906165$image
+
+! 2020-11-11 https://tools.seo-zona.ru
+tools.seo-zona.ru###ochevidec
+
+! 2020-11-12 https://disk.yandex.ru
+||yastatic.net/disk/_/_33COsRwU_2Y4hJBKrtFFmqi2sVj.svg$image
+disk.yandex.ru##.albums2-onboarding-base__text
+||yastatic.net$image
+
+! 2020-11-12 https://www.telerik.com
+www.telerik.com##.vertical-align-content.bottom.otFlat
+
+! 2020-11-13 https://tomassetti.me
+tomassetti.me###cookie-law-info-bar
+
+! 2020-11-13 https://programmersforum.ru
+||programmersforum.ru/onehostplanet.com.gif$image
+
+! 2020-11-15 https://4pda.ru
+||s.4pda.to/dry7VR1Q2GrY3GETqJm9O3m6jjZ.jpg?_=1604058495$image
