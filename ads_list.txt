@@ -5585,3 +5585,24 @@ tomassetti.me###cookie-law-info-bar
 
 ! 2020-11-15 https://4pda.ru
 ||s.4pda.to/dry7VR1Q2GrY3GETqJm9O3m6jjZ.jpg?_=1604058495$image
+
+! 2020-11-15 https://howdyho.net
+howdyho.net##section.default:nth-of-type(3)
+
+! 2020-11-15 https://4pda.ru
+||s.4pda.to/dry7Nl1fz0O5QFkjh3d2qTgtApUT.jpg?_=1604906165$image
+||s.4pda.to/dry7Nl1fz0GLoB4i8LWEgkKqCSsv.jpg?_=1604058495$image
+
+! 2020-11-17 https://4pda.ru
+||s.4pda.to/dry7Nl1fz04z0sX5FUIiGPGNoZqI3.jpg?_=1605535141$image
+
+! 2020-11-19 https://docviewer.yandex.ru
+docviewer.yandex.ru##.ctykbeap.vhkoe.mfjcbu > div
+docviewer.yandex.ru##.hekwsbd.takyfuzje.mfjcbu > div
+docviewer.yandex.ru##.entfdeu.rjazqx.dxupyf > div
+docviewer.yandex.ru##.ykbwitiuh.pkxtkm.dxupyf
+docviewer.yandex.ru##.fdcsegem.qfhory.sfoonqc
+docviewer.yandex.ru##.bvofssx.fapxocwv.sfoonqc
+
+! 2020-11-19 https://4pda.ru
+||s.4pda.to/dry7Nl1fz00rY3GETKZ8bseIpycn.jpg?_=1605258145$image
