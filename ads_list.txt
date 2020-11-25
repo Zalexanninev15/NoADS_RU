@@ -5606,3 +5606,28 @@ docviewer.yandex.ru##.bvofssx.fapxocwv.sfoonqc
 
 ! 2020-11-19 https://4pda.ru
 ||s.4pda.to/dry7Nl1fz00rY3GETKZ8bseIpycn.jpg?_=1605258145$image
+||s.4pda.to/dry7VR1Q20LoB4i8rGs60z2MvDz0h.jpg?_=1605258145$image
+
+! 2020-11-19 https://www.avito.ru
+www.avito.ru##.top-banner-root-1qg8R
+
+! 2020-11-19 https://win10tweaker.pro
+win10tweaker.pro###rev_slider_9_2 > rs-slides > rs-slide > rs-layer-wrap.rs-parallax-wrap > rs-loop-wrap > rs-mask-wrap > .rs-waction.rs-layer
+
+! 2020-11-20 https://convertio.co
+convertio.co##.rate-us
+
+! 2020-11-23 https://4pda.ru
+||s.4pda.to/dry7Nd1W4TqW4j2f5nBz2z06dIiRCH.jpg?_=1605886681$image
+
+! 2020-11-24 https://4pda.ru
+||s.4pda.to/dry7VR1Q2ubgNoRStLz2HabFcz0bN.jpg?_=1605886681$image
+
+! 2020-11-25 https://mail.yandex.ru
+mail.yandex.ru##.ns-view-id-94.ns-view-abagxh
+mail.yandex.ru##.js-skin-saver-box.mail-SkinSaver-Box.ns-view-id-96.ns-view-skin-saver-box
+mail.yandex.ru##.ns-view-id-93.ns-view-mail-pro-left-column-button
+mail.yandex.ru##.ns-view-id-138
+mail.yandex.ru##.js-skin-saver-box.mail-SkinSaver-Box
+mail.yandex.ru##.ns-view-mail-pro-left-column-button
+mail.yandex.ru##.ns-view-hwletv
