@@ -5631,3 +5631,15 @@ mail.yandex.ru##.ns-view-id-138
 mail.yandex.ru##.js-skin-saver-box.mail-SkinSaver-Box
 mail.yandex.ru##.ns-view-mail-pro-left-column-button
 mail.yandex.ru##.ns-view-hwletv
+
+! 2020-11-25 https://4pda.ru
+||s.4pda.to/dry7VR1Q2ubgNoRStLz2HabFcz0bN.jpg?_=1606287638$image
+
+! 2020-11-25 https://youhack.xyz
+youhack.xyz##li.message:nth-of-type(2) > div
+
+! 2020-11-25 https://yoomoney.ru
+yoomoney.ru##.money-app-promo2_visible_yes
+
+! 2020-11-26 https://4pda.ru
+||s.4pda.to/dry7VR1Q2yjz1rdQVnQdj2QlsrHb.jpg?_=1605886666$image
