@@ -4,21 +4,6 @@
 ! GitHub: https://github.com/Zalexanninev15/NoADS_RU
 ! Donate: https://money.yandex.ru/to/410015106319420
 
-! 13.02.2020 https://yandex.ru
-yandex.ru##.ya-chat-button__container_size_normal.ya-chat-button__container
-yandex.ru##.ya-chat-widget_size_normal.ya-chat-widget_theme_light.ya-chat-widget_desktop.ya-chat-widget
-yandex.ru##.link_js_inited.i-bem.serp-footer__title.serp-footer__link_title_yes.serp-footer__link.link_theme_clear.link
-||yastatic.net/s3/web4static/_/v2/GkxqMj-ifhs3E22N-cguALp9_Ds.svg$image
-||yastatic.net/s3/web4static/_/v2/1HT20TswAuJMaFa_CGaeX-JGtlA.svg$image
-yandex.ru##.link__inner
-||yastatic.net/s3/web4static/_/v2/tRIc_qs42oQOPY8EVObblQr-c5w.svg$image
-yandex.ru##.yaplus__badge-main
-yandex.ru##.link_js_inited.i-bem.header-favorites-button__link.link_theme_normal.link
-yandex.ru##.home-link_intense-blue_yes.home-link
-yandex.ru##.media-infinity-footer__part_spacer.media-infinity-footer__part
-yandex.ru##.media-infinity-footer__content-inner
-yandex.ru##.link_gray_yes.headline__privacy.home-link
-
 ! 13.02.2020 https://disk.yandex.ru
 disk.yandex.ru##.link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon > path
 disk.yandex.ru##.hover-tooltip__tooltip-anchor > .link_theme_dark.link.control > .link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon
@@ -5200,11 +5185,6 @@ ok.ru##div.feed-w:nth-of-type(192) > .h-mod.__no-ava.js-video-scope.feed
 ok.ru##div.feed-w:nth-of-type(201) > .h-mod.__no-ava.js-video-scope.feed
 ok.ru##div.feed-w:nth-of-type(208) > .h-mod.__no-ava.js-video-scope.feed
 
-! 2020-10-05 https://yandex.ru
-yandex.ru###page > ._3b1VaYchoj > ._1RPcHiqvtz.nBjSWTvuiz > ._2aRzzMIe2G._1pqYHGJDa8 > div > ._2pnVt2pSFI._1Gjk57PrtF > ._1RBWGJi4Hg > ._3mvrIYzHLM.Hl2u5Vrrag > ._1GJTPr1KKm > div > .YEXOJpmftK > .FHZoJpDbXr > dcdhmefac-ojcoi
-yandex.ru###page > ._3b1VaYchoj > ._1RPcHiqvtz.nBjSWTvuiz > ._2aRzzMIe2G._1pqYHGJDa8 > div > ._2pnVt2pSFI._1Gjk57PrtF > ._1RBWGJi4Hg > ._3mvrIYzHLM.Hl2u5Vrrag > ._1GJTPr1KKm
-yandex.ru###page > ._3b1VaYchoj > ._1RPcHiqvtz.nBjSWTvuiz > ._2aRzzMIe2G._1pqYHGJDa8 > div > ._157-ANw7zl._1Gjk57PrtF > div._1FSePyqD3Z.Hl2u5Vrrag
-
 ! 2020-10-05 https://psp-psv.net
 psp-psv.net###dle-content > center
 
@@ -5235,20 +5215,8 @@ mail.yandex.ru##.mail-HeaderServicesPopup.popup2_target_anchor.popup2_visible_ye
 www.youtube.com###buttons > ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
 www.youtube.com###sections > ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 
-! 2020-10-06 https://yandex.ru
-yandex.ru##.my0GUeLczl9qgMOdlzr8
-yandex.ru##.mwl2baKQCiuGHHb4.my0GUeLczl9qgIap0.card
-yandex.ru##.lbvbcf
-yandex.ru##a.link_js_inited.links-section__link.link_theme_normal.link:nth-of-type(1)
-yandex.ru##.b-page__container > .footer > .footer__links > div.links-section:nth-of-type(2) > .links-section__list > a.links-section__link.link_theme_normal.link:nth-of-type(1)
-yandex.ru##.content > .map-left-pane_js_inited.map-left-pane > .scrollable_has-scroll_no.scrollable_js_inited.scrollable > .scrollable__container > .scrollable__content > .map-left-pane__ad
-
 ! 2020-10-06 https://4pda.ru
 ||s.4pda.to/dry7Ndn2mFfTf0j1XB2evCsvEEDo.jpg?_=1601392388$image
-
-! 2020-10-06 https://yandex.ru
-yandex.ru##.divjson2-block_visible_yes.divjson2-block_js_inited.i-bem.block.mix-tabber_size_narrow.mix-tabber_theme_lightgray.i-delayed-bem.divjson2-block
-yandex.ru##div._mode_full-width-card.feed-item
 
 ! 2020-10-06 https://music.yandex.ru
 music.yandex.ru##.bar-below_plus.bar-below
@@ -5277,10 +5245,6 @@ taxi.yandex.ru##.Page__footer.Footer_theme_white.Footer
 
 ! 2020-10-07 https://travel.yandex.ru
 travel.yandex.ru##a._1MtxE.Link_lego._7U37p.Link_theme_pseudo.Link:nth-of-type(6)
-
-! 2020-10-07 https://yandex.ru
-yandex.ru##.body > .app > .sidebar-container > ._shown._name_traffic.sidebar-view > .sidebar-view__panel > ._width_narrow.scroll > .scroll__container > .scroll__content > .vtrl__ffcfbfafccbc > .u__feaccaaddbeb
-yandex.ru##.hzrcn__defbe
 
 ! 2020-10-07 https://2ip.ru
 2ip.ru##.page-wrapper > .footer > .container > .footer-menu > ul > li > [href="/adv/"]
@@ -5451,10 +5415,6 @@ docviewer.yandex.ru##.howbxszh.miizzamb.qqvqelmhv > div
 ! 2020-10-28 https://4pda.ru
 ||s.4pda.to/dry7VR1Q2SjUblEz0aRahD2JGAnr.jpg?_=1603894256$image
 
-! 2020-10-28 https://yandex.ru
-yandex.ru##.yaTogwTSgJjapC4RAa7I
-yandex.ru##.y8CYv0SeROwSOJt0.yaTogwTSgJjapGIlR.card
-
 ! 2020-10-29 https://www.fanatical.com
 www.fanatical.com##.show.collapse
 
@@ -5479,11 +5439,6 @@ fex.net##.padding_vertical_25.container_width_primary.container.flex > .margin_l
 
 ! 2020-10-30 https://4pda.ru
 ||s.4pda.to/dry7VR1Q2SjUblEz0aRahD2JGAnr.jpg?_=1604010029$image
-
-! 2020-10-31 https://yandex.ru
-yandex.ru##.yabp6ey5jNcBdmwHH55I
-yandex.ru##.y8KZ1az1SKPt6tlg.yabp6ey5jNcBdiAzW.card
-yandex.ru##.turbo-myUKtR3Iq__item_rendered.turbo-myUKtR3Iq__item_type_yandex.turbo-myUKtR3Iq__item
 
 ! 2020-10-31 https://msreview.net
 msreview.net##.pulse-widget
@@ -5522,13 +5477,6 @@ drive.google.com##.g-Yd-Na.g-Yd-Ya.a-Ff-B.a-la-B.g-Yd
 ! 2020-11-03 https://www.youtube.com
 www.youtube.com##.ytd-popup-container.style-scope > .ytd-mealbar-promo-renderer.style-scope
 
-! 2020-11-03 https://yandex.ru
-yandex.ru##.tooltip__buttons
-yandex.ru##.typo_line_m.typo_text_s.typo.label_horizontal-padding_m.label_align_top.label_theme_cinema.label
-yandex.ru###bk-container
-yandex.ru##.hDNzEQ4uxiP5ShrQTMM4
-yandex.ru##.hBcDLU5iAlcV1qa0.hDNzEQ4uxiP5SlbkC.card
-
 ! 2020-11-04 https://4pda.ru
 ||s.4pda.to/dry7VR1Q2Kz0sX5FUoSerz1yGMbPH.jpg?_=1604325271$image
 
@@ -5541,9 +5489,6 @@ calendar.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderSer
 
 ! 2020-11-04 https://disk.yandex.ru
 disk.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
-
-! 2020-11-04 https://yandex.ru
-yandex.ru##.yamb-contacts-block
 
 ! 2020-11-04 https://youla.ru
 youla.ru##.ezLUQn.sc-jxsHlP
@@ -5643,3 +5588,14 @@ yoomoney.ru##.money-app-promo2_visible_yes
 
 ! 2020-11-26 https://4pda.ru
 ||s.4pda.to/dry7VR1Q2yjz1rdQVnQdj2QlsrHb.jpg?_=1605886666$image
+
+! 2020-11-27 https://4pda.ru
+||s.4pda.to/dry7Nl1fz0yDkz0puAGfPEqDhy4Az2.jpg?_=1605886666$image
+||s.4pda.to/dry7Nd1W4Ta0KbMBGm8voURqJxSP.jpg?_=1605886666$image
+
+! 2020-11-28 https://4pda.ru
+||s.4pda.to/dry7Nd1W4TqZ2YQLZEBVDUxaxVcG.jpg?_=1606470697$image
+
+! 2020-11-29 https://4pda.ru
+||s.4pda.to/dry7VR1Q28LwVcv9sMvUyPfPTrV.jpg?_=1606470697$image
+
