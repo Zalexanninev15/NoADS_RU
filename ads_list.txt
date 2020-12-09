@@ -5599,3 +5599,30 @@ yoomoney.ru##.money-app-promo2_visible_yes
 ! 2020-11-29 https://4pda.ru
 ||s.4pda.to/dry7VR1Q28LwVcv9sMvUyPfPTrV.jpg?_=1606470697$image
 
+! 2020-12-01 https://yandex.ru
+yandex.ru##.home-link_gray_yes.b-sethome.home-link
+
+! 2020-12-03 http://my.atel.me
+my.atel.me###sidebar > div.pl-4
+||my.atel.me/images/banner-uk-atel.jpg$image
+
+! 2020-12-05 http://my.atel.me
+my.atel.me###content > div.row:nth-of-type(1)
+
+! 2020-12-05 https://mail.yandex.ru
+mail.yandex.ru##.mail-BuyProButton
+
+! 2020-12-08 https://yandex.ru
+yandex.ru##div.services-new__promo-bubble-line:nth-of-type(1)
+yandex.ru##div.services-new__promo-bubble-line > span
+yandex.ru##div.card-footer-view__link-wrap:nth-of-type(2)
+yandex.ru##div.services-new__promo-bubble-line:nth-of-type(2)
+yandex.ru##.services-new__promo-bubble-circle_3.services-new__promo-bubble-circle
+yandex.ru##.services-new__promo-bubble-circle_1.services-new__promo-bubble-circle
+yandex.ru##.services-new__promo-bubble-circle_2.services-new__promo-bubble-circle
+
+! 2020-12-08 https://www.kinopoisk.ru
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footer-partial-component__content-item:nth-of-type(7) > ._3Rkutv2b09UBzWZI15ckk9.footer-partial-component__content-link
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footer-partial-component__content-item:nth-of-type(2) > ._3Rkutv2b09UBzWZI15ckk9.footer-partial-component__content-link
+www.kinopoisk.ru##._2dovdoswa7bR8x0rL7ktFM.rX2wg-Vp7_P1amxEKCGQU._1MG74vTvaoBQmB-_AmSxe5._3HbqMqZ14X1esFIA1sAfIY._37lW_FG6qMc8EuD2q6mnGm
+
