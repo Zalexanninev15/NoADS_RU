@@ -5626,3 +5626,15 @@ www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footer-partial-component__content-i
 www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footer-partial-component__content-item:nth-of-type(2) > ._3Rkutv2b09UBzWZI15ckk9.footer-partial-component__content-link
 www.kinopoisk.ru##._2dovdoswa7bR8x0rL7ktFM.rX2wg-Vp7_P1amxEKCGQU._1MG74vTvaoBQmB-_AmSxe5._3HbqMqZ14X1esFIA1sAfIY._37lW_FG6qMc8EuD2q6mnGm
 
+! 2020-12-11 https://4pda.ru
+||s.4pda.to/dry7Nd1W4T43ow6ZKQ9Q49Vz1Y0M8.jpg?_=1607589836$image
+
+! 2020-12-11 https://devsoft.club
+devsoft.club##.js-enablePushContainer.notice--enablePush.notice--primary.js-notice.notice > .notice-content
+
+! 2020-12-11 https://www.ozon.ru
+www.ozon.ru##.b5y.b5y4
+www.ozon.ru##.b0j9.b0j3.b0i.b0h8 > div.b6e2:nth-of-type(1)
+www.ozon.ru##.b5y.b5z > .b5y1.b0k2.b0j3.b0i.b0h8 > div:nth-of-type(4)
+www.ozon.ru##.b5y1.twoItems4
+
