@@ -905,7 +905,6 @@ www.techpowerup.com##.patreon
 ! 14.02.2020 https://vk.com
 vk.com###ui_rmenu_lists
 ||vk.com/images/icons/msg_cog.png$image
-vk.com##._im_dialogs_settings.ui_grey_block.im-page--dialogs-footer
 vk.com###tbt_stickers_new > .ui_tab
 vk.com###videocat_page_block_lives
 vk.com###videocat_page_block_games
@@ -1515,7 +1514,7 @@ yandex.ru##._popup2-destructor_js_inited._popup2-destructor.header-favorites-but
 yandex.ru##.distr-popup_js_inited.popup2_visible_yes.popup2_direction_bottom-left.popup2_js_inited.i-dbn-cookie_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_fall-show-bounce.distr-popup_shadow_yes.distr-popup_motley_dark-grey.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
 yandex.ru##div.headline__bar-item.kA:nth-of-type(3)
 yandex.ru##.headline__favorites.headline__bar-item.kA
-!yandex.ru##.rows__row_last.rows__row.x2
+yandex.ru##.rows__row_last.rows__row.x2
 
 ! 04.03.2020 https://money.yandex.ru
 ||money.yandex.ru/i/popup-080320-170-170.png$image
@@ -2189,7 +2188,7 @@ translate.google.ru##.gb_xd
 translate.google.ru##.gb_na.gb_F
 
 ! 27.03.2020 https://yandex.ru
-!yandex.ru##.distr-popup_js_inited.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-dbn-cookie_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_slide-show.distr-popup_shadow_yes.distr-popup_motley_light-blue.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
+yandex.ru##.distr-popup_js_inited.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-dbn-cookie_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_slide-show.distr-popup_shadow_yes.distr-popup_motley_light-blue.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
 
 ! 28.03.2020 https://mail.yandex.ru
 mail.yandex.ru##.h22b94f1d
@@ -2228,8 +2227,6 @@ lutris.net##.icon-list > li:nth-of-type(3)
 yandex.ru##.rows__row_last.rows__row.uv
 yandex.ru##.stream-promo-popup__right
 yandex.ru##.stream-promo-popup__left
-
-! 01.04.2020 https://translate.yandex.ru
 
 ! 01.04.2020 https://mail.yandex.ru
 mail.yandex.ru##.k7364415
@@ -5216,8 +5213,8 @@ connect.vk.com##.MenuItem__active.MenuItem.Cell--android.Cell > .Cell__in > .Tap
 ! 2020-10-09 https://vk.com
 vk.com###pv_tag_link
 vk.com##.audio_promo
-vk.com###l_mk > .left_row
-vk.com###l_mk > .left_settings
+!vk.com###l_mk > .left_row
+!vk.com###l_mk > .left_settings
 vk.com##.olist_item_no_ads_link.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
 vk.com##.olist_item_wrap_on.olist_item_no_covid19_app.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
 vk.com##.olist_item_wrap_on.olist_item_no_worki_app.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
@@ -5580,4 +5577,14 @@ yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.t_LYBwsc.
 yandex.ru##.t_LYBwsc.yaplus_available_yes.yaplus
 yandex.ru##.t9vcKysvhxb4X8e6cqdqxJkT5lL2fBAAPqv8JGUwHIUIv9gSi
 yandex.ru##.t9P8VaN7s0PYr9OuLot2k.t9P8VaNr608wZ_ayNr5OyOx3ulL4.t9P8V
+
+! 2020-12-19 https://4pda.ru
+4pda.ru##.oIG0tz1.vz042luDF
+||s.4pda.to/wosii3euiNs8qRMkSWZz1Bz2hfpbi4.jpg
+4pda.ru##.msQqPz1kU.emsQqPz1kU
+4pda.ru###iVbgLoU > .post
+||s.4pda.to/wosilK*$image
+4pda.ru##[href="https://4pda.ru/2020/12/19/9495953/"]
+4pda.ru##.l1hgN2CbC1YIRbCRivz1R.tk6r
+4pda.ru##.m2oKxJlfz1z15oAR7
 
