@@ -813,9 +813,9 @@ yandex.ru##.link_js_inited.i-bem.mobile-store-badge_platform_android.mobile-stor
 yandex.ru##.link_js_inited.i-bem.mobile-store-badge_platform_ios.mobile-store-badge.link_theme_normal.link
 yandex.ru##.link_js_inited.i-bem.serp-footer__col-item.serp-footer__collections.serp-footer__link.link_theme_clear.link
 yandex.ru##.link_js_inited.i-bem.serp-footer__stat.serp-footer__link.link_theme_clear.link
-yandex.ru##.service_js_inited.i-bem.service_name_uslugi.service
-yandex.ru##.service_js_inited.i-bem.service_name_collections.service
-yandex.ru###uniq609 > .menu__text
+!yandex.ru##.service_js_inited.i-bem.service_name_uslugi.service
+!yandex.ru##.service_js_inited.i-bem.service_name_collections.service
+!yandex.ru###uniq609 > .menu__text
 
 ! 14.02.2020 http://nnmclub.to
 nnmclub.to##[href="misc/html/advert.html"]
@@ -1045,8 +1045,8 @@ m.yandex.ru##a.link_js_inited.i-bem.competitors__link.link_theme_none.link:nth-o
 m.yandex.ru##.service_name_collections.service > .link_theme_normal.link.service__url > .service__name
 
 ! 17.02.2020 https://yandex.ru
-yandex.ru##.collections_js_inited.media-service_tabs_yes.media-service_has-carousel_yes.mix-tabber_theme_media.media-service.media-grid__collections.i-bem.collections
-yandex.ru##.media-grid__media-content
+!yandex.ru##.collections_js_inited.media-service_tabs_yes.media-service_has-carousel_yes.mix-tabber_theme_media.media-service.media-grid__collections.i-bem.collections
+!yandex.ru##.media-grid__media-content
 
 ! 17.02.2020 https://passport.yandex.ru
 passport.yandex.ru##.registration__social-btn_short.registration__fb-btn
@@ -1066,7 +1066,7 @@ rabota.yandex.ru##a.footer__link.link:nth-of-type(7)
 4pda.ru##.icon-fb
 
 ! 17.02.2020 https://yandex.ru
-yandex.ru##.distr-default-search__content
+!yandex.ru##.distr-default-search__content
 yandex.ru##.distr-default-search_js_inited.i-dbn-cookie_js_inited.i-bem.i-dbn-cookie.distr-default-search
 
 ! 19.02.2020 https://vk.com
@@ -1203,8 +1203,8 @@ docs.google.com##.goog-flat-button.goog-inline-block.docs-explore-widget-button
 4pda.ru##.BchkdBmygoO2dOY
 
 ! 20.02.2020 https://yandex.ru
-yandex.ru###uniq642 > .menu__text
-yandex.ru###uniq644 > .menu__text
+!yandex.ru###uniq642 > .menu__text
+!yandex.ru###uniq644 > .menu__text
 
 ! 20.02.2020 https://getvideo.org
 getvideo.org##.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
@@ -1450,11 +1450,11 @@ www.microsoft.com##[href="https://www.facebook.com/mstrend"]
 www.microsoft.com##[href="https://twitter.com/RusMicrosoft"]
 
 ! 24.02.2020 https://yandex.ru
-yandex.ru##.rows__row_last.rows__row.WH
+!yandex.ru##.rows__row_last.rows__row.WH
 yandex.ru##div.headline__bar-item.Ax:nth-of-type(3)
-yandex.ru##.headline__favorites.headline__bar-item.Ax
+!yandex.ru##.headline__favorites.headline__bar-item.Ax
 yandex.ru##div.b-wdgt-preferences__pref:nth-of-type(3) > .b-wdgt-preferences__pref-col
-yandex.ru##.button_js_inited.i-bem.button_theme_normal-sharp.button_size_line.b-modal-window__right.b-wdgt-preferences__cancel.button
+!yandex.ru##.button_js_inited.i-bem.button_theme_normal-sharp.button_size_line.b-modal-window__right.b-wdgt-preferences__cancel.button
 yandex.ru##.b-wdgt-preferences__pref-col
 
 ! 24.02.2020 https://www.cyberforum.ru
@@ -1473,7 +1473,7 @@ mail.yandex.ru##.u3659ab97.xd82c35be.x5c8fdac3.n7f921405
 mail.yandex.ru##.mail-LoadingBar-Container.ns-view-id-106.ns-view-loading-bar
 
 ! 24.02.2020 https://yandex.ru
-yandex.ru###uniq632 > .menu__text
+!yandex.ru###uniq632 > .menu__text
 
 ! 26.02.2020 https://www.msn.com
 www.msn.com###Microsoft_News_App_INTL_2019_banner_2
@@ -1515,7 +1515,7 @@ yandex.ru##._popup2-destructor_js_inited._popup2-destructor.header-favorites-but
 yandex.ru##.distr-popup_js_inited.popup2_visible_yes.popup2_direction_bottom-left.popup2_js_inited.i-dbn-cookie_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_fall-show-bounce.distr-popup_shadow_yes.distr-popup_motley_dark-grey.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
 yandex.ru##div.headline__bar-item.kA:nth-of-type(3)
 yandex.ru##.headline__favorites.headline__bar-item.kA
-yandex.ru##.rows__row_last.rows__row.x2
+!yandex.ru##.rows__row_last.rows__row.x2
 
 ! 04.03.2020 https://money.yandex.ru
 ||money.yandex.ru/i/popup-080320-170-170.png$image
@@ -1643,9 +1643,6 @@ auto.ru##div.Index__block:nth-of-type(13) > .Index__row
 auto.ru##.IconSvg_size_24.IconSvg_twitter.IconSvg
 auto.ru##.FooterSocialLinks__link_fb.FooterSocialLinks__link
 
-! 04.03.2020 https://yandex.ru
-yandex.ru##div.home-tabs__more-item:nth-of-type(7)
-
 ! 04.03.2020 https://www.kinopoisk.ru
 www.kinopoisk.ru##._3mkWDd4rqGjYTk1s1UOzzr._1_PJf6ST-_QOungUKo2ThZ
 www.kinopoisk.ru##._3mkWDd4rqGjYTk1s1UOzzr._1O5_zWJvoUgCUnuS7-5due
@@ -1745,7 +1742,7 @@ technopoint.ru###b-2503396f-85e5-4257-a77e-bafed77b3473
 www.dns-shop.ru###b-9b11b9db-ab02-43b7-b375-2a68d131e735
 
 ! 05.03.2020 https://yandex.ru
-yandex.ru##.i-bem.distr-popup__button_type_click.distr-popup__button.button2_view_classic.button2_type_link.button2_has-color.button2_theme_default.button2_size_m.button2
+!yandex.ru##.i-bem.distr-popup__button_type_click.distr-popup__button.button2_view_classic.button2_type_link.button2_has-color.button2_theme_default.button2_size_m.button2
 yandex.ru##.distr-popup__close
 ||avatars.mds.yandex.net/get-banana/49904/x25BX0U5CV1Xlklu7DKZ8VX_j_banana_20161021_bro-no-zen.svg/svg$image
 yandex.ru##.i-bem.distr-popup__button_type_close.distr-popup__button.button2_view_classic.button2_has-color.button2_theme_clear.button2_size_m.button2
@@ -2043,9 +2040,9 @@ mail.yandex.ru##.y4cdad2af
 mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-70.ns-view-fill-height-placeholder-box
 
 ! 11.03.2020 https://yandex.ru
-yandex.ru##.favorites-icon
-yandex.ru##div.RelatedSnippets:nth-of-type(5)
-yandex.ru##.Carousel_type_actress.Carousel
+!yandex.ru##.favorites-icon
+!yandex.ru##div.RelatedSnippets:nth-of-type(5)
+!yandex.ru##.Carousel_type_actress.Carousel
 
 ! 11.03.2020 https://4pda.ru
 4pda.ru##.count-visitor
@@ -2069,12 +2066,12 @@ yandex.ru##div.entity-search__list:nth-of-type(5) > .i-bem.showcase_scroll_no.sh
 
 ! 13.03.2020 https://yandex.ru
 yandex.ru##.i-bem.zalogin-smart__button_type_register.zalogin-smart__button.button2_view_classic.button2_type_link.button2_theme_default.button2_size_m.button2
-yandex.ru##.button2_js_inited.i-bem.zalogin-smart__button_type_auth.zalogin-smart__button.button2_view_action.button2_type_link.button2_theme_default.button2_size_m.button2
+!yandex.ru##.button2_js_inited.i-bem.zalogin-smart__button_type_auth.zalogin-smart__button.button2_view_action.button2_type_link.button2_theme_default.button2_size_m.button2
 ||yastatic.net/s3/web4static/_/v2/j15H9Ly6YZ-1mzLl90vnaOrqT2Y.svg$image
 yandex.ru##.zalogin-smart__title
 yandex.ru##.zalogin-smart__inner
-yandex.ru##.navi__tools
-yandex.ru##.rows__row_last.rows__row.HQ
+!yandex.ru##.navi__tools
+!yandex.ru##.rows__row_last.rows__row.HQ
 
 ! 13.03.2020 https://translate.yandex.ru
 translate.yandex.ru##.footer-links-item_usability
@@ -2192,7 +2189,7 @@ translate.google.ru##.gb_xd
 translate.google.ru##.gb_na.gb_F
 
 ! 27.03.2020 https://yandex.ru
-yandex.ru##.distr-popup_js_inited.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-dbn-cookie_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_slide-show.distr-popup_shadow_yes.distr-popup_motley_light-blue.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
+!yandex.ru##.distr-popup_js_inited.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-dbn-cookie_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_slide-show.distr-popup_shadow_yes.distr-popup_motley_light-blue.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
 
 ! 28.03.2020 https://mail.yandex.ru
 mail.yandex.ru##.h22b94f1d
@@ -2218,7 +2215,6 @@ market.yandex.ru##.B9q5-zm9da
 docviewer.yandex.ru##.cujarmwdt-ble
 
 ! 26.03.2020 https://yandex.ru
-||yastatic.net/s3/home-static/_/F/i/FnSxigbinaJQv4BqDUPzE_H_w.svg$image
 yandex.ru##.stream-promo-popup__button
 yandex.ru##.stream-promo-popup__close-inner
 yandex.ru##.stream-promo-popup__close
@@ -2258,7 +2254,6 @@ mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-i
 
 ! 08.04.2020 https://yandex.ru
 yandex.ru##.distr-popup_js_inited.popup2_visible_yes.popup2_direction_bottom-center.popup2_js_inited.i-dbn-cookie_js_inited.i-bem.card__colorize.i-dbn-cookie.distr-popup_animation_fall-show.distr-popup_shadow_yes.distr-popup_motley_grey.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
-yandex.ru##div.home-tabs__more-item:nth-of-type(10) > .home-link_black_yes.home-tabs__more-link.home-link
 yandex.ru##.ya-share2__item_service_moimir.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__counter_visible.ya-share2__counter
 
 ! 08.04.2020 https://translate.yandex.ru
@@ -2735,8 +2730,6 @@ yandex.ru###uniq409
 yandex.ru##.dG5CZMAfBYmSAh9R7DuMFsJJXaf7SrrRSKNRTnbj0FIgVoQ.dG5CZMAfBYmSAh9R7DuMFsJJXaQ
 yandex.ru##div.dG5CZMAfBYmSAh9R7DuMAvIZe:nth-of-type(17)
 yandex.ru##.dG5CZMAfBYmSAh9R7DuMAvIZewtXQt_1GNt4Yi6Pv.dG5CZMAfBYmSAh9R7DuMAvIZe
-yandex.ru##div.home-tabs3__more-item_bottom.home-tabs3__more-item:nth-of-type(1)
-yandex.ru##div.home-tabs3__more-item:nth-of-type(13)
 yandex.ru##.a452c24f6.s24ccd46.nfd70646c.a8e06beac.i271a4e37
 yandex.ru##.tC2xzP_H8IciANXc.tAnB8LaLNPPOnCyPO.card
 yandex.ru##.tAnB8LaLNPPOnGC7fMCE
@@ -2884,7 +2877,6 @@ technopoint.ru##.products-page__left-block > .products-page__helpers
 yandex.ru##.distr-default-search-header_js_inited.i-bem.z-index-group_level_8.z-index-group.distr-default-search-header
 yandex.ru##.serp-adv__add > .i-bem.link_theme_ghost.link
 yandex.ru##.link_js_inited.i-bem.link_theme_ghost.link
-yandex.ru##.home-link_black_yes.b-sethome.home-link
 yandex.ru##.ada7097e.xddb4a048
 yandex.ru##.pf058e1b6.d44cc592.ja8b3e6ac.fca8022ec.ab518eb37
 yandex.ru##.Carousel-Wrapper_theme_efir.Carousel-Wrapper
@@ -2923,7 +2915,6 @@ yandex.ru##.popup_to_bottom.popup_visibility_visible.popup_js_inited.dist-popup_
 
 ! 13.06.2020 https://yandex.ru
 yandex.ru##.yabrowser-promo__text
-yandex.ru##.home-arrow__bottom
 
 ! 14.06.2020 https://7fon.org
 7fon.org##div#tmbox:nth-of-type(5)
@@ -3338,7 +3329,6 @@ qna.habr.com##.menu_socials > .menu_inline.menu > li.menu__item:nth-of-type(1)
 qna.habr.com##.menu_socials > .menu_inline.menu > li.menu__item:nth-of-type(2)
 
 ! 23.07.2020 https://yandex.ru
-yandex.ru##a.services-new__item.home-link:nth-of-type(6)
 yandex.ru##.xHIficRhRZFB6exmwPHY
 yandex.ru##.jca65a213.p9a5fd1e3.nac908c89.x55b448c9.d3aa81452
 yandex.ru###htafvdg
@@ -4015,9 +4005,6 @@ www.dll.ru##.grecaptcha-badge
 ||pingvinus.ru/themes/pingvinus3/images/i/twitter.png$image
 pingvinus.ru##.menu > .subscribers > li:nth-of-type(5) > [href="#"]
 
-! 17.08.2020 https://yandex.ru
-yandex.ru##a.services-new__item.home-link:nth-of-type(8)
-
 ! 17.08.2020 https://docviewer.yandex.ru
 docviewer.yandex.ru##.ihijf.kgiqwntav.iyxmza > pbzk-qzlyt
 docviewer.yandex.ru##.ddtju.mnfsdy.iyxmza > pbzk-qzlyt
@@ -4211,9 +4198,6 @@ youla.ru##.dSwnjw.sc-jSwCyv
 youla.ru##a.gDzKzD.sc-pTHAw.sc-fznLPX:nth-of-type(3) > .eTuTmp.sc-AxjAm
 youla.ru##.bclJUr.sc-fzoKki.sc-fzqBkg.sc-fzolEj > .gmIFFO.sc-pAncQ > li.jfONyh.sc-pIjat:nth-of-type(4) > .hlyzWq.sc-pQdCa.sc-fzqARJ > .jSBHbr.sc-qXHHN.sc-qPLKk
 youla.ru##.bclJUr.sc-fzoKki.sc-fzqBkg.sc-fzolEj > .gmIFFO.sc-pAncQ > li.jfONyh.sc-pIjat:nth-of-type(3) > .hlyzWq.sc-pQdCa.sc-fzqARJ > .kRPxKC.sc-pITNg.sc-pAyMl
-
-! 2020-08-28 https://yandex.ru
-yandex.ru##a.services-new__more-popup-item.services-new__item.home-link:nth-of-type(9)
 
 ! 2020-08-28 https://www.dns-shop.ru
 ||c.dns-shop.ru/original/st1/08fc5be488a97ff0d205e8aaef7858a1/5586f101c479cdb3e581f9b6800ed42dd4c2d99eb3781c75c97c58982445f828.jpg$image
@@ -4424,7 +4408,6 @@ yandex.ru##gxsovcbgw-egqdqrgk
 yandex.ru##mule-dfcunaqke
 yandex.ru##wgbewkov-znvsef
 yandex.ru##div.divjson2-block_visible_yes.divjson2-block_js_inited.i-bem.block.mix-tabber_size_narrow.mix-tabber_theme_lightgray.i-delayed-bem.divjson2-block:nth-of-type(18) > .divjson2_js_inited.i-bem.divjson2 > .divjson2__block_halign-self_default.divjson2__block_valign-self_default.divjson2__block_height_content.divjson2__block_width_parent.divjson2__block > .divjson2-container_has-height-content_yes.divjson2-container_orientation_vertical.divjson2-container_halign_left.divjson2-container_valign_top.divjson2-container.divjson2__block-inner
-yandex.ru##.mheader3__favorites.home-link
 
 ! 2020-08-29 https://zen.yandex.ru
 zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N > .lBkLJgx0rYyo5lL93a0o
@@ -4785,7 +4768,6 @@ yandex.ru##.g9c57ef2c.k1e7a6cf.jf509258.x58698f98.ea95b6143
 yandex.ru##.y1W0uUbWzZOpCqD_5ufKb.y1W0uUbGlZ9Bwozj_tLyNrOehpfY.y1W0u
 yandex.ru###efwzkbpi
 yandex.ru##.yw2w5eqmvZqJwrSb4g86Op8yjoah2ALXNQKN7AQ.yw2w5eqmvZqJwrSb4g86Opw.yw2w5eqmvZqJwrSb4__loyier-exsist
-yandex.ru##a.home-link_black_yes.services-new__more-popup-bottom-link.home-link:nth-of-type(1)
 yandex.ru##.menu.header__menu > a.menu__item:nth-of-type(1)
 yandex.ru##a.menu__item:nth-of-type(2)
 
@@ -5030,7 +5012,7 @@ www.zotac.com##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-o
 www.youtube.com###gs_ok50
 
 ! 2020-09-30 https://yandex.ru
-yandex.ru##.Viewer-Icon_empty.Viewer-Icon_icon_favorites.Viewer-Icon.Icon
+!yandex.ru##.Viewer-Icon_empty.Viewer-Icon_icon_favorites.Viewer-Icon.Icon
 
 ! 2020-09-30 https://www.nvidia.ru
 www.nvidia.ru###sideNav > div:nth-of-type(3)
