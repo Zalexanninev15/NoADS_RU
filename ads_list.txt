@@ -5588,3 +5588,17 @@ yandex.ru##.t9P8VaN7s0PYr9OuLot2k.t9P8VaNr608wZ_ayNr5OyOx3ulL4.t9P8V
 4pda.ru##.l1hgN2CbC1YIRbCRivz1R.tk6r
 4pda.ru##.m2oKxJlfz1z15oAR7
 
+! 2020-12-21 https://translate.google.com
+||ogs.google.com/widget/callout?prid=19016223&pgid=19010602&puid=d1f84a9b388b267e&origin=https%3A%2F%2Ftranslate.google.com&cn=callout&pid=269&spid=51&hl=ru$subdocument
+
+! 2020-12-22 https://www.rockstargames.com
+www.rockstargames.com##._1Czd
+
+! 2020-12-22 https://www.google.com
+||ogs.google.com$subdocument
+www.google.com##.wwYr3.aID8W.bErdLd
+www.google.com##.aID8W.m114nf.t7xA6
+
+! 2020-12-22 https://hackertarget.com
+hackertarget.com##.cookie-notice-container
+
