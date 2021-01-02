@@ -5602,3 +5602,16 @@ www.google.com##.aID8W.m114nf.t7xA6
 ! 2020-12-22 https://hackertarget.com
 hackertarget.com##.cookie-notice-container
 
+! 2020-12-23 https://www.questionstar.ru
+www.questionstar.ru###catapult-cookie-bar
+
+! 2020-12-23 https://www.google.com
+www.google.com##.gb_Zf.gb_Hg.gb_Eg.gb_i.gb_Fg.gb_Ta > div:nth-of-type(3)
+
+! 2020-12-23 https://www.blast.hk
+www.blast.hk##.js-enablePushContainer.notice--enablePush.notice--primary.js-notice.notice
+
+! 2020-12-29 https://www.matburo.ru
+||www.matburo.ru/Data/matburo2.gif$image
+www.matburo.ru##.recommended_banner
+
