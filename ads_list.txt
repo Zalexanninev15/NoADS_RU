@@ -5615,3 +5615,55 @@ www.blast.hk##.js-enablePushContainer.notice--enablePush.notice--primary.js-noti
 ||www.matburo.ru/Data/matburo2.gif$image
 www.matburo.ru##.recommended_banner
 
+! 2021-01-02 https://docviewer.yandex.ru
+docviewer.yandex.ru##.dxjlhxrzg.cdpeuprs.xjmotwo > div
+
+! 2021-01-02 https://yadi.sk
+yadi.sk##.mail360-banner__comp
+yadi.sk##.mail360-banner__icons
+yadi.sk##.js-prevent-mouse-selection.mail360-banner_dir.mail360-banner
+
+! 2021-01-04 https://ege-study.ru
+ege-study.ru##.modal-cookie
+
+! 2021-01-04 https://math-ege.sdamgia.ru
+math-ege.sdamgia.ru##body > div:nth-of-type(4)
+
+! 2021-01-04 https://newtonew.com
+newtonew.com##.n2-main-footer__ntn-rules.clearfix
+newtonew.com##.n2-main-footer__apps
+
+! 2021-01-04 https://ege.sdamgia.ru
+ege.sdamgia.ru##body > div:nth-of-type(4)
+
+! 2021-01-06 https://vk.com
+vk.com##.page_block.login_compact_mobile_promo
+vk.com##.LoginMobilePromo__devices
+vk.com##.login_mobile_apps
+vk.com##.index_vk_connect_faq.page_block
+
+! 2021-01-06 https://ok.ru
+ok.ru##.__hidden.anonym-feed_aside_banner.banner-layout-container
+ok.ru##[href="https://ok.ru/business/topic/151702226806144"]
+
+! 2021-01-06 https://vk.com
+vk.com##.feed_section_football
+
+! 2021-01-06 https://nestor.minsk.by
+||nestor.minsk.by/img/ax/202012031603511.png$image
+
+! 2021-01-06 https://znanija.com
+znanija.com##.brn-brainly-box-aside-fix.sg-box--padding-m.sg-box--mint-secondary-light.sg-box
+
+! 2021-01-06 https://ege.sdamgia.ru
+ege.sdamgia.ru##[href="/advert"]
+
+! 2021-01-06 https://talkdevice.ru
+talkdevice.ru##.clearfy-cookie--bottom.clearfy-cookie
+talkdevice.ru##.flat_pm_3_modal-content
+talkdevice.ru##.flat_pm_3_modal-overlay
+
+! 2021-01-06 https://vms.drweb.ru
+vms.drweb.ru##.bg_green_3.white.space_1of1.ztop.left.bottom
+vms.drweb.ru##.SHOWIT-msg_showed.jsShowIt-msg.SHOWIT-msg
+
