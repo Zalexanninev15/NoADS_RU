@@ -5667,3 +5667,6 @@ talkdevice.ru##.flat_pm_3_modal-overlay
 vms.drweb.ru##.bg_green_3.white.space_1of1.ztop.left.bottom
 vms.drweb.ru##.SHOWIT-msg_showed.jsShowIt-msg.SHOWIT-msg
 
+! 2021-01-07 https://msg.aliexpress.ru
+msg.aliexpress.ru##.mobile-app.me-ui-box
+
