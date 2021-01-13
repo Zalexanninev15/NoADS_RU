@@ -2,7 +2,7 @@
 ! Author: Zalexanninev15
 ! License: MIT
 ! GitHub: https://github.com/Zalexanninev15/NoADS_RU
-! Donate: https://money.yandex.ru/to/410015106319420
+! Donate: qiwi.com/n/ZALEXANNINEV15
 
 ! 13.02.2020 https://disk.yandex.ru
 disk.yandex.ru##.link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon > path
@@ -5797,4 +5797,64 @@ vc.ru##.sidebar__footer__item--sponsor.sidebar__footer__item > span
 transformers.fandom.com##.wds-is-ddb-stores.wds-global-footer__section
 transformers.fandom.com##.wds-is-advertise.wds-global-footer__section
 transformers.fandom.com##div.wds-global-footer__column:nth-of-type(4)
+
+! 2021-01-13 https://qiwi.com
+qiwi.com##.cookies-self-91
+||static.qiwi.com/qcms/banners/1000556/WEB/PROMO/1000556/*.jpg$image
+qiwi.com##.footer-apps-85
+qiwi.com##.cookies-self-65
+qiwi.com##.footer-apps-59
+
+! 2021-01-13 https://best.aliexpress.ru
+||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
+||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
+||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
+||campaign.aliexpress.com/wow/gcp$subdocument
+||campaign.aliexpress.com/wow/gcp/*$subdocument
+||campaign.aliexpress.com/wow/gcp$domain=best.aliexpress.ru,subdocument
+||campaign.aliexpress.com/wow/gcp/*$domain=best.aliexpress.ru,subdocument
+||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
+
+! 2021-01-13 https://www.ozon.ru
+www.ozon.ru##.a0x6
+||cdn1.ozone.ru/s3/cms/27/t85/wc*0/336x550_3.jpg$image
+www.ozon.ru##.b5y1.c6b1.c6a5
+www.ozon.ru##div.b6e2:nth-of-type(5)
+www.ozon.ru##div.b5y1.b6e2:nth-of-type(3)
+
+! 2021-01-13 https://travel.ozon.ru
+travel.ozon.ru##.MobileAdSection_mobilePart__3ctgt
+travel.ozon.ru##div.FooterSocial_item__3Qwwb:nth-of-type(2)
+travel.ozon.ru##li.RootNav2_item__1SxQ9.FooterLinks_item__2_ZJT > [href="/advertising/"]
+||cdn.ozon.travel/common/i/all-pics/banners/adfox_app_free_reg.png$image
+||cdn.ozon.travel/common/i/all-pics/banners/adfox_autoreg.png$image
+travel.ozon.ru##dd:nth-of-type(12)
+travel.ozon.ru##.IndexBottom_mobile-icon-text__Yv6eV
+travel.ozon.ru##.fontello-mobile
+
+! 2021-01-13 https://yoomoney.ru
+yoomoney.ru##.dukEFQ.Gdpr__StyleContent-sc-1wmeei3-1
+
+! 2021-01-13 https://youla.ru
+youla.ru##.jcvHDw.sc-kIybTg
+youla.ru##a.fShiuj.sc-jxthLd.jhJagt.sc-fznNTe:nth-of-type(2)
+youla.ru##a.cDXlTN.sc-oVdHe.sc-fznLPX:nth-of-type(3)
+
+! 2021-01-13 https://4pda.ru
+4pda.ru##[href="https://4pda.ru/2021/01/13/6829300/"]
+4pda.ru##.l5nBRwq.EUVPYon8
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
+4pda.ru##.OYmnQ8mYtyAtrPdOz0b5G.xPbk
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
+||s.4pda.to/Ker3*$image
+||s.4pda.to/Ker3*$image
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg$image
+||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg$image
 
