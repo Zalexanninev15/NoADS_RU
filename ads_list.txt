@@ -5780,3 +5780,21 @@ tele.click##.line
 m.habr.com##.tm-block_spacing-bottom.tm-block
 m.habr.com##div.tm-footer-menu__block:nth-of-type(4) > .tm-footer-menu__block-content > .tm-footer-menu__list > li.tm-footer-menu__list-item:nth-of-type(1)
 
+! 2021-01-13 https://habr.com
+habr.com###our-partners
+
+! 2021-01-13 https://vscode.ru
+vscode.ru###text-8
+vscode.ru###main > div:nth-of-type(1)
+vscode.ru###text-9
+
+! 2021-01-13 https://vc.ru
+vc.ru##.sidebar__footer__icon--android.sidebar__footer__icon
+vc.ru##.sidebar__footer__icons
+vc.ru##.sidebar__footer__item--sponsor.sidebar__footer__item > span
+
+! 2021-01-13 https://transformers.fandom.com
+transformers.fandom.com##.wds-is-ddb-stores.wds-global-footer__section
+transformers.fandom.com##.wds-is-advertise.wds-global-footer__section
+transformers.fandom.com##div.wds-global-footer__column:nth-of-type(4)
+
