@@ -5869,3 +5869,15 @@ overclockers.ru##.aligned.top.column.wide.eight > .list.horizontal.ui > a.item:n
 ! 2021-01-13 https://cloud.mail.ru
 cloud.mail.ru###x-ph__projects_other > .x-ph__projects__col > a.x-ph__projects__link.js-link:nth-of-type(2)
 
+! 2021-01-13 https://proglib.io
+proglib.io##.valign-center.align-between.flex.pv-3
+
+! 2021-01-13 https://yandex.ru
+yandex.ru##.link_js_inited.dAtRFqRY.links-section__link.link_theme_normal.link
+yandex.ru##.dCJZJuB7lDOfGe86ybj4
+yandex.ru##.dAtRFqRY.yaplus_available_yes.yaplus
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.dAtRFqRY.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru###hdlkepef
+yandex.ru###qsvf
+yandex.ru##.dHJxGuBPuCpX0aNemWRUZUSG9oaQdTjENZ3dXuQ.map-left-pane__ad.dHJxGuBPuCpX0aNemWRUZUQ
+
