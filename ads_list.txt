@@ -5766,3 +5766,17 @@ disk.yandex.ru##.MessageBox-Tail > svg
 ! 2021-01-12 https://yandex.ru
 yandex.ru##.yamb-mobile-app-suggest-block
 
+! 2021-01-13 https://www.osp.ru
+www.osp.ru##.visible-lg.visible-md
+
+! 2021-01-13 https://stackoverflow.com
+stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
+stackoverflow.com##.js-primary-footer-links.-list > li.-item:nth-of-type(6)
+
+! 2021-01-13 https://tele.click
+tele.click##.line
+
+! 2021-01-13 https://m.habr.com
+m.habr.com##.tm-block_spacing-bottom.tm-block
+m.habr.com##div.tm-footer-menu__block:nth-of-type(4) > .tm-footer-menu__block-content > .tm-footer-menu__list > li.tm-footer-menu__list-item:nth-of-type(1)
+
