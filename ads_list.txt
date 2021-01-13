@@ -5858,3 +5858,14 @@ youla.ru##a.cDXlTN.sc-oVdHe.sc-fznLPX:nth-of-type(3)
 ||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg$image
 ||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg$image
 
+! 2021-01-13 https://howdyho.net
+howdyho.net##.container > .special > .special-top-tip
+howdyho.net##.g-ads > header
+howdyho.net##.g-ads
+
+! 2021-01-13 https://overclockers.ru
+overclockers.ru##.aligned.top.column.wide.eight > .list.horizontal.ui > a.item:nth-of-type(4)
+
+! 2021-01-13 https://cloud.mail.ru
+cloud.mail.ru###x-ph__projects_other > .x-ph__projects__col > a.x-ph__projects__link.js-link:nth-of-type(2)
+
