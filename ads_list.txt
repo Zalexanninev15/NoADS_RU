@@ -5881,3 +5881,19 @@ yandex.ru###hdlkepef
 yandex.ru###qsvf
 yandex.ru##.dHJxGuBPuCpX0aNemWRUZUSG9oaQdTjENZ3dXuQ.map-left-pane__ad.dHJxGuBPuCpX0aNemWRUZUQ
 
+! 2021-01-13 https://qiwi.com
+qiwi.com##.cookies-self-180
+qiwi.com##.footer-apps-174
+
+! 2021-01-13 https://aliexpress.ru
+aliexpress.ru##._3KrBP
+
+! 2021-01-14 https://www.securitylab.ru
+www.securitylab.ru##.cookies-msg
+www.securitylab.ru##.d-lg-block.d-none.footer-bottom-menu > ul > li:nth-of-type(2) > [href="/advertiser.php"]
+www.securitylab.ru##.d-lg-block.d-none.footer-bottom-menu > ul > li:nth-of-type(2)
+
+! 2021-01-14 https://yoomoney.ru
+yoomoney.ru##.ckcjgj.Gdpr__StyleContent-sc-1wmeei3-1
+yoomoney.ru##.qa-gdpr.cZXky.Gdpr__StyledGdpr-sc-1wmeei3-0
+
