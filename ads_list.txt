@@ -5897,3 +5897,18 @@ www.securitylab.ru##.d-lg-block.d-none.footer-bottom-menu > ul > li:nth-of-type(
 yoomoney.ru##.ckcjgj.Gdpr__StyleContent-sc-1wmeei3-1
 yoomoney.ru##.qa-gdpr.cZXky.Gdpr__StyledGdpr-sc-1wmeei3-0
 
+! 2021-01-14 https://www.labirint.ru
+www.labirint.ru##.b-rfooter-e-row-m-no-border.b-rfooter-e-row
+www.labirint.ru##.cookie-policy
+
+! 2021-01-15 https://www.netflix.com
+www.netflix.com##.reg.cookie-disclosure-message
+
+! 2021-01-15 https://store.bandainamcoent.eu
+store.bandainamcoent.eu##.tarteaucitronAlertBigBottom
+store.bandainamcoent.eu##.in.fade.modal
+store.bandainamcoent.eu##.modal-stack.in.fade.modal-backdrop
+
+! 2021-01-18 https://superuser.com
+superuser.com##.js-consent-banner.theme-light__forced.bg-black-700.fc-white.z-banner.r0.l0.b0.ps-sticky.ff-sans.p8.grid
+
