@@ -5912,3 +5912,46 @@ store.bandainamcoent.eu##.modal-stack.in.fade.modal-backdrop
 ! 2021-01-18 https://superuser.com
 superuser.com##.js-consent-banner.theme-light__forced.bg-black-700.fc-white.z-banner.r0.l0.b0.ps-sticky.ff-sans.p8.grid
 
+! 2021-01-19 https://mail.yandex.ru
+mail.yandex.ru###fdWZZqEK_MUrytaA > div
+mail.yandex.ru##div.ffTgWpE24OhU:nth-of-type(2)
+mail.yandex.ru##div.ffTgWpE24OhU:nth-of-type(1)
+
+! 2021-01-19 https://www.zoneofgames.ru
+www.zoneofgames.ru##a[href^="/index.old.php"]:nth-of-type(1)
+
+! 2021-01-19 https://yandex.ru
+yandex.ru##.j3HiXM6_6mYMSVl_x_I0
+yandex.ru##.j1jqbIqc.yaplus_available_yes.yaplus
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.j1jqbIqc.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.j1WSYI7zLhLg1ewY.j3HiXM6_6mYMSRVLg.card.j3HidIpzxnw
+yandex.ru###xexqzlzjd
+yandex.ru###ttnfdwfh
+yandex.ru###eanfxgzbb
+yandex.ru##.jyHKYM6Lxn_EgRUbly6YLC8hxB4iJJdcI2eOSLQ.map-left-pane__ad.jyHKYM6Lxn_EgRUbly6YLCw
+
+! 2021-01-19 https://music.yandex.ru
+music.yandex.ru##.head__plus-points.plus-points
+
+! 2021-01-19 https://market.yandex.ru
+market.yandex.ru##._1guxbPKMJ6
+market.yandex.ru##.side-menu-item_live
+
+! 2021-01-19 https://yandex.ru
+yandex.ru##.mg-grid__col_sm_3.mg-grid__col_xs_4.mg-grid__col
+yandex.ru###u-1611077191000-225 > div
+yandex.ru##.chXDlw7w.yaplus_text.yaplus_old-icon.yaplus_available_yes.yaplus
+yandex.ru###u-1611077191000-243 > div
+yandex.ru###u-1611077251000-95 > div
+yandex.ru##div.mg-grid__col_xs_6.mg-grid__col:nth-of-type(10)
+yandex.ru###u-1611077276000-102 > div
+yandex.ru###u-1611077287000-84 > div
+
+! 2021-01-19 https://3dnews.ru
+3dnews.ru##a.footer:nth-of-type(4)
+
+! 2021-01-19 https://yandex.ru
+yandex.ru###u-1611077366000-84 > div
+yandex.ru###u-1611077373000-84 > div
+yandex.ru###u-1611077399000-84 > div
+
