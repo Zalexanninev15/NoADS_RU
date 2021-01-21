@@ -5983,3 +5983,13 @@ yandex.ru###u-1611077399000-84 > div
 ! 2021-01-20 https://mail.yandex.ru
 mail.yandex.ru##.b-footer__col_left.b-footer__col
 
+! 2021-01-20 https://crello.com
+crello.com##.mainWrapper___37yen
+
+! 2021-01-21 https://www.canva.com
+www.canva.com##._3aI0P4hGOArHwggVa-L1GB
+www.canva.com##.hMJi3w.fP4ZCw.fFOiLQ.Ekl2FA.RNFNIA._9y-BYQ._2l-hHA
+
+! 2021-01-21 https://www.festisite.com
+www.festisite.com##.singleton-element.cookie-choices-info
+
