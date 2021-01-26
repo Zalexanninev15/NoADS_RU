@@ -6048,3 +6048,27 @@ docviewer.yandex.ru##.luqaostj.nutdchsq.okfrj > div
 ! 2021-01-26 https://yadi.sk
 yadi.sk##.js-prevent-mouse-selection.mail360-banner
 
+! 2021-01-26 https://yandex.ru
+yandex.ru##._2jnNSGQXme.HBJuiefag0._2UF3XADhpo
+yandex.ru##._2jnNSGQXme._2vmRAt0Ooy._2UF3XADhpo
+yandex.ru##._3fljM9_NrF._1B5km_ec0k._2ZZbu8WA66._1TkYR0zJ0l
+
+! 2021-01-26 https://blog.themarfa.name
+blog.themarfa.name##.sidebar__social > [href="https://twitter.com/themarfa"] > svg > path
+blog.themarfa.name##.sidebar__social > [href="https://twitter.com/themarfa"] > svg
+blog.themarfa.name##.sidebar__social > [href="https://facebook.com/groups/themarfa"] > svg > path
+blog.themarfa.name##.sidebar__social > [href="https://facebook.com/groups/themarfa"] > svg
+blog.themarfa.name##div.sidebar__block_no-mobile.sidebar__block:nth-of-type(4)
+blog.themarfa.name##.sidebar__social > [href="https://tt.me/themarfa"] > svg
+blog.themarfa.name##[href="/sotrudnichiestvo/"]
+blog.themarfa.name##.footer-links > [href="https://twitter.com/themarfa"] > svg
+blog.themarfa.name##.footer-links > [href="https://tt.me/themarfa"] > svg
+blog.themarfa.name##.footer-links > [href="https://facebook.com/groups/themarfa"] > svg
+blog.themarfa.name##[href^="https://play.google.com/store/apps/details"] > svg > path
+blog.themarfa.name##[href^="https://play.google.com/store/apps/details"] > svg
+||i.ibb.co/ZBKf8kN/1200x100.png$image
+blog.themarfa.name##[href^="https://giox.ru/catalog/tekhnologii-i-innovatsii"]
+
+! 2021-01-26 https://4pda.ru
+||s.4pda.to/dry7VdPLRd5wVcv9McXYwsXjleA.jpg?_=1611510102$image
+
