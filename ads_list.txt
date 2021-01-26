@@ -6031,3 +6031,20 @@ www.festisite.com##.singleton-element.cookie-choices-info
 www.keepersecurity.com##.cookie-consent-banner
 www.keepersecurity.com##.no-cookie-consent-only.chat-with-support
 
+! 2021-01-22 https://ru.savefrom.net
+ru.savefrom.net##.f-nav-pages.f-nav-column > ul > li:nth-of-type(1)
+||ru.savefrom.net/assets/experiment/sf-helper/img/look-icon*.png$image
+ru.savefrom.net##.downloader-container
+ru.savefrom.net##.exitTraffic3_0-wait-block
+ru.savefrom.net##.ga_track_events.h10__install_btn
+ru.savefrom.net###main > .wrapper
+ru.savefrom.net##.ssyoutube-helper-promo-h10-bottom.ssyoutube-helper-promo-h10 > .content__box
+ru.savefrom.net##.content_box__text_1 > p:nth-of-type(1)
+
+! 2021-01-22 https://docviewer.yandex.ru
+docviewer.yandex.ru##.vpcveba.ylugdc.okfrj > div
+docviewer.yandex.ru##.luqaostj.nutdchsq.okfrj > div
+
+! 2021-01-26 https://yadi.sk
+yadi.sk##.js-prevent-mouse-selection.mail360-banner
+
