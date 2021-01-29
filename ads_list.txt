@@ -6072,3 +6072,18 @@ blog.themarfa.name##[href^="https://giox.ru/catalog/tekhnologii-i-innovatsii"]
 ! 2021-01-26 https://4pda.ru
 ||s.4pda.to/dry7VdPLRd5wVcv9McXYwsXjleA.jpg?_=1611510102$image
 
+! 2021-01-26 https://yandex.ru
+yandex.ru##.gy8aj8Jw.yaplus_available_yes.yaplus
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.gy8aj8Jw.links-section__link.link_theme_normal.link:nth-of-type(1)
+
+! 2021-01-26 https://zetflix.to
+zetflix.to##[href="/reklama"]
+
+! 2021-01-28 https://www.google.com
+www.google.com###footer
+
+! 2021-01-29 https://mail.yandex.ru
+mail.yandex.ru###lzTcoAB1ibaefRa8 > div
+mail.yandex.ru##div.lxWlnDBJlZvg:nth-of-type(2)
+mail.yandex.ru##div.lxWlnDBJlZvg:nth-of-type(1)
+
