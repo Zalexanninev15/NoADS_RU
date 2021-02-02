@@ -6087,3 +6087,43 @@ mail.yandex.ru###lzTcoAB1ibaefRa8 > div
 mail.yandex.ru##div.lxWlnDBJlZvg:nth-of-type(2)
 mail.yandex.ru##div.lxWlnDBJlZvg:nth-of-type(1)
 
+! 2021-01-29 https://gtaforums.com
+gtaforums.com##.ipsJS_hide.ipsPad_half
+
+! 2021-01-31 https://account.xiaomi.com
+account.xiaomi.com##.cookie-usage-notify.cookie_usage_notify
+account.xiaomi.com##.mi-cookie-banner
+
+! 2021-01-31 https://thequestion.ru
+||thequestion.ru/questions/449897/kto_izobrazhion_na_logotipe_00728680$image
+||thequestion.ru/questions/449897/kto_izobrazhion_na_logotipe_00728680$image
+||thequestion.ru/questions/449897/kto_izobrazhion_na_logotipe_00728680$image
+thequestion.ru##.cookie
+thequestion.ru##.commercial__footer-links > a.link:nth-of-type(3)
+
+! 2021-01-31 https://www.jdoodle.com
+www.jdoodle.com##.Cookie--blood-orange--rounded.Cookie--bottom.Cookie
+
+! 2021-02-01 https://support.microsoft.com
+support.microsoft.com##.M365_uhf_upgrade.uhfupgradeBanner
+support.microsoft.com###c-uhf-nav-cta > .c-uhf-nav-link
+support.microsoft.com###c-uhff-footer_aboutourads
+support.microsoft.com###supFeedbackWrapper > .x-hidden-focus
+
+! 2021-02-01 https://programmersforum.ru
+programmersforum.ru##[href="https://onehostplanet.com/ru"]
+programmersforum.ru##body > table
+programmersforum.ru##.smallfont [href^="https://programmersforum.ru/showthread.php"]
+
+! 2021-02-01 https://kaimi.io
+kaimi.io##.cookie-notice-container
+
+! 2021-02-02 https://chitachok.ru
+||i.ibb.co/1dWbbKp/buy-kasper.jpg$image
+||i.ibb.co/N3ZYh74/1xstavka.gif$image
+chitachok.ru##noindex > [href="https://vk.cc/asOUYQ"]
+chitachok.ru##[href="https://vk.cc/bXREFQ"]
+chitachok.ru##[href="https://vk.cc/bXmMdO"]
+chitachok.ru##[href="https://vk.cc/auQlKU"]
+chitachok.ru##.p-body-content > [href="https://vk.cc/asOUYQ"]
+
