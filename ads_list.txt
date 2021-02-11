@@ -6127,3 +6127,40 @@ chitachok.ru##[href="https://vk.cc/bXmMdO"]
 chitachok.ru##[href="https://vk.cc/auQlKU"]
 chitachok.ru##.p-body-content > [href="https://vk.cc/asOUYQ"]
 
+! 2021-02-07 https://mail.yandex.ru
+mail.yandex.ru##td > table > tbody > tr > td > table > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(4) > td
+
+! 2021-02-09 https://overcoder.net
+||overcoder.net/public/img/73644eb6ee062649ca960e5b22598ca1.png$image
+||overcoder.net/public/img/73644eb6ee062649ca960e5b22598ca1.png$image
+||overcoder.net/public/img/73644eb6ee062649ca960e5b22598ca1.png$image
+||overcoder.net/public/img/73644eb6ee062649ca960e5b22598ca1.png$image
+overcoder.net##.qa > .wrap > .layout_side
+overcoder.net##div.myhl_inside > div
+||overcoder.net/public/img/b01ffd3fcc45235a9c9e612237b1415c.png$image
+overcoder.net##.question > .wrap > .shell_layout > .layout > div:nth-of-type(1)
+overcoder.net##.qa > .wrap > .shell_layout > .layout > div:nth-of-type(3)
+overcoder.net##.layout > div:nth-of-type(7)
+
+! 2021-02-11 https://wpinternals.net
+wpinternals.net##.activebar-container
+
+! 2021-02-11 https://4pda.ru
+4pda.ru##.anrhgl.lUXfofL1
+4pda.ru##.l2O0IRurQgpwGBKbt0HGVH.o5x8yz03rz0bI
+4pda.ru##article.cXNz1hbWgc23rz052.uff5fT1Rji.post:nth-of-type(3)
+||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
+4pda.ru##.xVIHXXJ760
+4pda.ru##.vYE1AJKh8FAaJLdBR9rx.qubG
+||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
+||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
+||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
+||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
+4pda.ru##.i25aHJIz2kAe6yruQ9p0XVjc.V27Pz0q4kjdd
+4pda.ru##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(3)
+||s.4pda.to/dry7Ndn2mFPz1L73AJs71UmmM6wz2F.jpg?_=1612811795$image
+4pda.ru##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(9)
+4pda.ru##article.Kz03eBiCWaLV53MZvoM.LkLKeK60z0k.post:nth-of-type(3)
+4pda.ru##article.Kz03eBiCWaLV53MZvoM.LkLKeK60z0k.post:nth-of-type(9)
+4pda.ru##div.type-row:nth-of-type(5)
+
