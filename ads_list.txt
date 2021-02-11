@@ -6164,3 +6164,35 @@ wpinternals.net##.activebar-container
 4pda.ru##article.Kz03eBiCWaLV53MZvoM.LkLKeK60z0k.post:nth-of-type(9)
 4pda.ru##div.type-row:nth-of-type(5)
 
+! 2021-02-11 https://yandex.ru
+yandex.ru##.knRuCGps.yaplus_available_yes.yaplus
+yandex.ru##.kl1mOC5Mu78zp74xq.card.kl1mEGqAl6Q
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.knRuCGps.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.kg1OBC54l6b7b75hvlOVCs656Kh4jVUL4iHaZBQ.kmVeQUpol_eeb_olyruV8tpU.kg1OBC54l6b7b75hvlOVCsw
+yandex.ru###ugsqxw > div
+yandex.ru###zavuboo > div
+yandex.ru###theg > div
+yandex.ru###ijqj > div
+
+! 2021-02-11 https://www.usbdev.ru
+www.usbdev.ru##a.button15:nth-of-type(6)
+
+! 2021-02-11 https://www.google.com
+www.google.com##a.pHiOh:nth-of-type(2)
+
+! 2021-02-11 https://taxi.yandex.ru
+||yastatic.net/s3/taxi-front/taxifrontend-taxi-frontend-yandex/1.0.102/57e455f911ff2b6c421db52b40b764e8.jpg$image
+taxi.yandex.ru##.SignBoardSlider__img.BannerFKPro__image_country_ru.BannerFKPro__image_type_signboard.BannerFKPro__image > div
+taxi.yandex.ru##div.SignBoardContent.SignBoardSlider__content:nth-of-type(1)
+taxi.yandex.ru##.SignBoardSlider__slider
+taxi.yandex.ru##.SignBoardSlider_type_fk.SignBoardSlider.BannerFKPro
+
+! 2021-02-11 https://yandex.ru
+yandex.ru##.d0AqYVb4.yaplus_text.yaplus_old-icon.yaplus_available_yes.yaplus
+yandex.ru##.favorites-icon
+yandex.ru###u-1613068970000-100 > div
+yandex.ru###u-1613069003000-109 > div
+yandex.ru##.news-app__d2EOMVaHI-group.news-d2EOMVaHI-group.mg-grid__row_gap_8.mg-grid__row
+yandex.ru##.mg-grid__col:nth-of-type(5)
+yandex.ru##.mg-grid__col_xs_4.mg-grid__col:nth-of-type(8)
+
