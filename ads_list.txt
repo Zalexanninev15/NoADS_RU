@@ -6196,3 +6196,53 @@ yandex.ru##.news-app__d2EOMVaHI-group.news-d2EOMVaHI-group.mg-grid__row_gap_8.mg
 yandex.ru##.mg-grid__col:nth-of-type(5)
 yandex.ru##.mg-grid__col_xs_4.mg-grid__col:nth-of-type(8)
 
+! 2021-02-12 http://stascorp.com
+stascorp.com###gc_containerId20875
+
+! 2021-02-14 https://www.text-image.com
+www.text-image.com##.cc_container--open.cc_container.cc_banner
+
+! 2021-02-14 https://www.iemoji.com
+www.iemoji.com##.text
+
+! 2021-02-14 https://www.nytimes.com
+www.nytimes.com##div.egw6tc41.css-et84d3:nth-of-type(2)
+www.nytimes.com##.ejw0p350.css-183a15u
+www.nytimes.com##.e1x0szx60.css-17nqy7q.expanded-dock.expanded.shown.gdpr
+
+! 2021-02-14 https://edu.google.com
+edu.google.com###cookieBar
+
+! 2021-02-14 https://slack.com
+slack.com###onetrust-group-container
+slack.com##.ot-sdk-container > .ot-sdk-row
+
+! 2021-02-14 https://rsload.net
+rsload.net##center > div
+
+! 2021-02-15 https://prnt.sc
+prnt.sc##[href="//app.prntscr.com/advertise.html"]
+
+! 2021-02-15 https://app.prntscr.com
+app.prntscr.com##li:nth-of-type(7)
+
+! 2021-02-15 https://www.similarweb.com
+www.similarweb.com##.cookies-notification
+
+! 2021-02-15 https://www.canva.com
+www.canva.com##.jU9w5g
+
+! 2021-02-15 https://www.unscreen.com
+www.unscreen.com##.pr-4.px-md-2.p-1.position-absolute.align-items-center.d-flex
+www.unscreen.com##.cookies-alert.text-left.alert-dismissable.alert-warning.alert
+
+! 2021-02-15 https://www.deepcode.ai
+www.deepcode.ai##.cc-color-override--1762072787.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.deepcode.ai##.info-bar
+
+! 2021-02-15 https://cusdeb.com
+cusdeb.com##.toast-body
+
+! 2021-02-15 https://boardreader.com
+boardreader.com###cookies-policy
+
