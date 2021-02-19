@@ -6246,3 +6246,13 @@ cusdeb.com##.toast-body
 ! 2021-02-15 https://boardreader.com
 boardreader.com###cookies-policy
 
+! 2021-02-15 https://otus.ru
+otus.ru##.cookies
+
+! 2021-02-19 https://4pda.ru
+4pda.ru##.KL0Ges.VwKImmbJ
+||s.4pda.to/AA72A4uepVEs0nBZsPm8hNJTMaJS.jpg?_=1613483548$image
+||s.4pda.to/AA72A4uepVEs0nBZsPm8hNJTMaJS.jpg?_=1613483548$image
+||s.4pda.to/*.jpg?_=1613483548$image
+4pda.ru##.p96xw8AavjgyPz14ZBpnMd.xo81b
+
