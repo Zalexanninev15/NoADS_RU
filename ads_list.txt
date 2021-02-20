@@ -6256,3 +6256,18 @@ otus.ru##.cookies
 ||s.4pda.to/*.jpg?_=1613483548$image
 4pda.ru##.p96xw8AavjgyPz14ZBpnMd.xo81b
 
+! 2021-02-19 https://overcoder.net
+overcoder.net##div:nth-of-type(5)
+
+! 2021-02-19 https://feedback.telerik.com
+feedback.telerik.com###onetrust-banner-sdk
+
+! 2021-02-19 https://mijo-software.de
+mijo-software.de##.cookie-notice-container
+
+! 2021-02-19 https://vk.com
+vk.com##.cookies_policy_wrap
+
+! 2021-02-20 https://4pda.ru
+4pda.ru##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(8)
+
