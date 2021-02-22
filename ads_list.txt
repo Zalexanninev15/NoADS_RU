@@ -6271,3 +6271,21 @@ vk.com##.cookies_policy_wrap
 ! 2021-02-20 https://4pda.ru
 4pda.ru##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(8)
 
+! 2021-02-20 https://yoomoney.eu
+yoomoney.eu##.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+
+! 2021-02-20 https://qiwi.com
+qiwi.com##.cookies-self-67
+
+! 2021-02-21 https://www.prestosoft.com
+www.prestosoft.com###consent-footer
+
+! 2021-02-21 https://qiwi.com
+qiwi.com##.cookies-self-75
+
+! 2021-02-21 https://www.octoparse.com
+www.octoparse.com###snackbar
+
+! 2021-02-22 https://www.theverge.com
+www.theverge.com##.m-privacy-consent
+
