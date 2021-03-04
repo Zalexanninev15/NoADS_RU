@@ -6301,3 +6301,63 @@ www.patreon.com##.gPfttN.sc-fzqARJ
 ! 2021-02-24 https://www.exler.ru
 www.exler.ru##.cc-color-override--1762072787.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
 
+! 2021-02-25 https://dictionary.cambridge.org
+dictionary.cambridge.org##.i-amphtml-layout.amp-active.i-amphtml-built.i-amphtml-layout-nodisplay.i-amphtml-element.lp-10.tc-w.hflx-c.c_not
+
+! 2021-02-27 https://zismo.biz
+zismo.biz###ipbwrapper > .ipsBox
+zismo.biz##div.RqKSmjrW:nth-of-type(3)
+zismo.biz##div.RqKSmjrW
+
+! 2021-03-01 https://www.plex.tv
+www.plex.tv##.align-middle.container-standard.cookie-consent.notification-bar.grid-x
+
+! 2021-03-01 https://winaero.com
+winaero.com##.ramain-top
+
+! 2021-03-02 https://www.myheritage.com
+www.myheritage.com##.cookie_preferences_banner_container
+
+! 2021-03-02 https://www.glideapps.com
+www.glideapps.com##.bg-cool-gray-700.md\:inline-flex.md\:space-x-4.md\:space-y-0.md\:flex-row.md\:w-auto.md\:rounded-lg.md\:p-2.shadow-lg.space-y-2.p-4.w-full.items-center.flex-col.flex
+
+! 2021-03-04 https://www.shutterstock.com
+www.shutterstock.com##.p_h_7a5a3.p_a_c9b7c
+www.shutterstock.com##.U_a_6d5e5.v_f_8757b.U_a_c28f5
+
+! 2021-03-04 https://public-apis.xyz
+public-apis.xyz##.ph-banner
+
+! 2021-03-04 https://to-do.live.com
+to-do.live.com##.showIcons.otherApps
+to-do.live.com##.nativeAppUpsellCard-icons
+
+! 2021-03-04 https://yandex.ru
+yandex.ru##.favorites__icon
+yandex.ru##.vog9araI.yaplus_available_yes.yaplus
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.vog9araI.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru###prjejxsch > div
+yandex.ru##.vvEd9vuehKZWGnBhoTbeJBotJlFMbOYF_eGAKbg.vpkNs5aOhPczGjQl1d7e3A7A.vvEd9vuehKZWGnBho__ad_visible.vvEd9vuehKZWGnBhoTbeJBg
+yandex.ru##.vqE1yvuqqLae0nAxt.card.vqE14r9mhKQ
+
+! 2021-03-04 https://music.yandex.ru
+music.yandex.ru##.bar__branding_picture
+music.yandex.ru##.paused-slider_left.lada.paused-slider
+
+! 2021-03-04 https://www.kinopoisk.ru
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footerailuujb0bb5clsx1sx6__content-item:nth-of-type(2)
+
+! 2021-03-04 https://www.google.com
+www.google.com##.ssOUyb.KxwPGc > .pHiOh
+www.google.com##a.pHiOh:nth-of-type(3)
+
+! 2021-03-04 https://yandex.ru
+yandex.ru##.wpbfPZYg.yaplus_text.yaplus_old-icon.yaplus_available_yes.yaplus
+yandex.ru###fu-1614875388000-100 > div
+yandex.ru##div.wov_ac8isojw__heading.news-top-rubric-heading:nth-of-type(8)
+yandex.ru##div.wov_ac8isojw__heading.news-top-rubric-heading:nth-of-type(28)
+yandex.ru###fu-1614875388000-330 > div
+yandex.ru##div.mg-footer__column:nth-of-type(2) > div.mg-footer__item:nth-of-type(2)
+yandex.ru###fu-1614875436000-119 > div
+yandex.ru##.mg-grid__item.wov_ac8isojw__wrf7bZZe5-banger.news-wrf7bZZe5__banger_without-style.news-wrf7bZZe5__banger.wov_C-wrf7bZZe5
+
