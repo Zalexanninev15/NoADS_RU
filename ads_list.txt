@@ -6361,3 +6361,10 @@ yandex.ru##div.mg-footer__column:nth-of-type(2) > div.mg-footer__item:nth-of-typ
 yandex.ru###fu-1614875436000-119 > div
 yandex.ru##.mg-grid__item.wov_ac8isojw__wrf7bZZe5-banger.news-wrf7bZZe5__banger_without-style.news-wrf7bZZe5__banger.wov_C-wrf7bZZe5
 
+! 2021-03-05 https://habr.com
+habr.com###widget
+habr.com###vk-group > .default-block__header
+habr.com###vk-group > .sidebar-block.default-block__content
+habr.com###fb-like
+||habrastorage.org/webt/8p/3v/z4/8p3vz47nluspfyc0axlkx88gdua.png$image
+
