@@ -6427,3 +6427,23 @@ zen.yandex.ru###zen-row-11 > ._size_big.feed__item-wrap > ._size_big.feed__item
 zen.yandex.ru###zen-row-11 > ._size_big.feed__item-wrap
 zen.yandex.ru###zen-row-17
 
+! 2021-03-06 https://to-do.live.com
+to-do.live.com##.socialSharing-settings
+to-do.live.com##.settings-connect.settingsSection > .settingsSection-body
+to-do.live.com##.settings-connect.settingsSection > .settingsSection-header
+
+! 2021-03-06 https://ok.ru
+ok.ru##.h-mod.__cookies.portal-msg
+
+! 2021-03-06 https://psiphon.ca
+psiphon.ca###cookieConsent
+
+! 2021-03-06 https://www.pdf2go.com
+www.pdf2go.com##.show.hidden.consent-toast.qg-consent.toast
+
+! 2021-03-06 https://textis.ru
+textis.ru##.pp-cookies-notice
+
+! 2021-03-06 https://www.bing.com
+www.bing.com###b_notificationContainer_bop
+
