@@ -6368,3 +6368,62 @@ habr.com###vk-group > .sidebar-block.default-block__content
 habr.com###fb-like
 ||habrastorage.org/webt/8p/3v/z4/8p3vz47nluspfyc0axlkx88gdua.png$image
 
+! 2021-03-06 https://myip.ru
+myip.ru##.promo
+
+! 2021-03-06 https://2ip.ru
+2ip.ru##[href="http://www.bestwatch.ru/"]
+
+! 2021-03-06 https://4pda.ru
+4pda.ru##[href="//4pda.ru/cooperation/sellers/"]
+4pda.ru##strong
+4pda.ru##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(1)
+
+! 2021-03-06 https://habr.com
+habr.com###effect
+habr.com###effect-sidebar > .default-block
+
+! 2021-03-06 https://career.habr.com
+career.habr.com##.svg-icon--icon-twitter.svg-icon
+career.habr.com##.footer__social-link--appearance-twitter.footer__social-link
+career.habr.com##.svg-icon--icon-facebook.svg-icon
+career.habr.com##.footer__social-link--appearance-facebook.footer__social-link
+career.habr.com##.svg-icon--icon-linkedin.svg-icon
+career.habr.com##.footer__social-link--appearance-linkedin.footer__social-link
+
+! 2021-03-06 https://yandex.ru
+yandex.ru##div.desk-notif-card__domik-item:nth-of-type(3)
+yandex.ru##.lYr5v9qo.yaplus_available_yes.yaplus
+yandex.ru##.laPxj56I1XL2OOdao.card.laPxp9pEaWg
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.lYr5v9qo.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.lfPZs568aWsa8Ocutag9ohkzbfr0nRxz3a12tAg.lZvJ9vqsaTpb8KNqwUA9Wg3c.lfPZs568aWsa8Ocut__ad_visible.lfPZs568aWsa8Ocutag9ohg
+
+! 2021-03-06 https://pokupki.market.yandex.ru
+pokupki.market.yandex.ru##.b_1IAeTYtJvb
+pokupki.market.yandex.ru##.b_11ZmuAyi66
+
+! 2021-03-06 https://yandex.ru
+yandex.ru##.h4HZIgs8.yaplus_text.yaplus_old-icon.yaplus_available_yes.yaplus
+yandex.ru###fu-1615027004000-100 > div
+yandex.ru##div.h5z5dlI_D_o4__heading.news-top-rubric-heading:nth-of-type(8)
+yandex.ru##div.h5z5dlI_D_o4__heading.news-top-rubric-heading:nth-of-type(28)
+yandex.ru###fu-1615027004000-328 > div
+yandex.ru###fu-1615027042000-104 > div
+yandex.ru##.mg-grid__item.h5z5dlI_D_o4__h6D9cgtDW-banger.news-h6D9cgtDW__banger_without-style.news-h6D9cgtDW__banger.h5z5F-h6D9cgtDW
+
+! 2021-03-06 https://zen.yandex.ru
+zen.yandex.ru###zen-row-39
+zen.yandex.ru###zen-row-59
+zen.yandex.ru###zen-row-71
+zen.yandex.ru###zen-row-75
+zen.yandex.ru###zen-row-81
+zen.yandex.ru###zen-row-84
+zen.yandex.ru###zen-row-87
+zen.yandex.ru###zen-row-97
+zen.yandex.ru###\33 239170523427184602 > .kBz6Rq8i_M9x7CqJhSgLI_ZA.kIiGapM32fdR6Qat2TQs.card-wrapper_anny > .kIiGapM32fdR6Qat2TQvjzYGF.card-wrapper_anny > .kLSqdtPa4ctR7VJlaXAc
+zen.yandex.ru###\33 239170523427184602 > .kBz6Rq8i_M9x7CqJhSgLI_ZA.kIiGapM32fdR6Qat2TQs.card-wrapper_anny > .kIiGapM32fdR6Qat2TQvjzYGF.card-wrapper_anny
+zen.yandex.ru###\33 239170523427184602 > .kBz6Rq8i_M9x7CqJhSgLI_ZA.kIiGapM32fdR6Qat2TQs.card-wrapper_anny
+zen.yandex.ru###zen-row-11 > ._size_big.feed__item-wrap > ._size_big.feed__item
+zen.yandex.ru###zen-row-11 > ._size_big.feed__item-wrap
+zen.yandex.ru###zen-row-17
+
