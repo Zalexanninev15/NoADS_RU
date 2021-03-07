@@ -6453,3 +6453,33 @@ web.telegram.org##.login_try_desktop
 ! 2021-03-07 https://vk.com
 vk.com##.PhotoRecognizeBlock__inner
 
+! 2021-03-07 https://web.archive.org
+web.archive.org###cookie_wrapper
+
+! 2021-03-07 https://uc.zone
+uc.zone##.notice-content
+uc.zone##.uix_noticeInner
+
+! 2021-03-07 https://ammo1.livejournal.com
+ammo1.livejournal.com##.xcaba031b.e322ae337.i871b4cc3.x5fb8353d.qfc2099ef.g4580f86
+ammo1.livejournal.com##.ng-isolate-scope.b-singlepost-bodybanner.vzhba5x
+ammo1.livejournal.com##.b-discoverytimes-items-container
+ammo1.livejournal.com##.b-discoverytimes-container
+ammo1.livejournal.com###super_footer_1615129700836
+ammo1.livejournal.com##div.ng-isolate-scope.vbitv045q6qyjc9asg3mh4v4uwhdf.vzhba5x > .vzhba5x__inner--custom-width.vzhba5x__inner > .false.vtr13395flc > .ng-scope.vtr13395flc-close
+ammo1.livejournal.com##.ob90acdef.p45cbe2c5.x5fb8353d.xa75ec9d3.g4580f86
+ammo1.livejournal.com##.ng-scope.b-singlepost-prevnext
+ammo1.livejournal.com##div.threeposts--item-size-l.threeposts--items-in-row-3.threeposts--size-xxl.threeposts--count-9.threeposts:nth-of-type(11)
+ammo1.livejournal.com##div.ng-isolate-scope.ng-scope.vzhba5x > .vzhba5x__inner--custom-width.vzhba5x__inner > .false.vtr13395flc > .ng-scope.vtr13395flc-close
+ammo1.livejournal.com##dl.s-option:nth-of-type(2)
+ammo1.livejournal.com##.s-social-item-tw.s-social-item > .lj-track
+ammo1.livejournal.com##.s-social-item-tw.s-social-item
+ammo1.livejournal.com##.lj-track > .flaticon--facebook.flaticon.svgicon
+ammo1.livejournal.com##.s-social-item-f.s-social-item > .lj-track
+ammo1.livejournal.com##.s-social-item-f.s-social-item
+
+! 2021-03-07 https://soft-file.ru
+soft-file.ru###yab
+soft-file.ru##.load-bl
+soft-file.ru##.proverka
+
