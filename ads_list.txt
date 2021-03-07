@@ -6447,3 +6447,9 @@ textis.ru##.pp-cookies-notice
 ! 2021-03-06 https://www.bing.com
 www.bing.com###b_notificationContainer_bop
 
+! 2021-03-07 https://web.telegram.org
+web.telegram.org##.login_try_desktop
+
+! 2021-03-07 https://vk.com
+vk.com##.PhotoRecognizeBlock__inner
+
