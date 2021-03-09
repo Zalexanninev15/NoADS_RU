@@ -6483,3 +6483,27 @@ soft-file.ru###yab
 soft-file.ru##.load-bl
 soft-file.ru##.proverka
 
+! 2021-03-09 https://start.me
+start.me##.info-message
+start.me##.widget-page__ads
+
+! 2021-03-09 https://blymp.io
+blymp.io##.small-info
+
+! 2021-03-09 https://www.fanatical.com
+www.fanatical.com##.facebook.track-link.footer-social-icon
+www.fanatical.com##.twitter.track-link.footer-social-icon
+www.fanatical.com##.instagram.track-link.footer-social-icon
+www.fanatical.com##[href="/ru/affiliates"]
+
+! 2021-03-09 https://win10tweaker.pro
+win10tweaker.pro###text-5
+win10tweaker.pro##.non-hundred-percent-height-scrolling.hundred-percent-fullwidth.fusion-builder-row-10.fullwidth-box.fusion-fullwidth
+win10tweaker.pro##.non-hundred-percent-height-scrolling.hundred-percent-fullwidth.fusion-builder-row-8.fullwidth-box.fusion-fullwidth
+win10tweaker.pro###rev_slider_4_6 > rs-slides > rs-slide > .dddwrapper-layer
+win10tweaker.pro###rev_slider_4_6 > rs-slides > rs-slide
+win10tweaker.pro###rev_slider_4_6 > rs-slides
+win10tweaker.pro###rev_slider_4_6_wrapper > .rev_redraw_on_blurfocus.revslider-initialised
+win10tweaker.pro###rev_slider_4_6_wrapper
+win10tweaker.pro###rev_slider_4_6_forcefullwidth
+
