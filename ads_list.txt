@@ -6507,3 +6507,20 @@ win10tweaker.pro###rev_slider_4_6_wrapper > .rev_redraw_on_blurfocus.revslider-i
 win10tweaker.pro###rev_slider_4_6_wrapper
 win10tweaker.pro###rev_slider_4_6_forcefullwidth
 
+! 2021-03-11 https://www.google.com
+www.google.com###gws-output-pages-elements-homepage_additional_languages__als
+
+! 2021-03-12 https://unboxhow.com
+unboxhow.com##.cookie-notice-container
+
+! 2021-03-12 https://4pda.ru
+||s.4pda.to/dry7VR1Q285RCeYpVn5OpXbdz13e.jpg?_=1615558005$image
+
+! 2021-03-12 https://yandex.ru
+yandex.ru##.ehaKZvC8.yaplus_available_yes.yaplus
+yandex.ru##.ejaCVrSdzsc4ykUx_.card.ejaCfvBR4tw
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.ehaKZvC8.links-section__link.link_theme_normal.link:nth-of-type(1)
+||yandex-pogoda.clstorage.net/1557why34/6a8344hr/uPqTEn6r4UkVt9E4wTCrZ_8Q1Yg0GFeJPlXtR9Fca1ugxyu2dxneGAQDHClV6Y9X-s2XhtydLHHboeqCJv8ou9pLgmf-v5GZ1EVi25OyvHXsYwMLlumnyb81rBNkrRn4tIdLdlNNm1yxN8l9kZ36AqstxiatTf1gK2XaImcu6eqJKoNm2i_g6BQGUXihAB_3j3DAeFWYBkkORI021U3a6tGmi9YjrMu9EGbJXdAcK2PrjdY3TIy8kJukW_Jm3ggb6IrzF1q-IVmFxuBZEdDPx49xwehVKBaJDkRsl3XM6hsAtts342wLbeAGiWywjSpzikyHN6ydvJFKpXqz9r-5e9lbUrZ6vgBIZOYB2SCgX7ZvwVH4NTk3KX_k7MbVnDrrcFZr12Jsa81wpuhswBw6w9sdpmfM7LygGzXbUve-yFvIy0NGii5x-IWmEEnh8B_37mABuKSpR-medT0nZN1LWhG26_bSfYrNoccJHTHdyvPKXFdHvK18Mar12pLnP1gr2KvCR7p-sKgFJmEZIAE-9h-QgUklKHe5PvTN1oXs-ytxBxuX0zwKLfBWaV2QXApzK0z2R-1drGDLFQuSJ59Zi_grMvfrzgAZNNcAuTHBzofvofEIlCi2-A5kvddlHMraESc6h_Mdu2wQd2hdwV2qo0ut92etbYygK1Xqoud_SMo5GvKm-q9AyCRHofgBwF82TkFB-cT41tlvFH3n5CxqS_Gm-_bT3PqdoVbJ7KGsa_I6XZY2HO3cMQu1uuMXD9haGKsDBovPodgl9iH40WAvR-4hodl0uTf5rwRsh-ScymoB1vvGQqx7rOAXGByR7Wsza7xXZ-yNrDFLlWqyhg54angrYrc6boGINObACbDAfgcPEMEZtQm3mC4kjRelfTp6Aca7NuJsm70xlmlskB378qr810dMXV0ROoQqIxd_qCtoG4MHer5gCISWgcmxAf62XkChuDVYx$subdocument
+yandex.ru###b931b09f8b06
+yandex.ru##.emaqarSp4t7wAkVh6LacbDcdn_QoekkyGQozyTA.eg66L9C54oaVAgElnF6clCPw.emaqarSp4t7wAkVh6__ad_visible.emaqarSp4t7wAkVh6LacbDQ
+
