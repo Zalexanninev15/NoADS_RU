@@ -1,8 +1,9 @@
 ! List: NoADS_RU
 ! Author: Zalexanninev15
 ! License: MIT
-! GitHub: https://github.com/Zalexanninev15/NoADS_RU
-! Donate: qiwi.com/n/ZALEXANNINEV15
+! GitHub: github.com/Zalexanninev15/NoADS_RU
+! Donate 1: qiwi.com/n/ZALEXANNINEV15
+! Donate 2: yoomoney.ru/to/410015106319420 
 
 ! 13.02.2020 https://disk.yandex.ru
 disk.yandex.ru##.link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon > path
@@ -155,7 +156,6 @@ m.vk.com##.mmi_recommended > .al_menu.mm_item
 m.vk.com##.mmi_likes > .al_menu.mm_item
 
 ! 13.02.2020 https://vk.com
-!vk.com###ui_rmenu_live
 ||pp.userapi.com/ouEIfaNitjfwHg2u4SvMqgX-bVqQ4PtlVzsXqQ/TVyzBIA-8JY.jpg$image
 vk.com##.audio_promo__link
 vk.com##.audio_subscribe_promo
@@ -813,9 +813,6 @@ yandex.ru##.link_js_inited.i-bem.mobile-store-badge_platform_android.mobile-stor
 yandex.ru##.link_js_inited.i-bem.mobile-store-badge_platform_ios.mobile-store-badge.link_theme_normal.link
 yandex.ru##.link_js_inited.i-bem.serp-footer__col-item.serp-footer__collections.serp-footer__link.link_theme_clear.link
 yandex.ru##.link_js_inited.i-bem.serp-footer__stat.serp-footer__link.link_theme_clear.link
-!yandex.ru##.service_js_inited.i-bem.service_name_uslugi.service
-!yandex.ru##.service_js_inited.i-bem.service_name_collections.service
-!yandex.ru###uniq609 > .menu__text
 
 ! 14.02.2020 http://nnmclub.to
 nnmclub.to##[href="misc/html/advert.html"]
@@ -1043,10 +1040,6 @@ ru.wikipedia.org##[href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5
 m.yandex.ru##a.link_js_inited.i-bem.competitors__link.link_theme_none.link:nth-of-type(3)
 m.yandex.ru##.service_name_collections.service > .link_theme_normal.link.service__url > .service__name
 
-! 17.02.2020 https://yandex.ru
-!yandex.ru##.collections_js_inited.media-service_tabs_yes.media-service_has-carousel_yes.mix-tabber_theme_media.media-service.media-grid__collections.i-bem.collections
-!yandex.ru##.media-grid__media-content
-
 ! 17.02.2020 https://passport.yandex.ru
 passport.yandex.ru##.registration__social-btn_short.registration__fb-btn
 
@@ -1065,7 +1058,6 @@ rabota.yandex.ru##a.footer__link.link:nth-of-type(7)
 4pda.ru##.icon-fb
 
 ! 17.02.2020 https://yandex.ru
-!yandex.ru##.distr-default-search__content
 yandex.ru##.distr-default-search_js_inited.i-dbn-cookie_js_inited.i-bem.i-dbn-cookie.distr-default-search
 
 ! 19.02.2020 https://vk.com
@@ -1200,10 +1192,6 @@ docs.google.com##.goog-flat-button.goog-inline-block.docs-explore-widget-button
 ||s.4pda.to/dry7Ndn2mFvz2qH634ITO1Wu24z2Me.jpg?_=1581944203$image
 ||s.4pda.to/dry7M8l7Y3rW3Udjxq4RjN57144tiU3NI3z0BymxpBDx25D6ZK6XTKNI2.jpg$image
 4pda.ru##.BchkdBmygoO2dOY
-
-! 20.02.2020 https://yandex.ru
-!yandex.ru###uniq642 > .menu__text
-!yandex.ru###uniq644 > .menu__text
 
 ! 20.02.2020 https://getvideo.org
 getvideo.org##.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
@@ -1449,11 +1437,8 @@ www.microsoft.com##[href="https://www.facebook.com/mstrend"]
 www.microsoft.com##[href="https://twitter.com/RusMicrosoft"]
 
 ! 24.02.2020 https://yandex.ru
-!yandex.ru##.rows__row_last.rows__row.WH
 yandex.ru##div.headline__bar-item.Ax:nth-of-type(3)
-!yandex.ru##.headline__favorites.headline__bar-item.Ax
 yandex.ru##div.b-wdgt-preferences__pref:nth-of-type(3) > .b-wdgt-preferences__pref-col
-!yandex.ru##.button_js_inited.i-bem.button_theme_normal-sharp.button_size_line.b-modal-window__right.b-wdgt-preferences__cancel.button
 yandex.ru##.b-wdgt-preferences__pref-col
 
 ! 24.02.2020 https://www.cyberforum.ru
@@ -1470,9 +1455,6 @@ zen.yandex.ru##.article-render_new-layout.article-render > .article-render__bloc
 mail.yandex.ru##.wb01bdd6c.k53a6e48a.xd6682db9
 mail.yandex.ru##.u3659ab97.xd82c35be.x5c8fdac3.n7f921405
 mail.yandex.ru##.mail-LoadingBar-Container.ns-view-id-106.ns-view-loading-bar
-
-! 24.02.2020 https://yandex.ru
-!yandex.ru###uniq632 > .menu__text
 
 ! 26.02.2020 https://www.msn.com
 www.msn.com###Microsoft_News_App_INTL_2019_banner_2
@@ -1741,7 +1723,6 @@ technopoint.ru###b-2503396f-85e5-4257-a77e-bafed77b3473
 www.dns-shop.ru###b-9b11b9db-ab02-43b7-b375-2a68d131e735
 
 ! 05.03.2020 https://yandex.ru
-!yandex.ru##.i-bem.distr-popup__button_type_click.distr-popup__button.button2_view_classic.button2_type_link.button2_has-color.button2_theme_default.button2_size_m.button2
 yandex.ru##.distr-popup__close
 ||avatars.mds.yandex.net/get-banana/49904/x25BX0U5CV1Xlklu7DKZ8VX_j_banana_20161021_bro-no-zen.svg/svg$image
 yandex.ru##.i-bem.distr-popup__button_type_close.distr-popup__button.button2_view_classic.button2_has-color.button2_theme_clear.button2_size_m.button2
@@ -2038,11 +2019,6 @@ mail.yandex.ru##.rd286476b.o48eacc72.w63c27741
 mail.yandex.ru##.y4cdad2af
 mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-70.ns-view-fill-height-placeholder-box
 
-! 11.03.2020 https://yandex.ru
-!yandex.ru##.favorites-icon
-!yandex.ru##div.RelatedSnippets:nth-of-type(5)
-!yandex.ru##.Carousel_type_actress.Carousel
-
 ! 11.03.2020 https://4pda.ru
 4pda.ru##.count-visitor
 4pda.ru##.footer-area
@@ -2065,12 +2041,9 @@ yandex.ru##div.entity-search__list:nth-of-type(5) > .i-bem.showcase_scroll_no.sh
 
 ! 13.03.2020 https://yandex.ru
 yandex.ru##.i-bem.zalogin-smart__button_type_register.zalogin-smart__button.button2_view_classic.button2_type_link.button2_theme_default.button2_size_m.button2
-!yandex.ru##.button2_js_inited.i-bem.zalogin-smart__button_type_auth.zalogin-smart__button.button2_view_action.button2_type_link.button2_theme_default.button2_size_m.button2
 ||yastatic.net/s3/web4static/_/v2/j15H9Ly6YZ-1mzLl90vnaOrqT2Y.svg$image
 yandex.ru##.zalogin-smart__title
 yandex.ru##.zalogin-smart__inner
-!yandex.ru##.navi__tools
-!yandex.ru##.rows__row_last.rows__row.HQ
 
 ! 13.03.2020 https://translate.yandex.ru
 translate.yandex.ru##.footer-links-item_usability
@@ -5213,8 +5186,6 @@ connect.vk.com##.MenuItem__active.MenuItem.Cell--android.Cell > .Cell__in > .Tap
 ! 2020-10-09 https://vk.com
 vk.com###pv_tag_link
 vk.com##.audio_promo
-!vk.com###l_mk > .left_row
-!vk.com###l_mk > .left_settings
 vk.com##.olist_item_no_ads_link.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
 vk.com##.olist_item_wrap_on.olist_item_no_covid19_app.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
 vk.com##.olist_item_wrap_on.olist_item_no_worki_app.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
@@ -6376,7 +6347,6 @@ myip.ru##.promo
 
 ! 2021-03-06 https://4pda.ru
 4pda.ru##[href="//4pda.ru/cooperation/sellers/"]
-4pda.ru##strong
 4pda.ru##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(1)
 
 ! 2021-03-06 https://habr.com
@@ -6523,4 +6493,16 @@ yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.ehaKZvC8.
 ||yandex-pogoda.clstorage.net/1557why34/6a8344hr/uPqTEn6r4UkVt9E4wTCrZ_8Q1Yg0GFeJPlXtR9Fca1ugxyu2dxneGAQDHClV6Y9X-s2XhtydLHHboeqCJv8ou9pLgmf-v5GZ1EVi25OyvHXsYwMLlumnyb81rBNkrRn4tIdLdlNNm1yxN8l9kZ36AqstxiatTf1gK2XaImcu6eqJKoNm2i_g6BQGUXihAB_3j3DAeFWYBkkORI021U3a6tGmi9YjrMu9EGbJXdAcK2PrjdY3TIy8kJukW_Jm3ggb6IrzF1q-IVmFxuBZEdDPx49xwehVKBaJDkRsl3XM6hsAtts342wLbeAGiWywjSpzikyHN6ydvJFKpXqz9r-5e9lbUrZ6vgBIZOYB2SCgX7ZvwVH4NTk3KX_k7MbVnDrrcFZr12Jsa81wpuhswBw6w9sdpmfM7LygGzXbUve-yFvIy0NGii5x-IWmEEnh8B_37mABuKSpR-medT0nZN1LWhG26_bSfYrNoccJHTHdyvPKXFdHvK18Mar12pLnP1gr2KvCR7p-sKgFJmEZIAE-9h-QgUklKHe5PvTN1oXs-ytxBxuX0zwKLfBWaV2QXApzK0z2R-1drGDLFQuSJ59Zi_grMvfrzgAZNNcAuTHBzofvofEIlCi2-A5kvddlHMraESc6h_Mdu2wQd2hdwV2qo0ut92etbYygK1Xqoud_SMo5GvKm-q9AyCRHofgBwF82TkFB-cT41tlvFH3n5CxqS_Gm-_bT3PqdoVbJ7KGsa_I6XZY2HO3cMQu1uuMXD9haGKsDBovPodgl9iH40WAvR-4hodl0uTf5rwRsh-ScymoB1vvGQqx7rOAXGByR7Wsza7xXZ-yNrDFLlWqyhg54angrYrc6boGINObACbDAfgcPEMEZtQm3mC4kjRelfTp6Aca7NuJsm70xlmlskB378qr810dMXV0ROoQqIxd_qCtoG4MHer5gCISWgcmxAf62XkChuDVYx$subdocument
 yandex.ru###b931b09f8b06
 yandex.ru##.emaqarSp4t7wAkVh6LacbDcdn_QoekkyGQozyTA.eg66L9C54oaVAgElnF6clCPw.emaqarSp4t7wAkVh6__ad_visible.emaqarSp4t7wAkVh6LacbDQ
+
+! 2021-03-13 https://www.kinopoisk.ru
+www.kinopoisk.ru##.styles_rootPlus__3KjIP.styles_rootLight__3Zzzc.styles_root__3_KIA.styles_root__3JcbD.styles_plusDesktopBrandingButton__1vdUJ
+www.kinopoisk.ru##.styles_root__3Da2m
+www.kinopoisk.ru##.similar-movies-block_root__EuYVt.similar-films-block > section
+www.kinopoisk.ru##.styles_rootDark__3QhkP.styles_mobileAppsMenu__qP_CN.styles_root__2F_Wm
+www.kinopoisk.ru##li.styles_contentMenuItem__2bycf.footer__content-item:nth-of-type(2) > .styles_contentLink__2vbhx.footer__content-link
+www.kinopoisk.ru##.social-section__icon_type_facebook.social-section__icon.styles_icon__2T3Eq.styles_facebook__1BmwN
+www.kinopoisk.ru##.social-section__icon_type_twitter.social-section__icon.styles_icon__2T3Eq.styles_twitter__1XadY
+www.kinopoisk.ru##.social-section__icon_type_instagram.social-section__icon.styles_icon__2T3Eq.styles_instagram__qWKoh
+www.kinopoisk.ru##li.styles_contentMenuItem__2bycf.footer__content-item:nth-of-type(5) > .styles_contentLink__2vbhx.footer__content-link
+www.kinopoisk.ru##li.styles_contentMenuItem__2bycf.footer__content-item:nth-of-type(6) > .styles_contentLink__2vbhx.footer__content-link
 
