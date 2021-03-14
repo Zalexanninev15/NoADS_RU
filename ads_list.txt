@@ -3,7 +3,7 @@
 ! License: MIT
 ! GitHub: github.com/Zalexanninev15/NoADS_RU
 ! Donate 1: qiwi.com/n/ZALEXANNINEV15
-! Donate 2: yoomoney.ru/to/410015106319420 
+! Donate 2: yoomoney.ru/to/410015106319420
 
 ! 13.02.2020 https://disk.yandex.ru
 disk.yandex.ru##.link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon > path
@@ -820,18 +820,18 @@ nnmclub.to##[href="misc/html/advert.html"]
 ||nnmclub.ch/forum/images/pface.gif$image
 
 ! 14.02.2020 https://zen.yandex.ru
-zen.yandex.ru##.share-left-block > div.share-left-block__tooltip-button-container:nth-of-type(2) > .share-left-block__network.share-button_big.share-button
-zen.yandex.ru##.share-left-block__other-networks-container > div.share-left-block__tooltip-button-container:nth-of-type(2) > .share-left-block__network.share-button_big.share-button
-zen.yandex.ru##.article-render_new-layout.article-render > .article-render__block_embed.article-render__block > .v4km9PeEj_8opNtoz5P4.v7ka6KNs4vsoaJPU96Oak.v7ka6KNs4vs8zNaAq9b2k6ajKUg
-zen.yandex.ru###article__bottom-embed > .article-render__block_embed.article-render__block > .v4km9PeEj_8opNtoz5P4.v7ka6KNs4vsoaJPU96Oak.v7ka6KNs4vs8zNaAq9b2k6ajKUg
-zen.yandex.ru##.share-block__network_type_fb.share-block__network.share-list__network_type_fb.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon > .zen-icon.icon > svg
-zen.yandex.ru##.share-block__network_type_fb.share-block__network.share-list__network_type_fb.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon > .zen-icon.icon
-zen.yandex.ru##.share-block__network_type_fb.share-block__network.share-list__network_type_fb.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon
-zen.yandex.ru##.share-block__network_type_fb.share-block__network.share-list__network_type_fb.share-list__network
-zen.yandex.ru##.share-block__network_type_tw.share-block__network.share-list__network_type_tw.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon > .zen-icon.icon > svg
-zen.yandex.ru##.share-block__network_type_tw.share-block__network.share-list__network_type_tw.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon > .zen-icon.icon
-zen.yandex.ru##.share-block__network_type_tw.share-block__network.share-list__network_type_tw.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon
-zen.yandex.ru##.share-block__network_type_tw.share-block__network.share-list__network_type_tw.share-list__network
+!zen.yandex.ru##.share-left-block > div.share-left-block__tooltip-button-container:nth-of-type(2) > .share-left-block__network.share-button_big.share-button
+!zen.yandex.ru##.share-left-block__other-networks-container > div.share-left-block__tooltip-button-container:nth-of-type(2) > .share-left-block__network.share-button_big.share-button
+!zen.yandex.ru##.article-render_new-layout.article-render > .article-render__block_embed.article-render__block > .v4km9PeEj_8opNtoz5P4.v7ka6KNs4vsoaJPU96Oak.v7ka6KNs4vs8zNaAq9b2k6ajKUg
+!zen.yandex.ru###article__bottom-embed > .article-render__block_embed.article-render__block > .v4km9PeEj_8opNtoz5P4.v7ka6KNs4vsoaJPU96Oak.v7ka6KNs4vs8zNaAq9b2k6ajKUg
+!zen.yandex.ru##.share-block__network_type_fb.share-block__network.share-list__network_type_fb.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon > .zen-icon.icon > svg
+!zen.yandex.ru##.share-block__network_type_fb.share-block__network.share-list__network_type_fb.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon > .zen-icon.icon
+!zen.yandex.ru##.share-block__network_type_fb.share-block__network.share-list__network_type_fb.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon
+!zen.yandex.ru##.share-block__network_type_fb.share-block__network.share-list__network_type_fb.share-list__network
+!zen.yandex.ru##.share-block__network_type_tw.share-block__network.share-list__network_type_tw.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon > .zen-icon.icon > svg
+!zen.yandex.ru##.share-block__network_type_tw.share-block__network.share-list__network_type_tw.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon > .zen-icon.icon
+!zen.yandex.ru##.share-block__network_type_tw.share-block__network.share-list__network_type_tw.share-list__network > .share-button > .share-button__icon_size_xl.share-button__icon
+!zen.yandex.ru##.share-block__network_type_tw.share-block__network.share-list__network_type_tw.share-list__network
 
 ! 14.02.2020 https://javarush.ru
 javarush.ru##.e1ha5zqb0.intercom-1kyt4wt.intercom-launcher-discovery-frame
@@ -1358,75 +1358,75 @@ cloud.mail.ru##.pm-toolbar__button_last-in-group.pm-toolbar__button.js-button > 
 disk.yandex.ru##.burger-sidebar__button.button2_theme_clear.button2_size_n.button2_view_classic.button2.control
 
 ! 24.02.2020 https://zen.yandex.ru
-zen.yandex.ru##.article-render_new-layout.article-render > .article-render__block_embed.article-render__block > .m3a7a4IMMraJ8rE4CgHQ.m0aH59bkX7KJrvmEMjGwa.m0aH59bkX7KdmrXQbkTca7Xsaow
-zen.yandex.ru###article__bottom-embed > .article-render__block_embed.article-render__block > .m3a7a4IMMraJ8rE4CgHQ.m0aH59bkX7KJrvmEMjGwa.m0aH59bkX7KdmrXQbkTca7Xsaow
-zen.yandex.ru##.featuring-carousel
-zen.yandex.ru###-\32 119549575768700474 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc > .m3a7a4IMMraJ8rE4CgHQ
-zen.yandex.ru###-\32 119549575768700474 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc
-zen.yandex.ru###-\32 119549575768700474 > ._is-desktop.my6Hl9fEdtaE
-zen.yandex.ru###-\32 119549575768700474
-zen.yandex.ru##div.feed__row:nth-of-type(20) > ._size_big.feed__item-wrap
-zen.yandex.ru###\31  > .content-carousel-view
-zen.yandex.ru###-\33 078835742570339593 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc > .m3a7a4IMMraJ8rE4CgHQ
-zen.yandex.ru###-\33 078835742570339593 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc
-zen.yandex.ru###-\33 078835742570339593 > ._is-desktop.my6Hl9fEdtaE
-zen.yandex.ru###-\33 078835742570339593
-zen.yandex.ru##div.feed__row:nth-of-type(33) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(33)
-zen.yandex.ru###\33 285281209196759173 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc > .m3a7a4IMMraJ8rE4CgHQ
-zen.yandex.ru##div.feed__row:nth-of-type(9)
-zen.yandex.ru##._is-desktop._paused._started._visible.video-card > ._hidden.video-card__content > .video-card__clickable
-zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__player-wrapper.video-player-desktop > .video-player-desktop__container > div:nth-of-type(2)
-zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__player-wrapper.video-player-desktop > .video-player-desktop__container
-zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__player-wrapper.video-player-desktop
-zen.yandex.ru##.video-player-desktop__container > div:nth-of-type(2)
-zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__
-zen.yandex.ru##div.feed__row:nth-of-type(13)
-zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__content > .video-card__clickable
-zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__player-wrapper.video-player-desktop > .video-player-desktop__container
-zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__player-wrapper.video-player-desktop
-zen.yandex.ru##._is-desktop._started._visible.video-card
-zen.yandex.ru###\33 977920016604019588
-zen.yandex.ru##div.feed__row:nth-of-type(11)
-zen.yandex.ru###-\31 211167473112079374
-zen.yandex.ru##div.feed__row:nth-of-type(3) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(3)
-zen.yandex.ru###-\39 052230636276995249
-zen.yandex.ru##div.feed__row:nth-of-type(8) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(8)
-zen.yandex.ru###\36 259338746323690834 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc > .m3a7a4IMMraJ8rE4CgHQ
-zen.yandex.ru###\36 259338746323690834 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc
-zen.yandex.ru###\36 259338746323690834 > ._is-desktop.my6Hl9fEdtaE
-zen.yandex.ru###\36 259338746323690834
-zen.yandex.ru##div.feed__row:nth-of-type(6) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(6)
-zen.yandex.ru###-\33 895829306021578805_gif
-zen.yandex.ru##div.feed__row:nth-of-type(15) > ._size_big.feed__item-wrap
-zen.yandex.ru###\34 219121634091101964
-zen.yandex.ru##div.feed__row:nth-of-type(15)
-zen.yandex.ru##div.feed__row:nth-of-type(16) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(16)
-zen.yandex.ru###\35 713930706061018130
-zen.yandex.ru##div.feed__row:nth-of-type(21) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(21)
-zen.yandex.ru##div.feed__row:nth-of-type(22)
-zen.yandex.ru##div.feed__row:nth-of-type(24)
-zen.yandex.ru###-\37 519081865645112701
-zen.yandex.ru##div.feed__row:nth-of-type(25) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(25)
-zen.yandex.ru##div.feed__row:nth-of-type(27)
-zen.yandex.ru###-\31 37100523250571646
-zen.yandex.ru##div.feed__row:nth-of-type(28) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(28)
-zen.yandex.ru###\34 883439259297717417 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc > .m3a7a4IMMraJ8rE4CgHQ
-zen.yandex.ru###\34 883439259297717417 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc
-zen.yandex.ru###\34 883439259297717417 > ._is-desktop.my6Hl9fEdtaE
-zen.yandex.ru###\34 883439259297717417
-zen.yandex.ru##div.feed__row:nth-of-type(19) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(19)
-zen.yandex.ru###-\39 214699503181599983
-zen.yandex.ru##div.feed__row:nth-of-type(26) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(26)
+!zen.yandex.ru##.article-render_new-layout.article-render > .article-render__block_embed.article-render__block > .m3a7a4IMMraJ8rE4CgHQ.m0aH59bkX7KJrvmEMjGwa.m0aH59bkX7KdmrXQbkTca7Xsaow
+!zen.yandex.ru###article__bottom-embed > .article-render__block_embed.article-render__block > .m3a7a4IMMraJ8rE4CgHQ.m0aH59bkX7KJrvmEMjGwa.m0aH59bkX7KdmrXQbkTca7Xsaow
+!zen.yandex.ru##.featuring-carousel
+!zen.yandex.ru###-\32 119549575768700474 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc > .m3a7a4IMMraJ8rE4CgHQ
+!zen.yandex.ru###-\32 119549575768700474 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc
+!zen.yandex.ru###-\32 119549575768700474 > ._is-desktop.my6Hl9fEdtaE
+!zen.yandex.ru###-\32 119549575768700474
+!zen.yandex.ru##div.feed__row:nth-of-type(20) > ._size_big.feed__item-wrap
+!zen.yandex.ru###\31  > .content-carousel-view
+!zen.yandex.ru###-\33 078835742570339593 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc > .m3a7a4IMMraJ8rE4CgHQ
+!zen.yandex.ru###-\33 078835742570339593 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc
+!zen.yandex.ru###-\33 078835742570339593 > ._is-desktop.my6Hl9fEdtaE
+!zen.yandex.ru###-\33 078835742570339593
+!zen.yandex.ru##div.feed__row:nth-of-type(33) > ._size_big.feed__item-wrap
+!zen.yandex.ru##div.feed__row:nth-of-type(33)
+!zen.yandex.ru###\33 285281209196759173 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc > .m3a7a4IMMraJ8rE4CgHQ
+!zen.yandex.ru##div.feed__row:nth-of-type(9)
+!zen.yandex.ru##._is-desktop._paused._started._visible.video-card > ._hidden.video-card__content > .video-card__clickable
+!zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__player-wrapper.video-player-desktop > .video-player-desktop__container > div:nth-of-type(2)
+!zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__player-wrapper.video-player-desktop > .video-player-desktop__container
+!zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__player-wrapper.video-player-desktop
+!zen.yandex.ru##.video-player-desktop__container > div:nth-of-type(2)
+!zen.yandex.ru##._is-desktop._paused._started._visible.video-card > .video-card__
+!zen.yandex.ru##div.feed__row:nth-of-type(13)
+!zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__content > .video-card__clickable
+!zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__player-wrapper.video-player-desktop > .video-player-desktop__container
+!zen.yandex.ru##._is-desktop._started._visible.video-card > .video-card__player-wrapper.video-player-desktop
+!zen.yandex.ru##._is-desktop._started._visible.video-card
+!zen.yandex.ru###\33 977920016604019588
+!zen.yandex.ru##div.feed__row:nth-of-type(11)
+!zen.yandex.ru###-\31 211167473112079374
+!zen.yandex.ru##div.feed__row:nth-of-type(3) > ._size_big.feed__item-wrap
+!zen.yandex.ru##div.feed__row:nth-of-type(3)
+!zen.yandex.ru###-\39 052230636276995249
+!zen.yandex.ru##div.feed__row:nth-of-type(8) > ._size_big.feed__item-wrap
+!zen.yandex.ru##div.feed__row:nth-of-type(8)
+!zen.yandex.ru###\36 259338746323690834 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc > .m3a7a4IMMraJ8rE4CgHQ
+!zen.yandex.ru###\36 259338746323690834 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc
+!zen.yandex.ru###\36 259338746323690834 > ._is-desktop.my6Hl9fEdtaE
+!zen.yandex.ru###\36 259338746323690834
+!zen.yandex.ru##div.feed__row:nth-of-type(6) > ._size_big.feed__item-wrap
+!zen.yandex.ru##div.feed__row:nth-of-type(6)
+!zen.yandex.ru###-\33 895829306021578805_gif
+!zen.yandex.ru##div.feed__row:nth-of-type(15) > ._size_big.feed__item-wrap
+!zen.yandex.ru###\34 219121634091101964
+!zen.yandex.ru##div.feed__row:nth-of-type(15)
+!zen.yandex.ru##div.feed__row:nth-of-type(16) > ._size_big.feed__item-wrap
+!zen.yandex.ru##div.feed__row:nth-of-type(16)
+!zen.yandex.ru###\35 713930706061018130
+!zen.yandex.ru##div.feed__row:nth-of-type(21) > ._size_big.feed__item-wrap
+!zen.yandex.ru##div.feed__row:nth-of-type(21)
+!zen.yandex.ru##div.feed__row:nth-of-type(22)
+!zen.yandex.ru##div.feed__row:nth-of-type(24)
+!zen.yandex.ru###-\37 519081865645112701
+!zen.yandex.ru##div.feed__row:nth-of-type(25) > ._size_big.feed__item-wrap
+!zen.yandex.ru##div.feed__row:nth-of-type(25)
+!zen.yandex.ru##div.feed__row:nth-of-type(27)
+!zen.yandex.ru###-\31 37100523250571646
+!zen.yandex.ru##div.feed__row:nth-of-type(28) > ._size_big.feed__item-wrap
+!zen.yandex.ru##div.feed__row:nth-of-type(28)
+!zen.yandex.ru###\34 883439259297717417 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc > .m3a7a4IMMraJ8rE4CgHQ
+!zen.yandex.ru###\34 883439259297717417 > ._is-desktop.my6Hl9fEdtaE > .my6Hl9fEdtaFQgHAc
+!zen.yandex.ru###\34 883439259297717417 > ._is-desktop.my6Hl9fEdtaE
+!zen.yandex.ru###\34 883439259297717417
+!zen.yandex.ru##div.feed__row:nth-of-type(19) > ._size_big.feed__item-wrap
+!zen.yandex.ru##div.feed__row:nth-of-type(19)
+!zen.yandex.ru###-\39 214699503181599983
+!zen.yandex.ru##div.feed__row:nth-of-type(26) > ._size_big.feed__item-wrap
+!zen.yandex.ru##div.feed__row:nth-of-type(26)
 
 ! 24.02.2020 https://microsoftedgetips.microsoft.com
 microsoftedgetips.microsoft.com##.x-hidden-focus.mobile-banner__unexpanded
@@ -1449,7 +1449,7 @@ www.cyberforum.ru###edit7515877 > div > .tborder > tbody > tr:nth-of-type(2) > .
 www.cyberforum.ru###edit7515877 > div > .tborder
 
 ! 24.02.2020 https://zen.yandex.ru
-zen.yandex.ru##.article-render_new-layout.article-render > .article-render__block_embed.article-render__block > .gISVCr5wKXnRCpkGvkeY.gLSpFuqYRH3RVtG6hnf6V.gLSpFuqYRH3FYp3u2gKWVxOFqjw
+!zen.yandex.ru##.article-render_new-layout.article-render > .article-render__block_embed.article-render__block > .gISVCr5wKXnRCpkGvkeY.gLSpFuqYRH3RVtG6hnf6V.gLSpFuqYRH3FYp3u2gKWVxOFqjw
 
 ! 24.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.wb01bdd6c.k53a6e48a.xd6682db9
@@ -1510,17 +1510,12 @@ money.yandex.ru##.imTFnZ.MenuItem__StyledLink-sc-121ow5q-1.qa-marketing
 yandex.ru##a.user-menu-item-view:nth-of-type(11)
 yandex.ru##a.user-menu-item-view:nth-of-type(12)
 yandex.ru##a._with-icon.user-menu-item-view:nth-of-type(2)
-||yastatic.net/tableau/tableau.html?device=desktop&domain=ru&lang=ru&preset=ru&service-id=maps&target=blank$subdocument
 yandex.ru##._tld_ru.services-view
 yandex.ru##._type_links.map-copyrights__block
 yandex.ru##a._with-icon.user-menu-item-view:nth-of-type(3)
-||yastatic.net/s3/front-maps-static/front-maps/_/7906239a768ecb03bb8133d1113665e0.svg$image
 yandex.ru##._service_moimir.social-share-view__link
-||yastatic.net/s3/front-maps-static/front-maps/_/dc75aa5ed94b5eb5368064618c4b63e4.svg$image
 yandex.ru##._service_lj.social-share-view__link
-||yastatic.net/s3/front-maps-static/front-maps/_/54b25b1e22891fc5b5e44daeb089bb9f.svg$image
 yandex.ru##._service_facebook.social-share-view__link
-||yastatic.net/s3/front-maps-static/front-maps/_/a70a4c329abea46a3e6b42fdc0b921dc.svg$image
 yandex.ru##._service_twitter.social-share-view__link
 yandex.ru##.footer__column_pos_first.footer__column > div.footer__item:nth-of-type(4)
 yandex.ru##div.footer__column:nth-of-type(2) > div.footer__item:nth-of-type(3)
@@ -1941,7 +1936,6 @@ vk.com###tbt_stickers_popular > .ui_tab
 ||sun1-86.userapi.com/UIadBaUeVwNiOXe5KB-5pzS_ExBE3lF2amZbtA/OxVsq6wo3xI.png$image
 
 ! 06.03.2020 http://scask.ru
-||yastatic.net/share/static/b-share-icon.png$image
 scask.ru##.b-share-icon_gplus.b-share-icon
 scask.ru##.b-share-btn__lj.b-share__link.b-share__handle
 scask.ru##.b-share-btn__moimir.b-share__link.b-share__handle
@@ -2041,7 +2035,6 @@ yandex.ru##div.entity-search__list:nth-of-type(5) > .i-bem.showcase_scroll_no.sh
 
 ! 13.03.2020 https://yandex.ru
 yandex.ru##.i-bem.zalogin-smart__button_type_register.zalogin-smart__button.button2_view_classic.button2_type_link.button2_theme_default.button2_size_m.button2
-||yastatic.net/s3/web4static/_/v2/j15H9Ly6YZ-1mzLl90vnaOrqT2Y.svg$image
 yandex.ru##.zalogin-smart__title
 yandex.ru##.zalogin-smart__inner
 
@@ -2087,7 +2080,6 @@ passport.yandex.ru##.registration__social-btn_short.registration__gg-btn
 tlgrm.ru##[href="https://tlgrm.ru/info/promo/channels"]
 
 ! 16.03.2020 https://www.yandex.ru
-||yastatic.net/s3/web4static/_/v2/JRz21KLYXenidL_1md-4gzNHrX4.svg$image
 www.yandex.ru##.link_js_inited.i-bem.promo-popup__social-icon_bg_gg-white.promo-popup__social-icon_type_gg.promo-popup__social-icon.link_theme_normal.link
 
 ! 16.03.2020 https://4pda.ru
@@ -2357,21 +2349,19 @@ afisha.yandex.ru##.iCmNsC.Root-sc-5fcutl-0
 afisha.yandex.ru##.dMNf8C7NTGDTFktK5ICrhLjj7F8lXZG4.dI8T3CrJRGDTFktK5IA.dMNf8C7NTGDTFktK5ICraJy7jDOJxaXIwYRXUVdaJjw.dMNf8C7NTGDTFktK5IA
 
 ! 11.04.2020 https://zen.yandex.ru
-zen.yandex.ru###\35 142166369388093144 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg > .taUTEujF8H4etpPamhJjKGejA > .tZk_DqgoyEIess4SulZQ
-zen.yandex.ru###\35 142166369388093144 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg > .taUTEujF8H4etpPamhJjKGejA
-zen.yandex.ru###\35 142166369388093144 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg
-zen.yandex.ru###\35 142166369388093144
-zen.yandex.ru##div.feed__row:nth-of-type(32) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(32)
-zen.yandex.ru###-\36 631561926524366490 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg > .taUTEujF8H4etpPamhJjKGejA > .tZk_DqgoyEIess4SulZQ
-zen.yandex.ru###-\36 631561926524366490 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg > .taUTEujF8H4etpPamhJjKGejA
-zen.yandex.ru###-\36 631561926524366490 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg
-zen.yandex.ru###-\36 631561926524366490
-zen.yandex.ru##div.feed__row:nth-of-type(2) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(2)
-zen.yandex.ru##.article-render > div.article-render__block_embed.article-render__block:nth-of-type(1)
-zen.yandex.ru##.article__right_no-padding.article__right
-zen.yandex.ru###article__bottom-embed > .article-render__block_embed.article-render__block
+!zen.yandex.ru###\35 142166369388093144 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg > .taUTEujF8H4etpPamhJjKGejA > .tZk_DqgoyEIess4SulZQ
+!zen.yandex.ru###\35 142166369388093144 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg > .taUTEujF8H4etpPamhJjKGejA
+!zen.yandex.ru###\35 142166369388093144 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg
+!zen.yandex.ru###\35 142166369388093144
+!zen.yandex.ru##div.feed__row:nth-of-type(32) > ._size_big.feed__item-wrap
+!zen.yandex.ru###-\36 631561926524366490 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg > .taUTEujF8H4etpPamhJjKGejA > .tZk_DqgoyEIess4SulZQ
+!zen.yandex.ru###-\36 631561926524366490 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg > .taUTEujF8H4etpPamhJjKGejA
+!zen.yandex.ru###-\36 631561926524366490 > .tTFvPtTQ1UYas7baxg5HhKfk.taUTEujF8H4etpPamhJg
+!zen.yandex.ru###-\36 631561926524366490
+!zen.yandex.ru##div.feed__row:nth-of-type(2) > ._size_big.feed__item-wrap
+!zen.yandex.ru##.article-render > div.article-render__block_embed.article-render__block:nth-of-type(1)
+!zen.yandex.ru##.article__right_no-padding.article__right
+!zen.yandex.ru###article__bottom-embed > .article-render__block_embed.article-render__block
 
 ! 11.04.2020 https://rasp.yandex.ru
 rasp.yandex.ru##.AppLinks
@@ -2502,7 +2492,7 @@ disk.yandex.ru##.notification__content
 disk.yandex.ru##.notifications__body.promo-notification__wrapper
 
 ! 26.05.2020 https://zen.yandex.ru
-zen.yandex.ru##.article-right-suggested-publications-wrapper__cropped
+!zen.yandex.ru##.article-right-suggested-publications-wrapper__cropped
 
 ! 27.05.2020 https://ok.ru
 ok.ru##.browser-banner_a
@@ -2768,9 +2758,9 @@ mail.yandex.ru##.lypy17ET_KXVJNSMRrbM8CmN3PZEyBXE
 mail.yandex.ru##.lypy17ET_KXVJNSMRrbM8
 
 ! 01.06.2020 https://zen.yandex.ru
-zen.yandex.ru##.nca82fe4d.ae366537b
-zen.yandex.ru##.lfdf43605.b1a6788a1.c3d9071a4.nb59e275f.n6c91a884
-zen.yandex.ru##a.floating-links__link:nth-of-type(1)
+!zen.yandex.ru##.nca82fe4d.ae366537b
+!zen.yandex.ru##.lfdf43605.b1a6788a1.c3d9071a4.nb59e275f.n6c91a884
+!zen.yandex.ru##a.floating-links__link:nth-of-type(1)
 
 ! 02.06.2020 https://mail.yandex.ru
 mail.yandex.ru##div.kRgdL6yazcaM:nth-of-type(1)
@@ -2781,8 +2771,8 @@ mail.yandex.ru##.kSUtA5mWZfaPPliBngXbbasOuFJm_xE0
 mail.yandex.ru##.kSUtA5mWZfaPPliBngXbb
 
 ! 03.06.2020 https://zen.yandex.ru
-zen.yandex.ru##.o77152313.ef9d8365
-zen.yandex.ru##.n22f7c1db.q4ab3193f.ye532433a.ica33ce81.q145fc1da
+!zen.yandex.ru##.o77152313.ef9d8365
+!zen.yandex.ru##.n22f7c1db.q4ab3193f.ye532433a.ica33ce81.q145fc1da
 
 ! 03.06.2020 https://winnote.ru
 winnote.ru##.la-93-ef2a35a89hmla-block__items
@@ -3443,9 +3433,7 @@ zen.yandex.ru###ya-video-player-673efc0f841fb105c0ba988cd012658dde3ce8dd996axWEB
 zen.yandex.ru###ya-video-player-673efc0f841fb105c0ba988cd012658dde3ce8dd996axWEBx4835x1595578869 > .StreamPlayer > div._2n8_7eB:nth-of-type(1) > ._2n8_7eB
 zen.yandex.ru###ya-video-player-673efc0f841fb105c0ba988cd012658dde3ce8dd996axWEBx4835x1595578869 > .StreamPlayer > div._2n8_7eB:nth-of-type(1)
 zen.yandex.ru###\33 333483101378754008 > ._is-desktop.card-wrapper
-zen.yandex.ru###\33 333483101378754008
 zen.yandex.ru##div.feed__row:nth-of-type(39) > ._size_big.feed__item-wrap
-zen.yandex.ru##div.feed__row:nth-of-type(39)
 
 ! 24.07.2020 https://radio.yandex.ru
 radio.yandex.ru##.notify_shown.notify__message
@@ -4211,7 +4199,6 @@ meduza.io##.Footer-apps.Footer-group
 
 ! 2020-08-28 https://disk.yandex.ru
 disk.yandex.ru##.b2b-banner__right-block
-||yastatic.net/disk/_/_eEFEoMHLt9endCaa5MHNJLozQbS.svg$image
 disk.yandex.ru##.promo-banner
 
 ! 2020-08-28 https://yandex.ru
@@ -4450,7 +4437,6 @@ vk.com###old_browser_wrap
 m.vk.com##a.Row.al_menu.MainMenu__menuItem:nth-of-type(9)
 
 ! 2020-09-02 https://translate.yandex.ru
-||yastatic.net/s3/translate/v20.8.5/i/welcome_common.jpg$image
 translate.yandex.ru##.landing-text
 translate.yandex.ru###promoWrapperNew > .header
 
@@ -5016,7 +5002,6 @@ music.yandex.ru##.bar-below-configurable
 pokupki.market.yandex.ru##._11ZmuAyi66
 
 ! 2020-10-03 https://market.yandex.ru
-||yastatic.net/market-skubi/_/7c73661.jpg$image
 market.yandex.ru##._1fNItgwdKT
 market.yandex.ru##.kln0yDAbxH
 market.yandex.ru##._240jfNaXRZ
@@ -5301,8 +5286,6 @@ yandex.ru##div.description-card:nth-of-type(6)
 
 ! 2020-10-21 https://edadeal.ru
 edadeal.ru##.b-download-banner__root
-||yastatic.net/s3/edadeal-public-static/web/moby/d3118de674649/static/img/icons/socials/twitter.svg$image
-||yastatic.net/s3/edadeal-public-static/web/moby/d3118de674649/static/img/icons/socials/twitter.svg$image
 
 ! 2020-10-21 https://vk.com
 vk.com##a.left_menu_nav:nth-of-type(3)
@@ -5416,9 +5399,7 @@ www.e-katalog.ru##div.va-m.table-cell
 tools.seo-zona.ru###ochevidec
 
 ! 2020-11-12 https://disk.yandex.ru
-||yastatic.net/disk/_/_33COsRwU_2Y4hJBKrtFFmqi2sVj.svg$image
 disk.yandex.ru##.albums2-onboarding-base__text
-||yastatic.net$image
 
 ! 2020-11-12 https://www.telerik.com
 www.telerik.com##.vertical-align-content.bottom.otFlat
@@ -6152,7 +6133,6 @@ www.usbdev.ru##a.button15:nth-of-type(6)
 www.google.com##a.pHiOh:nth-of-type(2)
 
 ! 2021-02-11 https://taxi.yandex.ru
-||yastatic.net/s3/taxi-front/taxifrontend-taxi-frontend-yandex/1.0.102/57e455f911ff2b6c421db52b40b764e8.jpg$image
 taxi.yandex.ru##.SignBoardSlider__img.BannerFKPro__image_country_ru.BannerFKPro__image_type_signboard.BannerFKPro__image > div
 taxi.yandex.ru##div.SignBoardContent.SignBoardSlider__content:nth-of-type(1)
 taxi.yandex.ru##.SignBoardSlider__slider
@@ -6382,20 +6362,9 @@ yandex.ru###fu-1615027042000-104 > div
 yandex.ru##.mg-grid__item.h5z5dlI_D_o4__h6D9cgtDW-banger.news-h6D9cgtDW__banger_without-style.news-h6D9cgtDW__banger.h5z5F-h6D9cgtDW
 
 ! 2021-03-06 https://zen.yandex.ru
-zen.yandex.ru###zen-row-39
-zen.yandex.ru###zen-row-59
-zen.yandex.ru###zen-row-71
-zen.yandex.ru###zen-row-75
-zen.yandex.ru###zen-row-81
-zen.yandex.ru###zen-row-84
-zen.yandex.ru###zen-row-87
-zen.yandex.ru###zen-row-97
 zen.yandex.ru###\33 239170523427184602 > .kBz6Rq8i_M9x7CqJhSgLI_ZA.kIiGapM32fdR6Qat2TQs.card-wrapper_anny > .kIiGapM32fdR6Qat2TQvjzYGF.card-wrapper_anny > .kLSqdtPa4ctR7VJlaXAc
 zen.yandex.ru###\33 239170523427184602 > .kBz6Rq8i_M9x7CqJhSgLI_ZA.kIiGapM32fdR6Qat2TQs.card-wrapper_anny > .kIiGapM32fdR6Qat2TQvjzYGF.card-wrapper_anny
 zen.yandex.ru###\33 239170523427184602 > .kBz6Rq8i_M9x7CqJhSgLI_ZA.kIiGapM32fdR6Qat2TQs.card-wrapper_anny
-zen.yandex.ru###zen-row-11 > ._size_big.feed__item-wrap > ._size_big.feed__item
-zen.yandex.ru###zen-row-11 > ._size_big.feed__item-wrap
-zen.yandex.ru###zen-row-17
 
 ! 2021-03-06 https://to-do.live.com
 to-do.live.com##.socialSharing-settings
@@ -6505,4 +6474,29 @@ www.kinopoisk.ru##.social-section__icon_type_twitter.social-section__icon.styles
 www.kinopoisk.ru##.social-section__icon_type_instagram.social-section__icon.styles_icon__2T3Eq.styles_instagram__qWKoh
 www.kinopoisk.ru##li.styles_contentMenuItem__2bycf.footer__content-item:nth-of-type(5) > .styles_contentLink__2vbhx.footer__content-link
 www.kinopoisk.ru##li.styles_contentMenuItem__2bycf.footer__content-item:nth-of-type(6) > .styles_contentLink__2vbhx.footer__content-link
+
+! 2021-03-14 https://mail.yandex.ru
+mail.yandex.ru##.smartBanner-container_grey.smartBanner-container
+mail.yandex.ru##.ptr-message
+
+! 2021-03-14 https://www.google.com
+www.google.com##div:nth-of-type(2) > a.Fx4vi.JWaTvb:nth-of-type(1)
+www.google.com##a.Fx4vi.JWaTvb:nth-of-type(2)
+
+! 2021-03-14 https://4pda.ru
+||s.4pda.to/dry7Nl1fz08bB4y0cz12xx5sXjFOo.jpg?_=1615558005$image
+4pda.ru##.menu-main-mobile > li.menu-main-item > [href^="https://4pda.ru/huawei/"] > svg > rect
+4pda.ru##.menu-main-mobile > li.menu-main-item > [href^="https://4pda.ru/huawei/"] > svg
+
+! 2021-03-14 https://duckduckgo.com
+duckduckgo.com##.atb-loaded--animated.atb-banner__btn--standalone.btn.js-atb-banner
+
+! 2021-03-14 https://yandex.ru
+yandex.ru##.desk-notif-card__teaser-container
+yandex.ru##.desk-notif-card__link.home-link
+yandex.ru##.desk-notif-card_js_inited.i-bem.desk-notif-card_icon-align_left.desk-notif-card_bg_default.desk-notif-card_minified_yes.desk-notif-card_actions_yes.desk-notif-card_details_no.desk-notif-card_icon_yes.desk-notif-card_plus-wallet_yes.desk-notif-card > .desk-notif-card__card
+yandex.ru##.yaplus_available_yes.yaplus
+yandex.ru##.u09udbuCfaLLpgUln.card.u09uXf9OU_g
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.u2ZmRfag.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.ux9GSbu2U_sDbgV1i0eqInC26Gm2bbTds0u7FoA.u3dWDNamU6pmbkEx_6aq2mRY.ux9GSbu2U_sDbgV1i__ad_visible.ux9GSbu2U_sDbgV1i0eqInA
 
