@@ -1,5 +1,11 @@
 # NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/master/ads_list.txt)
+
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/master/NoADS_RU%20Logo.png?raw=true)
+
+<a href="https://github.com/Zalexanninev15/NoADS_RU/stargazers" target="_blank">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU.svg?style=for-the-badge&logo=github" />
+    </a>
+
 ## Описание
 Мой список для блокировки элементов на русскоязычных, и не только, сайтах. Список составляю вручную, поэтому блокируется и то, что не может заблокировать никакое расширение.
 
