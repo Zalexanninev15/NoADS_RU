@@ -6500,3 +6500,27 @@ yandex.ru##.u09udbuCfaLLpgUln.card.u09uXf9OU_g
 yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.u2ZmRfag.links-section__link.link_theme_normal.link:nth-of-type(1)
 yandex.ru##.ux9GSbu2U_sDbgV1i0eqInC26Gm2bbTds0u7FoA.u3dWDNamU6pmbkEx_6aq2mRY.ux9GSbu2U_sDbgV1i__ad_visible.ux9GSbu2U_sDbgV1i0eqInA
 
+! 2021-03-14 https://zen.yandex.ru
+zen.yandex.ru##.kecff28ef.db956ffd9
+zen.yandex.ru##.tf736e2a7.w54d68cea.fee9ccfbd.k33c0ac7d.de46e0366
+zen.yandex.ru##.clc2hPnnpN6yN583LBaXBfmopvw_bottom.clc2hPnnpN6mA9NjcGr7B.clc2hPnnpN6yN583LBaXBfmopvw > .cmcKmK0PydqmX5vfSFqY.clc2hPnnpN6yN583LBaXBfmopvw__container
+zen.yandex.ru##.article-right-ad-block
+zen.yandex.ru##.article_theme_undefined.article > .article__content_theme_undefined.article__content > .article__right_theme_undefined.article__right
+zen.yandex.ru##.article__right_theme_undefined.article__right_no-padding.article__right
+||avatars.mds.yandex.net/get-zen_doc/2436983/pub_5fce1f19adaafd0b109e1466_5ffd37477cd87011f097ff3a/scale_1200$image
+||avatars.mds.yandex.net/get-zen_doc/2436983/pub_5fce1f19adaafd0b109e1466_5ffd37477cd87011f097ff3a/scale_1200$image
+||avatars.mds.yandex.net/get-zen_doc/2436983/pub_5fce1f19adaafd0b109e1466_5ffd37477cd87011f097ff3a/scale_1200$image
+||avatars.mds.yandex.net/get-zen_doc/2436983/pub_5fce1f19adaafd0b109e1466_5ffd37477cd87011f097ff3a/scale_1200$image
+||avatars.mds.yandex.net/get-zen_doc/2436983/pub_5fce1f19adaafd0b109e1466_5ffd37477cd87011f097ff3a/scale_1200$image
+zen.yandex.ru##.article-recommender
+
+! 2021-03-18 https://www.playground.ru
+||i.playground.ru/e/kD8mrg3Ii3Lm7F6Oy5VLFg.jpeg$image
+||i.playground.ru/e/kD8mrg3Ii3Lm7F6Oy5VLFg.jpeg$image
+www.playground.ru##.page-header-bottom
+||i.playground.ru/e/kD8mrg3Ii3Lm7F6Oy5VLFg.jpeg$image
+||i.playground.ru/e/kD8mrg3Ii3Lm7F6Oy5VLFg.jpeg$image
+
+! 2021-03-18 https://www.reg.ru
+www.reg.ru##.b-policy-info__wrapper
+
