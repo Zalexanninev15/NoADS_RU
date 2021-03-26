@@ -6516,11 +6516,55 @@ zen.yandex.ru##.article-recommender
 
 ! 2021-03-18 https://www.playground.ru
 ||i.playground.ru/e/kD8mrg3Ii3Lm7F6Oy5VLFg.jpeg$image
-||i.playground.ru/e/kD8mrg3Ii3Lm7F6Oy5VLFg.jpeg$image
 www.playground.ru##.page-header-bottom
-||i.playground.ru/e/kD8mrg3Ii3Lm7F6Oy5VLFg.jpeg$image
-||i.playground.ru/e/kD8mrg3Ii3Lm7F6Oy5VLFg.jpeg$image
 
 ! 2021-03-18 https://www.reg.ru
 www.reg.ru##.b-policy-info__wrapper
+
+! 2021-03-21 https://mywindowshub.com
+mywindowshub.com###cookie-law-info-bar
+
+! 2021-03-21 https://winaero.com
+winaero.com##.fixtop
+
+! 2021-03-21 http://myclock.narod.ru
+myclock.narod.ru##.active.vdj-fill-all.vdj-preloader-pr
+myclock.narod.ru##.vdj-fill-all.vdj-ad > [src]
+myclock.narod.ru##.vdj-fill-all.vdj-ad
+myclock.narod.ru##.vdj-fill-all.vdj-cont-stst
+myclock.narod.ru##.vdj-fill-all.vdj-stub
+myclock.narod.ru##.vdj-fill-all.vdj-main
+myclock.narod.ru###vmainadsdvclLbFGa
+myclock.narod.ru###videoclLbFG > tbody > tr > td
+myclock.narod.ru###dViclLbFG
+myclock.narod.ru##div:nth-of-type(3)
+myclock.narod.ru##td:nth-of-type(3) > p:nth-of-type(2)
+myclock.narod.ru##td:nth-of-type(1) > p:nth-of-type(3)
+||myclock.narod.ru/images/Rundll_htm_smartbutton1.gif$image
+||myclock.narod.ru/images/Rundll_htm_smartbutton1.gif$image
+myclock.narod.ru##td:nth-of-type(1) > p:nth-of-type(2)
+myclock.narod.ru##td:nth-of-type(1) > p:nth-of-type(4)
+||myclock.narod.ru/bar5.gif$image
+myclock.narod.ru##td:nth-of-type(1) > p:nth-of-type(1) > font
+
+! 2021-03-21 https://getscreen.me
+getscreen.me##.js-cookie.\/.cookie
+
+! 2021-03-21 https://www.ionos.com
+www.ionos.com##.cc_container--open.cc_container.cc_banner
+
+! 2021-03-21 https://cloud.mail.ru
+||r.mradx.net/h5/FA/EA6E49E8/88F750E702.html?data=AAD07wF2Zy1MJ3g1V-q01dhXsBLTC3VJNxwOLbyhqOekylB4zvMKN8nGu9LcTbJnqjspAJNSkcFLCW0Wv0_qr7NA6wqrEsjrOy3TDsVBLVb6WRfEUtNCNEcZ4OIOrgkEDMzNwvItHRLFCU_9bvdKe7RBNxO0jzwKkEoHfclM42NWgZPRq3ImK1MoAAAATBLqdEWnvHF2rKJwLH-JJlMCphcsShhfBNrZ-JYdKC5pNzCKQgoXn-q-fPuYLRt5&link1=341813786$subdocument
+
+! 2021-03-25 https://disk.yandex.ru
+disk.yandex.ru##.mobile-badges
+
+! 2021-03-25 https://forum.supercell.com
+forum.supercell.com##.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+
+! 2021-03-26 https://developer.chrome.com
+developer.chrome.com##.hairline-top.cookie-banner
+
+! 2021-03-26 https://www.mrfdev.com
+www.mrfdev.com##.cookies-consent.container-fluid
 
