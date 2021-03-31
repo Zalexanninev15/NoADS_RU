@@ -6568,3 +6568,24 @@ developer.chrome.com##.hairline-top.cookie-banner
 ! 2021-03-26 https://www.mrfdev.com
 www.mrfdev.com##.cookies-consent.container-fluid
 
+! 2021-03-27 https://disk.yandex.ru
+disk.yandex.ru##.mail360-banner__comp
+disk.yandex.ru##.mail360-banner__icons
+disk.yandex.ru##.js-prevent-mouse-selection.mail360-banner
+disk.yandex.ru##.hover-tooltip__tooltip-anchor
+
+! 2021-03-27 http://soft.oszone.net
+soft.oszone.net###leftcol-c > div:nth-of-type(5)
+
+! 2021-03-29 https://live.skillbox.ru
+live.skillbox.ru##.cookies
+
+! 2021-03-30 https://www.playground.ru
+||i.playground.ru/e/bgZaqTB0UCzGg5QmuKka0g.jpeg$image
+
+! 2021-03-31 https://reflect.tech
+reflect.tech##.tftl-00-banners > .app-download
+
+! 2021-03-31 https://stackoverflow.com
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
