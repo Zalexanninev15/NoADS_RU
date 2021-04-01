@@ -6589,3 +6589,42 @@ reflect.tech##.tftl-00-banners > .app-download
 ! 2021-03-31 https://stackoverflow.com
 stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 
+! 2021-04-01 https://ok.ru
+ok.ru##.layout-right-column
+ok.ru##div.feed-w:nth-of-type(8) > .h-mod.js-video-scope.feed
+ok.ru##div.feed-w:nth-of-type(5) > .h-mod.js-video-scope.feed
+ok.ru##.tOnflbO.tOnflqs
+
+! 2021-04-01 https://ell.stackexchange.com
+ell.stackexchange.com##.js-consent-banner
+
+! 2021-04-01 https://www.playground.ru
+||i.playground.ru/e/xQXqxJYZu8U6WIJJw8skSw.jpeg$image
+
+! 2021-04-01 https://mail.yandex.ru
+mail.yandex.ru##a.SettingsItem__root--3BZ6z:nth-of-type(9)
+mail.yandex.ru##.beautiful-email-section.SettingsItem__root--3BZ6z
+
+! 2021-04-01 https://disk.yandex.ru
+disk.yandex.ru##.info-space__button.Button2_size_m.Button2_view_raised.Button2_width_max.Button2
+disk.yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
+
+! 2021-04-01 https://calendar.yandex.ru
+calendar.yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
+
+! 2021-04-01 https://mail.yandex.ru
+mail.yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.count-me.menu__item_type_link.menu__item
+
+! 2021-04-01 https://www.kinopoisk.ru
+www.kinopoisk.ru##.toaster-containerd71llzyu19fuh1clgvj
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footerd71llzyu19fuh1clgvj__content-item:nth-of-type(2)
+www.kinopoisk.ru##.social-section__icon_type_instagram.social-section__icon._2wLmUnIdNnZQvIjGX2qS8O._1rPqC3of5hFGd_6Lu1D57F
+www.kinopoisk.ru##.dya40v_theme_dlbaa7mmtcg-kinopoisk-media.dya40v > .dya40v__container
+www.kinopoisk.ru##._1bdk9_5Gg4bHAPTcANsmR0._2XBGgEAipKV2Tbn9g9qAtb._2bzmDfg6d5U3EOsV49Su0m
+
+! 2021-04-01 https://yandex.ru
+yandex.ru##.dsETTxJ5E4hn8KGrg.card.dsETZ1a1P5A
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.dugbf1ZY.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##li.menu__list-item:nth-of-type(4)
+yandex.ru##.dpE7cxJNP5GvOKH7lLfaa0BJ5ktbbzSjP3Gb_Ug.dvkrNnZdP8DKOOW_4F_ak1Sk.dpE7cxJNP5GvOKH7lLfaa0A
+
