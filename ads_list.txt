@@ -6628,3 +6628,17 @@ yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.dugbf1ZY.
 yandex.ru##li.menu__list-item:nth-of-type(4)
 yandex.ru##.dpE7cxJNP5GvOKH7lLfaa0BJ5ktbbzSjP3Gb_Ug.dvkrNnZdP8DKOOW_4F_ak1Sk.dpE7cxJNP5GvOKH7lLfaa0A
 
+! 2021-04-02 https://www.instagram.com
+www.instagram.com##.ZUqME.N9d2H.TxciK._7JkPY.D8xaz.O1flK.HcJZg.XfCBB.IY_1_.CIRqI._4EzTm.YBx95.pmxbr.IwRSH.Igw0E.tHaIX
+
+! 2021-04-02 https://html-agility-pack.net
+html-agility-pack.net##.cc-color-override--1971072173.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+
+! 2021-04-02 https://dotnetfiddle.net
+dotnetfiddle.net##[href^="https://entityframework-extensions.net/batch-savechanges"]
+
+! 2021-04-02 https://otvet.mail.ru
+otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar.tb-79648589
+otvet.mail.ru##.adv-slot-12403
+otvet.mail.ru##.layout__contentCol3_1VqKNb4v
+
