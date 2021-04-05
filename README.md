@@ -2,13 +2,8 @@
 
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/master/NoADS_RU%20Logo.png?raw=true)
 
-<p>
-<a href="https://github.com/Zalexanninev15/NoADS_RU/stargazers" target="_blank">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU.svg?style=for-the-badge&logo=github" />
-<a href="https://github.com/Zalexanninev15/NoADS_RU/blob/master/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/Zalexanninev15/NoADS_RU.svg?style=for-the-badge&logo=github" />
-</a>
-</p>
+[![](https://img.shields.io/badge/platform-AdBlocker-red.svg)](https://github.com/Zalexanninev15/NoADS_RU)
+[![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Описание
 Мой список для блокировки элементов на русскоязычных, и не только, сайтах. Список составляю вручную, поэтому блокируется и то, что не может заблокировать никакое расширение.
