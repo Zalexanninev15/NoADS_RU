@@ -6540,3 +6540,40 @@ soundcloud.com##.m-dismiss-visible.sc-type-small.sc-text-verylight.sc-background
 ! 2021-04-04 https://qiwi.com
 qiwi.com##.cookies-self-93
 
+! 2021-04-04 https://www.telerik.com
+www.telerik.com###onetrust-banner-sdk
+
+! 2021-04-05 https://www.codeproject.com
+www.codeproject.com##.cc-color-override--316233370.cc-bottom.cc-theme-edgeless.cc-type-opt-in-out.cc-banner.cc-window
+
+! 2021-04-05 https://www.playground.ru
+www.playground.ru##.page-aside
+
+! 2021-04-05 https://telemetr.me
+telemetr.me###zzonbot_banner
+
+! 2021-04-06 https://habr.com
+||habrastorage.org/webt/ou/g5/kh/oug5kh6sjydt9llengsiebnp40w.png$image
+
+! 2021-04-07 https://4pda.ru
+||s.4pda.to/7JeKa99a68MaZZg7dK14z1GJAvg4l.jpg$image
+4pda.ru##.bsscsz23oKt
+4pda.ru##.dBAsz0TCAujSz1f6AxWPUa.ycCK
+4pda.ru##.wOnSTX.ntbU5dDW
+4pda.ru##.nhStbLWKg8bWgOvLCGwFCb.iiz2z2BpRKD74
+4pda.ru##article.u8J9ShuBMWLl7Ml.c0joUJPwTE.post:nth-of-type(3)
+||s.4pda.to/7JeKa99a68MaZZg7dK14z1GJAvg4l.jpg?_=1617716314$image
+||s.4pda.to/dry7Ndn2mF9U339RuqYO108QOfnK.jpg?_=1617716314$image
+
+! 2021-04-07 https://docviewer.yandex.ru
+docviewer.yandex.ru##.ichvbzqu.dwtmidnl.jdhdorfig > div
+
+! 2021-04-07 https://forum-gta.ru
+||i.forum-gta.ru/styles/theme/images/fon2.png$image
+||i.forum-gta.ru/styles/theme/images/fon2.png$image
+forum-gta.ru##td
+forum-gta.ru##div.bg2.post:nth-of-type(9) > .inner > .content
+
+! 2021-04-07 https://m.habr.com
+||habrastorage.org/r/w1560/webt/et/1a/yp/et1aypandyuamqprsz3m2ntm4ky.png$image
+
