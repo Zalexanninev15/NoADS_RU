@@ -6577,3 +6577,18 @@ forum-gta.ru##div.bg2.post:nth-of-type(9) > .inner > .content
 ! 2021-04-07 https://m.habr.com
 ||habrastorage.org/r/w1560/webt/et/1a/yp/et1aypandyuamqprsz3m2ntm4ky.png$image
 
+! 2021-04-07 https://www.playground.ru
+||i.playground.ru/e/or-KSYFY2dp38ObiOrlcBw.jpeg$image
+
+! 2021-04-08 https://www.verbatim.ru
+www.verbatim.ru###cookie-bar
+
+! 2021-04-08 https://www.pearson.com
+www.pearson.com##.visible.section.cookie-notification
+
+! 2021-04-08 https://twitter.com
+twitter.com##.r-1upvrn0.r-urgr8i.css-1dbjc4n
+
+! 2021-04-08 https://www.securitylab.ru
+www.securitylab.ru###article_509145 > .cpb.container > .row > .d-lg-block.d-none.col-lg-3
+
