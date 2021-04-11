@@ -6592,3 +6592,31 @@ twitter.com##.r-1upvrn0.r-urgr8i.css-1dbjc4n
 ! 2021-04-08 https://www.securitylab.ru
 www.securitylab.ru###article_509145 > .cpb.container > .row > .d-lg-block.d-none.col-lg-3
 
+! 2021-04-09 https://www.kinopoisk.ru
+www.kinopoisk.ru##.toaster-containersavsaxwkuimrvtjat96
+www.kinopoisk.ru##.media-news__sidebar-content
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footersavsaxwkuimrvtjat96__content-item:nth-of-type(2)
+www.kinopoisk.ru###sv0nho4gr2sfhaenopdgeqm48 > .cREWUr
+www.kinopoisk.ru##.media-post-page__post.media-news > .media-page-layout > .media-page-layout__inner.content-container_app-width_wide.content-container_app-theme_light.content-container_padding.content-container > .media-page-layout__sidebar
+
+! 2021-04-09 https://www.outsidethebox.ms
+www.outsidethebox.ms##.fixtop
+www.outsidethebox.ms##[href="/about/ads/"]
+
+! 2021-04-09 https://online.sberbank.ru
+online.sberbank.ru##._3jHFu5Ee
+
+! 2021-04-10 https://rsload.net
+||rsload.net/images5/dscvtyvs.png$image
+rsload.net##[href="https://go.click2bit.net/r/f2de0c6878a1bf4828d3f3c92767b08b"]
+||rsload.net/images5/28903741.png$image
+
+! 2021-04-10 https://www.calc.ru
+www.calc.ru###notifies_subscription_info
+
+! 2021-04-10 https://www.myheritage.nl
+www.myheritage.nl##.cookie_preferences_banner_container
+
+! 2021-04-11 https://smotret-multfilmi.net
+||smotret-multfilmi.net/sm.jpg$image
+
