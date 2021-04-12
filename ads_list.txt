@@ -6620,3 +6620,29 @@ www.myheritage.nl##.cookie_preferences_banner_container
 ! 2021-04-11 https://smotret-multfilmi.net
 ||smotret-multfilmi.net/sm.jpg$image
 
+! 2021-04-11 https://www.ispsystem.ru
+www.ispsystem.ru##.cookie-policy__wrapper
+
+! 2021-04-11 https://rutracker.org
+rutracker.org##div.bn-idx:nth-of-type(1)
+rutracker.org##div.bn-idx:nth-of-type(3)
+rutracker.org###sidebar1_wrap > .ext-links.products.bn-idx
+rutracker.org###idx-sidebar2 > .ext-links.products.bn-idx
+
+! 2021-04-11 https://www.roboform.com
+www.roboform.com##.cookies-notification
+
+! 2021-04-12 https://www.gocosmos.org
+www.gocosmos.org###cookie-law-info-bar
+
+! 2021-04-12 https://msoft.my1.ru
+msoft.my1.ru##.active.vdj-fill-all.vdj-preloader-pr
+msoft.my1.ru###videobLKHBbF > tbody > tr > td
+msoft.my1.ru###dVibLKHBbF
+msoft.my1.ru##body > div
+msoft.my1.ru##td:nth-of-type(3)
+||cloudfastads.ru/data/iframe/26915/desktop/5bd6d48d4685df770e9ce60f$subdocument
+
+! 2021-04-12 https://www.sordum.org
+www.sordum.org##.cookie-notice-container
+
