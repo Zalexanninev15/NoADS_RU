@@ -6646,3 +6646,114 @@ msoft.my1.ru##td:nth-of-type(3)
 ! 2021-04-12 https://www.sordum.org
 www.sordum.org##.cookie-notice-container
 
+! 2021-04-12 https://zetflix.so
+||player.moviefilms.ru/ovp.php?ver=1&autoplay=1&v=1cfb05b7914b9203f87253b2e4764c1c&cb=e050492a-44e3-4d2a-ace5-797e640d21bf&fclose=false&sub_id=base&testad=no&nomon=1&cdiv=646&r=https%3A%2F%2Fzetflix.so%2F$subdocument
+zetflix.so##line:nth-of-type(1)
+||player.moviefilms.ru/ovp.php$subdocument
+zetflix.so###gxiqanumkvwbrphjcftsdozely
+
+! 2021-04-12 https://www.comss.ru
+www.comss.ru##div.container:nth-of-type(6)
+www.comss.ru##.col-lg-4.col-md-4.hidden-sm.hidden-xs
+www.comss.ru##.uphead.container
+www.comss.ru##div.container:nth-of-type(8)
+
+! 2021-04-12 https://showgamer.com
+showgamer.com##.thb-cookie-bar
+
+! 2021-04-12 https://www.bollywoodlife.com
+www.bollywoodlife.com##.cookie_msg_blk
+
+! 2021-04-13 https://habr.com
+habr.com##[src="https://habrastorage.org/webt/et/1a/yp/et1aypandyuamqprsz3m2ntm4ky.png"]
+
+! 2021-04-13 https://win10tweaker.pro
+win10tweaker.pro##[href="/buy"]
+win10tweaker.pro###menu-item-102 > .fusion-bottombar-highlight
+win10tweaker.pro###menu-\%d0\%b2\%d0\%b5\%d1\%80\%d1\%85\%d0\%bd\%d0\%b5\%d0\%b5-\%d0\%bc\%d0\%b5\%d0\%bd\%d1\%8e-ru > .fusion-menu-item-button.menu-item-102.menu-item-object-page.menu-item-type-post_type.menu-item
+
+! 2021-04-13 https://codesmithdotnet.blogspot.com
+codesmithdotnet.blogspot.com##.singleton-element.cookie-choices-info
+
+! 2021-04-13 https://mail.yandex.ru
+mail.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(3)
+
+! 2021-04-13 https://disk.yandex.ru
+disk.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(3)
+
+! 2021-04-13 https://yandex.ru
+yandex.ru###bkmhcc > div
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.fdl1e62c.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru###nbkc > div
+yandex.ru###wdskglav > div
+yandex.ru###sjcyp > div
+yandex.ru###ufvc > div
+yandex.ru###gpfwg > div
+yandex.ru###cggopr > div
+yandex.ru###ghspdw > div
+yandex.ru###ahrkzsm > div
+yandex.ru###jgzustm > div
+yandex.ru###jtfhl > div
+yandex.ru###wdbrrb > div
+yandex.ru###dtgssc > div
+yandex.ru##.faBVdamI6PJhYtGzupp_TxNWYqznIdAHF56z_WA.fchFMo2Y6KMEYpX3znJ_twe4.faBVdamI6PJhYtGzupp_TxA
+yandex.ru###hpdgfk > div
+yandex.ru###ervkazdu > div
+yandex.ru###olvbdx > div
+yandex.ru###vulpakof > div
+yandex.ru###tjjzcas > div
+yandex.ru###fmeohp > div
+yandex.ru###twzna > div
+yandex.ru###hpvi > div
+yandex.ru##.ffB9Sam8xOupqtHjr.card_without-card-decoration.card
+yandex.ru###news-pcode > div
+yandex.ru##a.simple-button_wide_yes.simple-button_size_m.simple-button_theme_white.mfooter__button.simple-button:nth-of-type(4)
+yandex.ru##.domik2__dropdown-form.domik2__dropdown-bg.domik2__dropdown-multiauth
+yandex.ru##.grid_unmargin-x_yes.grid.rounded-divider_bottom.rounded-divider
+
+! 2021-04-13 https://4pda.ru
+4pda.ru##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(15)
+
+! 2021-04-13 https://m.pokupki.market.yandex.ru
+m.pokupki.market.yandex.ru##body > div > div > div > .b_2OWfL8avUU.b_3WrmmagGA_
+m.pokupki.market.yandex.ru##.b_3oPjxuS52M
+m.pokupki.market.yandex.ru##.b_3_3B8sd8VQ
+m.pokupki.market.yandex.ru##.b_2_MGAMC_pg
+m.pokupki.market.yandex.ru##.b_1Q1bQrVqgV
+m.pokupki.market.yandex.ru##.b_2ZzyIpLDm9
+m.pokupki.market.yandex.ru##.b_dnB1eMUnsk
+
+! 2021-04-13 https://m.vk.com
+m.vk.com##div#wall-1_20210413_160736._stats_cont.wall_item:nth-of-type(3)
+m.vk.com##div#wall-1_20210413_160736._stats_cont.wall_item:nth-of-type(13)
+m.vk.com###wall-66669811_146811
+m.vk.com###wall-176471180_12757
+
+! 2021-04-13 https://mail.yandex.ru
+mail.yandex.ru##.leftPanel-toFullVersion
+
+! 2021-04-13 https://disk.yandex.ru
+disk.yandex.ru##a.inline-services-menu__link.Link_theme_dark.Link:nth-of-type(1)
+disk.yandex.ru##.menu__item_type_link.user2__menu-item_action_plus.user2__menu-item_type_link.user2__menu-item.menu__item.control
+
+! 2021-04-13 https://cloud.mail.ru
+cloud.mail.ru###dc9bude9u
+cloud.mail.ru##.trg-b-close-wrapper
+cloud.mail.ru##.trg-b-header-wrapper
+cloud.mail.ru##.trg-b-text
+cloud.mail.ru##.trg-b-all-in-link
+cloud.mail.ru##.trg-b-center-block
+cloud.mail.ru##.trg-b-disclaimer-wrapper
+cloud.mail.ru##.trg-b-container
+cloud.mail.ru##.mailru-visibility-check.trg-b-banner.js-banner-wrapper-container
+cloud.mail.ru###k9kpcfptcka9
+cloud.mail.ru###jh49vqvb
+
+! 2021-04-13 https://onedrive.live.com
+onedrive.live.com##.inner-149.ms-Dialog-inner
+onedrive.live.com##.root-145.ms-Overlay
+onedrive.live.com##.scrollableContent-139.ms-Modal-scrollableContent
+onedrive.live.com##.main-138.od-mobileWebToAppUpsell-dialog.ms-Dialog-main
+onedrive.live.com##.root-137.ms-Dialog.is-open.ms-Modal
+onedrive.live.com##.LeftNav-notificationLink
+
