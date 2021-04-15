@@ -6757,3 +6757,17 @@ onedrive.live.com##.main-138.od-mobileWebToAppUpsell-dialog.ms-Dialog-main
 onedrive.live.com##.root-137.ms-Dialog.is-open.ms-Modal
 onedrive.live.com##.LeftNav-notificationLink
 
+! 2021-04-14 https://serpstat.com
+serpstat.com###gdpr_tab_content
+
+! 2021-04-14 https://habr.com
+habr.com##.column-wrapper__last.column-wrapper > .sidebar_stick-top.sidebar
+habr.com##.sidebar_stick-top.sidebar
+habr.com##.column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .sidebar
+
+! 2021-04-15 http://address.stop-list.info
+address.stop-list.info###videobbTp3VU > tbody > tr > td
+address.stop-list.info###dVibbTp3VU
+address.stop-list.info##div:nth-of-type(5)
+address.stop-list.info##center:nth-of-type(2)
+
