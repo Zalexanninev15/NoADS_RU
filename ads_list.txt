@@ -6771,3 +6771,32 @@ address.stop-list.info###dVibbTp3VU
 address.stop-list.info##div:nth-of-type(5)
 address.stop-list.info##center:nth-of-type(2)
 
+! 2021-04-15 https://losst.ru
+||losst.ru/pqb-min.svg$image
+losst.ru##.custom-html-widget.textwidget > [href]
+losst.ru##.floating.shareit
+
+! 2021-04-15 https://htmlweb.ru
+htmlweb.ru###rekl
+
+! 2021-04-15 https://zetflix.so
+||filmolub.ru/ovp.php$subdocument
+zetflix.so###evupkbqlnjiydmsxrahcwftgoz
+
+! 2021-04-15 https://ok.ru
+ok.ru##.banner_new__loaded.dialogWrapperBanner__inner
+ok.ru##.trg-b-list__item__container > .trg-b-all-in-link
+ok.ru##.trg-b-list__item__container
+ok.ru##.trg-b-list__item_new-multi.mailru-visibility-check.trg-b-banner.trg-b-list__item
+ok.ru###hook_ViewportHeightAwareBanner_ViewportHeightAwareBannerInner
+||st.mycdn.me/static/oklive-adv/0-0-139/banner_new.jpg$image
+||st.mycdn.me/static/oklive-adv$image
+ok.ru##.video-banner
+
+! 2021-04-15 https://cloud.mail.ru
+||r.mradx.net/h5/7C/559B01E1/68C10CDA6C.html?data=AACN8AFfmztX3ytBdUb0wPtfCFfRp51ULWOvoVfgkO3jETR3piJv6-Ylj3KvbCZwBiXi2JWVaOccMvy_Zqap0F5uiQGdupS7hxkgQ1bsSynUT5QA37f3mY0EITNIeDrbQJ2HTBFn_8iBo5dNUk6rZKCmQcjUpi7iGTQ6EeHpIlTW5m2LcmrfTDknAAAASfwaHikh83pso0ySHZz1tP635Moie51bN-fcmtnpJtpOjD3n_hwp37a1cDBtmdZD&link1=335615469$subdocument
+cloud.mail.ru##.pm-toolbar__spacer_flexible.pm-toolbar__spacer_first.pm-toolbar__spacer.js-spacer
+cloud.mail.ru###portal-menu__toolbar > .portal-menu_width > .pm-menu > .pm-menu__center > .pm-menu__center__inner
+||r.mradx.net/h5/7C/559B01E1/68C10CDA6C.html$subdocument
+cloud.mail.ru##.shove__frame
+
