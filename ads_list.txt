@@ -6800,3 +6800,15 @@ cloud.mail.ru###portal-menu__toolbar > .portal-menu_width > .pm-menu > .pm-menu_
 ||r.mradx.net/h5/7C/559B01E1/68C10CDA6C.html$subdocument
 cloud.mail.ru##.shove__frame
 
+! 2021-04-18 https://ovnl.in
+ovnl.in##[href="https://vtoxicity.net"]
+ovnl.in##[href="https://triangle.is"]
+ovnl.in##[href="http://bit.ly/3uU3O95"]
+
+! 2021-04-19 https://www.aconvert.com
+www.aconvert.com##.cck-msg
+www.aconvert.com##a.footlink:nth-of-type(2)
+
+! 2021-04-19 https://grumpy-sec.blogspot.com
+grumpy-sec.blogspot.com##.singleton-element.cookie-choices-info
+
