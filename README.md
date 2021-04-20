@@ -4,6 +4,8 @@
 
 [![](https://img.shields.io/badge/platform-AdBlocker-red.svg)](https://github.com/Zalexanninev15/NoADS_RU)
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
+[![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
 
 ## Описание
 Мой список для блокировки элементов на русскоязычных, и не только, сайтах. Список составляю вручную, поэтому блокируется и то, что не может заблокировать никакое расширение.
