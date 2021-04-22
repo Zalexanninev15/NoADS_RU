@@ -1,9 +1,9 @@
-! List: NoADS_RU
+! List: NoADS_RU (2020-2021)
 ! Author: Zalexanninev15
 ! License: MIT
 ! GitHub: github.com/Zalexanninev15/NoADS_RU
-! Donate 1: qiwi.com/n/ZALEXANNINEV15
-! Donate 2: yoomoney.ru/to/410015106319420
+! Donate 1: https://qiwi.com/n/ZALEXANNINEV15
+! Donate 2: https://yoomoney.ru/to/410015106319420
 
 
 ! 13.02.2020 https://disk.yandex.ru
@@ -6811,4 +6811,17 @@ www.aconvert.com##a.footlink:nth-of-type(2)
 
 ! 2021-04-19 https://grumpy-sec.blogspot.com
 grumpy-sec.blogspot.com##.singleton-element.cookie-choices-info
+
+! 2021-04-20 https://www.patreon.com
+www.patreon.com##.root__2wgwq
+
+! 2021-04-20 https://otvet.mail.ru
+otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar.tb-83299973
+
+! 2021-04-22 https://habr.com
+habr.com##[src="//habrastorage.org/getpro/habr/branding/759/938/742/759938742c2919b96e2325dd72a5fabb.png"]
+
+! 2021-04-22 https://mail.yandex.ru
+mail.yandex.ru##.PSHeaderLogo360-360 > svg > path
+mail.yandex.ru##.PSHeaderLogo360-360 > svg
 
