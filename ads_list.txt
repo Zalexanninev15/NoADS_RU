@@ -6825,3 +6825,15 @@ habr.com##[src="//habrastorage.org/getpro/habr/branding/759/938/742/759938742c29
 mail.yandex.ru##.PSHeaderLogo360-360 > svg > path
 mail.yandex.ru##.PSHeaderLogo360-360 > svg
 
+! 2021-04-23 https://splinter-cell-blacklist-spider-bot.ru.uptodown.com
+splinter-cell-blacklist-spider-bot.ru.uptodown.com##.ot-sdk-ten.ot-sdk-columns
+
+! 2021-04-23 https://habr.com
+habr.com##[src="https://habrastorage.org/getpro/habr/upload_files/b2a/c70/848/b2ac70848031ec48a4b62f40a6e315d5.jpg"]
+
+! 2021-04-23 https://md5decrypt.net
+md5decrypt.net###cookiescript_injected
+
+! 2021-04-23 https://md5hashing.net
+md5hashing.net##.pp-footer.col-md-10
+
