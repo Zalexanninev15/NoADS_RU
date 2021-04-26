@@ -6837,3 +6837,18 @@ md5decrypt.net###cookiescript_injected
 ! 2021-04-23 https://md5hashing.net
 md5hashing.net##.pp-footer.col-md-10
 
+! 2021-04-23 https://sber-zvuk.com
+sber-zvuk.com##.gZNprg.bp6c1g-1
+sber-zvuk.com##[src="https://sber-zvuk.com/static/avatar/banner/095/61f/RrlMlQnWTOSiUA0tEYVK6g.jpeg"]
+sber-zvuk.com##[href="https://bit.ly/sz_trial"]
+sber-zvuk.com##.gRhUEO.rkke9-0
+sber-zvuk.com##[href="https://www.facebook.com/sberzvuk"]
+sber-zvuk.com##[href="https://www.instagram.com/sber.zvuk"] > svg
+sber-zvuk.com##[href="https://sber-zvuk.com/emoji"]
+
+! 2021-04-24 https://professorweb.ru
+professorweb.ru##[src="/codechick.png"]
+
+! 2021-04-24 https://zennolab.com
+zennolab.com###gdpr-warning
+
