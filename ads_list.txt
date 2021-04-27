@@ -6852,3 +6852,46 @@ professorweb.ru##[src="/codechick.png"]
 ! 2021-04-24 https://zennolab.com
 zennolab.com###gdpr-warning
 
+! 2021-04-27 http://www.softwareok.eu
+www.softwareok.eu###cookiebar
+
+! 2021-04-27 https://rutracker.org
+rutracker.org##.products.bn-topic
+
+! 2021-04-27 https://tass.ru
+||tass.ru/newtass/img/blocks/social-promo/instagram_bg.png$image
+tass.ru##.social-promo_instagram.social-promo
+tass.ru##.footer-action-buttons
+tass.ru##a.footer-links__link:nth-of-type(4)
+tass.ru##a.footer-share__icon:nth-of-type(1)
+tass.ru##a.footer-share__icon:nth-of-type(3)
+tass.ru##a.footer-share__icon:nth-of-type(4)
+tass.ru##a.footer-share__icon:nth-of-type(6)
+tass.ru##.ng-isolate-scope.social__button_fb.social__button
+tass.ru##.ng-isolate-scope.social__button_tw.social__button
+
+! 2021-04-27 https://yandex.ru
+yandex.ru##.luFrSt6rWgPKEkw0I.card_without-card-decoration.card
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.lshjepqI.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.lrFDdt6fdhoC2kxkNZfRKbr4vmaPa9c3Uf9nu9Q.ltlTM7qPdktn2gggQX_R0a4U.lrFDdt6fdhoC2kxkNZfRKbg
+yandex.ru##.old-browser-locker__content
+
+! 2021-04-27 https://m.pokupki.market.yandex.ru
+m.pokupki.market.yandex.ru##div.b_36IKhR2TzS.b_3NzD72htNv:nth-of-type(1)
+m.pokupki.market.yandex.ru##div.b_1ZLO1aJZ0A:nth-of-type(4) > .b_2tyN3z74qZ > li.b_24Y4v3lqx8:nth-of-type(1)
+
+! 2021-04-27 https://kod.ru
+kod.ru##div.block-xl.none-xs.sidebar__section > .social-links > .twitter.social-links__item > .twitter.icon
+kod.ru##div.block-xl.none-xs.sidebar__section > .social-links > .facebook.social-links__item > .facebook.icon
+kod.ru##div.block-xl.none-xs.sidebar__section > .social-links > .instagram.social-links__item > .instagram.icon
+kod.ru##div.col-md-3.col-xs-12 > .social-links > .twitter.social-links__item
+kod.ru##div.col-md-3:nth-of-type(3)
+kod.ru##div.col-md-3.col-xs-12 > .social-links > .facebook.social-links__item
+kod.ru##div.col-md-3.col-xs-12 > .social-links > .instagram.social-links__item
+kod.ru##.m-b-lg.promo
+kod.ru##a.js-share.social-share__item:nth-of-type(4)
+kod.ru##a.js-share.social-share__item:nth-of-type(1)
+
+! 2021-04-27 https://www.patreon.com
+www.patreon.com##.bGMpbm.sc-bBXqnf
+
