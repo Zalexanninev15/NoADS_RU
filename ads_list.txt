@@ -6917,3 +6917,16 @@ yandex.ru##.wKdQt7aBhAbJk1hzW.card_without-card-decoration.card
 yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.wI5Yh_Kg.links-section__link.link_theme_normal.link:nth-of-type(1)
 yandex.ru##.wPd4i7a1qB8BW1gjTUMEl9KF9gbWuKwv4JLw1jA.wJ9oztKlqE5kWxxnOasEb8Zo.wPd4i7a1qB8BW1gjTUMEl9A
 
+! 2021-04-28 https://qiwi.com
+qiwi.com##.css-17njgxr > .css-u5izo8 > .css-19v234f
+qiwi.com##div.css-2o4q3u:nth-of-type(5)
+qiwi.com##div.css-2o4q3u:nth-of-type(6) > .css-1exnedc
+qiwi.com##div.css-2o4q3u:nth-of-type(4) > .css-1exnedc
+
+! 2021-04-28 https://yoomoney.ru
+yoomoney.ru##.jqJAJd.SocialIcon2__StyledSocialIcon2-sc-1w7qrl5-0
+yoomoney.ru##.qa-social-icons.bewJjm.FooterSocialIcons__StyledSocialIcons-saxupj-0
+yoomoney.ru##.FWpUN.Decorator__StyledDecorator-sc-12ji3ka-0
+yoomoney.ru##div.jqRoKe.TplGrid__StyledTplGridFraction-s55ie2-1:nth-of-type(2)
+yoomoney.ru##.qa-cyberpunk.bcQlkZ.MenuItem__StyledLink-sc-1alctjc-0
+
