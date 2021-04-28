@@ -6895,3 +6895,25 @@ kod.ru##a.js-share.social-share__item:nth-of-type(1)
 ! 2021-04-27 https://www.patreon.com
 www.patreon.com##.bGMpbm.sc-bBXqnf
 
+! 2021-04-28 https://online.sberbank.ru
+online.sberbank.ru##.Yjcj5aC1 > div:nth-of-type(2)
+online.sberbank.ru##._3kKOmW3t > ._1NluGjn- > svg
+online.sberbank.ru##._2MsShMDb > ._1NluGjn- > svg
+
+! 2021-04-28 https://www.sberbank.ru
+www.sberbank.ru##.kitt-cookie-warning__content
+www.sberbank.ru##.form-like > .kitt-padding_bottom_main.kitt-padding_top_main.kitt-padding
+www.sberbank.ru##div.kitt-footer__external-block:nth-of-type(2)
+www.sberbank.ru##a.kitt-footer-phone:nth-of-type(1)
+www.sberbank.ru##li.kitt-footer-help__element:nth-of-type(6) > .kitt-footer-help__link
+www.sberbank.ru##.kitt-footer-social__link_fb.kitt-footer-social__link
+www.sberbank.ru##.kitt-footer-social__link_tw.kitt-footer-social__link
+www.sberbank.ru##.kitt-footer-social__link_ins.kitt-footer-social__link
+www.sberbank.ru##.kitt-footer-social__link_tiktok.kitt-footer-social__link
+www.sberbank.ru##.kitt-padding_bottom_none.kitt-padding_top_none.kitt-padding > .kitt-grid_fixed.kitt-grid > .itc-one-one__row_adaptive_right_bottom.itc-one-one__row.kitt-row > div.kitt-col_lg_6.kitt-col_xs_12.kitt-col_lg-align_middle.kitt-col_xs-align_top.kitt-col
+
+! 2021-04-28 https://yandex.ru
+yandex.ru##.wKdQt7aBhAbJk1hzW.card_without-card-decoration.card
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.wI5Yh_Kg.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.wPd4i7a1qB8BW1gjTUMEl9KF9gbWuKwv4JLw1jA.wJ9oztKlqE5kWxxnOasEb8Zo.wPd4i7a1qB8BW1gjTUMEl9A
+
