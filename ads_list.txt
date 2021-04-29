@@ -6961,3 +6961,19 @@ disk.yandex.ru##.Modal-Overlay
 docs.yandex.ru##.PSHeader-Pro
 docs.yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
 
+! 2021-04-29 https://mail.yandex.ru
+mail.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
+
+! 2021-04-29 https://disk.yandex.ru
+disk.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
+
+! 2021-04-29 https://telemost.yandex.ru
+telemost.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_dark.PSHeaderService:nth-of-type(4)
+
+! 2021-04-29 https://docs.yandex.ru
+docs.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
+docs.yandex.ru##.info-space__button.Button2_width_max.Button2_size_m.Button2_view_raised.Button2
+
+! 2021-04-29 https://disk.yandex.ru
+disk.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(5)
+
