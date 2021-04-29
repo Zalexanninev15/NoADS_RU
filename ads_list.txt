@@ -6930,3 +6930,34 @@ yoomoney.ru##.FWpUN.Decorator__StyledDecorator-sc-12ji3ka-0
 yoomoney.ru##div.jqRoKe.TplGrid__StyledTplGridFraction-s55ie2-1:nth-of-type(2)
 yoomoney.ru##.qa-cyberpunk.bcQlkZ.MenuItem__StyledLink-sc-1alctjc-0
 
+! 2021-04-28 https://cloud.mail.ru
+cloud.mail.ru##.shove_folder.shove
+
+! 2021-04-28 https://dtf.ru
+dtf.ru##.sidebar__footer__icons
+dtf.ru##a.sidebar__footer__item > span
+dtf.ru##.sidebar__footer__container
+
+! 2021-04-29 https://icon-icons.com
+icon-icons.com###bsa-placeholder-search2
+icon-icons.com##.bsa-placeholder
+
+! 2021-04-29 https://cloud.mail.ru
+cloud.mail.ru##.shove_file.shove
+
+! 2021-04-29 https://zen.yandex.ru
+zen.yandex.ru###yabro-strip-element
+
+! 2021-04-29 https://disk.yandex.ru
+disk.yandex.ru##.mail360-antifo-tooltip__text
+disk.yandex.ru##.mail360-antifo-tooltip__button.Button2_size_s.Button2_view_action.Button2
+disk.yandex.ru##.dialog__wrap
+disk.yandex.ru##.Modal-Cell_align_middle.Modal-Cell
+disk.yandex.ru##.Modal-Table
+disk.yandex.ru##.Modal-Wrapper
+disk.yandex.ru##.Modal-Overlay
+
+! 2021-04-29 https://docs.yandex.ru
+docs.yandex.ru##.PSHeader-Pro
+docs.yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
+
