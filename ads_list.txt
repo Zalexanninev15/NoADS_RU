@@ -7021,3 +7021,21 @@ yandex.ru##div.incut_inserted_yes
 yandex.ru##.button2_js_inited.i-bem.dropdown-menu__switcher.button2_view_classic.button2_size_s.button2_theme_clear.button2
 yandex.ru##.market-cart__icon
 
+! 2021-05-04 https://4pda.ru
+||s.4pda.to/dry7VR1Q2CTlz1rtICz2UYQ6vH9NA.jpg$image
+
+! 2021-05-04 https://www.kinopoisk.ru
+www.kinopoisk.ru##.styles_adBlockWarningRoot__2WL-a
+www.kinopoisk.ru##.toaster-containerqm05c82wwk7g6ginhaq
+
+! 2021-05-04 https://www.film.ru
+www.film.ru##fw-storyblock
+www.film.ru##.hochuvkino
+www.film.ru##[href="https://www.facebook.com/Film.Ru/"]
+www.film.ru##[href="https://twitter.com/empire_russia/"]
+www.film.ru##[href="https://www.instagram.com/film.russia/"]
+www.film.ru##[href="/advert"]
+
+! 2021-05-04 https://docs.exponenta.ru
+docs.exponenta.ru##.splash
+
