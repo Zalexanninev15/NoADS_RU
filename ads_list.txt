@@ -6977,3 +6977,47 @@ docs.yandex.ru##.info-space__button.Button2_width_max.Button2_size_m.Button2_vie
 ! 2021-04-29 https://disk.yandex.ru
 disk.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(5)
 
+! 2021-04-30 https://nnmclub.to
+nnmclub.to##.spaceRow
+
+! 2021-04-30 https://cloud.mail.ru
+cloud.mail.ru###portal-menu__toolbar > .portal-menu_width > .pm-menu > .pm-menu__center
+
+! 2021-04-30 https://habr.com
+habr.com##[href="https://slc.tl/hpT36"]
+
+! 2021-04-30 https://www.playground.ru
+||i.playground.ru/e/Q-y1x_xqhNxIHMfZCchdPw.jpeg$image
+
+! 2021-04-30 https://4pda.ru
+4pda.ru##.KrI12qGRMDrz0kFc6.LkLKeK60z0k.post
+
+! 2021-04-30 https://www.flaticon.com
+www.flaticon.com##.active.bg-light-gray.form_valuation_cl
+
+! 2021-05-04 https://habr.com
+habr.com###editoral-subscribe-close > svg
+habr.com##.tm-editoral-subscription__close
+habr.com##.post-share__item-link_facebook.post-share__item-link_normal.post-share__item-link
+habr.com##.post-share__item-link_twitter.post-share__item-link_normal.post-share__item-link
+
+! 2021-05-04 https://msilab.net
+msilab.net###adsCSS
+
+! 2021-05-04 https://etu.ru
+etu.ru##.cookie-consent-wrapper
+
+! 2021-05-04 https://t.me
+t.me##.tgme_head_dl_button
+
+! 2021-05-04 https://ok.ru
+ok.ru##.trg-v-banner__link
+ok.ru##.trg-v-banner__vid
+ok.ru##.mailru-visibility-check.trg-b-vid.trg-v-banner
+
+! 2021-05-04 https://yandex.ru
+yandex.ru##.incut_inserted_yes.incut_js_inited.i-bem.incut_position_page-fixed.incut_type_direct.incut
+yandex.ru##div.incut_inserted_yes
+yandex.ru##.button2_js_inited.i-bem.dropdown-menu__switcher.button2_view_classic.button2_size_s.button2_theme_clear.button2
+yandex.ru##.market-cart__icon
+
