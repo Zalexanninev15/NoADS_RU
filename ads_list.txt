@@ -7061,3 +7061,15 @@ www.gameshero.com##.open.cookie-alert
 ! 2021-05-06 https://to-do.live.com
 to-do.live.com##.obf-Visible.obf-Toast
 
+! 2021-05-06 https://yandex.ru
+yandex.ru##.f5LcXvS1BPKyL4gXm.card_without-card-decoration.card
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.f7vUbrCU.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.map-left-pane__ad
+yandex.ru##a.xFrQWvQo.link_theme_normal.link:nth-of-type(3)
+
+! 2021-05-06 https://m.vk.com
+m.vk.com##.mmi_fv
+
+! 2021-05-06 https://m.ok.ru
+m.ok.ru##.staple_inner
+
