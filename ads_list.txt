@@ -7039,3 +7039,25 @@ www.film.ru##[href="/advert"]
 ! 2021-05-04 https://docs.exponenta.ru
 docs.exponenta.ru##.splash
 
+! 2021-05-04 https://www.playground.ru
+||i.playground.ru/e/Q-y1x_xqhNxIHMfZCchdPw.jpeg$image
+
+! 2021-05-05 https://rucore.net
+rucore.net##.lwpcngHide.lwpcngNotice-light.lwpcngNoticeBar-bottom.lwpcngNoticeBar.lwpcngNotice-sticked.lwpcngNotice.js-lwpcngNotice
+
+! 2021-05-05 https://signedisos.narod.ru
+signedisos.narod.ru##.bottom-info-wrapper
+
+! 2021-05-05 https://only-soft.org
+only-soft.org##[src="/images/468-yan-1.png"]
+only-soft.org##.post_wrap > div:nth-of-type(6)
+only-soft.org##center
+only-soft.org##a[href^="misc.php"]:nth-of-type(3)
+only-soft.org##span.normal:nth-of-type(2)
+
+! 2021-05-05 https://www.gameshero.com
+www.gameshero.com##.open.cookie-alert
+
+! 2021-05-06 https://to-do.live.com
+to-do.live.com##.obf-Visible.obf-Toast
+
