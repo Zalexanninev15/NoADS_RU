@@ -7073,3 +7073,29 @@ m.vk.com##.mmi_fv
 ! 2021-05-06 https://m.ok.ru
 m.ok.ru##.staple_inner
 
+! 2021-05-06 https://www.google.com
+www.google.com##div.cLjAic.TzHB6b:nth-of-type(2)
+
+! 2021-05-07 https://www.cyotek.com
+www.cyotek.com###cookieChoiceInfo
+
+! 2021-05-07 https://unicode-table.com
+unicode-table.com##.cookie__wrapper
+
+! 2021-05-07 https://twitter.com
+twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n
+
+! 2021-05-07 https://static.app
+static.app##.dialogContent
+static.app##li.p.link:nth-of-type(1)
+static.app##.text-green.p.link
+
+! 2021-05-09 https://numbuster.com
+numbuster.com###page_cookie_menu
+
+! 2021-05-09 https://findface.pro
+findface.pro##.lang-select
+
+! 2021-05-11 https://silvengame.ru
+silvengame.ru##.story_text2 > center
+
