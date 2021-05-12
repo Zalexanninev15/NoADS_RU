@@ -7099,3 +7099,41 @@ findface.pro##.lang-select
 ! 2021-05-11 https://silvengame.ru
 silvengame.ru##.story_text2 > center
 
+! 2021-05-11 https://www.paypal.com
+www.paypal.com##.notification-cookie.theme-background-color-light.pp-notification
+
+! 2021-05-12 https://yandex.ru
+yandex.ru###kbsk > div
+yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.card_without-card-decoration.card
+yandex.ru##.map-rain-report__wrapper
+
+! 2021-05-12 https://music.yandex.ru
+music.yandex.ru##.typo-secondary.footer__age-disclaimer
+
+! 2021-05-12 https://www.kinopoisk.ru
+www.kinopoisk.ru##.footerkvuvoxf938pzf0bicz0__content-item:nth-of-type(5) > ._3Rkutv2b09UBzWZI15ckk9.footerkvuvoxf938pzf0bicz0__content-link
+www.kinopoisk.ru##.footerkvuvoxf938pzf0bicz0__content-item:nth-of-type(2) > .footerkvuvoxf938pzf0bicz0__content-link
+
+! 2021-05-12 https://travel.yandex.ru
+travel.yandex.ru##.Link_theme_pseudo.Link:nth-of-type(4)
+travel.yandex.ru##div._3BxM0._26a8m:nth-of-type(4)
+travel.yandex.ru##div._3BxM0._26a8m:nth-of-type(3)
+
+! 2021-05-12 https://afisha.yandex.ru
+afisha.yandex.ru##.Link-ewtgjx-12
+
+! 2021-05-12 https://health.yandex.ru
+health.yandex.ru##.dark-grey-background.wrapper-scarf.wrapper
+health.yandex.ru##div.wrapper:nth-of-type(5)
+
+! 2021-05-12 https://yandex.ru
+yandex.ru##.health-telemed-banner
+yandex.ru##div.mg-page-layout-item_pos_none.mg-page-layout-item_size_single.mg-page-layout-item > .health-advert.mg-page-layout-item__card.sport-advert
+yandex.ru##div.mg-page-layout-item_pos_right.mg-page-layout-item_size_2hor.mg-page-layout-item > .card_clickable-main-node.card_double-width.card_type_picture.card_theme_health.card > .link-like_type_turbo-navigation-react.link-like.card__aside.link_type_text.link.Link
+yandex.ru##div.mg-page-layout-item_pos_right.mg-page-layout-item_size_2hor.mg-page-layout-item > .card_clickable-main-node.card_double-width.card_type_picture.card_theme_health.card
+yandex.ru###uniq1620807411930-4559715 > .health-advert.mg-page-layout-item__card.sport-advert
+yandex.ru###uniq1620807411938-21454190 > .health-advert.mg-page-layout-item__card.sport-advert
+yandex.ru##div.mg-grid__col_xs_4.mg-grid__col:nth-of-type(12)
+yandex.ru##div.mg-grid__col_xs_4.mg-grid__col:nth-of-type(34)
+
