@@ -7137,3 +7137,25 @@ yandex.ru###uniq1620807411938-21454190 > .health-advert.mg-page-layout-item__car
 yandex.ru##div.mg-grid__col_xs_4.mg-grid__col:nth-of-type(12)
 yandex.ru##div.mg-grid__col_xs_4.mg-grid__col:nth-of-type(34)
 
+! 2021-05-13 https://gamehacklab.ru
+gamehacklab.ru##.ipsJS_hide.ipsPad_half
+
+! 2021-05-14 https://proglib.io
+proglib.io##.block.mt-4 > div > .no-link.d-block.info-block
+proglib.io##.mt-2.h-100.valign-center.flex.no-list.menu.share-menu > li.mr-4.menu-item:nth-of-type(2) > .no-link > .ico--social.ico > svg > use
+proglib.io##.mt-2.h-100.valign-center.flex.no-list.menu.share-menu > li.mr-4.menu-item:nth-of-type(2) > .no-link > .ico--social.ico > svg
+proglib.io##.mt-2.h-100.valign-center.flex.no-list.menu.share-menu > li.mr-4.menu-item:nth-of-type(2) > .no-link > .ico--social.ico
+proglib.io##.mt-2.h-100.valign-center.flex.no-list.menu.share-menu > li.mr-4.menu-item:nth-of-type(3) > .no-link > .ico--social.ico > svg > use
+proglib.io##.mt-2.h-100.valign-center.flex.no-list.menu.share-menu > li.mr-4.menu-item:nth-of-type(3) > .no-link > .ico--social.ico > svg
+proglib.io##.mt-2.h-100.valign-center.flex.no-list.menu.share-menu > li.mr-4.menu-item:nth-of-type(3) > .no-link > .ico--social.ico
+proglib.io##li.mr-4.menu-item:nth-of-type(2) > .no-link > .ico--social.ico > svg > use
+proglib.io##li.mr-4.menu-item:nth-of-type(2) > .no-link > .ico--social.ico > svg
+proglib.io##li.mr-4.menu-item:nth-of-type(2) > .no-link > .ico--social.ico
+proglib.io##li.mr-4.menu-item:nth-of-type(3) > .no-link > .ico--social.ico > svg > use
+proglib.io##li.mr-4.menu-item:nth-of-type(3) > .no-link > .ico--social.ico > svg
+proglib.io##li.mr-4.menu-item:nth-of-type(3) > .no-link > .ico--social.ico
+proglib.io##li.mr-4.menu-item:nth-of-type(4) > .no-link > .ico--social.ico > svg > use
+proglib.io##li.mr-4.menu-item:nth-of-type(4) > .no-link > .ico--social.ico > svg
+proglib.io##li.mr-4.menu-item:nth-of-type(4) > .no-link > .ico--social.ico
+proglib.io##.no-list.menu.sheet-footer__menu.sheet-footer__left > li.menu-item:nth-of-type(2)
+
