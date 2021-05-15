@@ -7171,3 +7171,47 @@ vk.com###top_reg_link
 m.vk.com##.social_button
 m.vk.com##ul.footer_menu:nth-of-type(3)
 
+! 2021-05-15 https://yoomoney.ru
+yoomoney.ru##.promo-popup__background
+yoomoney.ru##.promo-popup__details
+yoomoney.ru##.promo-popup_desktop.promo-popup
+
+! 2021-05-15 https://qiwi.com
+qiwi.com##.footer-social-83
+
+! 2021-05-15 https://www.kinopoisk.ru
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footertcwj7s7rd6yfvb9vd0k__content-item:nth-of-type(2) > ._3Rkutv2b09UBzWZI15ckk9.footertcwj7s7rd6yfvb9vd0k__content-link
+www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footertcwj7s7rd6yfvb9vd0k__content-item:nth-of-type(5) > ._3Rkutv2b09UBzWZI15ckk9.footertcwj7s7rd6yfvb9vd0k__content-link
+
+! 2021-05-15 https://disk.yandex.ru
+disk.yandex.ru##.PSHeaderLogo360-360 > svg
+
+! 2021-05-15 https://telemost.yandex.ru
+telemost.yandex.ru##.PSHeaderLogo360-360 > svg
+
+! 2021-05-15 https://docs.yandex.ru
+docs.yandex.ru##.PSHeaderLogo360-360 > svg
+
+! 2021-05-15 https://disk.yandex.ru
+disk.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
+
+! 2021-05-15 https://docs.yandex.ru
+docs.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
+
+! 2021-05-15 https://g-ek.com
+g-ek.com##li.h-c-social__item:nth-of-type(5) > .uni-click-tracker.h-c-social__link > .h-c-icon--social.h-c-icon--24px.h-c-icon
+g-ek.com##li.h-c-social__item:nth-of-type(5) > .uni-click-tracker.h-c-social__link
+g-ek.com##li.h-c-social__item:nth-of-type(2) > .uni-click-tracker.h-c-social__link > .h-c-icon--social.h-c-icon--24px.h-c-icon
+g-ek.com##li.h-c-social__item:nth-of-type(2) > .uni-click-tracker.h-c-social__link
+g-ek.com##li.h-c-social__item:nth-of-type(2)
+g-ek.com##li.h-c-social__item:nth-of-type(1) > .uni-click-tracker.h-c-social__link > .h-c-icon--social.h-c-icon--24px.h-c-icon
+g-ek.com##li.h-c-social__item:nth-of-type(1) > .uni-click-tracker.h-c-social__link
+g-ek.com##li.h-c-social__item:nth-of-type(1)
+g-ek.com##.article-sticky-share__nav > a.uni-click-tracker.article-share__link:nth-of-type(2) > .h-c-icon--30px.h-c-icon--social.h-c-icon
+g-ek.com##a.uni-click-tracker.article-share__link:nth-of-type(2)
+g-ek.com##.article-sticky-share__nav > a.uni-click-tracker.article-share__link:nth-of-type(3) > .h-c-icon--30px.h-c-icon--social.h-c-icon > use
+g-ek.com##.article-sticky-share__nav > a.uni-click-tracker.article-share__link:nth-of-type(3) > .h-c-icon--30px.h-c-icon--social.h-c-icon
+g-ek.com##.article-sticky-share__nav > a.uni-click-tracker.article-share__link:nth-of-type(3)
+g-ek.com##.article-sticky-share__nav > a.uni-click-tracker.article-share__link:nth-of-type(4) > .h-c-icon--30px.h-c-icon--social.h-c-icon
+g-ek.com##.article-sticky-share__nav > a.uni-click-tracker.article-share__link:nth-of-type(4)
+
