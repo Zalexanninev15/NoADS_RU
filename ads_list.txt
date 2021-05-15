@@ -7159,3 +7159,15 @@ proglib.io##li.mr-4.menu-item:nth-of-type(4) > .no-link > .ico--social.ico > svg
 proglib.io##li.mr-4.menu-item:nth-of-type(4) > .no-link > .ico--social.ico
 proglib.io##.no-list.menu.sheet-footer__menu.sheet-footer__left > li.menu-item:nth-of-type(2)
 
+! 2021-05-15 https://docviewer.yandex.ru
+docviewer.yandex.ru##.ulgzskcf.zveaq.jvnxd
+
+! 2021-05-15 https://vk.com
+vk.com##.FacebookLogin--noNative.FacebookLogin--index.FacebookLogin
+vk.com##.quick_login
+vk.com###top_reg_link
+
+! 2021-05-15 https://m.vk.com
+m.vk.com##.social_button
+m.vk.com##ul.footer_menu:nth-of-type(3)
+
