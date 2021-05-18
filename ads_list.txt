@@ -7215,3 +7215,24 @@ g-ek.com##.article-sticky-share__nav > a.uni-click-tracker.article-share__link:n
 g-ek.com##.article-sticky-share__nav > a.uni-click-tracker.article-share__link:nth-of-type(4) > .h-c-icon--30px.h-c-icon--social.h-c-icon
 g-ek.com##.article-sticky-share__nav > a.uni-click-tracker.article-share__link:nth-of-type(4)
 
+! 2021-05-15 https://docviewer.yandex.ru
+docviewer.yandex.ru##.lgohmchze.itqmyq.jcmch > div
+
+! 2021-05-16 https://cackle.me
+cackle.me##.cc-color-override--1813146469.cc-left.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+
+! 2021-05-17 https://vc.ru
+vc.ru##a.sidebar__footer__item:nth-of-type(2) > span
+vc.ru##.dstr-unit__link
+vc.ru##.dstr-unit__outer
+
+! 2021-05-18 https://itproger.com
+itproger.com##.container.cookie
+
+! 2021-05-18 https://getscreen.me
+||getscreen.me/common/i/google-play-badge.svg$image
+
+! 2021-05-18 https://www.gog.com
+www.gog.com##.is-stuck.sticky-floater.column--right > .container > .promo-slider > .hide-on-one-column.promo-socials > .socials > .socials__list > .social-btn--fb.social-btn
+www.gog.com##.is-stuck.sticky-floater.column--right > .container > .promo-slider > .hide-on-one-column.promo-socials > .socials > .socials__list > .social-btn--tw.social-btn
+
