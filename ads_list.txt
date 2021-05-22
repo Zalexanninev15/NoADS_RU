@@ -7236,3 +7236,12 @@ itproger.com##.container.cookie
 www.gog.com##.is-stuck.sticky-floater.column--right > .container > .promo-slider > .hide-on-one-column.promo-socials > .socials > .socials__list > .social-btn--fb.social-btn
 www.gog.com##.is-stuck.sticky-floater.column--right > .container > .promo-slider > .hide-on-one-column.promo-socials > .socials > .socials__list > .social-btn--tw.social-btn
 
+! 2021-05-20 https://tuxstories.ru
+tuxstories.ru##.drop-shadow.rounded-corners
+
+! 2021-05-22 https://unity.com
+unity.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+
+! 2021-05-22 https://habr.com
+habr.com##a[href^="https://macloud.ru/"]:nth-of-type(16)
+
