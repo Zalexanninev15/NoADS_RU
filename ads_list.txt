@@ -7244,4 +7244,21 @@ unity.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
 
 ! 2021-05-22 https://habr.com
 habr.com##a[href^="https://macloud.ru/"]:nth-of-type(16)
+habr.com##a[href^="https://vdsina.ru/cloud-servers"]:nth-of-type(2)
+habr.com##[href="https://t.me/vdsina"]
+habr.com##.promo-block_vacancies.promo-block
+habr.com###twitter-stream
+
+! 2021-05-22 https://www.bing.com
+www.bing.com##.show.hpn_top_container
+www.bing.com##li.item:nth-of-type(4)
+
+! 2021-05-22 https://www.msn.com
+www.msn.com###irisbanner
+
+! 2021-05-22 https://www.bing.com
+www.bing.com##.teal
+
+! 2021-05-22 https://www.microsoft.com
+www.microsoft.com###c-uhff-footer_aboutourads
 
