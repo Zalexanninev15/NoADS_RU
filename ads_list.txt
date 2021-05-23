@@ -7262,3 +7262,10 @@ www.bing.com##.teal
 ! 2021-05-22 https://www.microsoft.com
 www.microsoft.com###c-uhff-footer_aboutourads
 
+! 2021-05-23 https://d3ward.github.io
+d3ward.github.io##._notif > div
+d3ward.github.io##._notif > span
+
+! 2021-05-23 https://yandex.ru
+yandex.ru##.xwqa__becdbbbbaddada
+
