@@ -7211,3 +7211,24 @@ qiwi.com##.cookies-self-222
 ! 2021-05-25 https://connect.vk.com
 connect.vk.com##section.Group--card.Group--sizeX-regular.Group--android.Group:nth-of-type(2) > .Group__inner
 
+! 2021-05-25 https://disk.yandex.ru
+disk.yandex.ru##.info-space__button.Button2_width_max.Button2_size_m.Button2_view_raised.Button2
+disk.yandex.ru##.PSHeaderLogo360-360 > svg
+disk.yandex.ru##.sidebar__app-link-wrapper
+disk.yandex.ru##a.footer__link.Link_theme_ghost.Link:nth-of-type(5)
+disk.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
+disk.yandex.ru##a.public-footer__link.footer__link.Link_theme_ghost.Link:nth-of-type(3)
+disk.yandex.ru##.js-prevent-mouse-selection.app-promo-banner
+disk.yandex.ru##.menu__item_type_link.user2__menu-item_action_plus.user2__menu-item_type_link.user2__menu-item.menu__item.control
+
+! 2021-05-25 https://passport.yandex.ru
+passport.yandex.ru##div.FamilyMainLayout-card:nth-of-type(1)
+passport.yandex.ru##.FamilyMainLayout-card_empty.FamilyMainLayout-card
+passport.yandex.ru##.p-subscriptions.Section
+passport.yandex.ru##div.ProfileTile_v2.ProfileTile:nth-of-type(2)
+
+! 2021-05-25 https://docviewer.yandex.ru
+docviewer.yandex.ru##.bqldtllm.tyjqbde.dkkdud
+docviewer.yandex.ru##.wqmvaxqie.jymkop.axhqlyl > div
+docviewer.yandex.ru##.xghvemede.qpdsbfi.dqsztov > div
+
