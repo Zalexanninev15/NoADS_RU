@@ -5,18 +5,6 @@
 ! Donate 1: https://qiwi.com/n/ZALEXANNINEV15
 ! Donate 2: https://yoomoney.ru/to/410015106319420
 
-
-! 13.02.2020 https://disk.yandex.ru
-disk.yandex.ru##.link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon > path
-disk.yandex.ru##.hover-tooltip__tooltip-anchor > .link_theme_dark.link.control > .link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon
-disk.yandex.ru##.sidebar__app-link.link_theme_dark.link.control > .link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon > g > path:nth-of-type(2)
-disk.yandex.ru##.sidebar__app-link.link_theme_dark.link.control > .link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon > g > path:nth-of-type(1)
-disk.yandex.ru##.sidebar__app-link.link_theme_dark.link.control > .link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon
-disk.yandex.ru##.info-space__button.button2_width_max.button2_theme_raised.button2_size_n.button2_tone_default.button2_view_default.button2.control
-disk.yandex.ru##.header-link-notes.inline-services-menu__link.link_theme_dark.link.control
-disk.yandex.ru##a.inline-services-menu__link.link_theme_dark.link.control:nth-of-type(2)
-disk.yandex.ru##a.inline-services-menu__link.link_theme_dark.link.control:nth-of-type(1)
-
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > use
@@ -1230,11 +1218,6 @@ www.ivi.ru##.js-footer-devices.col
 ! 21.02.2020 http://fanserials.express
 fanserials.express##[href="/instruction_android.html"]
 
-! 21.02.2020 https://disk.yandex.ru
-disk.yandex.ru##.footer__left
-disk.yandex.ru##a.icons-services-menu__service-link.link_theme_clear.link.control:nth-of-type(6)
-disk.yandex.ru##a.icons-services-menu__service-link.link_theme_clear.link.control:nth-of-type(14)
-
 ! 21.02.2020 https://yandex.ru
 yandex.ru##.ya-share2__item_service_facebook.ya-share2__item
 yandex.ru##.ya-share2__item_service_twitter.ya-share2__item
@@ -1301,9 +1284,6 @@ yandex.ru##.service_name_collections.service > .link_theme_normal.link.service__
 yandex.ru##.service_name_collections.service
 yandex.ru##td.services-all__column:nth-of-type(3) > div.services-all__group:nth-of-type(6) > .services-all__list > div.services-all__item_wrap:nth-of-type(3) > .services-all__link.link > .services-all__item
 
-! 21.02.2020 https://disk.yandex.ru
-disk.yandex.ru##.uploader-notifications
-
 ! 24.02.2020 https://4pda.ru
 ||s.4pda.to/dry7Ndn2mFPz1N71FQXZR7FGcz1MH4.jpg?_=1582296944$image
 
@@ -1340,9 +1320,6 @@ m.vk.com##.feedAssistance_recommendedFriends.friendsRecommendedSliderWrap.feedAs
 cloud.mail.ru##.b-tooltip__content
 cloud.mail.ru##.b-tooltip__corner
 cloud.mail.ru##.pm-toolbar__button_last-in-group.pm-toolbar__button.js-button > .pm-toolbar__button__inner.js-link
-
-! 24.02.2020 https://disk.yandex.ru
-disk.yandex.ru##.burger-sidebar__button.button2_theme_clear.button2_size_n.button2_view_classic.button2.control
 
 ! 24.02.2020 https://microsoftedgetips.microsoft.com
 microsoftedgetips.microsoft.com##.x-hidden-focus.mobile-banner__unexpanded
@@ -2115,9 +2092,6 @@ mail.yandex.ru##.a2zaMvMDI57lSbajaBVA0
 ! 01.04.2020 https://yandex.ru
 yandex.ru##.rows__row_last
 
-! 01.04.2020 https://disk.yandex.ru
-disk.yandex.ru##.share-link-menu__menu-item_type_facebook.share-link-menu__menu-item.menu__item.control
-
 ! 01.04.2020 https://4pda.ru
 4pda.ru##.materials-box
 4pda.ru###Ufz29u9r2Th > div.K5j4jftiDYe:nth-of-type(1)
@@ -2383,12 +2357,6 @@ docviewer.yandex.ru##.uv-cyo
 docviewer.yandex.ru##.wugyodj.qgnohvkrn.dldeomvdy > gohcakc-rz
 docviewer.yandex.ru##.phutoiasr.xnrkb.dldeomvdy > gohcakc-rz
 
-! 22.05.2020 https://disk.yandex.ru
-disk.yandex.ru##.notification__corner_side_top-left.notification__corner > svg
-disk.yandex.ru##.notification__corner_side_top-left.notification__corner
-disk.yandex.ru##.notification__content
-disk.yandex.ru##.notifications__body.promo-notification__wrapper
-
 ! 27.05.2020 https://ok.ru
 ok.ru##.browser-banner_a
 ok.ru##div.feed-w:nth-of-type(6) > .h-mod.js-video-scope.feed
@@ -2630,9 +2598,6 @@ aliexpress.ru###middle-promotion-container > .festival-main-venue
 ! 31.05.2020 https://docviewer.yandex.ru
 docviewer.yandex.ru##laeyozhtim-eex
 
-! 31.05.2020 https://disk.yandex.ru
-disk.yandex.ru##.root__bottom-ad.direct
-
 ! 31.05.2020 https://docviewer.yandex.ru
 docviewer.yandex.ru##.cqzxjahw.ypwgcn.bsrzxem > caunb-bkyhtz
 docviewer.yandex.ru##.fznpsqxg.vmyddkzrw.bsrzxem > caunb-bkyhtz
@@ -2852,10 +2817,6 @@ yougame.biz##.top-banners
 
 ! 25.06.2020 https://4pda.ru
 4pda.ru##.menu-brands
-
-! 25.06.2020 https://disk.yandex.ru
-disk.yandex.ru##.js-prevent-mouse-selection.app-promo-banner
-disk.yandex.ru##.sidebar__app-link-wrapper
 
 ! 25.06.2020 https://yadi.sk
 yadi.sk##a.inline-services-menu__link.link_theme_dark.link.control:nth-of-type(1)
@@ -5238,9 +5199,6 @@ www.techpowerup.com##.clearfix.site-header
 ! 2020-11-02 https://cloud.mail.ru
 cloud.mail.ru##.b-react-component > div.TreeNode__root--22m4E:nth-of-type(4) > .TreeNode__item--24fww
 
-! 2020-11-02 https://disk.yandex.ru
-disk.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(3)
-
 ! 2020-11-02 https://drive.google.com
 drive.google.com##.g-Yd-Na.g-Yd-Ya.a-Ff-B.a-la-B.g-Yd
 
@@ -5256,9 +5214,6 @@ telemost.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderSer
 
 ! 2020-11-04 https://calendar.yandex.ru
 calendar.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(3)
-
-! 2020-11-04 https://disk.yandex.ru
-disk.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
 
 ! 2020-11-04 https://youla.ru
 youla.ru##.ezLUQn.sc-jxsHlP
@@ -6458,7 +6413,6 @@ www.mrfdev.com##.cookies-consent.container-fluid
 disk.yandex.ru##.mail360-banner__comp
 disk.yandex.ru##.mail360-banner__icons
 disk.yandex.ru##.js-prevent-mouse-selection.mail360-banner
-disk.yandex.ru##.hover-tooltip__tooltip-anchor
 
 ! 2021-03-27 http://soft.oszone.net
 soft.oszone.net###leftcol-c > div:nth-of-type(5)
@@ -6490,10 +6444,6 @@ ell.stackexchange.com##.js-consent-banner
 ! 2021-04-01 https://mail.yandex.ru
 mail.yandex.ru##a.SettingsItem__root--3BZ6z:nth-of-type(9)
 mail.yandex.ru##.beautiful-email-section.SettingsItem__root--3BZ6z
-
-! 2021-04-01 https://disk.yandex.ru
-disk.yandex.ru##.info-space__button.Button2_size_m.Button2_view_raised.Button2_width_max.Button2
-disk.yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
 
 ! 2021-04-01 https://calendar.yandex.ru
 calendar.yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
@@ -6527,9 +6477,6 @@ dotnetfiddle.net##[href^="https://entityframework-extensions.net/batch-savechang
 otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar.tb-79648589
 otvet.mail.ru##.adv-slot-12403
 otvet.mail.ru##.layout__contentCol3_1VqKNb4v
-
-! 2021-04-02 https://disk.yandex.ru
-disk.yandex.ru##.direct-public_wow.direct-public_dir.direct-public_position_top.direct-public_platform_desktop.direct-public.direct
 
 ! 2021-04-04 https://online-generators.ru
 online-generators.ru###kSIiQ > div
@@ -6678,9 +6625,6 @@ codesmithdotnet.blogspot.com##.singleton-element.cookie-choices-info
 ! 2021-04-13 https://mail.yandex.ru
 mail.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(3)
 
-! 2021-04-13 https://disk.yandex.ru
-disk.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(3)
-
 ! 2021-04-13 https://yandex.ru
 yandex.ru###bkmhcc > div
 yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.fdl1e62c.links-section__link.link_theme_normal.link:nth-of-type(1)
@@ -6731,10 +6675,6 @@ m.vk.com###wall-176471180_12757
 
 ! 2021-04-13 https://mail.yandex.ru
 mail.yandex.ru##.leftPanel-toFullVersion
-
-! 2021-04-13 https://disk.yandex.ru
-disk.yandex.ru##a.inline-services-menu__link.Link_theme_dark.Link:nth-of-type(1)
-disk.yandex.ru##.menu__item_type_link.user2__menu-item_action_plus.user2__menu-item_type_link.user2__menu-item.menu__item.control
 
 ! 2021-04-13 https://cloud.mail.ru
 cloud.mail.ru###dc9bude9u
@@ -6948,15 +6888,6 @@ cloud.mail.ru##.shove_file.shove
 ! 2021-04-29 https://zen.yandex.ru
 zen.yandex.ru###yabro-strip-element
 
-! 2021-04-29 https://disk.yandex.ru
-disk.yandex.ru##.mail360-antifo-tooltip__text
-disk.yandex.ru##.mail360-antifo-tooltip__button.Button2_size_s.Button2_view_action.Button2
-disk.yandex.ru##.dialog__wrap
-disk.yandex.ru##.Modal-Cell_align_middle.Modal-Cell
-disk.yandex.ru##.Modal-Table
-disk.yandex.ru##.Modal-Wrapper
-disk.yandex.ru##.Modal-Overlay
-
 ! 2021-04-29 https://docs.yandex.ru
 docs.yandex.ru##.PSHeader-Pro
 docs.yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
@@ -6964,18 +6895,12 @@ docs.yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.lego
 ! 2021-04-29 https://mail.yandex.ru
 mail.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
 
-! 2021-04-29 https://disk.yandex.ru
-disk.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
-
 ! 2021-04-29 https://telemost.yandex.ru
 telemost.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_dark.PSHeaderService:nth-of-type(4)
 
 ! 2021-04-29 https://docs.yandex.ru
 docs.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
 docs.yandex.ru##.info-space__button.Button2_width_max.Button2_size_m.Button2_view_raised.Button2
-
-! 2021-04-29 https://disk.yandex.ru
-disk.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(5)
 
 ! 2021-04-30 https://nnmclub.to
 nnmclub.to##.spaceRow
@@ -7183,17 +7108,11 @@ qiwi.com##.footer-social-83
 www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footertcwj7s7rd6yfvb9vd0k__content-item:nth-of-type(2) > ._3Rkutv2b09UBzWZI15ckk9.footertcwj7s7rd6yfvb9vd0k__content-link
 www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footertcwj7s7rd6yfvb9vd0k__content-item:nth-of-type(5) > ._3Rkutv2b09UBzWZI15ckk9.footertcwj7s7rd6yfvb9vd0k__content-link
 
-! 2021-05-15 https://disk.yandex.ru
-disk.yandex.ru##.PSHeaderLogo360-360 > svg
-
 ! 2021-05-15 https://telemost.yandex.ru
 telemost.yandex.ru##.PSHeaderLogo360-360 > svg
 
 ! 2021-05-15 https://docs.yandex.ru
 docs.yandex.ru##.PSHeaderLogo360-360 > svg
-
-! 2021-05-15 https://disk.yandex.ru
-disk.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
 
 ! 2021-05-15 https://docs.yandex.ru
 docs.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
@@ -7268,4 +7187,27 @@ d3ward.github.io##._notif > span
 
 ! 2021-05-23 https://yandex.ru
 yandex.ru##.xwqa__becdbbbbaddada
+
+! 2021-05-23 https://www.spiderfoot.net
+www.spiderfoot.net##.open.cookies
+
+! 2021-05-23 https://zetflix.so
+zetflix.so##[href="/reklama"]
+
+! 2021-05-23 https://cloud.mail.ru
+cloud.mail.ru##.js-action-banner.empyreal-banner
+cloud.mail.ru##.Bubble__root--KQnm8
+
+! 2021-05-24 https://pastebin.com
+pastebin.com##.-cookies.popup-box
+pastebin.com##.-pro.popup-box
+
+! 2021-05-24 https://mail.google.com
+mail.google.com##.GR
+
+! 2021-05-25 https://qiwi.com
+qiwi.com##.cookies-self-222
+
+! 2021-05-25 https://connect.vk.com
+connect.vk.com##section.Group--card.Group--sizeX-regular.Group--android.Group:nth-of-type(2) > .Group__inner
 
