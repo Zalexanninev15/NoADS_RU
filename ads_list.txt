@@ -7232,3 +7232,50 @@ docviewer.yandex.ru##.bqldtllm.tyjqbde.dkkdud
 docviewer.yandex.ru##.wqmvaxqie.jymkop.axhqlyl > div
 docviewer.yandex.ru##.xghvemede.qpdsbfi.dqsztov > div
 
+! 2021-05-25 https://disk.yandex.ru
+disk.yandex.ru##.hover-tooltip__tooltip-anchor
+
+! 2021-05-25 https://market.yandex.ru
+market.yandex.ru##div._2owod27rPb:nth-of-type(1) > a._1AHfXkp0Kh:nth-of-type(5)
+market.yandex.ru##._328v97CWdS.-cdp_0Z6eM._2qJqWlbgPD._3On9A5N225.u5aIqLJarC._2J-RNwHVBh > ._3gkGGxTSxB > ._2OxirYo7My
+market.yandex.ru##._3bm7NKB2q- > div:nth-of-type(1)
+
+! 2021-05-26 https://docviewer.yandex.ru
+docviewer.yandex.ru##.ejvurtseg.rxxdf.ypibal > div
+
+! 2021-05-26 https://www.jetbrains.com
+www.jetbrains.com##.banner__image
+
+! 2021-05-27 https://habr.com
+habr.com##[src="//habrastorage.org/getpro/habr/branding/6d1/2d0/9f7/6d12d09f7aac64440e669b99c2355155.jpg"]
+habr.com##[src="https://habrastorage.org/webt/ty/b7/fd/tyb7fdkkt98xbfhc-jlqbuybdda.jpeg"]
+
+! 2021-05-27 https://www.geeksforgeeks.org
+||accounts.google.com/gsi/iframe/select$subdocument
+
+! 2021-05-27 https://www.seobility.net
+www.seobility.net###cookieoptinoverlay
+
+! 2021-05-27 https://realpython.com
+realpython.com##.article-body > .p-0.sidebar-module-inset.sidebar-module
+realpython.com##.article-body > div:nth-of-type(5)
+realpython.com###initialization-and-modules > div
+realpython.com###setting-up-the-display > div:nth-of-type(2)
+realpython.com###drawing-on-the-screen > div:nth-of-type(2)
+realpython.com###players > div:nth-of-type(4)
+realpython.com###enemies > div
+
+! 2021-05-27 https://win10tweaker.ru
+win10tweaker.ru###rev_slider_6_5 > rs-slides > rs-slide > .dddwrapper-layer
+win10tweaker.ru###rev_slider_6_5 > rs-slides > rs-slide
+win10tweaker.ru###rev_slider_6_5 > rs-slides
+win10tweaker.ru###rev_slider_6_5_wrapper > .rev_redraw_on_blurfocus.revslider-initialised
+win10tweaker.ru###rev_slider_6_5_wrapper
+win10tweaker.ru###rev_slider_6_5_forcefullwidth
+win10tweaker.ru###rev_slider_9_2 > rs-slides > rs-slide
+win10tweaker.ru###rev_slider_9_2 > rs-slides
+win10tweaker.ru###rev_slider_9_2_wrapper > .rev_redraw_on_blurfocus.revslider-initialised
+win10tweaker.ru###rev_slider_9_2_wrapper
+win10tweaker.ru##.fusion-copyright-notice [href]
+win10tweaker.ru##.fusion-social-networks-wrapper
+
