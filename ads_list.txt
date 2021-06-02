@@ -7279,3 +7279,53 @@ win10tweaker.ru###rev_slider_9_2_wrapper
 win10tweaker.ru##.fusion-copyright-notice [href]
 win10tweaker.ru##.fusion-social-networks-wrapper
 
+! 2021-05-28 https://habr.com
+habr.com##[src="https://habrastorage.org/webt/pe/ay/zf/peayzfh745-twugmjk-r2zg-plc.png"]
+
+! 2021-05-28 http://www.ip-score.com
+||www.ip-score.com/im*.gif$image
+
+! 2021-05-28 https://tproger.ru
+tproger.ru##.ab.widget-telegram-feed__type-testyabr.widget-telegram-feed
+tproger.ru###widget-book
+tproger.ru###right_event_job_widget-16
+tproger.ru###right_event_job_widget-24
+
+! 2021-05-28 https://xakep.ru
+xakep.ru##.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+xakep.ru##.ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+xakep.ru##.ya-share2__item_service_viber.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+xakep.ru##.ya-share2__item_service_whatsapp.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+xakep.ru##[href="/advert/"]
+xakep.ru##[href="mailto:yakovleva.a@glc.ru"]
+
+! 2021-05-28 https://mail.yandex.ru
+mail.yandex.ru##.button2_type_link.button2_theme_action.button2_size_m.button2_tone_default.button2_view_classic.button2.control
+
+! 2021-05-29 https://www.deskmodder.de
+www.deskmodder.de##.cc_container--open.cc_container.cc_banner
+
+! 2021-05-29 https://iplogger.org
+iplogger.org##.message
+iplogger.org###atstbx
+
+! 2021-05-29 https://www.flightradar24.com
+www.flightradar24.com##.applink-container
+
+! 2021-05-29 https://greatis.com
+greatis.com##.yellow-light.is-size-7.notification
+
+! 2021-05-29 https://disk.yandex.ru
+disk.yandex.ru##.uploader-notifications
+
+! 2021-05-31 https://myaccount.google.com
+myaccount.google.com##.paynGb.oHzg5.Wvetm.VZLjze
+myaccount.google.com##.t0zZub
+myaccount.google.com##.b3FPXb
+
+! 2021-06-01 https://studopedia.ru
+studopedia.ru##.article-info
+
+! 2021-06-01 https://www.mmnt.ru
+www.mmnt.ru##p > font
+
