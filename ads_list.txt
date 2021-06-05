@@ -7329,3 +7329,43 @@ studopedia.ru##.article-info
 ! 2021-06-01 https://www.mmnt.ru
 www.mmnt.ru##p > font
 
+! 2021-06-02 https://docviewer.yandex.ru
+docviewer.yandex.ru##.wgxaw.wifhgc.fijquds > div
+
+! 2021-06-02 https://passport.yandex.ru
+passport.yandex.ru##.presentation__wrapper
+
+! 2021-06-02 https://mynickname.com
+||mynickname.com/img/icons/app/app-store-ru.svg$image
+mynickname.com##[src="/img/icons/app/app-store-ru.svg"]
+mynickname.com##[src="/img/icons/app/google-play-ru.svg"]
+mynickname.com##[src="/img/icons/social/twitter.svg"]
+mynickname.com##[src="/img/icons/social/facebook.svg"]
+mynickname.com##nav.bmenu:nth-of-type(3) > ul > li:nth-of-type(2)
+mynickname.com##div.side-block:nth-of-type(1)
+mynickname.com##.last.side-block
+mynickname.com##h4
+
+! 2021-06-03 https://lucid.app
+lucid.app##.lucidchart-orange.compact.center
+
+! 2021-06-03 https://www.epicgames.com
+www.epicgames.com##.css-k9vi59-Level__base-Level__Level
+
+! 2021-06-04 https://win10tweaker.ru
+win10tweaker.ru###rev_slider_4_6 > rs-slides > rs-slide > .dddwrapper-layer
+win10tweaker.ru###rev_slider_4_6 > rs-slides > rs-slide
+win10tweaker.ru###rev_slider_4_6 > rs-slides
+win10tweaker.ru###rev_slider_4_6_wrapper > .rev_redraw_on_blurfocus.revslider-initialised
+win10tweaker.ru##.fusion-section-separator-3.bigtriangle.section-separator.fusion-section-separator > .fusion-section-separator-fullwidth.fusion-section-separator-spacer > .fusion-section-separator-spacer-height
+win10tweaker.ru###rev_slider_4_6_wrapper
+win10tweaker.ru###rev_slider_4_6_forcefullwidth
+win10tweaker.ru##.non-hundred-percent-height-scrolling.hundred-percent-fullwidth.fusion-builder-row-10.fullwidth-box.fusion-fullwidth
+
+! 2021-06-04 https://www.artlebedev.ru
+www.artlebedev.ru##.show.als-cookie-button > div
+
+! 2021-06-04 https://ifud.cx
+ifud.cx##p
+ifud.cx##.notice--cookie.notice--primary.js-notice.notice > .notice-content
+
