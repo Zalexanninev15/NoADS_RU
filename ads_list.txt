@@ -7369,3 +7369,16 @@ www.artlebedev.ru##.show.als-cookie-button > div
 ifud.cx##p
 ifud.cx##.notice--cookie.notice--primary.js-notice.notice > .notice-content
 
+! 2021-06-05 https://yandex.ru
+yandex.ru##.lc-gdpr
+
+! 2021-06-05 https://console.cloud.yandex.ru
+console.cloud.yandex.ru##.console-dashboard__mobile-app-links.mobile-app-links
+
+! 2021-06-07 https://fb.ru
+fb.ru##.is-filled.js-sticky-holder.innerbox__sticky
+fb.ru##.js-ts-list.innerbox__bg
+
+! 2021-06-07 http://old.exponenta.ru
+old.exponenta.ru##[href^="https://hub.exponenta.ru/"]
+
