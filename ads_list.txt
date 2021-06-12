@@ -7382,3 +7382,36 @@ fb.ru##.js-ts-list.innerbox__bg
 ! 2021-06-07 http://old.exponenta.ru
 old.exponenta.ru##[href^="https://hub.exponenta.ru/"]
 
+! 2021-06-07 https://vk.com
+vk.com##.Tooltip__in
+
+! 2021-06-07 https://www.google.ru
+||ogs.google.ru/u/0/widget/callout/sid$subdocument
+
+! 2021-06-07 https://to-do.live.com
+to-do.live.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert > div
+to-do.live.com##.x-hidden-focus.b-white.theme-light.epb-container.f-information.c-uhfh-alert
+
+! 2021-06-10 https://www.rsatu.ru
+www.rsatu.ru##a.social-network:nth-of-type(3)
+www.rsatu.ru##a.social-network:nth-of-type(2)
+
+! 2021-06-11 https://disk.yandex.ru
+disk.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(5)
+
+! 2021-06-11 https://support.microsoft.com
+support.microsoft.com###rail-banner-button
+support.microsoft.com##.ocArticleFooterShareLinksWrapper
+support.microsoft.com###supWrapperToPreventFeedbackFlickering
+
+! 2021-06-12 https://docviewer.yandex.ru
+docviewer.yandex.ru##.cbdboc.ijxctesmp.sduoqcr
+docviewer.yandex.ru##.yojyjgfiz.ywvtp.ainygokm > div
+docviewer.yandex.ru##.srzrtwq.hzrogyh.xzgeycgu > div
+docviewer.yandex.ru##.qfaho.qgslv.zyuxdbhm > div
+docviewer.yandex.ru##.wzxxpuss.nxjqa.khnljo > div
+docviewer.yandex.ru##.rckdgpqci.nhsvc.gezjfets > div
+docviewer.yandex.ru##.siwoqiwl.vsbwx.uakie > div
+docviewer.yandex.ru##.ruhyzkwr.azunekl.cqvwnxm > div
+docviewer.yandex.ru##.eewonvowb.zcdnwhe.qlhivmqr > div
+
