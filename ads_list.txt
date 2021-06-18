@@ -7438,9 +7438,6 @@ ru.wikipedia.org###centralNotice > div
 mail.yandex.ru##.ns-view-rasaqap
 mail.yandex.ru##.ns-view-id-41.ns-view-tihxg-box
 
-! 2021-06-15 https://www.youtube.com
-www.youtube.com###top-level-buttons-computed > ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(1)
-
 ! 2021-06-16 https://twitter.com
 twitter.com##a.r-qvutc0.r-i023vh.r-bcqeeo.r-1p6iasa.r-1cwl3u0.r-16dba41.r-n6v787.r-1qd0xha.r-1loqt21.r-m0bqgq.css-901oao.css-18t94o4.css-4rbku5:nth-of-type(11)
 twitter.com##a.r-qvutc0.r-i023vh.r-bcqeeo.r-1p6iasa.r-1cwl3u0.r-16dba41.r-n6v787.r-1qd0xha.r-1loqt21.r-m0bqgq.css-901oao.css-18t94o4.css-4rbku5:nth-of-type(6) > .r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao
@@ -7453,4 +7450,10 @@ www.g2a.com##.kwttqV.indexes__Column-sc-1m6g9kn-0
 
 ! 2021-06-16 https://vk.com
 vk.com##.feed_blog_reminder_cover
+
+! 2021-06-17 https://docs.devexpress.com
+docs.devexpress.com##.Shown.Important.wsMsgWnd
+
+! 2021-06-17 https://developer.microsoft.com
+developer.microsoft.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
 
