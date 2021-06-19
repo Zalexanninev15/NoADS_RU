@@ -4441,9 +4441,6 @@ yandex.ru##div.dbp__eebbfffedad:nth-of-type(1) > .dydp__aceedcdffc
 ! 2020-09-09 https://www.google.com
 www.google.com##.szppmdbYutt__middle-slot-promo
 
-! 2020-09-09 https://www.youtube.com
-www.youtube.com##tbody
-
 ! 2020-09-09 https://yandex.ru
 yandex.ru##.edCVFumDH8NNdaEM.efTlKqnP27eh6Vhd0.card
 yandex.ru##.link_js_inited.ed3tGu3s.links-section__link.link_theme_normal.link
@@ -7456,4 +7453,11 @@ docs.devexpress.com##.Shown.Important.wsMsgWnd
 
 ! 2021-06-17 https://developer.microsoft.com
 developer.microsoft.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
+
+! 2021-06-18 https://samp-mods.com
+samp-mods.com##[src="http://img.samp-mods.com/images/53c62fb09bb1099007c45f37e2b3793e.gif"]
+samp-mods.com##.baseform > .bt1
+
+! 2021-06-18 https://modsfire.com
+||modsfire.com/iujds.png$image
 
