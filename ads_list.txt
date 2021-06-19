@@ -7415,10 +7415,6 @@ docviewer.yandex.ru##.eewonvowb.zcdnwhe.qlhivmqr > div
 ! 2021-06-13 https://docviewer.yandex.ru
 docviewer.yandex.ru##.fbtrxkwvp.tztotdob.zxcoerbux > div
 
-! 2021-06-13 https://www.youtube.com
-www.youtube.com##.ytp-autonav-toggle-button-container
-www.youtube.com##button.ytp-button:nth-of-type(7)
-
 ! 2021-06-13 https://docviewer.yandex.ru
 docviewer.yandex.ru##.qmswwtp.xbosnzn.efshxs > div
 
