@@ -7457,3 +7457,25 @@ samp-mods.com##.baseform > .bt1
 ! 2021-06-18 https://modsfire.com
 ||modsfire.com/iujds.png$image
 
+! 2021-06-20 https://to-do.live.com
+to-do.live.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
+to-do.live.com##.otherApps
+to-do.live.com##.o365sx-button.whatsNewCharm
+
+! 2021-06-20 https://vk.com
+vk.com###l_euro_2020 > .left_row
+
+! 2021-06-21 https://yandex.ru
+yandex.ru##div.mLhYWvFxkJRI__mIRcXqgNx-group.news-mIRcXqgNx-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(9)
+yandex.ru##div.mLhYWvFxkJRI__heading.news-top-rubric-heading:nth-of-type(8)
+yandex.ru##div.mLhYWvFxkJRI__mIRcXqgNx-group.news-mIRcXqgNx-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(29)
+yandex.ru##div.mLhYWvFxkJRI__heading.news-top-rubric-heading:nth-of-type(28)
+yandex.ru##.mg-grid__item.mLhYWvFxkJRI__mIRcXqgNx-banger.mg-mIRcXqgNx__banger.mg-mIRcXqgNx_type_partner.mg-mIRcXqgNx.mLhYO-mIRcXqgNx
+
+! 2021-06-21 https://docs.yandex.ru
+docs.yandex.ru##a.footer__link.Link_theme_ghost.Link:nth-of-type(3)
+
+! 2021-06-21 https://disk.yandex.ru
+disk.yandex.ru##.notes-footer__app-badge_windows.notes-footer__app-badge_locale_ru.notes-footer__app-badge.footer__link.Link_theme_ghost.Link
+disk.yandex.ru##.notes-footer__app-badge_android.notes-footer__app-badge_locale_ru.notes-footer__app-badge.footer__link.Link_theme_ghost.Link
+
