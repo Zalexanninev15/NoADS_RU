@@ -7479,3 +7479,54 @@ docs.yandex.ru##a.footer__link.Link_theme_ghost.Link:nth-of-type(3)
 disk.yandex.ru##.notes-footer__app-badge_windows.notes-footer__app-badge_locale_ru.notes-footer__app-badge.footer__link.Link_theme_ghost.Link
 disk.yandex.ru##.notes-footer__app-badge_android.notes-footer__app-badge_locale_ru.notes-footer__app-badge.footer__link.Link_theme_ghost.Link
 
+! 2021-06-21 https://giphy.com
+giphy.com##.bottom.shape-banner.didomi-notice-banner.didomi-banner-notice-info-type.didomi-regular-notice
+
+! 2021-06-24 https://habr.com
+habr.com##.page-header__banner > [href]
+
+! 2021-06-24 https://taxi.yandex.ru
+taxi.yandex.ru##._2Ve65WmONrnGcRTOrjZamV.Popup2_target_anchor.Popup2_direction_left-center.Popup2_visible.Popup2
+
+! 2021-06-24 https://travel.yandex.ru
+travel.yandex.ru##a._2F2qh.Link_lego._7U37p.Link_theme_pseudo.Link:nth-of-type(5)
+
+! 2021-06-24 https://edadeal.ru
+edadeal.ru##.b-sms__root
+edadeal.ru##.b-sms_valid_false.b-sms_empty_true.b-sms_theme_default.b-sms_disabled_false.p-index__sms-block.b-sms
+
+! 2021-06-24 https://realty.yandex.ru
+realty.yandex.ru##.mgUnk6jCbUs8wgQ__ads
+realty.yandex.ru##.i43d924bcbbe7EeZBWRNBQ.i43d924bcbbe7.hadegecjoc
+realty.yandex.ru##.SocialNetworks__link.Link_theme_islands.Link_size_m.Link_js_inited.Link
+
+! 2021-06-24 https://yandex.ru
+yandex.ru##.ya-share2__item_service_moimir.ya-share2__item > .ya-share2__link
+
+! 2021-06-24 https://auto.ru
+auto.ru##div.pFKyBkmZnQrGOdg.Index__block:nth-of-type(12)
+
+! 2021-06-24 https://afisha.yandex.ru
+afisha.yandex.ru##.pSD35Cbsu8BQRMcZ884a0NPnUNzFFQdY.pWy7yCLos8BQRMcZ88w.pSD35Cbsu8BQRMcZ884arPe_MLBpjTMpLajSzEP_z0Q.pSD35Cbsu8BQRMcZ88w
+afisha.yandex.ru##div.dJsMGZ.ToplineItem-sc-1c8dowy-4:nth-of-type(5)
+
+! 2021-06-24 https://yandex.ru
+yandex.ru##td.services-all__column:nth-of-type(1) > div.services-all__group:nth-of-type(5) > .services-all__list > div.services-all__item_wrap:nth-of-type(2) > .services-all__link.link > .services-all__item
+
+! 2021-06-24 https://zen.yandex.ru
+zen.yandex.ru###-\34 134376765878882794 > ._with-overflow-hidden._theme_white._is-design-v2._is-desktop-redesign._is-desktop.card-wrapper > .card-wrapper__inner > ._theme_white._size_big._row-items-count_2._item-has-fixed-height._grid-type_fixed.card-image-2-view
+zen.yandex.ru###-\34 134376765878882794 > ._with-overflow-hidden._theme_white._is-design-v2._is-desktop-redesign._is-desktop.card-wrapper > .card-wrapper__inner
+zen.yandex.ru###-\34 134376765878882794 > ._with-overflow-hidden._theme_white._is-design-v2._is-desktop-redesign._is-desktop.card-wrapper
+zen.yandex.ru###zen-row-1 > ._size_big.feed__item-wrap > ._size_big._has-fixed-height.feed__item
+zen.yandex.ru###zen-row-1 > ._size_big.feed__item-wrap
+zen.yandex.ru###-\36 665218333610051980 > ._with-overflow-hidden._theme_white._is-design-v2._is-desktop-redesign._is-desktop.card-wrapper > .card-wrapper__inner > ._theme_white._size_big._row-items-count_2._item-has-fixed-height._grid-type_fixed.card-image-2-view
+zen.yandex.ru###-\36 665218333610051980 > ._with-overflow-hidden._theme_white._is-design-v2._is-desktop-redesign._is-desktop.card-wrapper > .card-wrapper__inner
+zen.yandex.ru###-\36 665218333610051980 > ._with-overflow-hidden._theme_white._is-design-v2._is-desktop-redesign._is-desktop.card-wrapper
+zen.yandex.ru###zen-row-7 > ._size_big.feed__item-wrap > ._size_big._has-fixed-height.feed__item
+zen.yandex.ru###zen-row-7 > ._size_big.feed__item-wrap
+zen.yandex.ru###\35 276615367940645570 > ._with-overflow-hidden._theme_white._is-design-v2._is-desktop-redesign._is-desktop.card-wrapper > .card-wrapper__inner > ._theme_white._size_big._row-items-count_2._item-has-fixed-height._grid-type_fixed.card-image-2-view
+zen.yandex.ru###\35 276615367940645570 > ._with-overflow-hidden._theme_white._is-design-v2._is-desktop-redesign._is-desktop.card-wrapper > .card-wrapper__inner
+zen.yandex.ru###\35 276615367940645570 > ._with-overflow-hidden._theme_white._is-design-v2._is-desktop-redesign._is-desktop.card-wrapper
+zen.yandex.ru###zen-row-12 > ._size_big.feed__item-wrap > ._size_big._has-fixed-height.feed__item
+zen.yandex.ru###zen-row-12 > ._size_big.feed__item-wrap
+
