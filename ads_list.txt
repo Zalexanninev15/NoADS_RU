@@ -7530,3 +7530,21 @@ zen.yandex.ru###\35 276615367940645570 > ._with-overflow-hidden._theme_white._is
 zen.yandex.ru###zen-row-12 > ._size_big.feed__item-wrap > ._size_big._has-fixed-height.feed__item
 zen.yandex.ru###zen-row-12 > ._size_big.feed__item-wrap
 
+! 2021-06-26 https://lp.gog.com
+lp.gog.com###edi-rpmlh0k
+
+! 2021-06-29 https://nakatal.ru
+nakatal.ru##.social-box > div:nth-of-type(4)
+
+! 2021-06-29 https://win10tweaker.pro
+win10tweaker.pro###rev_slider_6_5 > rs-slides > rs-slide > .dddwrapper-layer
+win10tweaker.pro###rev_slider_6_5 > rs-slides > rs-slide
+win10tweaker.pro###rev_slider_6_5 > rs-slides
+win10tweaker.pro###rev_slider_6_5_wrapper > .rev_redraw_on_blurfocus.revslider-initialised
+win10tweaker.pro###rev_slider_6_5_wrapper
+win10tweaker.pro###rev_slider_6_5_forcefullwidth
+win10tweaker.pro##.fusion-column-last.fusion-column-first.fusion-one-full.\31 _1.fusion_builder_column_1_1.fusion-builder-column-12.fusion_builder_column.fusion-layout-column > .fusion-flex-column-wrapper-legacy.fusion-column-wrapper
+win10tweaker.pro##.fusion-section-separator-4.bigtriangle.section-separator.fusion-section-separator > .fusion-section-separator-fullwidth.fusion-section-separator-spacer > .fusion-section-separator-spacer-height
+||win10tweaker.pro/wp-content/uploads/Wave.svg$image
+win10tweaker.pro##.fusion-section-separator-4.bigtriangle.section-separator.fusion-section-separator > .fusion-section-separator-fullwidth.fusion-section-separator-svg > .fusion-big-triangle-candy
+
