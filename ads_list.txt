@@ -7583,3 +7583,32 @@ mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.
 mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder
 mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme
 
+! 2021-07-06 https://cloud.yandex.ru
+cloud.yandex.ru##.col-12.justify-content-center.d-flex.Footer__mobile-store.col
+cloud.yandex.ru##a.Footer__item_social.Footer__item.navigation-item_type_social.navigation-item:nth-of-type(2)
+
+! 2021-07-06 https://news.google.com
+news.google.com##.EA71Tc.zWHNCf > div:nth-of-type(9)
+news.google.com##div:nth-of-type(10) > .smCdcb.SFllF
+
+! 2021-07-06 https://4pda.to
+4pda.to##.MOz1WmW0z133
+4pda.to##.KboGBQJmODz2YscfdV95q.zLYi
+||ds-assets.cdn.devapps.ru/img/brand
+4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(3) > .i25aHJIz2kAe6yruQ9p0XVjc.V27Pz0q4kjdd
+4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(3)
+||ds-assets.cdn.devapps.ru/dry7Kmz0EyjmB3hyotaz1BI99a7dNYEgKnjZz0FyCZ5kuDdgJBz1XNAz2Xcf8.jpg$image
+4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(9) > .i25aHJIz2kAe6yruQ9p0XVjc.V27Pz0q4kjdd
+4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(9)
+4pda.to##.i25aHJIz2kAe6yruQ9p0XVjc.V27Pz0q4kjdd
+4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(15)
+4pda.to##.icon-FB
+4pda.to##.icon-TWITTER
+4pda.to##.icon-INSTAGRAM
+4pda.to##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(4)
+4pda.to##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(2)
+4pda.to##.count-visitor
+||ds-assets.cdn.devapps.ru/dry7ImEgJcMKK0Olqv44mv7XV3NtrDAt8kAz2MibRwXRMh1gjlCG6Ekz0g.jpg$image
+4pda.to##.i2Dqz0UVz2iJHfKk1hkWKSl.V27Pz0q4kjdd
+4pda.to##div.V27Pz0q4kjdd:nth-of-type(4)
+
