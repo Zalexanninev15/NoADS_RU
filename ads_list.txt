@@ -7548,3 +7548,38 @@ win10tweaker.pro##.fusion-section-separator-4.bigtriangle.section-separator.fusi
 ||win10tweaker.pro/wp-content/uploads/Wave.svg$image
 win10tweaker.pro##.fusion-section-separator-4.bigtriangle.section-separator.fusion-section-separator > .fusion-section-separator-fullwidth.fusion-section-separator-svg > .fusion-big-triangle-candy
 
+! 2021-07-05 https://mail.yandex.ru
+mail.yandex.ru##div.szNqiz5AuSUs
+mail.yandex.ru##span.mail-App-Footer-Item > span.mail-App-Footer-Item > .ns-action.mail-ui-Link
+mail.yandex.ru##.ns-view-id-57.ns-view-edkmqu-box
+mail.yandex.ru##.ns-view-id-30.ns-view-nkltto-box
+
+! 2021-07-06 https://mail.yandex.ru
+mail.yandex.ru##div.asnb41eV36HI:nth-of-type(1)
+mail.yandex.ru###auii32e5q_mGtSaiRQeyrxq25 > div
+mail.yandex.ru##.ns-view-id-110.ns-view-rbyqbij-box
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-59.ns-view-mail-pro-left-column-widget > div
+mail.yandex.ru##.avTrz2KZd5HKvT6_wTOu8jo2ix2i3pGU
+mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-62.ns-view-fill-height-placeholder-box
+mail.yandex.ru##.avTrz2KZd5HKvT6_wTOu8
+mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-140.ns-view-fill-height-placeholder-box
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-137.ns-view-mail-pro-left-column-widget > div
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-67.ns-view-mail-pro-left-column-widget > div
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-85.ns-view-mail-pro-left-column-widget > div
+mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-88.ns-view-fill-height-placeholder-box
+mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-110.ns-view-fill-height-placeholder-box
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-107.ns-view-mail-pro-left-column-widget > div
+mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-93.ns-view-fill-height-placeholder-box
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-90.ns-view-mail-pro-left-column-widget > div
+mail.yandex.ru##div.asnb41eV36HI:nth-of-type(2)
+mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-87.ns-view-fill-height-placeholder-box
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-84.ns-view-mail-pro-left-column-widget > div
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-81.ns-view-mail-pro-left-column-widget > div
+mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-84.ns-view-fill-height-placeholder-box
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-129.ns-view-mail-pro-left-column-widget > div
+mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-132.ns-view-fill-height-placeholder-box
+mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-100.ns-view-fill-height-placeholder-box
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-97.ns-view-mail-pro-left-column-widget > div
+mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder
+mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme
+
