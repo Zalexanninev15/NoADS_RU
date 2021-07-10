@@ -1291,7 +1291,7 @@ yandex.ru##td.services-all__column:nth-of-type(3) > div.services-all__group:nth-
 mail.yandex.ru##.mail-LoadingBar-Container.ns-view-id-86.ns-view-loading-bar
 mail.yandex.ru##.mail-App-Footer-Wrap_3pane.js-mail-app-footer.mail-App-Footer-Wrap.ns-view-id-125.ns-view-footer
 mail.yandex.ru##.js-labels.mail-LabelList_common.mail-LabelList.ns-view-id-117.ns-view-labels
-mail.yandex.ru##.mail-MessagesFilters_divider
+!mail.yandex.ru##.mail-MessagesFilters_divider
 mail.yandex.ru##.mail-MoreServices.mail-Toolbar-Item_link.mail-Toolbar-Item.ns-view-id-256.ns-view-more-services
 mail.yandex.ru##.i8eff20ef
 mail.yandex.ru##.ma772164f.x8aa8f629.j854793da
@@ -1791,7 +1791,6 @@ mail.yandex.ru##.n3421df37
 mail.yandex.ru##.m4cd3ba3b
 mail.yandex.ru##.d4adf30e4
 mail.yandex.ru##.sd7b24e66.we3c1c00f.p9a9d6832.ke340f374
-mail.yandex.ru##.mail-LoadingBar-Container.ns-view-id-70.ns-view-loading-bar
 mail.yandex.ru##.mail-LoadingBar-Container
 
 ! 06.03.2020 https://yandex.ru
@@ -6439,8 +6438,8 @@ ell.stackexchange.com##.js-consent-banner
 ||i.playground.ru/e/xQXqxJYZu8U6WIJJw8skSw.jpeg$image
 
 ! 2021-04-01 https://mail.yandex.ru
-mail.yandex.ru##a.SettingsItem__root--3BZ6z:nth-of-type(9)
-mail.yandex.ru##.beautiful-email-section.SettingsItem__root--3BZ6z
+!mail.yandex.ru##a.SettingsItem__root--3BZ6z:nth-of-type(9)
+!mail.yandex.ru##.beautiful-email-section.SettingsItem__root--3BZ6z
 
 ! 2021-04-01 https://calendar.yandex.ru
 calendar.yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
@@ -7611,4 +7610,41 @@ news.google.com##div:nth-of-type(10) > .smCdcb.SFllF
 ||ds-assets.cdn.devapps.ru/dry7ImEgJcMKK0Olqv44mv7XV3NtrDAt8kAz2MibRwXRMh1gjlCG6Ekz0g.jpg$image
 4pda.to##.i2Dqz0UVz2iJHfKk1hkWKSl.V27Pz0q4kjdd
 4pda.to##div.V27Pz0q4kjdd:nth-of-type(4)
+
+! 2021-07-07 https://metacleaner.com
+metacleaner.com##.banner
+
+! 2020-07-08 https://mail.yandex.ru
+mail.yandex.ru##div[data-key="box=infoline-box"] + div
+mail.yandex.ru##div[data-key="view=labels"] + div
+mail.yandex.ru##div[data-key="view=mail-pro-left-column-button"] + div
+
+! 2021-07-08 https://market.yandex.ru
+market.yandex.ru##div._1ev2dtjcSk:nth-of-type(1) > div
+market.yandex.ru##.cMlhNvac-W > noindex > div:nth-of-type(1)
+market.yandex.ru##._235qYROr8b
+market.yandex.ru##._3k6qedXyZp
+
+! 2021-07-08 https://lrepacks.net
+lrepacks.net##iframe:nth-of-type(1)
+
+! 2021-07-08 https://www.izarc.org
+www.izarc.org##.cc_container--open.cc_container.cc_banner
+
+! 2021-07-09 https://compizomania.blogspot.com
+compizomania.blogspot.com##.section.navbar
+compizomania.blogspot.com##.columns-cell.first
+compizomania.blogspot.com##td.columns-cell:nth-of-type(2)
+compizomania.blogspot.com###HTML3 > .widget-content
+compizomania.blogspot.com###HTML9 > .widget-content
+compizomania.blogspot.com###HTML9
+
+! 2021-07-09 https://docviewer.yandex.ru
+docviewer.yandex.ru##.jfhzw.wjchqsm.kpick > div
+
+! 2021-07-10 https://qiwi.com
+||static.qiwi.com/qcms/banners/1002552/WEB/PROMO/1002552/*.jpg$image
+qiwi.com##div.section-size4-231:nth-of-type(3) > .banner-image-clickable-238.banner-image-self-237 > .banner-image-image-239
+qiwi.com##div.section-size4-231:nth-of-type(2) > .banner-image-clickable-238.banner-image-self-237 > .banner-image-image-239
+||static.qiwi.com/qcms/banners/1002518/WEB/PROMO/1002518/*.jpg$image
 
