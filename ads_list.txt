@@ -7580,7 +7580,7 @@ mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-i
 mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-100.ns-view-fill-height-placeholder-box
 mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme.ns-view-id-97.ns-view-mail-pro-left-column-widget > div
 mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder
-mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme
+!mail.yandex.ru##.Theme_color_mg-neutral-light.Theme_root_mg-neutral-light.Theme
 
 ! 2021-07-06 https://cloud.yandex.ru
 cloud.yandex.ru##.col-12.justify-content-center.d-flex.Footer__mobile-store.col
