@@ -7681,3 +7681,29 @@ vk.com##.feed_groups_recomm.page_block
 ! 2021-07-15 https://win10tweaker.ru
 win10tweaker.ru###text-5
 
+! 2021-07-15 https://gardos.ru
+gardos.ru##div.creative_block:nth-of-type(8)
+gardos.ru##div.creative_block:nth-of-type(5)
+gardos.ru##div.item:nth-of-type(7)
+gardos.ru##div.item:nth-of-type(3)
+gardos.ru##div.item:nth-of-type(5)
+
+! 2021-07-15 https://yandex.ru
+yandex.ru##div._1MsBq1MONf._1dyHc3X3QE:nth-of-type(4)
+yandex.ru##.WNoWUJsWVa > div
+yandex.ru##div._1MsBq1MONf._1dyHc3X3QE:nth-of-type(10)
+yandex.ru##div._1MsBq1MONf._1dyHc3X3QE:nth-of-type(13)
+yandex.ru##div._1MsBq1MONf._1dyHc3X3QE:nth-of-type(16)
+yandex.ru##div._1MsBq1MONf._1dyHc3X3QE:nth-of-type(19)
+yandex.ru##div._1MsBq1MONf._1dyHc3X3QE:nth-of-type(22)
+yandex.ru##div._1MsBq1MONf._1dyHc3X3QE:nth-of-type(25)
+yandex.ru##div._1MsBq1MONf._1dyHc3X3QE:nth-of-type(28)
+yandex.ru##div._1MsBq1MONf._1dyHc3X3QE:nth-of-type(31)
+yandex.ru##div._1MsBq1MONf._1dyHc3X3QE:nth-of-type(34)
+
+! 2021-07-15 https://gardos.ru
+gardos.ru##div.creative_block:nth-of-type(11)
+
+! 2021-07-16 https://calculat.io
+calculat.io##div.is-paddingless.is-primary.message.margin-bottom--x1_5.ad-container:nth-of-type(2)
+
