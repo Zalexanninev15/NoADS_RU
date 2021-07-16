@@ -7707,3 +7707,9 @@ gardos.ru##div.creative_block:nth-of-type(11)
 ! 2021-07-16 https://calculat.io
 calculat.io##div.is-paddingless.is-primary.message.margin-bottom--x1_5.ad-container:nth-of-type(2)
 
+! 2021-07-16 https://skillbox.ru
+skillbox.ru##.cookies
+
+! 2021-07-16 https://www.symmetron.ru
+www.symmetron.ru##.current.blocker.jquery-modal > .modal
+
