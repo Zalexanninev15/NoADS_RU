@@ -7713,3 +7713,12 @@ skillbox.ru##.cookies
 ! 2021-07-16 https://www.symmetron.ru
 www.symmetron.ru##.current.blocker.jquery-modal > .modal
 
+! 2021-07-29 https://boosty.to
+boosty.to##.GdprOffer_block_1n-uo.GdprOffer_block_VaJdy
+
+! 2021-07-29 https://habr.com
+habr.com##section.tm-block_spacing-bottom.tm-block:nth-of-type(3)
+habr.com##section.tm-block_spacing-bottom.tm-block:nth-of-type(2)
+habr.com##.tm-company-widgets > section.tm-block_spacing-bottom.tm-block
+habr.com##.tm-company-card__branding-image
+
