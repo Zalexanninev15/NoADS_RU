@@ -7722,3 +7722,17 @@ habr.com##section.tm-block_spacing-bottom.tm-block:nth-of-type(2)
 habr.com##.tm-company-widgets > section.tm-block_spacing-bottom.tm-block
 habr.com##.tm-company-card__branding-image
 
+! 2021-08-01 https://gta-mania.ru
+gta-mania.ru##div.csColumn:nth-of-type(3)
+
+! 2021-08-03 https://password.kaspersky.com
+password.kaspersky.com##.pt-5.container-fluid
+password.kaspersky.com##.social.text-md-right.text-lg-right.align-self-center.col-md-6.col-lg-6
+
+! 2021-08-03 https://reflect.tech
+reflect.tech##.apps
+reflect.tech##.app-download
+
+! 2021-08-03 https://www.remove.bg
+www.remove.bg##.justify-content-between.d-flex.py-3.container
+
