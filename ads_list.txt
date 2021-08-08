@@ -7736,3 +7736,16 @@ reflect.tech##.app-download
 ! 2021-08-03 https://www.remove.bg
 www.remove.bg##.justify-content-between.d-flex.py-3.container
 
+! 2021-08-03 https://docviewer.yandex.ru
+docviewer.yandex.ru##.wauueexix.bmyhuxgzc.bugxmabwt > div
+
+! 2021-08-03 https://qiwi.com
+qiwi.com##.cookies-self-84
+
+! 2021-08-06 https://vk.com
+vk.com##.groups_page_block__header
+vk.com##.groups_section_likes._ui_item_likes.ui_rmenu_item
+
+! 2021-08-08 https://json2csharp.com
+json2csharp.com###right-ad-space
+
