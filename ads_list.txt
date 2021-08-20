@@ -108,14 +108,6 @@ www.dns-shop.ru###b-0805bfb7-ff0f-4b61-99e2-61277ee39eec
 www.dns-shop.ru##.main-footer__main-right
 www.dns-shop.ru##.header-top-menu__common-list > li.header-top-menu__common-item:nth-of-type(4) > .header-top-menu__common-link
 
-! 13.02.2020 https://technopoint.ru
-||as.technopoint.ru/assets/1b31adc0/images/valentines-day-2020/md-min.jpg$image
-technopoint.ru##.valentines-day-2020.head-promo-banner
-technopoint.ru##.header-top-menu__common-list > li.header-top-menu__common-item:nth-of-type(4) > .header-top-menu__common-link
-technopoint.ru##.main-footer__contacts
-||s.technopoint.ru/original/st4/571a3ffb959f94213ea4cea7ab49c024/3619da0bdd89b07a237ff5308ed13bc0f3537c2e9208c8a892d957d8d77ff749.jpg$image
-technopoint.ru###b-e6d3e5e2-f5f2-479f-9858-003a2ea56cbb
-
 ! 13.02.2020 https://wp-seven.ru
 wp-seven.ru##.butarrow.icon-arrow-up-5
 wp-seven.ru###scrolltotop
@@ -126,11 +118,11 @@ wp-seven.ru##.tw
 ||wp-seven.ru/wp-content/themes/wpseven/images/menu.png$image
 wp-seven.ru##.fb
 
-! 13.02.2020 http://www.wincore.ru
+! 13.02.2020 https://www.wincore.ru
 www.wincore.ru##.box1
 www.wincore.ru##div.box:nth-of-type(6)
 
-! 13.02.2020 http://web.archive.org
+! 13.02.2020 https://web.archive.org
 web.archive.org###nav-abouts
 web.archive.org##.iconochive-facebook
 web.archive.org##.feedback_button.btn-sm.btn-primary.btn
@@ -333,31 +325,31 @@ www.ferra.ru##div:nth-of-type(2) > article > div:nth-of-type(2) > ._2upSGvRjUNOU
 www.ferra.ru##div:nth-of-type(2) > article > div:nth-of-type(2) > ._2upSGvRjUNOUWsV29m2wYz > ._3AWI_0TSKcjc5YXi9Bshpb.LZ8QijViLH9d28x8GarhA.block.jsx-342425262 > ._2upSGvRjUNOUWsV29m2wYz > ._3AWI_0TSKcjc5YXi9Bshpb.LZ8QijViLH9d28x8GarhA.block.jsx-342425262 > div:nth-of-type(4) > div:nth-of-type(2) > .rambler-share > div:nth-of-type(1)
 www.ferra.ru##div:nth-of-type(2) > article > div:nth-of-type(2) > ._2upSGvRjUNOUWsV29m2wYz > ._3AWI_0TSKcjc5YXi9Bshpb.LZ8QijViLH9d28x8GarhA.block.jsx-342425262 > ._2upSGvRjUNOUWsV29m2wYz > ._3AWI_0TSKcjc5YXi9Bshpb.LZ8QijViLH9d28x8GarhA.block.jsx-342425262 > div:nth-of-type(4) > div:nth-of-type(2) > .rambler-share > div:nth-of-type(4)
 
-! 13.02.2020 http://www.pspx.ru
+! 13.02.2020 https://www.pspx.ru
 www.pspx.ru##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
 ||www.pspx.ru/forum/images/panel_right.png$image
 www.pspx.ru##td:nth-of-type(4) > .gm
 www.pspx.ru##td:nth-of-type(2) > table > tbody > tr > td:nth-of-type(4)
 
-! 13.02.2020 http://onlineguru.ru
+! 13.02.2020 https://onlineguru.ru
 onlineguru.ru##.warning-cookie-inner
 
-! 13.02.2020 http://caniplay.ru
+! 13.02.2020 https://caniplay.ru
 caniplay.ru###top_head_share > .ya-share2_inited.ya-share2 > .ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_moimir.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
 caniplay.ru###top_head_share > .ya-share2_inited.ya-share2 > .ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
 
-! 13.02.2020 http://www.game01.ru
+! 13.02.2020 https://www.game01.ru
 ||www.game01.ru/images/i/iconsFull.png$image
 www.game01.ru##div.footerLinks:nth-of-type(2) > .iconMM.socIcons
 ||www.game01.ru/images/i/iconsFull.png$image
 www.game01.ru##.iconTW.socIcons
 
-! 13.02.2020 http://myip.ru
-myip.ru##[href="http://www.netup.tv"]
-myip.ru##[href^="http://www.netup.ru/Autonomous_System_Registration.php"]
+! 13.02.2020 https://myip.ru
+myip.ru##[href="https://www.netup.tv"]
+myip.ru##[href^="https://www.netup.ru/Autonomous_System_Registration.php"]
 myip.ru##.copy
 
-! 13.02.2020 http://forum.ru-board.com
+! 13.02.2020 https://forum.ru-board.com
 forum.ru-board.com##center:nth-of-type(1)
 
 ! 13.02.2020 https://strelec.ucoz.ru
@@ -803,7 +795,7 @@ yandex.ru##.link_js_inited.i-bem.mobile-store-badge_platform_ios.mobile-store-ba
 yandex.ru##.link_js_inited.i-bem.serp-footer__col-item.serp-footer__collections.serp-footer__link.link_theme_clear.link
 yandex.ru##.link_js_inited.i-bem.serp-footer__stat.serp-footer__link.link_theme_clear.link
 
-! 14.02.2020 http://nnmclub.to
+! 14.02.2020 https://nnmclub.to
 nnmclub.to##[href="misc/html/advert.html"]
 ||nnmclub.ch/forum/images/ptwit.gif$image
 ||nnmclub.ch/forum/images/pface.gif$image
@@ -821,7 +813,7 @@ javarush.ru##li.social-links__item:nth-of-type(4)
 sharewareonsale.com###sos_share_tw
 sharewareonsale.com###sos_share_fb
 
-! 14.02.2020 http://greenflash.su
+! 14.02.2020 https://greenflash.su
 greenflash.su##.uscl-lin.ico_uscl-lin.ico_uscl.ico_uscl_soc
 greenflash.su##.uscl-mail.ico_uscl-mail.ico_uscl.ico_uscl_soc
 greenflash.su##.uscl-fb.ico_uscl-fb.ico_uscl.ico_uscl_soc
@@ -970,7 +962,7 @@ vk.com##.ProductsAppItem--lovina.ProductsAppItem
 ! 15.02.2020 https://ok.ru
 ok.ru##.__invisible.portlet
 ok.ru##[href="https://m.ok.ru"]
-ok.ru##[href="http://sales.mail.ru/ru/russia/odnoklassniki/latest/#price"]
+ok.ru##[href="https://sales.mail.ru/ru/russia/odnoklassniki/latest/#price"]
 ok.ru###hook_Block_SocialFriendsMenuRB > .portlet
 ok.ru##a.mctc_navMenuSec:nth-of-type(6)
 ok.ru##a.x-ph__link:nth-of-type(3) > .x-ph__link__text
@@ -1045,10 +1037,6 @@ vk.com##.apps_feedRightAppsBlock_collaborative_recommend_apps.apps_feedRightApps
 www.flaticon.com##.bg-twitter.flaticon-twitter
 www.flaticon.com##.bg-facebook.flaticon-facebook
 www.flaticon.com###banner-slidesgo
-
-! 20.02.2020 https://technopoint.ru
-technopoint.ru##.head-promo-banner
-technopoint.ru##.homepage-blogs
 
 ! 20.02.2020 https://www.dns-shop.ru
 www.dns-shop.ru##.head-promo-banner
@@ -1215,7 +1203,7 @@ translate.google.ru##.notification-container.tlid-notification-container
 www.ivi.ru##.js-footer-about.col > ul > li:nth-of-type(2)
 www.ivi.ru##.js-footer-devices.col
 
-! 21.02.2020 http://fanserials.express
+! 21.02.2020 https://fanserials.express
 fanserials.express##[href="/instruction_android.html"]
 
 ! 21.02.2020 https://yandex.ru
@@ -1565,7 +1553,7 @@ mail.yandex.ru##.mail-LoadingBar-Container.ns-view-id-40.ns-view-loading-bar
 mail.yandex.ru##.mail-LoadingBar-Container.ns-view-id-50.ns-view-loading-bar
 mail.yandex.ru##.mail-LoadingBar-Container.ns-view-id-31.ns-view-loading-bar
 
-! 04.03.2020 http://romhacking.ru
+! 04.03.2020 https://romhacking.ru
 romhacking.ru##.uscl-mail.ico_uscl-mail.ico_uscl.ico_uscl_soc
 ||romhacking.ru/.s/img/cp/16.gif$image
 romhacking.ru##.uscl-gPlus.ico_uscl-gPlus.ico_uscl.ico_uscl_soc
@@ -1597,10 +1585,6 @@ youla.ru##a.hMZqAJ.sc-ptdsS.sc-fzoJMP:nth-of-type(3)
 youla.ru##.bclJUr.sc-fzoKki.sc-fzqBkg.sc-fzolEj > .fNIVkd.sc-pcJja > li.bJHiWA.sc-pliRl:nth-of-type(4) > .jjLuKd.sc-ptDSg.sc-fzqARJ > .idyoRE.sc-oUDcU.sc-pXZzD
 youla.ru##.bclJUr.sc-fzoKki.sc-fzqBkg.sc-fzolEj > .fNIVkd.sc-pcJja > li.bJHiWA.sc-pliRl:nth-of-type(3) > .jjLuKd.sc-ptDSg.sc-fzqARJ > .guanmX.sc-pktCe.sc-pczax
 youla.ru###mailru1583416618466692004
-
-! 05.03.2020 https://technopoint.ru
-||s.technopoint.ru/original/st1/db86f834f3442f6b09272b4b04915b5f/2a974bee8554a0890f6aeaf0fb5f9312f5ef25f2ec1eba158197d6ae595cfd56.jpg$image
-technopoint.ru###b-2503396f-85e5-4257-a77e-bafed77b3473
 
 ! 05.03.2020 https://www.dns-shop.ru
 ||c.dns-shop.ru/original/st4/a85601bdb439c12a40f93b15d5d9284c/7a41eb3c5430e7bfe6f48bcbb5d4c9a20436da79551ccb166133f2f5dc85aa57.jpg$image
@@ -1649,9 +1633,9 @@ www.avito.ru##.ya-share2__item_service_moimir.ya-share2__item
 www.avito.ru##.ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge
 www.avito.ru##.ya-share2__item_service_facebook.ya-share2__item
 
-! 05.03.2020 http://make-games.ru
+! 05.03.2020 https://make-games.ru
 ||make-games.ru/0images/Twitter_logo_blue_32.png$image
-make-games.ru##a[href^="http://make-games.ru/go"]:nth-of-type(4)
+make-games.ru##a[href^="https://make-games.ru/go"]:nth-of-type(4)
 ||make-games.ru/Images/mailru.png$image
 ||make-games.ru/Images/google.png$image
 make-games.ru##.pbFdiFOO
@@ -1661,7 +1645,7 @@ make-games.ru##[href="https://www.uweb.ru/"]
 make-games.ru##.pb3QvcCt
 make-games.ru##.pbI_t2YO
 
-! 05.03.2020 http://www.wincore.ru
+! 05.03.2020 https://www.wincore.ru
 ||www.wincore.ru/templates/wincorenew/images/ico-twitter.png$image
 ||www.wincore.ru/templates/wincorenew/images/ico-fb.png$image
 
@@ -1719,7 +1703,7 @@ lenta.ru##span.vdavwf:nth-of-type(1) > .vdavwf__apyc
 lenta.ru##span.vdavwf:nth-of-type(1)
 lenta.ru##.hgfk.fmjukyl > div > div:nth-of-type(2)
 ||myqualification.rambler.ru/MTMzbTliLjlu/cG41Y0B7ImRh/dGEiOnsiQWN0/aW9uIjoiUHJv/eHkiLCJMaW5r/VHlwZSI/6ImltYWdlLyoifSwibGluayI6Imh0dHA6Ly9hdmF0YXJzLm1kcy55YW5kZXgubmV0L2?clwunf=dldC1kaXJ&dret=lY3QvMjQz&gire=MzI5OC9Qd&ithptcw=2J5TmdreH&qnsrmpc=Y5SEhpeEk&upvdn=2NEF4SkZn&wldxp=L3k0NTAif&xkuwj=Q%3D%3D$image
-lenta.ru##[href="http://lastconstellation.ru/sqgelhtx/eHVhcC4xeGJuNDdAeyJkYXRhIjp7IkFjdGlvbiI6IkdldFlhQ2xpY2tVcmwiLCJ5YUNvdW50TGluayI6Imh0dHBzOi8vZGlyZWN0LnlhbmRleC5ydS8%2FcGFydG5lciIsIm9ubHlSZWRpcmVjdCI6dHJ1ZX19"]
+lenta.ru##[href="https://lastconstellation.ru/sqgelhtx/eHVhcC4xeGJuNDdAeyJkYXRhIjp7IkFjdGlvbiI6IkdldFlhQ2xpY2tVcmwiLCJ5YUNvdW50TGluayI6Imh0dHBzOi8vZGlyZWN0LnlhbmRleC5ydS8%2FcGFydG5lciIsIm9ubHlSZWRpcmVjdCI6dHJ1ZX19"]
 lenta.ru##.hgfk.fmjukyl > div > uhgxtve
 lenta.ru##div:nth-of-type(1) > [href="https://gvqsywk.rambler.ru/ARpdI_uP_kpvUw"]
 lenta.ru##.hgfk.fmjukyl > div > div:nth-of-type(1)
@@ -1729,7 +1713,7 @@ lenta.ru##hzufj > [href="https://gvqsywk.rambler.ru/krWDbSirWG-Urc"]
 lenta.ru##.wipfynp__msabf > [href="https://gvqsywk.rambler.ru/krWDbSirWG-Urc"]
 lenta.ru##.wipfynp__rbziahj > [href="https://gvqsywk.rambler.ru/krWDbSirWG-Urc"]
 lenta.ru##[href="https://gvqsywk.rambler.ru/JQW3RxxXkDpkbM"]
-lenta.ru##[href^="http://lastconstellation.ru/qnnsefkok/ZmF0NXouOHVmcDRvQHsiZGF0YSI6eyJBY3Rpb24iOiJHZXRZYUNsaWNrVXJsIiwieWFDb3VudExpbmsi"]
+lenta.ru##[href^="https://lastconstellation.ru/qnnsefkok/ZmF0NXouOHVmcDRvQHsiZGF0YSI6eyJBY3Rpb24iOiJHZXRZYUNsaWNrVXJsIiwieWFDb3VudExpbmsi"]
 lenta.ru##.veiimy__wipfynp
 ||myqualification.rambler.ru/MTMzbTliLjlu/cG41Y0B7ImRh/dGEiOnsiQWN0/aW9uIjoiUHJv/eHkiLCJMaW5r/VHlwZSI/6ImltYWdlLyoifSwibGluayI6Imh0dHA6Ly9hdmF0YXJzLm1kcy55YW5kZXgubmV0L2?clwunf=dldC1kaXJ&dret=lY3QvMjQz&gire=MzI5OC9Qd&ithptcw=2J5TmdreH&qnsrmpc=Y5SEhpeEk&upvdn=2NEF4SkZn&wldxp=L3k0NTAif&xkuwj=Q%3D%3D$image
 lenta.ru##.veiimy__msxr > [href="https://gvqsywk.rambler.ru/krWDbSirWG-Urc"]
@@ -1823,7 +1807,7 @@ vk.com###tbt_stickers_popular > .ui_tab
 ||sun9-3.userapi.com/c629100/v629100805/4e02c/ggWXNtwloAY.png$image
 ||sun1-86.userapi.com/UIadBaUeVwNiOXe5KB-5pzS_ExBE3lF2amZbtA/OxVsq6wo3xI.png$image
 
-! 06.03.2020 http://scask.ru
+! 06.03.2020 https://scask.ru
 scask.ru##.b-share-icon_gplus.b-share-icon
 scask.ru##.b-share-btn__lj.b-share__link.b-share__handle
 scask.ru##.b-share-btn__moimir.b-share__link.b-share__handle
@@ -1849,15 +1833,15 @@ mail.yandex.ru##.w5669bd7
 mail.yandex.ru##.q3e0c1e0c.j90d111e5.lfd2a1758.u40314f9e
 mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-64.ns-view-fill-height-placeholder-box
 
-! 09.03.2020 http://www.loadboard.ru
+! 09.03.2020 https://www.loadboard.ru
 www.loadboard.ru##noindex > table > tbody > tr > td:nth-of-type(2)
 ||www.loadboard.ru/plugins/content/rusbuttons/set2-32.png$image
 www.loadboard.ru###ibuts7
-www.loadboard.ru##[href^="http://www.liveinternet.ru/journal_post.php"]
-www.loadboard.ru##[href^="http://connect.mail.ru/share"]
-www.loadboard.ru##[href^="http://www.facebook.com/sharer.php"]
-www.loadboard.ru##[href^="http://twitter.com/home"]
-www.loadboard.ru##[href^="http://www.livejournal.com/update.bml"]
+www.loadboard.ru##[href^="https://www.liveinternet.ru/journal_post.php"]
+www.loadboard.ru##[href^="https://connect.mail.ru/share"]
+www.loadboard.ru##[href^="https://www.facebook.com/sharer.php"]
+www.loadboard.ru##[href^="https://twitter.com/home"]
+www.loadboard.ru##[href^="https://www.livejournal.com/update.bml"]
 
 ! 09.03.2020 https://vk.com
 vk.com##.stories_groups_block_stories_empty
@@ -2600,7 +2584,7 @@ docviewer.yandex.ru##laeyozhtim-eex
 docviewer.yandex.ru##.cqzxjahw.ypwgcn.bsrzxem > caunb-bkyhtz
 docviewer.yandex.ru##.fznpsqxg.vmyddkzrw.bsrzxem > caunb-bkyhtz
 
-! 01.06.2020 http://v2.1hd1080tv.info
+! 01.06.2020 https://v2.1hd1080tv.info
 ||v2.1hd1080tv.info/homecredit.jpg$image
 v2.1hd1080tv.info##.col-right
 ||v2.1hd1080tv.info/moneyman.gif$image
@@ -2668,19 +2652,6 @@ www.dns-shop.ru##.products-page__left-block > .products-page__helpers > .categor
 www.dns-shop.ru###b-a8b694cc-1b7c-45b8-a67c-a81311aaf180
 www.dns-shop.ru##.products-page__left-block > .products-page__helpers
 www.dns-shop.ru##.spoiler-text-description
-
-! 10.06.2020 https://technopoint.ru
-||s.technopoint.ru/original/st1$image
-technopoint.ru###b-327bfff1-9e63-4f30-a53f-48741bd789c8
-technopoint.ru##.products-page__left-block > .products-page__helpers
-technopoint.ru###b-1c880cb0-c1d9-4950-8b5b-68ca1a358638
-||s.technopoint.ru/original/st4$image
-technopoint.ru###b-1f547521-bb73-426a-b4c9-93ba0c941dfa
-technopoint.ru##.products-page__left-block > .products-page__helpers
-technopoint.ru###b-6035f34b-cb88-4517-b295-d8ed5aeeff01
-technopoint.ru###b-195a0edc-d132-464b-ade1-0c10ad309e1b
-technopoint.ru###b-c574b063-e16d-443a-af5a-796cdec8fe7e
-technopoint.ru##.products-page__left-block > .products-page__helpers
 
 ! 10.06.2020 https://yandex.ru
 yandex.ru##.distr-default-search-header_js_inited.i-bem.z-index-group_level_8.z-index-group.distr-default-search-header
@@ -2819,7 +2790,7 @@ yougame.biz##.top-banners
 ! 25.06.2020 https://yadi.sk
 yadi.sk##a.inline-services-menu__link.link_theme_dark.link.control:nth-of-type(1)
 
-! 26.06.2020 http://kbyte.ru
+! 26.06.2020 https://kbyte.ru
 ||my2.imgsmail.ru//r/my/app/connect/connect-button.png$image
 kbyte.ru##.mrc__connectButton
 ||kbyte.ru/Content/Themes/Native5x/images/panel-0-c.gif$image
@@ -2946,7 +2917,7 @@ duckduckgo.com##.badge-link__rating-wrap
 drive.google.com###\:65 > .a-S-x-j.a-s-tb-pa > .NtyuW.PEfnhb > .i6Fqyc
 drive.google.com##.NtyuW.PEfnhb > .i6Fqyc
 
-! 29.06.2020 http://passgen.ru
+! 29.06.2020 https://passgen.ru
 passgen.ru##.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
 passgen.ru##.ya-share2__item_service_moimir.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
 passgen.ru##.ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
@@ -3641,7 +3612,7 @@ zen.yandex.ru##._width-type_regular._is-transition-enabled._view-type_yellow._si
 docviewer.yandex.ru##.fhnukxvne.kfpbedyt.zlasabsh > qfx-tw
 docviewer.yandex.ru##.hkzzokmj.wyont.zlasabsh > qfx-tw
 
-! 01.08.2020 http://mrnone.blogspot.com
+! 01.08.2020 https://mrnone.blogspot.com
 mrnone.blogspot.com###cookieChoiceInfo
 
 ! 01.08.2020 https://cloud.mail.ru
@@ -3674,10 +3645,10 @@ exelab.ru###kurs_container
 ! 03.08.2020 https://4pda.ru
 ||s.4pda.to/dry7Ndn2mFvz1mOHdUBYuHei0X6vW.jpg?_=1596441073$image
 
-! 04.08.2020 http://rutor.info
+! 04.08.2020 https://rutor.info
 rutor.info##[href="/advertise.php"]
 
-! 04.08.2020 http://hack-port.ru
+! 04.08.2020 https://hack-port.ru
 hack-port.ru##td > center:nth-of-type(2) > table
 hack-port.ru##.contentdiv
 hack-port.ru##table:nth-of-type(2) > tbody > tr > td:nth-of-type(4)
@@ -3776,16 +3747,16 @@ fireboyand-watergirl.co##div.show.bottom-left.cookieBubble:nth-of-type(4)
 ! 15.08.2020 https://www.izzygames.com
 www.izzygames.com###CybotCookiebotDialog
 
-! 15.08.2020 http://www.fatalgame.com
+! 15.08.2020 https://www.fatalgame.com
 ||www.fatalgame.com/content/images/scorpion-subzero.jpg$image
 www.fatalgame.com##.banner-battle
 www.fatalgame.com##td > noindex
 www.fatalgame.com##.content-main > noindex
 
-! 15.08.2020 http://full-and-freegamesdownloadswf.blogspot.com
+! 15.08.2020 https://full-and-freegamesdownloadswf.blogspot.com
 full-and-freegamesdownloadswf.blogspot.com###cookieChoiceInfo
 
-! 15.08.2020 http://www.softwareok.com
+! 15.08.2020 https://www.softwareok.com
 www.softwareok.com###cookiebar
 
 ! 17.08.2020 https://rsload.net
@@ -3973,7 +3944,7 @@ www.online-convert.com##.no-margin.float-right.list-unstyled.social-icons
 ! 2020-08-28 https://m.vk.com
 m.vk.com##.ni_app.notify_item
 
-! 2020-08-28 http://about-windows.ru
+! 2020-08-28 https://about-windows.ru
 about-windows.ru##.td-front-end-display-block.td-more-articles-box
 
 ! 2020-08-28 https://yandex.ru
@@ -4092,8 +4063,8 @@ travel.yandex.ru##._2ahoD._2raHZ.Rn944.Link_lego._7U37p.Link_theme_normal.Link
 ocomp.info##.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
 ocomp.info##.ya-share2__item_service_collections.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
 
-! 2020-08-28 http://www.outsidethebox.ms
-www.outsidethebox.ms##[href="http://twitter.com/sterkin_ru"]
+! 2020-08-28 https://www.outsidethebox.ms
+www.outsidethebox.ms##[href="https://twitter.com/sterkin_ru"]
 
 ! 2020-08-29 https://4pda.ru
 ||s.4pda.to/dry7Kmeawfz1DKRz2wgWfbUKy2z0LKGr6AUTNT4BcPdz2r7iSI29LbtQOfH4.jpg$image
@@ -4256,7 +4227,7 @@ zen.yandex.ru###\34 578203091537998373 > .lLFbFnCMsIiUvgoQgfVCiDQ.lLFbFnCMsIiI5y
 zen.yandex.ru###\34 578203091537998373
 zen.yandex.ru##div.feed__row:nth-of-type(7) > div._size_small.feed__item-wrap:nth-of-type(1)
 
-! 2020-08-30 http://csharpcoderr.com
+! 2020-08-30 https://csharpcoderr.com
 csharpcoderr.com##div:nth-of-type(3) > div:nth-of-type(2)
 csharpcoderr.com##div:nth-of-type(10)
 ||csharpcoderr.com/images/1.png$image
@@ -4314,7 +4285,7 @@ zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG
 zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqioJsp3PsF8
 zen.yandex.ru##div._mode_card.feed-item:nth-of-type(50) > .a5vXdrf9rGO2VHmq4lvRG0wpyxqajqg
 
-! 2020-09-03 http://csharpsourescode.blogspot.com
+! 2020-09-03 https://csharpsourescode.blogspot.com
 csharpsourescode.blogspot.com###cookieChoiceInfo
 
 ! 2020-09-04 https://yadi.sk
@@ -4532,7 +4503,7 @@ www.ozon.ru##li.c4w8:nth-of-type(2) > .ui-a0s9 > .c4w5.a0k9 > span
 www.ozon.ru##li.c4w8:nth-of-type(3) > .ui-a0s9 > .c4w5.a0k9 > span
 www.ozon.ru##div:nth-of-type(1) > a.c6g2.a0k9:nth-of-type(2)
 
-! 2020-09-12 http://pantherbar-app.com
+! 2020-09-12 https://pantherbar-app.com
 pantherbar-app.com##.cookie-notice-container
 
 ! 2020-09-12 https://forum.xda-developers.com
@@ -4593,7 +4564,7 @@ studassistent.ru##.edu_1hwew0z.edu_lhyvu6
 studassistent.ru##.edu_11fdvhg
 studassistent.ru##.order-box
 
-! 2020-09-18 http://r40.ru
+! 2020-09-18 https://r40.ru
 r40.ru##.banner-block > table > tbody > tr:nth-of-type(2) > td
 r40.ru##.adv_group_wrapper
 ||r40.ru/images/fb.png$image
@@ -4925,13 +4896,13 @@ psp-psv.net###dle-content > center
 docviewer.yandex.ru###app > .with-bottom-native-direct.with-native-direct-after-title.with-native-direct.with-content-direct.small-header > .fullscreen-container._2CEesNCDUL_sehXWi8HgOS > .zveyifl.mfssixgt.jtzqhibk > egls-qpvsmllx
 docviewer.yandex.ru###app > .with-bottom-native-direct.with-native-direct-after-title.with-native-direct.with-content-direct.small-header > .fullscreen-container._2CEesNCDUL_sehXWi8HgOS > .vgmpcqusi.uecfzvyx.gzfmxxkzc > wlovfzzycn-jugvwoszx
 
-! 2020-10-06 http://candykond-sergio.blogspot.com
+! 2020-10-06 https://candykond-sergio.blogspot.com
 candykond-sergio.blogspot.com##.singleton-element.cookie-choices-info
 
 ! 2020-10-06 https://ryanwintaraga.wordpress.com
 ryanwintaraga.wordpress.com##.widget_eu_cookie_law_widget.widget > .ads-active.hide-on-button
 
-! 2020-10-06 http://pspfreakyd.blogspot.com
+! 2020-10-06 https://pspfreakyd.blogspot.com
 pspfreakyd.blogspot.com##.singleton-element.cookie-choices-info
 
 ! 2020-10-06 https://www.mediafire.com
@@ -4996,7 +4967,7 @@ planshet-info.ru##.la-93-d6b690001dgla-block__items
 ! 2020-10-07 https://www.youtube.com
 www.youtube.com###contents > ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 
-! 2020-10-09 http://file.karelia.ru
+! 2020-10-09 https://file.karelia.ru
 file.karelia.ru##.android_app
 
 ! 2020-10-09 https://vk.com
@@ -5320,11 +5291,11 @@ yoomoney.ru##.money-app-promo2_visible_yes
 ! 2020-12-01 https://yandex.ru
 yandex.ru##.home-link_gray_yes.b-sethome.home-link
 
-! 2020-12-03 http://my.atel.me
+! 2020-12-03 https://my.atel.me
 my.atel.me###sidebar > div.pl-4
 ||my.atel.me/images/banner-uk-atel.jpg$image
 
-! 2020-12-05 http://my.atel.me
+! 2020-12-05 https://my.atel.me
 my.atel.me###content > div.row:nth-of-type(1)
 
 ! 2020-12-05 https://mail.yandex.ru
@@ -5983,7 +5954,7 @@ yandex.ru##.news-app__d2EOMVaHI-group.news-d2EOMVaHI-group.mg-grid__row_gap_8.mg
 yandex.ru##.mg-grid__col:nth-of-type(5)
 yandex.ru##.mg-grid__col_xs_4.mg-grid__col:nth-of-type(8)
 
-! 2021-02-12 http://stascorp.com
+! 2021-02-12 https://stascorp.com
 stascorp.com###gc_containerId20875
 
 ! 2021-02-14 https://www.text-image.com
@@ -6159,7 +6130,7 @@ habr.com###fb-like
 myip.ru##.promo
 
 ! 2021-03-06 https://2ip.ru
-2ip.ru##[href="http://www.bestwatch.ru/"]
+2ip.ru##[href="https://www.bestwatch.ru/"]
 
 ! 2021-03-06 https://4pda.ru
 4pda.ru##[href="//4pda.ru/cooperation/sellers/"]
@@ -6363,7 +6334,7 @@ mywindowshub.com###cookie-law-info-bar
 ! 2021-03-21 https://winaero.com
 winaero.com##.fixtop
 
-! 2021-03-21 http://myclock.narod.ru
+! 2021-03-21 https://myclock.narod.ru
 myclock.narod.ru##.active.vdj-fill-all.vdj-preloader-pr
 myclock.narod.ru##.vdj-fill-all.vdj-ad > [src]
 myclock.narod.ru##.vdj-fill-all.vdj-ad
@@ -6409,7 +6380,7 @@ disk.yandex.ru##.mail360-banner__comp
 disk.yandex.ru##.mail360-banner__icons
 disk.yandex.ru##.js-prevent-mouse-selection.mail360-banner
 
-! 2021-03-27 http://soft.oszone.net
+! 2021-03-27 https://soft.oszone.net
 soft.oszone.net###leftcol-c > div:nth-of-type(5)
 
 ! 2021-03-29 https://live.skillbox.ru
@@ -6696,7 +6667,7 @@ habr.com##.column-wrapper__last.column-wrapper > .sidebar_stick-top.sidebar
 habr.com##.sidebar_stick-top.sidebar
 habr.com##.column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .sidebar
 
-! 2021-04-15 http://address.stop-list.info
+! 2021-04-15 https://address.stop-list.info
 address.stop-list.info###videobbTp3VU > tbody > tr > td
 address.stop-list.info###dVibbTp3VU
 address.stop-list.info##div:nth-of-type(5)
@@ -6734,7 +6705,7 @@ cloud.mail.ru##.shove__frame
 ! 2021-04-18 https://ovnl.in
 ovnl.in##[href="https://vtoxicity.net"]
 ovnl.in##[href="https://triangle.is"]
-ovnl.in##[href="http://bit.ly/3uU3O95"]
+ovnl.in##[href="https://bit.ly/3uU3O95"]
 
 ! 2021-04-19 https://www.aconvert.com
 www.aconvert.com##.cck-msg
@@ -6783,7 +6754,7 @@ professorweb.ru##[src="/codechick.png"]
 ! 2021-04-24 https://zennolab.com
 zennolab.com###gdpr-warning
 
-! 2021-04-27 http://www.softwareok.eu
+! 2021-04-27 https://www.softwareok.eu
 www.softwareok.eu###cookiebar
 
 ! 2021-04-27 https://rutracker.org
@@ -7273,7 +7244,7 @@ win10tweaker.ru##.fusion-social-networks-wrapper
 ! 2021-05-28 https://habr.com
 habr.com##[src="https://habrastorage.org/webt/pe/ay/zf/peayzfh745-twugmjk-r2zg-plc.png"]
 
-! 2021-05-28 http://www.ip-score.com
+! 2021-05-28 https://www.ip-score.com
 ||www.ip-score.com/im*.gif$image
 
 ! 2021-05-28 https://tproger.ru
@@ -7370,7 +7341,7 @@ console.cloud.yandex.ru##.console-dashboard__mobile-app-links.mobile-app-links
 fb.ru##.is-filled.js-sticky-holder.innerbox__sticky
 fb.ru##.js-ts-list.innerbox__bg
 
-! 2021-06-07 http://old.exponenta.ru
+! 2021-06-07 https://old.exponenta.ru
 old.exponenta.ru##[href^="https://hub.exponenta.ru/"]
 
 ! 2021-06-07 https://vk.com
@@ -7445,7 +7416,7 @@ docs.devexpress.com##.Shown.Important.wsMsgWnd
 developer.microsoft.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
 
 ! 2021-06-18 https://samp-mods.com
-samp-mods.com##[src="http://img.samp-mods.com/images/53c62fb09bb1099007c45f37e2b3793e.gif"]
+samp-mods.com##[src="https://img.samp-mods.com/images/53c62fb09bb1099007c45f37e2b3793e.gif"]
 samp-mods.com##.baseform > .bt1
 
 ! 2021-06-18 https://modsfire.com
