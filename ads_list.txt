@@ -7758,3 +7758,20 @@ www.dns-shop.ru##div.products-list__banner:nth-of-type(1)
 www.dns-shop.ru##.banner-slider-block.banner-catalog_body.banner > .ec-promo
 www.dns-shop.ru##div.products-list__banner:nth-of-type(3)
 
+! 2021-08-14 https://vk.com
+vk.com##.eltt_vis.eltt_right.eltt_align_center.eltt_arrow_size_normal.feature_info_tooltip.feature_intro_blue_tt--heightSmall.feature_intro_blue_tt.feature_intro_tt.eltt
+
+! 2021-08-18 https://www.vagrantup.com
+www.vagrantup.com##.flex-centered-row.g-consent-manager-banner
+
+! 2021-08-18 https://www.waypointproject.io
+www.waypointproject.io##.flex-centered-row.g-consent-manager-banner
+
+! 2021-08-19 https://qiwi.com
+qiwi.com##.cookies-self-143
+
+! 2021-08-20 https://linuxthebest.net
+linuxthebest.net###wpd-bubble-add-message
+linuxthebest.net##.socicon-facebook.socicon.social-icon.zoom-social_icons-list-span
+linuxthebest.net##.socicon-twitter.socicon.social-icon.zoom-social_icons-list-span
+
