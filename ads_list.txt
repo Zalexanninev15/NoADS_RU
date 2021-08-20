@@ -165,10 +165,6 @@ mail.google.com##.nn.bAw.nH
 ! 13.02.2020 https://drive.google.com
 drive.google.com##.a-da-ub-ce
 
-! 13.02.2020 https://xn--90abhbolvbbfgb9aje4m.xn--p1ai
-xn--90abhbolvbbfgb9aje4m.xn--p1ai##.footer
-xn--90abhbolvbbfgb9aje4m.xn--p1ai##div.clearfix.block:nth-of-type(4)
-
 ! 13.02.2020 https://www.sergeistrelec.ru
 ||www.sergeistrelec.ru/templates/sstr/images/style/log5.png$image
 www.sergeistrelec.ru##.h7
@@ -7745,4 +7741,7 @@ qiwi.com##.cookies-self-143
 linuxthebest.net###wpd-bubble-add-message
 linuxthebest.net##.socicon-facebook.socicon.social-icon.zoom-social_icons-list-span
 linuxthebest.net##.socicon-twitter.socicon.social-icon.zoom-social_icons-list-span
+
+! 2021-08-20 https://www.jetbrains.com
+www.jetbrains.com##[src="/_assets/common-ui/components/banners/particular/academy-edu/img/banner_1200x200_ru-ru.1780ea8f0a7d35b47822e15a77511377.png"]
 
