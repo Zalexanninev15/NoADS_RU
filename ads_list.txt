@@ -7745,3 +7745,23 @@ linuxthebest.net##.socicon-twitter.socicon.social-icon.zoom-social_icons-list-sp
 ! 2021-08-20 https://www.jetbrains.com
 www.jetbrains.com##[src="/_assets/common-ui/components/banners/particular/academy-edu/img/banner_1200x200_ru-ru.1780ea8f0a7d35b47822e15a77511377.png"]
 
+! 2021-08-24 https://yandex.ru
+yandex.ru##.market-cart__ticker_short.market-cart__ticker
+
+! 2021-08-27 https://qiwi.com
+||static.qiwi.com/qcms/banners/1002592/WEB/PROMO/1002592/*.jpg$image
+qiwi.com##.cookies-self-190
+qiwi.com##.cookies-self-177
+
+! 2021-08-27 https://www.xnview.com
+www.xnview.com##.align-middle.py-3.bg-dark.w-100.fixed-bottom
+
+! 2021-08-27 https://distrowatch.com
+distrowatch.com##h2
+
+! 2021-08-27 https://mxlinux.org
+mxlinux.org##.webarx-cookie-notice-container
+
+! 2021-08-27 https://endeavouros.com
+endeavouros.com##.obfx-cookie-bar
+
