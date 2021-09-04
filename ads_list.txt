@@ -7765,3 +7765,11 @@ mxlinux.org##.webarx-cookie-notice-container
 ! 2021-08-27 https://endeavouros.com
 endeavouros.com##.obfx-cookie-bar
 
+! 2021-09-04 https://linuxmint.com.ru
+linuxmint.com.ru##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+
+! 2021-09-04 https://www.hostinger.ru
+www.hostinger.ru##.gdpr-bottom-banner--new.w-100.z-index-1001.bottom-0.position-fixed.gdpr-bottom-banner
+www.hostinger.ru##a.text-light-black:nth-of-type(2)
+www.hostinger.ru##a.text-light-black:nth-of-type(3)
+
