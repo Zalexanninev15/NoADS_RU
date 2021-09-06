@@ -7773,3 +7773,17 @@ www.hostinger.ru##.gdpr-bottom-banner--new.w-100.z-index-1001.bottom-0.position-
 www.hostinger.ru##a.text-light-black:nth-of-type(2)
 www.hostinger.ru##a.text-light-black:nth-of-type(3)
 
+! 2021-09-05 https://yandex.ru
+yandex.ru##._2CCn8gIK0s._30CmDTNtu1
+yandex.ru###SRctLALrVr > div
+yandex.ru##.BcI2USAkRg.k8a5qXaF9l._1ieVhHeXAw._1tWXpsfxUI
+yandex.ru##.vQEUIb4I-D
+yandex.ru##._2PiE1k8ZTk.k8a5qXaF9l._1ieVhHeXAw._1tWXpsfxUI
+yandex.ru##._3VXqjQLQZ2.k8a5qXaF9l._1ieVhHeXAw._1tWXpsfxUI
+
+! 2021-09-05 https://www.paypal.com
+www.paypal.com##.auto-rotate.hero-engagement.cw_tile-promo-widget > div > .ppvx_elevation--level1.ppvx_link.cw_tile-promo-main-container
+www.paypal.com##.auto-rotate.hero-engagement.cw_tile-promo-widget > div > .cw_tile-promo-body
+www.paypal.com##.ppvx_elevation--level1.ppvx_link.cw_tile-promo-main-container
+www.paypal.com##.cw_tile-promo-body
+
