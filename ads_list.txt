@@ -7787,3 +7787,15 @@ www.paypal.com##.auto-rotate.hero-engagement.cw_tile-promo-widget > div > .cw_ti
 www.paypal.com##.ppvx_elevation--level1.ppvx_link.cw_tile-promo-main-container
 www.paypal.com##.cw_tile-promo-body
 
+! 2021-09-06 https://nbide.blogspot.com
+nbide.blogspot.com##.singleton-element.cookie-choices-info
+
+! 2021-09-09 https://zyro.com
+zyro.com##.zyro-cookies
+zyro.com##[src="https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LewOLYUAAAAAPFPGFDFYphHRmk3BHJvD9ybsun0&co=aHR0cHM6Ly96eXJvLmNvbTo0NDM.&hl=ru&v=wxAi4AKLXL2kBAvXqI4XLSWS&size=invisible&cb=zdxflabs8b5b"]
+zyro.com##.grecaptcha-badge
+zyro.com##.footer__socials-list
+zyro.com##.before-leave-popup.modal-backdrop
+zyro.com##.ribbon
+zyro.com##.ribbon
+
