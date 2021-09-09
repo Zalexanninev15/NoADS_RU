@@ -7814,3 +7814,33 @@ www.codeproject.com###aspnetForm > .float-right
 duckduckgo.com##li.nav-menu__item > [href="/app"]
 duckduckgo.com##a.js-footer-link:nth-of-type(2)
 
+! 2021-09-09 https://www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov##.nCoV_shutdown.ncbi-alerts
+
+! 2021-09-09 https://wordpress.com
+wordpress.com##.is-compact.gdpr-banner.card
+
+! 2021-09-09 https://iopscience.iop.org
+iopscience.iop.org##.cookies-banner-wrap
+
+! 2021-09-09 https://www.azonano.com
+www.azonano.com###cookie-notice-bar
+
+! 2021-09-09 https://electronics360.globalspec.com
+electronics360.globalspec.com##.ot-sdk-container > .ot-sdk-row
+
+! 2021-09-09 https://www.semanticscholar.org
+www.semanticscholar.org##.copyright-banner
+
+! 2021-09-09 https://ieeexplore.ieee.org
+ieeexplore.ieee.org##.cc-color-override-170793312.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2021-09-09 https://ec.europa.eu
+ec.europa.eu##.cck-container
+
+! 2021-09-09 https://www.tandfonline.com
+www.tandfonline.com##.banner
+
+! 2021-09-09 https://www.hindawi.com
+www.hindawi.com##.advWrapper.eEFYIL.sc-OxbzP
+
