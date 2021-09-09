@@ -7799,3 +7799,18 @@ zyro.com##.before-leave-popup.modal-backdrop
 zyro.com##.ribbon
 zyro.com##.ribbon
 
+! 2021-09-09 https://www.abelhadigital.com
+www.abelhadigital.com##.cc-color-override-2132809765.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+www.abelhadigital.com###icon-twitter
+www.abelhadigital.com###icon-facebook
+
+! 2021-09-09 https://www.fluxbytes.com
+www.fluxbytes.com##.cc_container--open.cc_container.cc_banner
+
+! 2021-09-09 https://www.codeproject.com
+www.codeproject.com###aspnetForm > .float-right
+
+! 2021-09-09 https://duckduckgo.com
+duckduckgo.com##li.nav-menu__item > [href="/app"]
+duckduckgo.com##a.js-footer-link:nth-of-type(2)
+
