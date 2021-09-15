@@ -7844,3 +7844,27 @@ www.tandfonline.com##.banner
 ! 2021-09-09 https://www.hindawi.com
 www.hindawi.com##.advWrapper.eEFYIL.sc-OxbzP
 
+! 2021-09-09 https://ron.sh
+ron.sh###cookie-notice
+
+! 2021-09-10 https://compizomania.blogspot.com
+compizomania.blogspot.com##.singleton-element.cookie-choices-info
+
+! 2021-09-10 https://www.wibu.com
+www.wibu.com##.cc-color-override-2021203391.cc-bottom.cc-theme-basic.cc-type-opt-in.cc-banner.cc-window
+
+! 2021-09-11 http://sources.codenet.ru
+sources.codenet.ru##div#np_block_1_1.block_empty > div
+
+! 2021-09-13 https://delphicomponent.ru
+||delphicomponent.ru/templates/Default/img/2.jpg$image
+delphicomponent.ru##[href^="http://aff.krotovroman.ru/delphipro/"]
+||delphicomponent.ru/templates/Default/images/slider.png$image
+delphicomponent.ru##.slider
+
+! 2021-09-14 https://mail.yandex.ru
+mail.yandex.ru##.ns-view-id-163.ns-view-uzney
+
+! 2021-09-15 https://accounts.crowdin.com
+accounts.crowdin.com##.cc-color-override-1528406573.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+
