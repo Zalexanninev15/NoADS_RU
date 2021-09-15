@@ -7868,3 +7868,13 @@ mail.yandex.ru##.ns-view-id-163.ns-view-uzney
 ! 2021-09-15 https://accounts.crowdin.com
 accounts.crowdin.com##.cc-color-override-1528406573.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 
+! 2021-09-15 https://adblockplus.org
+adblockplus.org##.cookiebar.cookie
+
+! 2021-09-15 https://habr.com
+habr.com##.tm-article-feed-blocks > .tm-block_spacing-bottom.tm-block
+habr.com##.tm-project-block_variant-salary.tm-project-block
+habr.com##.tm-article-author__company
+habr.com##[src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/cd3/ff0/980/cd3ff098055c645099d8a1c75410f42f.png"]
+habr.com##a[href^="https://vdsina.ru/cloud-servers"]:nth-of-type(6)
+
