@@ -2,8 +2,8 @@
 ! Author: Zalexanninev15
 ! License: MIT
 ! GitHub: github.com/Zalexanninev15/NoADS_RU
-! Donate 1: https://qiwi.com/n/ZALEXANNINEV15
-! Donate 2: https://yoomoney.ru/to/410015106319420
+! Buy Me a Coffee: zalexanninev15.jimdofree.com/buy-me-a-coffee
+
 
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
