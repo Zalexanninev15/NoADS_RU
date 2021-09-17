@@ -2,8 +2,7 @@
 ! Author: Zalexanninev15
 ! License: MIT
 ! GitHub: github.com/Zalexanninev15/NoADS_RU
-! Buy Me a Coffee: zalexanninev15.jimdofree.com/buy-me-a-coffee
-
+!Buy Me a Coffee: zalexanninev15.jimdofree.com/buy-me-a-coffee
 
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
@@ -7877,4 +7876,20 @@ habr.com##.tm-project-block_variant-salary.tm-project-block
 habr.com##.tm-article-author__company
 habr.com##[src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/cd3/ff0/980/cd3ff098055c645099d8a1c75410f42f.png"]
 habr.com##a[href^="https://vdsina.ru/cloud-servers"]:nth-of-type(6)
+
+! 2021-09-16 https://realpython.com
+realpython.com###reading-csv-files-into-a-dictionary-with-csv > div:nth-of-type(4)
+
+! 2021-09-16 https://d.tube
+d.tube##.announcement.message.compact.small.ui
+
+! 2021-09-16 https://www.thepythoncode.com
+www.thepythoncode.com##.show.fade.modal
+www.thepythoncode.com##.show.fade.modal-backdrop
+
+! 2021-09-16 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.show-consent.hide-consent.cookie-consent
+
+! 2021-09-16 https://zen.yandex.ru
+zen.yandex.ru##.rGK2F5pwPXWk1TjiRRW0rDfkkk8MBLw__ad-content
 
