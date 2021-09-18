@@ -7893,3 +7893,14 @@ www.geeksforgeeks.org##.show-consent.hide-consent.cookie-consent
 ! 2021-09-16 https://zen.yandex.ru
 zen.yandex.ru##.rGK2F5pwPXWk1TjiRRW0rDfkkk8MBLw__ad-content
 
+! 2021-09-17 https://www.flaticon.com
+www.flaticon.com##.sp-slidesgo-container.edge-content-first.edge-content-icon-list-second.edge-content-icon-list.edge-content.a-wrapper.bn-space
+www.flaticon.com###bn-icon-list > .premium-autop > .mg-none.full-height.row--vertical-center.row
+www.flaticon.com###bn-icon-list > .premium-autop
+www.flaticon.com###bn-icon-list
+www.flaticon.com##.pd-lv1.open_panel_cl
+www.flaticon.com###viewport > .hide-mobile
+
+! 2021-09-18 https://habr.com
+habr.com##[href^="http://ruvds.com/ru-rub"]
+
