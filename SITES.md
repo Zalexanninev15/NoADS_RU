@@ -543,3 +543,11 @@
 - https://ec.europa.eu
 - https://www.tandfonline.com
 - https://www.hindawi.com
+- https://ron.sh
+- https://www.wibu.com
+- http://sources.codenet.ru
+- https://delphicomponent.ru
+- https://accounts.crowdin.com
+- https://adblockplus.org
+- https://d.tube
+- https://www.thepythoncode.com
