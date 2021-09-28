@@ -7904,3 +7904,35 @@ www.flaticon.com###viewport > .hide-mobile
 ! 2021-09-18 https://habr.com
 habr.com##[href^="http://ruvds.com/ru-rub"]
 
+! 2021-09-18 https://cms2cms.com
+cms2cms.com##.cookie-block
+
+! 2021-09-18 https://www.jimdo.com
+www.jimdo.com##.animated.dialog-lightbox-widget-content.dialog-widget-content
+
+! 2021-09-18 https://help.jimdo-dolphin.com
+help.jimdo-dolphin.com##.pp-limiter
+
+! 2021-09-18 https://site.pro
+site.pro##.cookie-law
+
+! 2021-09-26 https://opensourcelibs.com
+opensourcelibs.com###flamelab-convo-widget
+
+! 2021-09-26 https://vovsoft.com
+vovsoft.com##.cc-color-override-499801634.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
+
+! 2021-09-28 https://habr.com
+habr.com##section.tm-block_spacing-around.tm-block:nth-of-type(3)
+habr.com##div.tm-footer-menu__block:nth-of-type(4) > .tm-footer-menu__block-content > .tm-footer-menu__list > li.tm-footer-menu__list-item:nth-of-type(1)
+habr.com##a.tm-footer__link:nth-of-type(3)
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1) > .tm-svg-icon.tm-svg-img > use
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(2) > .tm-svg-icon.tm-svg-img > use
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(6) > .tm-svg-icon.tm-svg-img > use
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(6) > .tm-svg-icon.tm-svg-img
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(2) > .tm-svg-icon.tm-svg-img
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1) > .tm-svg-icon.tm-svg-img
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(2)
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1)
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(6)
+
