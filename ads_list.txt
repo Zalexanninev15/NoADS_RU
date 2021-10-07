@@ -7935,4 +7935,20 @@ habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1) > .tm-svg-
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(2)
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1)
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(6)
+habr.com##.tm-block_spacing-bottom.tm-block
+
+! 2021-10-05 https://mark0.net
+mark0.net###cookieChoiceInfo
+
+! 2021-10-07 https://translate.yandex.ru
+translate.yandex.ru##li:nth-of-type(6)
+translate.yandex.ru##.footer-socialIcons
+translate.yandex.ru##li:nth-of-type(1)
+translate.yandex.ru##li:nth-of-type(5)
+
+! 2021-10-07 https://habr.com
+habr.com##div > [href="https://itsoft.ru/data-center/dedicated/"]
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(3) > .tm-svg-icon.tm-svg-img > use
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(3) > .tm-svg-icon.tm-svg-img
+habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(3)
 
