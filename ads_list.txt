@@ -7952,3 +7952,25 @@ habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(3) > .tm-svg-
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(3) > .tm-svg-icon.tm-svg-img
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(3)
 
+! 2021-10-07 https://www.promt.com
+www.promt.com##.cc-color-override--1608664607.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2021-10-07 https://www.deepl.com
+www.deepl.com##.dl_cookieBanner_innerLax
+www.deepl.com##.dl_cookieBanner_outer
+www.deepl.com##.dl_footer__social--twitter.dl_footer__social
+www.deepl.com##.dl_footer__social--facebook.dl_footer__social
+
+! 2021-10-12 https://www.patreon.com
+www.patreon.com##.jZkVpF.sc-cOajty
+
+! 2021-10-17 https://gamecopyworld.eu
+gamecopyworld.eu##.cc-color-override--1360619034.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2021-10-17 https://www.cdmediaworld.com
+www.cdmediaworld.com##[src="//s1.musictarget.com/!_cd_dvd.php?sz=bn&sn=cmw&bg=cmw_btm&ns=1"]
+www.cdmediaworld.com##[src="//s1.musictarget.com/!_sk.php?sn=cmw&bg=cmw_btm&ns=1"]
+www.cdmediaworld.com##[src="//s1.musictarget.com/!_btm.php?sn=cmw&bg=cmw_btm&ns=1"]
+www.cdmediaworld.com##[src="//s1.musictarget.com/!_hb.php?sn=cmw&bg=cmw_btm&ns=1"]
+www.cdmediaworld.com##[src="//s1.musictarget.com/!_bn.php?sn=cmw&bg=cmw_btm&ns=1"]
+
