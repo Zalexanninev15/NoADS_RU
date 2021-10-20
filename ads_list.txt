@@ -7974,3 +7974,16 @@ www.cdmediaworld.com##[src="//s1.musictarget.com/!_btm.php?sn=cmw&bg=cmw_btm&ns=
 www.cdmediaworld.com##[src="//s1.musictarget.com/!_hb.php?sn=cmw&bg=cmw_btm&ns=1"]
 www.cdmediaworld.com##[src="//s1.musictarget.com/!_bn.php?sn=cmw&bg=cmw_btm&ns=1"]
 
+! 2021-10-20 https://myrusakov.ru
+myrusakov.ru###slider
+myrusakov.ru###share
+
+! 2021-10-20 https://ok.ru
+ok.ru##.vk-slides-iframe
+ok.ru###hook_Block_PMailRu > .portlets_vk-branding-banner
+ok.ru###hook_Block_Portal > .hookBlock
+ok.ru##a.__with-ic.nav-side_i:nth-of-type(10)
+ok.ru##div.nav-side_i-w:nth-of-type(5) > .__with-ic.nav-side_i
+ok.ru##div.nav-side_i-w:nth-of-type(6) > .__with-ic.nav-side_i
+ok.ru##.portlets_switch-feed.h-mod
+
