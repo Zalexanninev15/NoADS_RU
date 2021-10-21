@@ -7987,3 +7987,20 @@ ok.ru##div.nav-side_i-w:nth-of-type(5) > .__with-ic.nav-side_i
 ok.ru##div.nav-side_i-w:nth-of-type(6) > .__with-ic.nav-side_i
 ok.ru##.portlets_switch-feed.h-mod
 
+! 2021-10-21 https://yandex.ru
+yandex.ru##.card-footer-view__social-links
+
+! 2021-10-21 https://4pda.to
+4pda.to##.KboGBQJmODz2YscfdV95q.yLYi
+4pda.to##.menu-brands
+4pda.to##.icon-VK
+4pda.to##.icon-YOUTUBE
+4pda.to##.KboGBQJmODz2YscfdV95q.fLYi
+4pda.to##[href="https://4pda.to/2021/10/21/7718621/"]
+4pda.to##.KboGBQJmODz2YscfdV95q.hLYi
+4pda.to##[href="https://4pda.to/2021/10/21/9496457/"]
+4pda.to##.KboGBQJmODz2YscfdV95q.qLYi
+4pda.to##.KboGBQJmODz2YscfdV95q.mLYi
+4pda.to##.KboGBQJmODz2YscfdV95q.eLYi
+4pda.to##.KboGBQJmODz2YscfdV95q.sLYi
+
