@@ -8004,3 +8004,25 @@ yandex.ru##.card-footer-view__social-links
 4pda.to##.KboGBQJmODz2YscfdV95q.eLYi
 4pda.to##.KboGBQJmODz2YscfdV95q.sLYi
 
+! 2021-10-21 https://www.onlinedoctranslator.com
+www.onlinedoctranslator.com##.ez-float-right.floating-placeholder-sizer.ez-video-container
+
+! 2021-10-21 https://about.google
+about.google##.cookieBarInner
+about.google###cookieBar
+about.google##.even.grow-your-business.section > .glue-o-pagination.carousel-container.glue-pagination > .cols-row.carousel-flush.glue-carousel > li.col-m-3.col-s-6.carousel-slide:nth-of-type(1) > .carousel-slide-content
+about.google##.even.grow-your-business.section > .glue-o-pagination.carousel-container.glue-pagination > .cols-row.carousel-flush.glue-carousel > li.col-m-3.col-s-6.carousel-slide:nth-of-type(2) > .carousel-slide-content
+
+! 2021-10-21 https://www.onlinedoctranslator.com
+www.onlinedoctranslator.com###donation-container-download > div > .donate-multi-payment-forms > .paypal-options-container > .multi-donation-form-sub-container.paypal-container > .paypal-button-iframe > iframe
+www.onlinedoctranslator.com###donation-container-download > div > .donate-multi-payment-forms > .paypal-options-container > .multi-donation-form-sub-container.paypal-container > .paypal-button-iframe
+www.onlinedoctranslator.com###donation-container-download > div > .donate-multi-payment-forms > .paypal-options-container > .multi-donation-form-sub-container.paypal-container > .donate-multi-or
+www.onlinedoctranslator.com###donation-container-download > div > .donate-multi-payment-forms > .paypal-options-container
+www.onlinedoctranslator.com###donation-container-download > div > .donate-multi-payment-forms > .multi-donation-card-error
+www.onlinedoctranslator.com###ez-video-link-c097126a7682aa4af7c580fd9ed0a12f5a0d86bb
+
+! 2021-10-21 https://graphicsland.ru
+graphicsland.ru##.et_social_facebook > .et_social_share
+graphicsland.ru##.et_social_twitter > .et_social_share
+graphicsland.ru##.et_social_vkontakte > .et_social_share
+
