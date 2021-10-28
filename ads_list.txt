@@ -8026,3 +8026,24 @@ graphicsland.ru##.et_social_facebook > .et_social_share
 graphicsland.ru##.et_social_twitter > .et_social_share
 graphicsland.ru##.et_social_vkontakte > .et_social_share
 
+! 2021-10-21 https://www.onlinedoctranslator.com
+www.onlinedoctranslator.com##[src="https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lfn0NkZAAAAAAMTSurqDvBs7lRM_zYY_9pjJGhJ&co=aHR0cHM6Ly93d3cub25saW5lZG9jdHJhbnNsYXRvci5jb206NDQz&hl=ru&v=YhkYx1k-yvvb8OonJPmOpoJY&size=invisible&cb=id10nwl4n7w4"]
+www.onlinedoctranslator.com##.grecaptcha-badge
+
+! 2021-10-21 https://www.pdfwordconvert.com
+www.pdfwordconvert.com##.grecaptcha-logo
+www.pdfwordconvert.com##.grecaptcha-badge
+www.pdfwordconvert.com###donation-container-download > div > .donate-multi-payment-forms > .multi-donation-form-sub-container.paypal-container > .paypal-button-iframe > iframe
+www.pdfwordconvert.com###donation-container-download > div > .donate-multi-payment-forms > .donate-multi-or
+www.pdfwordconvert.com###donation-container-download > div > .donate-multi-payment-forms > .multi-donation-form-sub-container.paypal-container > .paypal-button-iframe
+
+! 2021-10-27 https://123apps.com
+123apps.com###allapps-extension-popup
+
+! 2021-10-27 https://blog.adobe.com
+blog.adobe.com##.cs-container
+
+! 2021-10-28 https://4pda.to
+4pda.to##[src="https://ds-assets.cdn.devapps.ru/dry7IWEwfZuNYcBoCBbhVBah41xE5AyCFDw3b8WZNmRXdBrTN0ELWbld.jpg"]
+4pda.to##.KboGBQJmODz2YscfdV95q.xLYi
+
