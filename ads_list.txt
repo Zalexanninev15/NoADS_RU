@@ -8065,3 +8065,21 @@ yandex.ru##button.share-icons__link:nth-of-type(2)
 yandex.ru##button.share-icons__link:nth-of-type(3)
 yandex.ru##button.share-icons__link:nth-of-type(1)
 
+! 2021-11-15 https://pythonru.com
+pythonru.com##[href="https://pythonru.com/go/english"]
+pythonru.com###gb [href] > [src]
+pythonru.com###mytest > [href] > [src]
+pythonru.com##.td-social-vk.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+pythonru.com##.td-social-vk.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+pythonru.com##.td-social-twitter.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+pythonru.com##.td-social-twitter.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+pythonru.com##.td-social-facebook.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+pythonru.com##.td-social-facebook.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+
+! 2021-11-15 https://plati.ru
+plati.ru##.gdpr
+
+! 2021-11-15 https://www.avito.ru
+www.avito.ru##.top-banner-content-wBhxd
+www.avito.ru##.story-previewer-storyPreviewer-SN1Gq
+
