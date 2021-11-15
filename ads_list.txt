@@ -8047,3 +8047,21 @@ blog.adobe.com##.cs-container
 4pda.to##[src="https://ds-assets.cdn.devapps.ru/dry7IWEwfZuNYcBoCBbhVBah41xE5AyCFDw3b8WZNmRXdBrTN0ELWbld.jpg"]
 4pda.to##.KboGBQJmODz2YscfdV95q.xLYi
 
+! 2021-11-13 https://chocolatey.org
+chocolatey.org##.show.fade.alert-btn-center.alert-dismissible-center.alert-dismissible.alert-primary.alert
+
+! 2021-11-13 https://www.jetbrains.com
+www.jetbrains.com##.academy-python.image-banner.slideup-banner.js-banner.banner > div
+
+! 2021-11-13 https://hobbyits.com
+hobbyits.com##.MuiPaper-elevation6.jss19.jss21.MuiSnackbarContent-root.MuiPaper-root
+
+! 2021-11-14 https://thecommunity.ru
+thecommunity.ru##.show-prompt.sp-pos-left.sp-native-popover.sp-prompt
+
+! 2021-11-15 https://yandex.ru
+yandex.ru##button.share-icons__link:nth-of-type(4)
+yandex.ru##button.share-icons__link:nth-of-type(2)
+yandex.ru##button.share-icons__link:nth-of-type(3)
+yandex.ru##button.share-icons__link:nth-of-type(1)
+
