@@ -8083,3 +8083,22 @@ plati.ru##.gdpr
 www.avito.ru##.top-banner-content-wBhxd
 www.avito.ru##.story-previewer-storyPreviewer-SN1Gq
 
+! 2021-11-16 https://uploadrar.com
+uploadrar.com##.btn-lg.btn-info.btn
+uploadrar.com##.sharefile > ul
+
+! 2021-11-16 https://icon-icons.com
+||www.facebook.com/plugins/page.php$subdocument
+
+! 2021-11-16 https://doc.qt.io
+doc.qt.io###cookie-confirm > .cookie-inner
+
+! 2021-11-16 https://www.browserstack.com
+www.browserstack.com##.cookie-notification
+www.browserstack.com##.hide-xs.guide-floating-banner.floating-banner
+
+! 2021-11-16 https://tradukka.com
+tradukka.com##.show.fade.modal
+tradukka.com##.show.fade.modal-backdrop
+tradukka.com###meta > .row
+
