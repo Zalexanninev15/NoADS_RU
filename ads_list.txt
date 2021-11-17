@@ -8102,3 +8102,20 @@ tradukka.com##.show.fade.modal
 tradukka.com##.show.fade.modal-backdrop
 tradukka.com###meta > .row
 
+! 2021-11-17 https://www.glideapps.com
+www.glideapps.com##.z-40.md\:text-md.text-sm.md\:pb-4.bottom-0.inset-x-0.fixed > .justify-center.flex
+
+! 2021-11-17 https://app.quicktype.io
+app.quicktype.io##.bg-gradient
+
+! 2021-11-17 https://www.deepl.com
+www.deepl.com##.cookieBanner-module--container--3FhYm
+
+! 2021-11-17 https://proglib.io
+proglib.io###info-block-in-post .mobile-hide
+proglib.io##.mt-2.h-100.valign-center.flex.no-list.menu.share-menu > li.mr-4.menu-item:nth-of-type(1) > .no-link > .ico--social.ico > svg
+proglib.io##.flex.no-list.menu.social-menu > li.mr-4.menu-item > .no-link > .ico--social.ico > svg > use
+proglib.io##.flex.no-list.menu.social-menu > li.mr-4.menu-item > .no-link > .ico--social.ico > svg
+proglib.io##.flex.no-list.menu.social-menu > li.mr-4.menu-item > .no-link > .ico--social.ico
+proglib.io##.mt-2.h-100.valign-center.flex.no-list.menu.share-menu > li.mr-4.menu-item:nth-of-type(1) > .no-link > .ico--social.ico
+
