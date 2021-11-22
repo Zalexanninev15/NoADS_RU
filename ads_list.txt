@@ -8119,3 +8119,31 @@ proglib.io##.flex.no-list.menu.social-menu > li.mr-4.menu-item > .no-link > .ico
 proglib.io##.flex.no-list.menu.social-menu > li.mr-4.menu-item > .no-link > .ico--social.ico
 proglib.io##.mt-2.h-100.valign-center.flex.no-list.menu.share-menu > li.mr-4.menu-item:nth-of-type(1) > .no-link > .ico--social.ico
 
+! 2021-11-17 https://ubisoftconnect.com
+ubisoftconnect.com##.content > .links > .app-links > .applestore-link
+ubisoftconnect.com##.content > .links > .app-links > .playstore-link
+
+! 2021-11-18 https://cspromogame.ru
+cspromogame.ru##.banner-img
+
+! 2021-11-19 https://www.iprogrammatori.it
+www.iprogrammatori.it##.cc-nb-main-container
+
+! 2021-11-19 https://gamedev.net
+gamedev.net##.cc-color-override--85076452.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+
+! 2021-11-19 https://mail.yandex.ru
+mail.yandex.ru##.Modal-Content
+mail.yandex.ru##.Modal-Cell_align_middle.Modal-Cell
+mail.yandex.ru##.ns-view-id-113.ns-view-uoauapcev-box
+
+! 2021-11-20 https://www.deepl.com
+www.deepl.com##.dl_app_ad__commonContent
+
+! 2021-11-22 https://caramba-switcher.com
+caramba-switcher.com##.fa-medkit.fa
+caramba-switcher.com##.sh-nav-special.sh-nav-social.menu-item > .social-media-twitter
+caramba-switcher.com##.sh-nav-special.sh-nav-social.menu-item > .social-media-facebook
+caramba-switcher.com##.sh-nav-special.sh-nav-social.menu-item > .social-media-instagram
+caramba-switcher.com##.sh-nav-special.sh-nav-social.menu-item > a.social-media-wordpress:nth-of-type(5)
+
