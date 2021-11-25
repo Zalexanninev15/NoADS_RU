@@ -8147,3 +8147,51 @@ caramba-switcher.com##.sh-nav-special.sh-nav-social.menu-item > .social-media-fa
 caramba-switcher.com##.sh-nav-special.sh-nav-social.menu-item > .social-media-instagram
 caramba-switcher.com##.sh-nav-special.sh-nav-social.menu-item > a.social-media-wordpress:nth-of-type(5)
 
+! 2021-11-23 https://codereview.stackexchange.com
+codereview.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-11-23 https://e-scraper.com
+e-scraper.com##.container.wrp-cookies
+e-scraper.com##.container-fluid.cookies
+
+! 2021-11-23 https://tools.keycdn.com
+tools.keycdn.com##.my-0.alert-dismissible.alert-cookies.alert
+
+! 2021-11-23 https://ip-geolocation.whoisxmlapi.com
+ip-geolocation.whoisxmlapi.com##.fade-up-from-bottom.cookie-message-block
+
+! 2021-11-23 https://www.nic.ru
+www.nic.ru##.yaKUF
+www.nic.ru##.puFn2._17isG
+
+! 2021-11-23 https://ipinfo.io
+ipinfo.io##.show.fade.ipinfo-modal
+
+! 2021-11-24 https://plati.market
+plati.market##.gdpr
+
+! 2021-11-24 https://saintsrow.com
+saintsrow.com##.ccc-content--no-outline.ccc-content--dark
+
+! 2021-11-24 https://market.yandex.ru
+market.yandex.ru##.qxlst
+market.yandex.ru##._240jf
+market.yandex.ru##._2VaJ3
+market.yandex.ru##._1TFGF._19m_j._2qvOO
+market.yandex.ru##._15s3s
+
+! 2021-11-24 https://store.steampowered.com
+store.steampowered.com##[href^="https://steamcommunity.com/linkfilter/"]
+store.steampowered.com##[href="http://twitter.com/steam"]
+
+! 2021-11-24 https://convertingcolors.com
+convertingcolors.com##.ot-fade-in.onetrust-pc-dark-filter
+convertingcolors.com###onetrust-button-group-parent
+convertingcolors.com###onetrust-group-container
+
+! 2021-11-24 https://pureinfotech.com
+pureinfotech.com##.mailmunch-topbar-iframe-17d50f51c03f564.mailmunch-topbar-iframe
+
+! 2021-11-25 https://howdyho.net
+howdyho.net##.container > .special > .special-ripple > .request-loader
+
