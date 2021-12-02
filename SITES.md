@@ -1,4 +1,4 @@
-# Сайты на которых будет работать данный список
+# Сайты на которых список что-то блокирует
 
 - https://mail.yandex.ru
 - https://translate.google.ru
@@ -551,3 +551,46 @@
 - https://adblockplus.org
 - https://d.tube
 - https://www.thepythoncode.com
+- https://cms2cms.com
+- https://www.jimdo.com
+- https://help.jimdo-dolphin.com
+- https://site.pro
+- https://opensourcelibs.com
+- https://vovsoft.com
+- https://mark0.net
+- https://www.promt.com
+- https://www.deepl.com
+- https://gamecopyworld.eu
+- https://www.cdmediaworld.com
+- https://myrusakov.ru
+- https://www.onlinedoctranslator.com
+- https://about.google
+- https://graphicsland.ru
+- https://www.pdfwordconvert.com
+- https://123apps.com
+- https://blog.adobe.com
+- https://hobbyits.com
+- https://pythonru.com
+- https://plati.ru
+- https://doc.qt.io
+- https://www.browserstack.com
+- https://tradukka.com
+- https://ubisoftconnect.com
+- https://cspromogame.ru
+- https://www.iprogrammatori.it
+- https://gamedev.net
+- https://caramba-switcher.com
+- https://codereview.stackexchange.com
+- https://e-scraper.com
+- https://tools.keycdn.com
+- https://ip-geolocation.whoisxmlapi.com
+- https://www.nic.ru
+- https://ipinfo.io
+- https://plati.market
+- https://saintsrow.com
+- https://convertingcolors.com
+- https://pureinfotech.com
+- https://emojipedia.org
+- https://forum.rudtp.ru
+- https://uslugi.yandex.ru
+- https://practicum.yandex.ru
