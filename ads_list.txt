@@ -8195,3 +8195,73 @@ pureinfotech.com##.mailmunch-topbar-iframe-17d50f51c03f564.mailmunch-topbar-ifra
 ! 2021-11-25 https://howdyho.net
 howdyho.net##.container > .special > .special-ripple > .request-loader
 
+! 2021-11-27 https://www.deepl.com
+www.deepl.com##.content--2foo1
+www.deepl.com##.frame--KoKc9.z-10.transition-all.transform.bg-white.shadow-xl.overflow-hidden.rounded-sm.inline-block.relative
+www.deepl.com##.opacity-50.bg-airblue.inset-0.absolute
+
+! 2021-11-28 https://aliexpress.ru
+aliexpress.ru##.styles_wrapper__3isR2
+
+! 2021-12-01 https://emojipedia.org
+emojipedia.org##.ot-sdk-container > .ot-sdk-row
+
+! 2021-12-02 https://forum.rudtp.ru
+forum.rudtp.ru##.notice-content
+forum.rudtp.ru##.uix_noticeInner
+
+! 2021-12-02 https://yandex.ru
+yandex.ru###fFJ2_3uGcJtFm_stripe_1638459341082_984871 > div
+yandex.ru##.link_js_inited.i-bem.market-cart__box.link
+yandex.ru##.distr-popup__content.popup2__content
+yandex.ru##.searchengines__list
+
+! 2021-12-02 https://music.yandex.ru
+music.yandex.ru##.head-kids__station-button
+music.yandex.ru##.head-kids__plus-points.plus-points
+music.yandex.ru##.lego-button
+music.yandex.ru##.paused-slider_left.lego.paused-slider
+
+! 2021-12-02 https://yandex.ru
+yandex.ru##.link_js_inited.meteum-promo_js_inited.eO7RW0qk.card.meteum-promo.link
+yandex.ru##div.links-section:nth-of-type(1) > .links-section__list > a.eO7RW0qk.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.eJfxVw6x21BboYMzcCa8gANFrTdqReWlHd79d9Q.eP_hEmqh2wEaocd3BMQ__ad.eJfxVw6x21BboYMzcCa8gAA
+
+! 2021-12-02 https://market.yandex.ru
+market.yandex.ru##.main._111XI > div > div > div > ._2WIHb
+market.yandex.ru##.CM2I2._1yiCs.jvEMW._2yjtq
+market.yandex.ru##._32WMf._2et7a
+market.yandex.ru##.cia-cs._3RYET
+market.yandex.ru##.RuV3i._1muJR._3lYTn
+market.yandex.ru##._32MQP
+
+! 2021-12-02 https://yandex.ru
+yandex.ru##.desk-notif-card_js_inited.i-bem.desk-notif-card_icon-align_left.desk-notif-card_bg_default.desk-notif-card_animated_yes.desk-notif-card_minified_yes.desk-notif-card_actions_yes.desk-notif-card_details_no.desk-notif-card_icon_no.desk-notif-card_promo_yes.desk-notif-card_has-bg_yes.desk-notif-card > .i-swipe-controller.desk-notif-card__card
+
+! 2021-12-02 https://www.kinopoisk.ru
+www.kinopoisk.ru##.styles_lightThemeItem__3fc3C.undefined.styles_banner__2ckdV.styles_root__2NRei > .styles_bannerImage__cqu-I
+www.kinopoisk.ru##.styles_socialMenu__3wPbP.social-icons.styles_root__UyrFe
+
+! 2021-12-02 https://uslugi.yandex.ru
+uslugi.yandex.ru##.Home-DistributionCard.DistributionCard-Container
+
+! 2021-12-02 https://realty.yandex.ru
+realty.yandex.ru##.iFcU2USFJ1yyjoA__ads
+realty.yandex.ru##.iGcwaQDZU8AqavA__list-item_type_promo.iGcwaQDZU8AqavA__list-item.iGcwaQDZU8AqavFr6WjQaDnzJ4A
+realty.yandex.ru##.b9d2de1c20175hjMNDGKCc.b9d2de1c20175.y0jpxfqf4i > .b9d2de1c20175hSSgC
+realty.yandex.ru##.b9d2de1c20175hjMNDGKCd.b9d2de1c20175.f03zm8u8lg > .b9d2de1c20175hSSgC
+realty.yandex.ru##.FooterApps
+realty.yandex.ru##.b9d2de1c20175hjMNDGKDVcQUjJmFNSETIeeNcg.b9d2de1c20175.rvfvyexb5q > .b9d2de1c20175hSSgC
+realty.yandex.ru##.b9d2de1c20175hjMNDGKDVcQUjJmFNSETIeeNcf.b9d2de1c20175.fmf7m55qql > .b9d2de1c20175hSSgC
+realty.yandex.ru##.b9d2de1c20175hjMNDGKDVcQUjJmFNSETIeeNce.b9d2de1c20175.zyphv4u6xz > .b9d2de1c20175hSSgC
+
+! 2021-12-02 https://travel.yandex.ru
+travel.yandex.ru##.L5rMK > path
+travel.yandex.ru##.L5rMK
+travel.yandex.ru##div.RHw3K.H2yLM.rC02U:nth-of-type(3)
+travel.yandex.ru##div.RHw3K.H2yLM.rC02U:nth-of-type(4)
+travel.yandex.ru##a.CPjeN.Link_lego.root_desktop.STEEy.Link_view_default.Link_theme_normal.Link:nth-of-type(5)
+
+! 2021-12-02 https://practicum.yandex.ru
+practicum.yandex.ru##.footer__social
+
