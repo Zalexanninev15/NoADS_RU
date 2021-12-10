@@ -1,4 +1,4 @@
-# Сайты на которых список что-то блокирует
+# Сайты, которые имеются в списке NoADS_RU
 
 - https://mail.yandex.ru
 - https://translate.google.ru
@@ -594,3 +594,6 @@
 - https://forum.rudtp.ru
 - https://uslugi.yandex.ru
 - https://practicum.yandex.ru
+- https://mos-sud.ru
+- https://www.torproject.org
+- https://ru-gameboss.livejournal.com
