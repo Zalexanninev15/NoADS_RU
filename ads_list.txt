@@ -8265,3 +8265,23 @@ travel.yandex.ru##a.CPjeN.Link_lego.root_desktop.STEEy.Link_view_default.Link_th
 ! 2021-12-02 https://practicum.yandex.ru
 practicum.yandex.ru##.footer__social
 
+! 2021-12-03 https://www.pdf2go.com
+www.pdf2go.com##.text-left.p-10.text-center.bg-white.toast-body
+
+! 2021-12-03 https://mos-sud.ru
+mos-sud.ru##.footer
+mos-sud.ru##.cd-text
+mos-sud.ru###cookie-disclaimer
+
+! 2021-12-06 https://vk.com
+vk.com##li.ConvoRecommendList__item:nth-of-type(19) > ._convoRecommendAction.ConvoRecommendList__button
+vk.com##li.ConvoRecommendList__item:nth-of-type(19)
+vk.com##li.ConvoRecommendList__item:nth-of-type(20) > ._convoRecommendAction.ConvoRecommendList__button
+vk.com##li.ConvoRecommendList__item:nth-of-type(20)
+
+! 2021-12-08 https://www.torproject.org
+www.torproject.org##.col-md-12.row.eoy-banner
+
+! 2021-12-10 https://ru-gameboss.livejournal.com
+ru-gameboss.livejournal.com##.cookies-banner
+
