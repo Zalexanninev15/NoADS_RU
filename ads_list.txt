@@ -8284,4 +8284,27 @@ www.torproject.org##.col-md-12.row.eoy-banner
 
 ! 2021-12-10 https://ru-gameboss.livejournal.com
 ru-gameboss.livejournal.com##.cookies-banner
+ru-gameboss.livejournal.com##.b-discoverytimes-item-active.ng-scope.b-discoverytimes-item
+ru-gameboss.livejournal.com##.b-discoverytimes-items-container
+ru-gameboss.livejournal.com##.b-discoverytimes-container
+
+! 2021-12-10 https://vbdotnetforums.com
+vbdotnetforums.com##.notice-content
+
+! 2021-12-10 https://aliexpress.ru
+aliexpress.ru##.styles_webpushUi__2J0y_
+
+! 2021-12-10 https://trade.aliexpress.ru
+trade.aliexpress.ru##.Banner_Banner__banner__1p0dy.ali-kit_Image__image__1jaqdj
+trade.aliexpress.ru##div.styles_topBarItem__cfsNp:nth-of-type(3) > .styles_title__b9Ckc
+trade.aliexpress.ru##.styles_footerApps__1s-9U
+
+! 2021-12-11 https://docs.unity3d.com
+docs.unity3d.com###onetrust-banner-sdk > div > .ot-sdk-container > .ot-sdk-row
+
+! 2021-12-12 https://aliexpress.ru
+aliexpress.ru##.TopBanner-styles_bannerLink__1na4w.ali-kit_Link__default__cmgtoz.ali-kit_Link__size-s__cmgtoz.ali-kit_Link__link__cmgtoz.ali-kit_Base__default__1odrub.ali-kit_Base__base__1odrub > .ali-kit_Image__image__1jaqdj
+aliexpress.ru##.TopBanner-styles_bannerLink__1na4w.ali-kit_Link__default__cmgtoz.ali-kit_Link__size-s__cmgtoz.ali-kit_Link__link__cmgtoz.ali-kit_Base__default__1odrub.ali-kit_Base__base__1odrub
+aliexpress.ru##div.styles_topBarItem__cfsNp:nth-of-type(3) > .styles_title__b9Ckc
+aliexpress.ru##.SharePanel_SharePanel__wrapperFixed__1nkdh
 
