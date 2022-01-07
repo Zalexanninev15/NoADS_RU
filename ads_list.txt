@@ -8308,3 +8308,22 @@ aliexpress.ru##.TopBanner-styles_bannerLink__1na4w.ali-kit_Link__default__cmgtoz
 aliexpress.ru##div.styles_topBarItem__cfsNp:nth-of-type(3) > .styles_title__b9Ckc
 aliexpress.ru##.SharePanel_SharePanel__wrapperFixed__1nkdh
 
+! 2021-12-14 https://flutter.dev
+flutter.dev##.show.cookie-snack
+
+! 2021-12-15 https://habr.com
+habr.com##[href="https://bit.ly/30z0Qws"]
+
+! 2021-12-15 https://www.saintsrowmods.com
+www.saintsrowmods.com##.notice-content
+
+! 2021-12-21 https://citilink.aliexpress.ru
+citilink.aliexpress.ru##.ng-mobile.ng-item
+
+! 2021-12-30 https://app.wombo.art
+app.wombo.art##[href^="https://apps.apple.com/us/app/wombo-dream/id1586366816"]
+app.wombo.art##[href^="https://play.google.com/store/apps/details"]
+
+! 2022-01-04 https://superuser.com
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
