@@ -8327,3 +8327,12 @@ app.wombo.art##[href^="https://play.google.com/store/apps/details"]
 ! 2022-01-04 https://superuser.com
 superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 
+! 2022-01-09 https://rucaptcha.com
+rucaptcha.com##.app-level-notifications__item._1Q2R80Ik0LFr6CirZQLjtP
+
+! 2022-01-10 https://lavrynenko.com
+lavrynenko.com##.top.negative.hide-on-button
+
+! 2022-01-10 https://cs50.stackexchange.com
+cs50.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
