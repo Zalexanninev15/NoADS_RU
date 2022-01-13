@@ -1,5 +1,5 @@
 
-# Сайты, которые имеются в списке NoADS_RU
+# РЎР°Р№С‚С‹, РєРѕС‚РѕСЂС‹Рµ РёРјРµСЋС‚СЃСЏ РІ СЃРїРёСЃРєРµ NoADS_RU
 
 - https://mail.yandex.ru
 - https://translate.google.ru
