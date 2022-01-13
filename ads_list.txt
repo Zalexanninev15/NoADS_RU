@@ -8336,3 +8336,23 @@ lavrynenko.com##.top.negative.hide-on-button
 ! 2022-01-10 https://cs50.stackexchange.com
 cs50.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 
+! 2022-01-10 https://www.amd.com
+www.amd.com##.ot-sdk-container > .ot-sdk-row
+www.amd.com##.ot-fade-in.onetrust-pc-dark-filter
+
+! 2022-01-11 https://disk.yandex.ru
+disk.yandex.ru##.Modal-Cell_align_middle.Modal-Cell
+disk.yandex.ru##.Modal-Table
+disk.yandex.ru##.Modal-Wrapper
+disk.yandex.ru##.Modal-Overlay
+disk.yandex.ru##.welcome.dialog.Modal_theme_normal.Modal_hasAnimation.Modal_visible.Modal
+
+! 2022-01-12 https://www.donationalerts.com
+www.donationalerts.com##.cookie-notification-message
+
+! 2022-01-13 https://www.awardspace.com
+www.awardspace.com###cookieNotice
+
+! 2022-01-13 https://www.interpol.int
+www.interpol.int##.privacy-cookie-banner--slide-up.privacy-cookie-banner
+
