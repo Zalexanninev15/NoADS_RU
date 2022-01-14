@@ -1,3 +1,7 @@
+# Добавление сайтов в список
+# Версия скрипта: 1.1
+
+from itertools import groupby
 import re
 
 regex = r" https:\/\/[a-z]\w+(.+)$"
@@ -7,11 +11,11 @@ matches = re.finditer(regex, content, re.MULTILINE)
 links = []
 for matchNum, match in enumerate(matches, start=1):
     match = match.group()
-    link = f"-{match}"
-    links.append(link)
-    print(link)
+    lk = f"\n-{match}"
+    links.append(lk)
+links_a = list(set(links))
 with open('SITES.md', 'w', encoding="utf8") as file:
-    file.write('\n# Сайты, которые имеются в списке NoADS_RU:\n')
-    for i in links:
-        file.write(f"\n{i}")
+    file.write("\n# Сайты, которые имеются в списке NoADS_RU:\n\n")
+    for line in links_a:
+        file.write(line)
 print('Список пополнился новыми сайтами!')
