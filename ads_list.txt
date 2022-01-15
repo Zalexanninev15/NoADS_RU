@@ -8356,3 +8356,35 @@ www.awardspace.com###cookieNotice
 ! 2022-01-13 https://www.interpol.int
 www.interpol.int##.privacy-cookie-banner--slide-up.privacy-cookie-banner
 
+! 2022-01-14 https://mail.yandex.ru
+mail.yandex.ru##.ns-view-id-64.ns-view-xhazx-box
+
+! 2022-01-14 https://pai-bx.com
+pai-bx.com###gdpr-cookie-message
+
+! 2022-01-14 https://www.renderforest.com
+www.renderforest.com###cookie_messag
+www.renderforest.com##.card.notify-me-checkbox.checkbox
+www.renderforest.com##.is-active.splide--ltr.splide--loop.splide.card.watch-slide-container
+www.renderforest.com##.social-networks-container
+www.renderforest.com##.footer-subscription
+www.renderforest.com##div.footer-links-item > .stores
+www.renderforest.com##.facebook.social-icon-link
+www.renderforest.com##.instagram.social-icon-link
+www.renderforest.com##.twitter.social-icon-link
+
+! 2022-01-14 https://ru.onlinemschool.com
+ru.onlinemschool.com###oms_res_header > .link_blok
+
+! 2022-01-14 https://tutorialspoint.dev
+tutorialspoint.dev###cookieWarning
+
+! 2022-01-15 https://www.gosuslugi.ru
+www.gosuslugi.ru##.new-social-links
+www.gosuslugi.ru##.social-share
+www.gosuslugi.ru##.ng-star-inserted.social-wrapper.mt-md-32.col-lg-3.col-md-3
+
+! 2022-01-15 https://lk.gosuslugi.ru
+lk.gosuslugi.ru##.social-wrapper.mt-md-32.col-lg-3.col-md-3 > lib-social-links > .social-wrapper
+lk.gosuslugi.ru##.social-wrapper.mt-md-32.col-lg-3.col-md-3
+
