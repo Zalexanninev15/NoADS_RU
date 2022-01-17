@@ -8388,3 +8388,34 @@ www.gosuslugi.ru##.ng-star-inserted.social-wrapper.mt-md-32.col-lg-3.col-md-3
 lk.gosuslugi.ru##.social-wrapper.mt-md-32.col-lg-3.col-md-3 > lib-social-links > .social-wrapper
 lk.gosuslugi.ru##.social-wrapper.mt-md-32.col-lg-3.col-md-3
 
+! 2022-01-15 https://pythoncsharp.com
+pythoncsharp.com##.simple.dark.cc_dialog.cc_css_reboot
+
+! 2022-01-15 https://www.microsoft.com
+www.microsoft.com###msccBannerV2
+
+! 2022-01-15 https://habr.com
+habr.com##[src="https://habrastorage.org/r/w1560/webt/tc/cd/j3/tccdj3itayq7tpqluu4-qziadry.png"]
+
+! 2022-01-15 https://gis.stackexchange.com
+||cdn.sstatic.net/Sites/gis/img/background-image.jpg$image
+gis.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-01-16 https://emojiguide.com
+emojiguide.com##.adsense-2.adsense
+emojiguide.com##.display-right.light
+emojiguide.com##.custom-sticky-ads
+emojiguide.com##.adsense-6.adsense
+emojiguide.com##.google-trends
+emojiguide.com##.adsense-1.adsense
+emojiguide.com##.main-con > .adsense-4.adsense
+emojiguide.com##main.container > .adsense-5.adsense
+emojiguide.com##div.adsense-4.adsense:nth-of-type(1)
+emojiguide.com##div.adsense-5.adsense:nth-of-type(2)
+
+! 2022-01-17 https://sqa.stackexchange.com
+sqa.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-01-17 https://minininja.fandom.com
+minininja.fandom.com##.wikia-bar-anon.wikia-bar
+
