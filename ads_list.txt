@@ -8419,3 +8419,9 @@ sqa.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-7
 ! 2022-01-17 https://minininja.fandom.com
 minininja.fandom.com##.wikia-bar-anon.wikia-bar
 
+! 2022-01-20 https://itvdn.com
+itvdn.com##.cookies-message__body
+
+! 2022-01-22 https://socialclub.rockstargames.com
+socialclub.rockstargames.com##.CookiesBanner__content__1nghq
+
