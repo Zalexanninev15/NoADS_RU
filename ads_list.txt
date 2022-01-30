@@ -8425,3 +8425,83 @@ itvdn.com##.cookies-message__body
 ! 2022-01-22 https://socialclub.rockstargames.com
 socialclub.rockstargames.com##.CookiesBanner__content__1nghq
 
+! 2022-01-25 https://www.woolseyworkshop.com
+www.woolseyworkshop.com##.hide-on-button
+
+! 2022-01-26 http://192.168.0.1
+192.168.0.1###adv_netcontrol
+192.168.0.1###adv_cloud
+
+! 2022-01-27 https://forum.unity.com
+forum.unity.com###onetrust-banner-sdk > div > .ot-sdk-container > .ot-sdk-row
+
+! 2022-01-30 https://smallseotools.com
+||smallseotools.com/over.png$image
+smallseotools.com###FITS_banner
+smallseotools.com###FITS_close
+smallseotools.com###FITS_con
+smallseotools.com###cookie-bar
+||smallseotools.com/pro-assets/sidebar-pro-bg.png$image
+smallseotools.com##.pro_sidebar_box
+smallseotools.com##.text-center.fuc_.medium_
+smallseotools.com##.pic4
+smallseotools.com##div.row.col-md-12 > .text-center.fuc_
+smallseotools.com##.mob_pading.col-md-12 > .text-center.fuc_
+smallseotools.com##.text-center.f_intro_bg
+smallseotools.com##.ver_img.f-androaid.add_footer_icon
+smallseotools.com##.ver_img.f-apple.add_footer_icon
+
+! 2022-01-30 https://www.peekyou.com
+www.peekyou.com##.show.cookiealert.text-center.alert
+
+! 2022-01-30 https://www.canada411.ca
+www.canada411.ca##.hubapp__wrap
+
+! 2022-01-30 https://www.earthcam.com
+www.earthcam.com##div.footerItem.col-xs-12.col-sm-6.col-lg-3:nth-of-type(3)
+
+! 2022-01-30 http://webboar.com.w3snoop.com
+webboar.com.w3snoop.com##.cookie-consent-container
+webboar.com.w3snoop.com##[href="https://facebook.com/w3snoop"] > .ezlazyloaded
+
+! 2022-01-30 https://whoisology.com
+whoisology.com##.content-in-blocks
+
+! 2022-01-30 https://whois.domaintools.com
+whois.domaintools.com##a.MuiTypography-colorPrimary.NSgNr.Footerstyles__Link-sc-7w8l1t-3.deQkac.Linkstyles__ExternalLink-sc-87ul4n-0.MuiLink-underlineHover.MuiLink-root.MuiTypography-root:nth-of-type(2)
+whois.domaintools.com##.bfaQiE.Footerstyles__TwitterIcon-sc-7w8l1t-7.MuiSvgIcon-root
+whois.domaintools.com##.cTTnrM.Footerstyles__LinkedInIcon-sc-7w8l1t-8.MuiSvgIcon-root
+
+! 2022-01-30 https://lookup.icann.org
+lookup.icann.org##.cookie-notification
+
+! 2022-01-30 https://imei24.com
+imei24.com##.breadcrumbs_container
+imei24.com###cons
+
+! 2022-01-30 https://sndeep.info
+sndeep.info##.slideup.ui-footer-fixed.ui-bar-c.ui-footer.ui-body-a.ui-body
+
+! 2022-01-30 https://www.marinetraffic.com
+www.marinetraffic.com##.justify-content-center.d-flex.top-banner
+
+! 2022-01-30 https://planefinder.net
+planefinder.net##.ad-container
+
+! 2022-01-30 https://www.radarbox.com
+www.radarbox.com##.intro
+www.radarbox.com##.social-media
+www.radarbox.com##.media-container
+www.radarbox.com##.cZaNit.Media__MediaStyle-sc-6tq23z-0
+www.radarbox.com###privacy-popup
+www.radarbox.com###pub1 > .noads
+www.radarbox.com###pub1 > .remove-pub > [href="/subscribe"]
+
+! 2022-01-30 https://de.flightaware.com
+de.flightaware.com###cookieDisclaimerContainer
+de.flightaware.com##.app-icons
+de.flightaware.com##.social
+
+! 2022-01-30 https://www.flightradar24.com
+www.flightradar24.com##.important-banner--is-open.important-banner--cookies.important-banner
+
