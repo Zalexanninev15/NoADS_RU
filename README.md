@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/platforms-AdBlocker_Extensions-FF443E.svg)](https://github.com/Zalexanninev15/NoADS_RU)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/commits/main)
 [![](https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/stargazers)
-[![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/network/main)
+[![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/network/members)
 [![](https://img.shields.io/github/issues/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aopen+is%3Aissue)
 [![](https://img.shields.io/github/issues-closed/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aissue+is%3Aclosed)
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
