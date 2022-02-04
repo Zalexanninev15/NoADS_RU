@@ -46,14 +46,16 @@
 #### - Добавление вручную
 1. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 2. Следуйте данной гифке
+
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/uBlockOrigin-how.gif)
-Ссылка, которую нужно вставить: https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt
+Ссылка, которую нужно вставить: `https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt`
 
 ### b) Без автообновления списка (полностью вручную)
 1. Зайдите по [этой](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt) ссылке и нажмите в любое место правой кнопкой мыши
 2. Выберите пункт "Сохранить как" и сохраните в нужное вам место
 3. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
-4. Следуйте данной гифке. После импорта файл можно удалить
+4. Следуйте данной гифке, после импорта файл можно удалить
+
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/uBlockOrigin-how_from-file.gif)
 
 ## Решения проблем
