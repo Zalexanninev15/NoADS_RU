@@ -8505,3 +8505,21 @@ de.flightaware.com##.social
 ! 2022-01-30 https://www.flightradar24.com
 www.flightradar24.com##.important-banner--is-open.important-banner--cookies.important-banner
 
+! 2022-02-03 https://laoshi.io
+laoshi.io##.justify-center.d-flex
+laoshi.io##.d-flex.rounded.promo
+
+! 2022-02-03 https://www.kryptor.co.uk
+www.kryptor.co.uk##.r-l13dpy.r-u8s1d.css-1dbjc4n > .css-1dbjc4n
+
+! 2022-02-03 http://tapochek.net
+tapochek.net##div.pad_2.tCenter:nth-of-type(4)
+||tapochek.net/images/net_rekl.png$image
+tapochek.net##div.pad_2.tCenter:nth-of-type(5)
+
+! 2022-02-03 http://fost.club
+fost.club##div.clearfix.ipsSideBlock:nth-of-type(2)
+fost.club##div.clearfix.ipsSideBlock:nth-of-type(1)
+fost.club##div.clearfix.ipsSideBlock:nth-of-type(3)
+fost.club###stat_links > li:nth-of-type(3)
+
