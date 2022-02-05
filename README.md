@@ -2,7 +2,7 @@
 
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/NoADS_RU%20Logo.png?raw=true)
 
-[![](https://img.shields.io/badge/platforms-AdBlocker_Extensions-FF443E.svg)](https://github.com/Zalexanninev15/NoADS_RU)
+[![](https://img.shields.io/badge/platforms-AdBlocking_Extensions-F40D12.svg?logo=adblock)](https://github.com/Zalexanninev15/NoADS_RU)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/commits/main)
 [![](https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/stargazers)
 [![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/network/members)
@@ -26,12 +26,14 @@
 * Всё, что заблокировано выше, я также стараюсь блокировать и в мобильных версиях сайтов [происходит достаточно редко, т.к. данный список нацелен, в первую очередь, на десктоп-версии сайтов]
 
 **Список буду расширять по мере посещения сайтов**
-## Проверено на расширениях
+## Список совместим с
 * uBlock Origin (***Desktop***)
 * AdGuard Content Blocker для Samsung Browser и Яндекс Браузер (***Android***)
 * AdGuard Антибаннер (***Desktop***)
-* Другие расширения также будут работать с данным списком; возможно в браузерах, которые имеют встроенную защиту от рекламы с поддержкой пользовательских списков 
+* Другими расширениями, которые поддерживают пользовательские списки
+* Браузеры, которые имеют встроенную защиту от рекламы с поддержкой пользовательских списков
 
+[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru)
 ## Инструкция по использованию (на примере uBlock Origin)
 ### a) С автообновлением списка
 #### - Добавление автоматически
