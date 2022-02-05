@@ -34,7 +34,7 @@
 * Браузерами, которые имеют встроенную защиту от рекламы с поддержкой пользовательских списков
 
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru)
-## Инструкция по использованию (на примере uBlock Origin)
+## Инструкция по настройке расширения для работы со списком (на примере uBlock Origin)
 ### a) С автообновлением списка
 #### - Добавление автоматически
 Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), далее всё зависит от версии плагина:
