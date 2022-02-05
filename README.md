@@ -31,7 +31,7 @@
 * AdGuard Content Blocker для Samsung Browser и Яндекс Браузер (***Android***)
 * AdGuard Антибаннер (***Desktop***)
 * Другими расширениями, которые поддерживают пользовательские списки
-* Браузеры, которые имеют встроенную защиту от рекламы с поддержкой пользовательских списков
+* Браузерами, которые имеют встроенную защиту от рекламы с поддержкой пользовательских списков
 
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru)
 ## Инструкция по использованию (на примере uBlock Origin)
