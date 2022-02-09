@@ -8523,3 +8523,25 @@ fost.club##div.clearfix.ipsSideBlock:nth-of-type(1)
 fost.club##div.clearfix.ipsSideBlock:nth-of-type(3)
 fost.club###stat_links > li:nth-of-type(3)
 
+! 2022-02-05 https://www.mediafire.com
+www.mediafire.com##.social-fb-cont
+www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-downloadApp
+
+! 2022-02-07 https://www.pythonanywhere.com
+www.pythonanywhere.com##.cookie-warning.alert-dismissible.alert-warning.alert.navbar
+
+! 2022-02-07 https://meet.jit.si
+meet.jit.si##.chrome-extension-banner
+meet.jit.si##.welcome-footer--row-1.welcome-footer-row-block
+meet.jit.si##.welcome-footer--row-2.welcome-footer-row-block
+
+! 2022-02-07 https://0data.app
+0data.app##.OLSKDecor.OLSKBanner
+
+! 2022-02-08 https://www.syncfusion.com
+www.syncfusion.com##.ss-ic.s_stk > ul > li > .s_fb
+www.syncfusion.com##.ss-ic.s_stk > ul > li
+
+! 2022-02-09 https://www.octotree.io
+www.octotree.io##.cookie-theme.cookie
+
