@@ -8545,3 +8545,34 @@ www.syncfusion.com##.ss-ic.s_stk > ul > li
 ! 2022-02-09 https://www.octotree.io
 www.octotree.io##.cookie-theme.cookie
 
+! 2022-02-09 https://pycom.io
+pycom.io##.cookie-notice-container
+
+! 2022-02-09 https://www.computerperformance.co.uk
+www.computerperformance.co.uk##.di-cookie-consent-pop
+
+! 2022-02-09 https://community.spiceworks.com
+community.spiceworks.com##.zd-banner__message
+community.spiceworks.com###zdprivacy-content > .zd-banner
+
+! 2022-02-09 https://www.cpuid.com
+www.cpuid.com##.cf2DrG.notranslate.cf2CeT
+www.cpuid.com##.cf19Bv.cf26vr
+
+! 2022-02-09 http://nizaury.blogspot.com
+nizaury.blogspot.com##.cookie-choices-inner
+nizaury.blogspot.com##.singleton-element.cookie-choices-info
+
+! 2022-02-10 https://timheuer.com
+timheuer.com##.cc-color-override--597518574.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+
+! 2022-02-11 https://www.hanselman.com
+www.hanselman.com##.cc-color-override-599147086.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2022-02-11 https://www.fourthbottle.com
+www.fourthbottle.com##.singleton-element.cookie-choices-info
+
+! 2022-02-12 https://fonts.google.com
+fonts.google.com##.cookie-bar
+fonts.google.com##.gf-header > .ng-star-inserted
+
