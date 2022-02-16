@@ -1946,7 +1946,7 @@ passport.yandex.ru##.registration__social-btn_short.registration__gg-btn
 ! 14.03.2020 https://tlgrm.ru
 tlgrm.ru##[href="https://tlgrm.ru/info/promo/channels"]
 
-! 16.03.2020 https://www.yandex.ru
+! 16.03.2020 https://yandex.ru
 www.yandex.ru##.link_js_inited.i-bem.promo-popup__social-icon_bg_gg-white.promo-popup__social-icon_type_gg.promo-popup__social-icon.link_theme_normal.link
 
 ! 16.03.2020 https://4pda.ru
