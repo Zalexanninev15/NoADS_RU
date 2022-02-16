@@ -1946,7 +1946,7 @@ passport.yandex.ru##.registration__social-btn_short.registration__gg-btn
 ! 14.03.2020 https://tlgrm.ru
 tlgrm.ru##[href="https://tlgrm.ru/info/promo/channels"]
 
-! 16.03.2020 https://yandex.ru
+! 16.03.2020 https://www.yandex.ru
 www.yandex.ru##.link_js_inited.i-bem.promo-popup__social-icon_bg_gg-white.promo-popup__social-icon_type_gg.promo-popup__social-icon.link_theme_normal.link
 
 ! 16.03.2020 https://4pda.ru
@@ -8644,4 +8644,27 @@ disk.yandex.ru##.AppLink
 
 ! 2022-02-16 https://www.canva.com
 www.canva.com##.src-ui-base-typography-typography_internal__fontSmoothing.src-ui-base-typography-typography_internal__textMedium.src-ui-base-link-link__alert.src-ui-base-alert-alert__alert.src-ui-base-alert-alert__info.src-ui-base-alert-alert__default.Do0Pf71nO8\+RYQYexCtpWA\=\=
+
+! 2022-02-16 https://disk.yandex.ru
+disk.yandex.ru##.listing-stub__action-button.Button2_size_m.Button2_view_raised.Button2_theme_raised.Button2_type_link.Button2
+disk.yandex.ru##p:nth-of-type(2)
+
+! 2022-02-16 https://mail.yandex.ru
+mail.yandex.ru##div.nOdYzz0zfD5Y:nth-of-type(1)
+mail.yandex.ru##div.nOdYzz0zfD5Y:nth-of-type(2)
+
+! 2022-02-16 https://yandex.ru
+yandex.ru##.yamb-chat-not-selected__store-badge-row
+
+! 2022-02-16 https://calendar.yandex.ru
+calendar.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(4)
+
+! 2022-02-16 https://yandex.ru
+yandex.ru##div.media-infinity-footer__part:nth-of-type(1)
+yandex.ru##div.links-section:nth-of-type(1) > .links-section__list > a.cA8feXOM.links-section__link.link_theme_normal.link:nth-of-type(1)
+yandex.ru##.link_js_inited.meteum-promo_js_inited.cA8feXOM.card.meteum-promo.link
+yandex.ru###mtrnbth
+yandex.ru###ddpazslt
+yandex.ru###lqswiwtk
+yandex.ru##.cB4vMFOJQXladbQnBhw__ad.cHY_dTeZQSg_dfBjcvWgUDgw_OTqloeuv86611w.cHY_dTeZQSg_dfBjcvWgUDg
 
