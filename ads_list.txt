@@ -8576,3 +8576,72 @@ www.fourthbottle.com##.singleton-element.cookie-choices-info
 fonts.google.com##.cookie-bar
 fonts.google.com##.gf-header > .ng-star-inserted
 
+! 2022-02-12 https://www.teamdev.com
+www.teamdev.com###cookieChoiceInfo
+
+! 2022-02-14 http://www.aspbucket.com
+www.aspbucket.com##.cc_container--open.cc_container.cc_banner
+www.aspbucket.com##.cookie-choices-inner
+www.aspbucket.com##.singleton-element.cookie-choices-info
+
+! 2022-02-14 https://cloud.mail.ru
+cloud.mail.ru##.tooltipDiskOContent
+
+! 2022-02-14 https://aliexpress.ru
+aliexpress.ru##.ali-kit_Dialog__background__1lirhm
+aliexpress.ru##.WebPush_WebPush__webpushUi__1eiqb
+
+! 2022-02-14 https://softwarebydefault.com
+softwarebydefault.com###cmp-app-container > div > iframe
+
+! 2022-02-14 https://cssgradient.io
+cssgradient.io###mtm-frame-container > iframe
+
+! 2022-02-14 https://seeklogo.com
+seeklogo.com##.cc-color-override-688238583.cc-left.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+
+! 2022-02-14 https://aliexpress.ru
+aliexpress.ru##.PrivacyPolicyBanner-module_wrapper__1Zzhs.ali-kit_Paragraph__size-xs__1w2ua6.ali-kit_Paragraph__paragraph__1w2ua6.ali-kit_Base__default__1odrub.ali-kit_Base__base__1odrub
+
+! 2022-02-14 https://store.steampowered.com
+store.steampowered.com##.cookiepreferences_popup_content
+
+! 2022-02-14 https://www.kcsoftwares.com
+www.kcsoftwares.com##.cc_container--open.cc_container.cc_banner
+
+! 2022-02-15 https://mkvtoolnix.download
+mkvtoolnix.download##.simple.dark.cc_dialog.cc_css_reboot
+
+! 2022-02-15 https://askubuntu.com
+askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-02-15 https://www.canva.com
+www.canva.com##.jv5LaQ
+
+! 2022-02-15 https://xaegr.wordpress.com
+xaegr.wordpress.com##iframe:nth-of-type(1)
+
+! 2022-02-15 https://arcanecode.com
+arcanecode.com###cmp-app-container iframe
+
+! 2022-02-15 https://www.linkedin.com
+www.linkedin.com##.artdeco-global-alert--COOKIE_CONSENT.artdeco-global-alert--NOTICE.artdeco-global-alert
+www.linkedin.com##.transition-in.global-alert-banner
+
+! 2022-02-15 https://forums.techguy.org
+forums.techguy.org##.notice--cookie.notice--primary.js-notice.notice > .notice-content
+
+! 2022-02-15 https://www.devowl.net
+www.devowl.net##.singleton-element.cookie-choices-info
+www.devowl.net##.open.sticky.header-drawer
+
+! 2022-02-15 http://www.dotnetblog.ru
+www.dotnetblog.ru##.singleton-element.cookie-choices-info
+
+! 2022-02-16 https://disk.yandex.ru
+disk.yandex.ru##.Subscription-Onboarding-Root
+disk.yandex.ru##.AppLink
+
+! 2022-02-16 https://www.canva.com
+www.canva.com##.src-ui-base-typography-typography_internal__fontSmoothing.src-ui-base-typography-typography_internal__textMedium.src-ui-base-link-link__alert.src-ui-base-alert-alert__alert.src-ui-base-alert-alert__info.src-ui-base-alert-alert__default.Do0Pf71nO8\+RYQYexCtpWA\=\=
+
