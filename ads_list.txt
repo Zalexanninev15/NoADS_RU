@@ -692,6 +692,7 @@ yandex.ru##.head-promo-plus__icon
 yandex.ru##.head-promo-plus__title
 yandex.ru##.serp-footer__right
 yandex.ru##div.serp-footer__col:nth-of-type(1)
+yandex.ru##.link_js_inited.i-bem.promo-popup__social-icon_bg_gg-white.promo-popup__social-icon_type_gg.promo-popup__social-icon.link_theme_normal.link
 
 ! 14.02.2020 https://www.liveexpert.ru
 ||s.liveexpert.ru/public/images/fb-icon.png?v=87d4d1bf0280055dabe6bcdee470a5c8c4da7f3f$image
@@ -1946,8 +1947,6 @@ passport.yandex.ru##.registration__social-btn_short.registration__gg-btn
 ! 14.03.2020 https://tlgrm.ru
 tlgrm.ru##[href="https://tlgrm.ru/info/promo/channels"]
 
-! 16.03.2020 https://www.yandex.ru
-www.yandex.ru##.link_js_inited.i-bem.promo-popup__social-icon_bg_gg-white.promo-popup__social-icon_type_gg.promo-popup__social-icon.link_theme_normal.link
 
 ! 16.03.2020 https://4pda.ru
 1584178604$domain=4pda.ru,image
@@ -8667,4 +8666,23 @@ yandex.ru###mtrnbth
 yandex.ru###ddpazslt
 yandex.ru###lqswiwtk
 yandex.ru##.cB4vMFOJQXladbQnBhw__ad.cHY_dTeZQSg_dfBjcvWgUDgw_OTqloeuv86611w.cHY_dTeZQSg_dfBjcvWgUDg
+
+! 2022-02-16 https://motionden.com
+motionden.com##.md-cookie-popup > div
+
+! 2022-02-16 https://editorsdepot.com
+editorsdepot.com##.margin-bottom-20.row > .col-md-12
+editorsdepot.com##.margin-bottom-20.margin-top-10.col-md-9.col-md-offset-3
+
+! 2022-02-16 https://gamedev.timurgafarov.ru
+gamedev.timurgafarov.ru##.grecaptcha-logo
+
+! 2022-02-16 https://dcoding.wordpress.com
+dcoding.wordpress.com###cmp-app-container iframe
+
+! 2022-02-16 http://arclib.blogspot.com
+arclib.blogspot.com##.singleton-element.cookie-choices-info
+
+! 2022-02-16 https://www.gamesfrommars.fr
+www.gamesfrommars.fr##.cookie-notice-container
 
