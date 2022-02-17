@@ -8686,3 +8686,27 @@ arclib.blogspot.com##.singleton-element.cookie-choices-info
 ! 2022-02-16 https://www.gamesfrommars.fr
 www.gamesfrommars.fr##.cookie-notice-container
 
+! 2022-02-17 https://highload.today
+||highload.today/wp-content/themes/supermc/images/popup/back-popup.jpg$image
+highload.today##.mobile-hide.slideUp.popup-bottom > .container
+highload.today##.cookie-notice-container
+
+! 2022-02-17 https://ubunlog.com
+ubunlog.com##.machete_cookie_bar
+
+! 2022-02-17 https://marketplace.visualstudio.com
+marketplace.visualstudio.com##._23tra1HsiiP6cT-Cka-ycB
+
+! 2022-02-17 https://code.visualstudio.com
+code.visualstudio.com##._23tra1HsiiP6cT-Cka-ycB
+code.visualstudio.com##.home.updates-banner
+
+! 2022-02-17 https://realfavicongenerator.net
+realfavicongenerator.net##.cc_container--open.cc_container.cc_banner
+
+! 2022-02-17 https://hoppscotch.io
+hoppscotch.io##.default.toasted-primary.toasted
+
+! 2022-02-17 https://quicktype.io
+quicktype.io##.bg-gradient
+
