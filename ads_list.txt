@@ -8710,3 +8710,25 @@ hoppscotch.io##.default.toasted-primary.toasted
 ! 2022-02-17 https://quicktype.io
 quicktype.io##.bg-gradient
 
+! 2022-02-17 https://duckduckgo.com
+duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link
+
+! 2022-02-18 https://www.softwaretestinghelp.com
+www.softwaretestinghelp.com##.tve_p_lb_overlay
+www.softwaretestinghelp.com##.tve-leads-triggered.cnt.bSe.tl-anim-zoom_in.tve-tl-anim.tve_p_lb_content
+www.softwaretestinghelp.com##.tve_lb_opening.tve_lb_open.tve_p_lb_background.tve-leads-track-lightbox-3.tl-lb-target
+
+! 2022-02-18 https://www.pngwing.com
+www.pngwing.com##.cc-color-override-530831885.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+
+! 2022-02-18 https://ru.botostore.com
+ru.botostore.com##.show.cookiealert.text-center.alert
+ru.botostore.com##.ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+ru.botostore.com##.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+ru.botostore.com##.ya-share2__item_service_vkontakte.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+ru.botostore.com##.ya-share2__item_service_whatsapp.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+ru.botostore.com##.ya-share2__item_service_viber.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+ru.botostore.com##.ya-share2__item_service_skype.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
+ru.botostore.com##a.mb-2.mr-4.list-inline-item:nth-of-type(1)
+ru.botostore.com##a.mb-2.mr-4.list-inline-item:nth-of-type(2)
+
