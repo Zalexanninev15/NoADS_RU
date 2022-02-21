@@ -1,4 +1,4 @@
-! List: NoADS_RU (2020-2021)
+! List: NoADS_RU (2020-2022)
 ! Author: Zalexanninev15
 ! License: MIT
 ! GitHub: github.com/Zalexanninev15/NoADS_RU
@@ -1946,7 +1946,6 @@ passport.yandex.ru##.registration__social-btn_short.registration__gg-btn
 
 ! 14.03.2020 https://tlgrm.ru
 tlgrm.ru##[href="https://tlgrm.ru/info/promo/channels"]
-
 
 ! 16.03.2020 https://4pda.ru
 1584178604$domain=4pda.ru,image
@@ -8731,4 +8730,14 @@ ru.botostore.com##.ya-share2__item_service_viber.ya-share2__item > .ya-share2__l
 ru.botostore.com##.ya-share2__item_service_skype.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
 ru.botostore.com##a.mb-2.mr-4.list-inline-item:nth-of-type(1)
 ru.botostore.com##a.mb-2.mr-4.list-inline-item:nth-of-type(2)
+
+! 2022-02-20 https://pureinfotech.com
+pureinfotech.com##.mailmunch-topbar-iframe-17f17c1c9b13c82.mailmunch-topbar-iframe
+pureinfotech.com##.cc-color-override--724964106.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+
+! 2022-02-20 https://www.deviantart.com
+www.deviantart.com##.J3UQI
+
+! 2022-02-21 https://www.nuget.org
+www.nuget.org###cookie-banner
 
