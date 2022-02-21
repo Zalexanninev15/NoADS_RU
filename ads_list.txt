@@ -8741,3 +8741,10 @@ www.deviantart.com##.J3UQI
 ! 2022-02-21 https://www.nuget.org
 www.nuget.org###cookie-banner
 
+! 2022-02-21 https://skillbox.ru
+skillbox.ru##.open.subscribe.subscribe-popup
+
+! 2022-02-21 https://aliexpress.ru
+aliexpress.ru##.TopBanner-styles_bannerLink__1na4w.ali-kit_Link__default__cmgtoz.ali-kit_Link__size-s__cmgtoz.ali-kit_Link__link__cmgtoz.ali-kit_Base__default__104pa1.ali-kit_Base__base__104pa1
+aliexpress.ru##.PrivacyPolicyBanner-module_wrapper__1Zzhs.ali-kit_Paragraph__size-xs__1w2ua6.ali-kit_Paragraph__paragraph__1w2ua6.ali-kit_Base__default__104pa1.ali-kit_Base__base__104pa1
+
