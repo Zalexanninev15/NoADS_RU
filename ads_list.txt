@@ -8748,3 +8748,46 @@ skillbox.ru##.open.subscribe.subscribe-popup
 aliexpress.ru##.TopBanner-styles_bannerLink__1na4w.ali-kit_Link__default__cmgtoz.ali-kit_Link__size-s__cmgtoz.ali-kit_Link__link__cmgtoz.ali-kit_Base__default__104pa1.ali-kit_Base__base__104pa1
 aliexpress.ru##.PrivacyPolicyBanner-module_wrapper__1Zzhs.ali-kit_Paragraph__size-xs__1w2ua6.ali-kit_Paragraph__paragraph__1w2ua6.ali-kit_Base__default__104pa1.ali-kit_Base__base__104pa1
 
+! 2022-02-21 https://disk.yandex.ru
+disk.yandex.ru##.listing-scans-stub__content
+disk.yandex.ru##.listing-scans-stub_desktop.listing-scans-stub
+
+! 2022-02-23 https://sinoptik.com.ru
+sinoptik.com.ru##.HqcsIF_s
+sinoptik.com.ru##a._3Ho_G756._3NAu5PND:nth-of-type(4)
+sinoptik.com.ru##._2_XsDZTD
+
+! 2022-02-24 https://hidemy.name
+hidemy.name##.active.i_agree_block_fix.go_to_control_panel_2
+
+! 2022-02-25 https://cardgenerator.org
+cardgenerator.org##.mt-sm-5.mt-2.col-md-12.col-sm-12.col-xs-12
+
+! 2022-02-25 https://www.prepostseo.com
+www.prepostseo.com##.justify-content-center.row-wrap.row
+
+! 2022-02-26 https://www.directorylister.com
+www.directorylister.com##.sm\:flex-row.mx-auto.py-2.px-4.text-white.shadow-lg.bg-black.rounded-lg.flex-wrap.items-center.justify-between.flex.container
+
+! 2022-02-26 https://xn--90abhbolvbbfgb9aje4m.xn--p1ai
+xn--90abhbolvbbfgb9aje4m.xn--p1ai##[href="/link/42/"]
+xn--90abhbolvbbfgb9aje4m.xn--p1ai##[href="/link/45/"]
+
+! 2022-02-26 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.ad_course_banner
+www.geeksforgeeks.org##.textBasedMannualAds_2
+
+! 2022-02-26 https://www.mysitemapgenerator.com
+www.mysitemapgenerator.com###cookieConsent > span
+www.mysitemapgenerator.com##.jssocials-share-facebook.jssocials-share > .jssocials-share-link
+www.mysitemapgenerator.com##.jssocials-share-twitter.jssocials-share > .jssocials-share-link
+www.mysitemapgenerator.com##.jssocials-share-linkedin.jssocials-share > .jssocials-share-link
+
+! 2022-02-27 https://ok.ru
+ok.ru##.cmpBoxWelcomeOptIn.cmpboxWelcomeGDPR.cmpbox0.cmpstyleroot.cmpbox
+
+! 2022-02-28 https://pyfound.blogspot.com
+pyfound.blogspot.com##.cookie-choices-inner
+||www.blogger.com/navbar.g$subdocument
+pyfound.blogspot.com##.singleton-element.cookie-choices-info
+
