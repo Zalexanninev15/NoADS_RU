@@ -7187,9 +7187,6 @@ docviewer.yandex.ru##.bqldtllm.tyjqbde.dkkdud
 docviewer.yandex.ru##.wqmvaxqie.jymkop.axhqlyl > div
 docviewer.yandex.ru##.xghvemede.qpdsbfi.dqsztov > div
 
-! 2021-05-25 https://disk.yandex.ru
-disk.yandex.ru##.hover-tooltip__tooltip-anchor
-
 ! 2021-05-25 https://market.yandex.ru
 market.yandex.ru##div._2owod27rPb:nth-of-type(1) > a._1AHfXkp0Kh:nth-of-type(5)
 market.yandex.ru##._328v97CWdS.-cdp_0Z6eM._2qJqWlbgPD._3On9A5N225.u5aIqLJarC._2J-RNwHVBh > ._3gkGGxTSxB > ._2OxirYo7My
@@ -8790,4 +8787,21 @@ ok.ru##.cmpBoxWelcomeOptIn.cmpboxWelcomeGDPR.cmpbox0.cmpstyleroot.cmpbox
 pyfound.blogspot.com##.cookie-choices-inner
 ||www.blogger.com/navbar.g$subdocument
 pyfound.blogspot.com##.singleton-element.cookie-choices-info
+
+! 2022-03-01 https://www.playground.ru
+www.playground.ru##.service.bounceInUp.animated.float-teaser
+
+! 2022-03-01 https://ok.ru
+ok.ru##.anon-main-design21_promo-banner-image-original.anon-main-design21_promo-banner-image
+ok.ru##.anon-main-design21_promo-banner-image-draft.anon-main-design21_promo-banner-image
+ok.ru##.anon-main-design21_promo-banner.js-promo-banner
+ok.ru##.__apple.__s.social-icon
+ok.ru##.__apple.__small.social-icon-button.h-mod
+
+! 2022-03-01 https://yandex.ru
+yandex.ru##._1_Mpb1lQAb
+yandex.ru##._1Hq2VeLrpL
+
+! 2022-03-01 https://webomast.ru
+webomast.ru##.bottom.belt.aws-cookie
 
