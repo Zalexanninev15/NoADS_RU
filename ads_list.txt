@@ -8805,3 +8805,12 @@ yandex.ru##._1Hq2VeLrpL
 ! 2022-03-01 https://webomast.ru
 webomast.ru##.bottom.belt.aws-cookie
 
+! 2022-03-01 https://www.canon.ru
+www.canon.ru##.desktop.survey_popup
+
+! 2022-03-03 https://up-load.io
+up-load.io##.buyPremium.alert-success.alert
+
+! 2022-03-06 https://www.msi.com
+www.msi.com###ccc-overlay
+
