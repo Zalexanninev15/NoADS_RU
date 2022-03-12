@@ -81,7 +81,6 @@ cloud.mail.ru##a.x-ph__link:nth-of-type(4)
 cloud.mail.ru##.x-ph__link_first.x-ph__link
 
 ! 13.02.2020 https://aliexpress.ru
-||ae01.alicdn.com/kf/H7189d4bd8015429ea4349cf3c7da2c38X.png$image
 aliexpress.ru##.top-banner-container > [href^="//campaign.aliexpress.com/wow/gf/upr-daily"]
 aliexpress.ru##.top-banner-container
 aliexpress.ru##.multi-sidebar-tab
@@ -8813,4 +8812,50 @@ up-load.io##.buyPremium.alert-success.alert
 
 ! 2022-03-06 https://www.msi.com
 www.msi.com###ccc-overlay
+
+! 2022-03-10 https://cloud.mail.ru
+cloud.mail.ru##.cmpBoxWelcomeOptIn.cmpboxWelcomeGDPR.cmpbox0.cmpstyleroot.cmpbox
+
+! 2022-03-10 https://todo.microsoft.com
+todo.microsoft.com##.otherApps
+
+! 2022-03-12 https://docs.yandex.ru
+docs.yandex.ru##.InfoSpace__Button.Button2_width_max.Button2_size_m.Button2_view_action.Button2
+
+! 2022-03-12 https://disk.yandex.ru
+disk.yandex.ru##.InfoSpace__Button.Button2_width_max.Button2_size_m.Button2_view_action.Button2
+disk.yandex.ru##a.footer__link.Link_theme_ghost.Link:nth-of-type(6)
+disk.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(5)
+
+! 2022-03-12 https://yandex.ru
+yandex.ru##.yamb-chat-not-selected__subtitle
+yandex.ru##.content> div >.content__main + div
+
+! 2022-03-12 https://mail.yandex.ru
+mail.yandex.ru##.ns-view-id-223.ns-view-ixoWoZ8iSI0gQKuzafswZXg
+
+! 2022-03-12 https://calcok.com
+calcok.com###cookie-law-container
+
+! 2022-03-12 https://mail.yandex.ru
+||mail.yandex.ru/u*
+
+! 2022-03-12 https://yandex.ru
+yandex.ru##.services-new__promo_mix-icon.services-new__promo.services-new__item.home-link
+yandex.ru##.link_js_inited.meteum-promo_js_inited
+
+! 2022-03-12 https://zen.yandex.ru
+zen.yandex.ru##.feed-subscription-promo-content
+
+! 2022-03-12 https://club.dns-shop.ru
+club.dns-shop.ru##.share
+
+! 2022-03-12 https://yandex.ru
+yandex.ru###otpzsbib
+
+! 2022-03-12 https://zen.yandex.ru
+zen.yandex.ru##a.zen-ui-card-context-menu-share-icon.zen-ui-context-menu__item:nth-of-type(3)
+zen.yandex.ru##a.zen-ui-card-context-menu-share-icon.zen-ui-context-menu__item:nth-of-type(2)
+zen.yandex.ru##a.zen-ui-card-context-menu-share-icon.zen-ui-context-menu__item:nth-of-type(1)
+zen.yandex.ru##a.zen-ui-card-context-menu-share-icon.zen-ui-context-menu__item:nth-of-type(4)
 
