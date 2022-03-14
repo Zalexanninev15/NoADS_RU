@@ -8859,3 +8859,17 @@ zen.yandex.ru##a.zen-ui-card-context-menu-share-icon.zen-ui-context-menu__item:n
 zen.yandex.ru##a.zen-ui-card-context-menu-share-icon.zen-ui-context-menu__item:nth-of-type(1)
 zen.yandex.ru##a.zen-ui-card-context-menu-share-icon.zen-ui-context-menu__item:nth-of-type(4)
 
+! 2022-03-12 https://www.asrock.com
+www.asrock.com###AcceptCookies > p
+
+! 2022-03-13 https://yandex.ru
+yandex.ru##.link_icon_plus.link_theme_normal.link
+
+! 2022-03-13 https://passport.yandex.ru
+passport.yandex.ru##.AuthSocialBlock-provider_code_vk.AuthSocialBlock-provider
+passport.yandex.ru##.AuthSocialBlock-provider_code_fb.AuthSocialBlock-provider
+passport.yandex.ru##button.AuthSocialBlock-provider:nth-of-type(5)
+
+! 2022-03-13 https://yandex.ru
+yandex.ru##.i-bem.distr-smartbanner_type_blue-button.distr-smartbanner_size_m.distr-smartbanner
+
