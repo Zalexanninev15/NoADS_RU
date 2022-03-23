@@ -3754,7 +3754,6 @@ www.softwareok.com###cookiebar
 ! 17.08.2020 https://rsload.net
 rsload.net##div.side-box:nth-of-type(2) > .side-bc
 rsload.net##div.side-box:nth-of-type(2) > .icon-l.side-bt
-||rsload.net/images5/icon85782745r.png$image
 
 ! 17.08.2020 https://www.softslot.com
 www.softslot.com##.software > div:nth-of-type(5)
@@ -8872,4 +8871,58 @@ passport.yandex.ru##button.AuthSocialBlock-provider:nth-of-type(5)
 
 ! 2022-03-13 https://yandex.ru
 yandex.ru##.i-bem.distr-smartbanner_type_blue-button.distr-smartbanner_size_m.distr-smartbanner
+
+! 2022-03-14 https://rsload.net
+rsload.net##[href="/tutvce.html"]
+
+! 2022-03-15 https://help.jimdo.com
+help.jimdo.com##.pp-limiter
+help.jimdo.com##.article-votes
+
+! 2022-03-15 https://www.xml-sitemaps.com
+www.xml-sitemaps.com##.cookietext
+www.xml-sitemaps.com##.animated.cookieconsent
+
+! 2022-03-16 https://create.vista.com
+create.vista.com##.bannerWrapper___2_FXx
+create.vista.com##.cookie-warning__container
+
+! 2022-03-16 http://aeplug.ru
+aeplug.ru##.quickads_items_bottom.quickads_items
+aeplug.ru##.quickads_frames_bottom.quickads_frames
+
+! 2022-03-16 https://photography.tutsplus.com
+photography.tutsplus.com###CybotCookiebotDialog
+
+! 2022-03-16 https://videohive.net
+videohive.net##.js-banner__link.headerstrip
+
+! 2022-03-17 https://community.adobe.com
+community.adobe.com##.ot-sdk-columns.ot-sdk-eight
+
+! 2022-03-18 https://www.istocks.club
+www.istocks.club##.cookie-notice-container
+
+! 2022-03-18 https://www.stahuj.cz
+www.stahuj.cz##.didomi-regular-notice-with-data-processing.bottom.shape-banner.didomi-notice-banner.didomi-banner-notice-info-type.didomi-regular-notice
+
+! 2022-03-18 https://www.premiumbeat.com
+www.premiumbeat.com###onetrust-banner-sdk > .ot-sdk-container
+www.premiumbeat.com##a.Rg0RB._2KOJq._1tPSC._1hnuK.P8Lj3:nth-of-type(4)
+www.premiumbeat.com##a.Rg0RB._2KOJq._1tPSC._1hnuK.P8Lj3:nth-of-type(1)
+www.premiumbeat.com##a.Rg0RB._2KOJq._1tPSC._1hnuK.P8Lj3:nth-of-type(2)
+
+! 2022-03-18 https://pixabay.com
+pixabay.com##.ot-sdk-row
+pixabay.com##.premiumbeat-banner
+
+! 2022-03-20 https://prozavr.ru
+prozavr.ru###content > div > div
+
+! 2022-03-20 https://alexbruni.ru
+alexbruni.ru##.video
+alexbruni.ru##.mb-1.p-0.m-0.container > .row > .col
+alexbruni.ru##.video-bg
+alexbruni.ru##.ml-3.ml-md-4.ml-lg-5.video-title > .ml-3.ml-md-4.ml-lg-5
+alexbruni.ru##.ml-3.ml-md-4.ml-lg-5.video-title > .ml-3.ml-md-4.ml-lg-5
 
