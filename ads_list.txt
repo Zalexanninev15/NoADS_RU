@@ -1416,9 +1416,6 @@ yandex.ru###ceespg
 yandex.ru###kueiecht
 yandex.ru###zqkvjb
 
-! 04.03.2020 https://tv.yandex.ru
-tv.yandex.ru##.footer__group_right.footer__group > a.link:nth-of-type(1)
-
 ! 04.03.2020 https://www.ozon.ru
 www.ozon.ru##.a
 www.ozon.ru##.block-vertical > .c2c4.container > div.row:nth-of-type(1)
@@ -8824,7 +8821,6 @@ docs.yandex.ru##.InfoSpace__Button.Button2_width_max.Button2_size_m.Button2_view
 ! 2022-03-12 https://disk.yandex.ru
 disk.yandex.ru##.InfoSpace__Button.Button2_width_max.Button2_size_m.Button2_view_action.Button2
 disk.yandex.ru##a.footer__link.Link_theme_ghost.Link:nth-of-type(6)
-disk.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(5)
 
 ! 2022-03-12 https://yandex.ru
 yandex.ru##.yamb-chat-not-selected__subtitle
@@ -8925,4 +8921,65 @@ alexbruni.ru##.mb-1.p-0.m-0.container > .row > .col
 alexbruni.ru##.video-bg
 alexbruni.ru##.ml-3.ml-md-4.ml-lg-5.video-title > .ml-3.ml-md-4.ml-lg-5
 alexbruni.ru##.ml-3.ml-md-4.ml-lg-5.video-title > .ml-3.ml-md-4.ml-lg-5
+
+! 2022-03-24 https://findicons.com
+findicons.com##.bold.navbar-qards-inverse.navbar-qards
+
+! 2022-03-25 https://telemost.yandex.ru
+telemost.yandex.ru##.Button_1q7O5huLK8zWkpIqhQb5ya.buttonInstallApp_2MR8ZsBBApz2MlOSAbSsdQ.footerButton_3FSQ7Zgl5aGycjQAg5qx6s.Button2_view_blur.Button2
+
+! 2022-03-25 https://auto.ru
+auto.ru##.CreditFilterWithTooltips__popupContent
+auto.ru##.Popup__tailSvg
+auto.ru##.GeoSelect__confirm
+auto.ru##.IndexSelectorNewCarsBanner
+auto.ru##.Index__col.IndexSocialLinks
+auto.ru##div.y0xKhvs4pHLXQqQ.Index__block:nth-of-type(11)
+auto.ru##.FooterSocialLinks
+
+! 2022-03-25 https://music.yandex.ru
+music.yandex.ru##.d-links
+
+! 2022-03-25 https://tv.yandex.ru
+tv.yandex.ru##.nkMHiK0rvFLS3vQ__nltf9YhDlGKQ.grid__pNKYyRw > .nltf9YgrtEqCaszk__wrapper > .nltf9YgrtEqCaszk
+tv.yandex.ru##.nkMHiK0rvFLS3vQ__nltf9YhDlGKQ.grid__pNKYyRw
+tv.yandex.ru##.main-controller__nltf9YgXjCLW2uw > .nltf9YgrtEqCaszk__wrapper > .nltf9YgrtEqCaszk
+tv.yandex.ru##.nkMHiK0rvFLS3vQ__nltf9YgTjELS0uA > .nltf9YgrtEqCaszk__wrapper > .nltf9YgrtEqCaszk
+tv.yandex.ru##.nkMHiK0rvFLS3vQ__nlNznOgriUaO2rg.grid__pNKYyRw
+tv.yandex.ru##.recommended-ott
+
+! 2022-03-25 https://uslugi.yandex.ru
+uslugi.yandex.ru##.Home-Block_bigMarginTop.Home-Block_notRoundBottom.Home-Block_round.Home-Block_gray.Home-Block.DistributionCard-Container
+uslugi.yandex.ru##.Footer-Badges
+uslugi.yandex.ru##.MobAppStoreLinks
+
+! 2022-03-25 https://yandex.ru
+yandex.ru##._2gmwWs4qMU
+
+! 2022-03-25 https://www.kinopoisk.ru
+www.kinopoisk.ru##.styles_rootPlus__vXdAg.styles_rootLight__TLgp0.styles_root__1AWeu.styles_padding4x14__2iC61.styles_root__2y2aq.styles_plusDesktopBrandingButton__2EQnh
+||yastatic.net/s3/kinopoisk-frontend/frontend-www/release/_next/static/images/cover-*.png$image
+www.kinopoisk.ru##.styles_root__2WuLC
+www.kinopoisk.ru##.styles_socialMenu__eaDnG.social-icons.styles_root__zyCAx
+www.kinopoisk.ru##li.styles_contentMenuItem__1okfX.footer__content-item:nth-of-type(6) > .styles_contentLink__2V_T5.footer__content-link
+www.kinopoisk.ru##li.styles_contentMenuItem__1okfX.footer__content-item:nth-of-type(2) > .styles_contentLink__2V_T5.footer__content-link
+www.kinopoisk.ru##.styles_rootDark__1gieS.styles_mobileAppsMenu__1rDdb.styles_root__2Clw4
+
+! 2022-03-25 https://afisha.yandex.ru
+afisha.yandex.ru##.fzjzGt.Root-sc-1ie512p-0
+afisha.yandex.ru##.adfox_type_branding.adfox
+||yastatic.net/s3/afisha-frontend/static/_/*.png$image
+afisha.yandex.ru##.dnPzZy.Root-sc-1g2lm4j-0
+afisha.yandex.ru##.hZJuXG.FooterSocialsOuter-ewtgjx-11
+
+! 2022-03-25 https://market.yandex.ru
+market.yandex.ru##._28lRb
+market.yandex.ru##._3mydt
+market.yandex.ru##._2fBJ5
+market.yandex.ru##div._2owod:nth-of-type(1) > a._1AHfX:nth-of-type(5)
+market.yandex.ru##._2rqwv
+market.yandex.ru##._1wbPB._1vnug._35SYu > ._3Lwc_
+
+! 2022-03-25 https://yandex.ru
+yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.serp-user__promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_autoclosable_yes.popup2_target_anchor.popup2_theme_normal.popup2
 
