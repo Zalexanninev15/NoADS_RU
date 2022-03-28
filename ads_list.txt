@@ -8983,3 +8983,20 @@ market.yandex.ru##._1wbPB._1vnug._35SYu > ._3Lwc_
 ! 2022-03-25 https://yandex.ru
 yandex.ru##.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-bem.serp-user__promo-popup.popup2_view_classic.popup2_hiding_yes.popup2_autoclosable_yes.popup2_target_anchor.popup2_theme_normal.popup2
 
+! 2022-03-27 https://www.anaconda.com
+www.anaconda.com##.gdpr-banner
+
+! 2022-03-28 https://vk.mail.ru
+vk.mail.ru##.wrapperBalloon-0-2-18.wrapper-0-2-15
+vk.mail.ru##.ph-project-any.svelte-1hiqrvn.ph-project-marusia.ph-project
+
+! 2022-03-28 https://rabota.vk.com
+rabota.vk.com##.socialAndMobileLinks-module_container__lLKSp
+rabota.vk.com##div.contentContainer-module_container__CbeZN:nth-of-type(8) > .contentContainer-module_content__2Tui0
+
+! 2022-03-28 https://mail.yandex.ru
+mail.yandex.ru##.PromoMobile-FormContainer
+mail.yandex.ru##.PromoMobile
+mail.yandex.ru##.Footer-Social
+mail.yandex.ru##li.Footer-Link:nth-of-type(3)
+
