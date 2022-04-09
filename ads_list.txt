@@ -9000,3 +9000,41 @@ mail.yandex.ru##.PromoMobile
 mail.yandex.ru##.Footer-Social
 mail.yandex.ru##li.Footer-Link:nth-of-type(3)
 
+! 2022-04-01 https://www.startpage.com
+||www.startpage.com/sp/cdn/images/privacy-protection-promo/extension-graphic-en.svg$image
+www.startpage.com###marketing-tag-container
+
+! 2022-04-01 https://docviewer.yandex.ru
+docviewer.yandex.ru##.ybvdicok.ydkyx.dkvqrdcv
+
+! 2022-04-01 http://www.aiosearch.com
+www.aiosearch.com###v-step-454ae2a0
+
+! 2022-04-01 https://stackoverflow.com
+stackoverflow.com##.is-visible.p16.m-auto.wmx75.ws7.s-popover
+stackoverflow.com##.flex__center.py8.gs16.w100.d-flex
+stackoverflow.com##.overflow-hidden.blr-sm.fc-black-600.pb6.p12.bc-black-075.bb.bl.bt
+stackoverflow.com##.facebook-login.s-btn__icon.s-btn__muted.s-btn.flex--item
+
+! 2022-04-01 https://www.cyberforum.ru
+www.cyberforum.ru##.ya-share2__list_direction_horizontal.ya-share2__list
+
+! 2022-04-03 https://webformyself.com
+webformyself.com##.cookie-notice-container
+
+! 2022-04-04 https://deep-image.ai
+deep-image.ai##.cookies-wrapper
+
+! 2022-04-05 https://virtualgameinfo.ru
+virtualgameinfo.ru##.cc-color-override--2144743249.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+
+! 2022-04-06 https://www.glyphy.io
+www.glyphy.io##.ds-overlay
+www.glyphy.io##.bm-shadow.bm-bt-close
+
+! 2022-04-09 https://vala.gitbook.io
+vala.gitbook.io##.r-l13dpy.r-u8s1d.css-1dbjc4n
+
+! 2022-04-09 https://community.chocolatey.org
+community.chocolatey.org##.justify-content-between.p-0.show.fade.alert-dismissible-center.alert-dismissible.bg-purple.alert
+
