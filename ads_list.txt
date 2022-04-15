@@ -9038,3 +9038,54 @@ vala.gitbook.io##.r-l13dpy.r-u8s1d.css-1dbjc4n
 ! 2022-04-09 https://community.chocolatey.org
 community.chocolatey.org##.justify-content-between.p-0.show.fade.alert-dismissible-center.alert-dismissible.bg-purple.alert
 
+! 2022-04-09 https://learnopencv.com
+learnopencv.com##.cookie-notice-container
+
+! 2022-04-12 https://www.mozilla.org
+www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
+
+! 2022-04-12 https://www.gmailnator.com
+www.gmailnator.com###cookie-notice
+
+! 2022-04-12 https://www.google.com
+www.google.com##.cookieBarInner
+
+! 2022-04-12 https://www.any.do
+www.any.do##.cc-color-override-299223189.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2022-04-12 https://temp-mail.org
+temp-mail.org##a.btn-dark.tm-btn:nth-of-type(2)
+||temp-mail.org/images/icons/footer/app-store.svg$image
+temp-mail.org##a.btn-dark.tm-btn:nth-of-type(1)
+temp-mail.org##.amazonLink.btn-dark.tm-btn
+
+! 2022-04-12 https://www.reg.ru
+www.reg.ru##.b-news-subscribe_position_fixed.b-news-subscribe
+
+! 2022-04-12 https://disqus.com
+disqus.com##.osano-cm-dialog--type_bar.osano-cm-dialog--position_bottom.osano-cm-dialog.osano-cm-window__dialog
+disqus.com##.text-light.text-center.login-overlay__content
+disqus.com##.login-overlay__transparency
+
+! 2022-04-13 https://www.gs1.org
+www.gs1.org##.ot-fade-in.onetrust-pc-dark-filter
+www.gs1.org##.ot-sdk-container > .ot-sdk-row
+www.gs1.org##.ot-fade-in.vertical-align-content.default.otRelFont.otCenterRounded
+
+! 2022-04-14 https://themeforest.net
+themeforest.net##.shared-csat_survey_component__root
+themeforest.net##.search-elements_promotion_banner_component__copyWrapper
+
+! 2022-04-14 https://bootstraptaste.com
+bootstraptaste.com##.cookie-bar__inner
+
+! 2022-04-14 https://bootstrapmade.com
+bootstrapmade.com##.cookie-bar
+
+! 2022-04-14 https://colorlib.com
+colorlib.com##.cookieinfo > span
+colorlib.com##.cookieinfo
+
+! 2022-04-15 https://practical-solutions.webnode.com
+practical-solutions.webnode.com##.wnd-free-stripe-link
+
