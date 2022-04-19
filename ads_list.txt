@@ -9089,3 +9089,36 @@ colorlib.com##.cookieinfo
 ! 2022-04-15 https://practical-solutions.webnode.com
 practical-solutions.webnode.com##.wnd-free-stripe-link
 
+! 2022-04-15 https://apppage.net
+apppage.net##div.col-lg-6:nth-of-type(2)
+
+! 2022-04-17 https://yandex.ru
+yandex.ru##.layout__banner.yabrowser
+yandex.ru##.footer__lego-link.link_theme_ghost.link.control
+
+! 2022-04-17 https://www.kinopoisk.ru
+www.kinopoisk.ru##li.styles_contentMenuItem__yTKp2.footer__content-item:nth-of-type(2) > .styles_contentLink__mRKj9.footer__content-link
+www.kinopoisk.ru##.styles_rootDark__ZR7rh.styles_mobileAppsMenu__E1mGj.styles_root__a_qyh
+www.kinopoisk.ru##.styles_socialMenu__gLaiH.social-icons.styles_root__kcCHj
+www.kinopoisk.ru##li.styles_contentMenuItem__yTKp2.footer__content-item:nth-of-type(6) > .styles_contentLink__mRKj9.footer__content-link
+
+! 2022-04-17 https://afisha.yandex.ru
+afisha.yandex.ru##.efypJU.Root-sc-13kl99q-0 > div
+afisha.yandex.ru##.iXlZJd.InstagramIcon-pmivq9-3.Icon-pmivq9-2
+
+! 2022-04-18 https://you.com
+||you.com/images/landing-page/default_bg_dark_theme.png$image
+you.com##.joA-deV.sc-wAnfg.app-tile.fYWGUM.sc-fxvKuh
+you.com##[href="https://chrome.google.com/webstore/detail/youcom/afiglppdonkdbkkaghbnpklddbemkbpj/"]
+you.com##.wVqsn.sc-cWzopr.app-tile.fYWGUM.sc-fxvKuh
+you.com##.foiKqQ.sc-cBIcHg.dzBJYX.sc-hcJkSI
+you.com##.wVqsn.sc-cWzopr.app-tile.dSeNSI.sc-fxvKuh
+
+! 2022-04-18 https://golang-blog.blogspot.com
+golang-blog.blogspot.com##.cookie-choices-inner
+golang-blog.blogspot.com##.singleton-element.cookie-choices-info
+
+! 2022-04-19 https://artem-guy.blogspot.com
+artem-guy.blogspot.com##.cookie-choices-inner
+artem-guy.blogspot.com##.singleton-element.cookie-choices-info
+
