@@ -9122,3 +9122,55 @@ golang-blog.blogspot.com##.singleton-element.cookie-choices-info
 artem-guy.blogspot.com##.cookie-choices-inner
 artem-guy.blogspot.com##.singleton-element.cookie-choices-info
 
+! 2022-04-19 https://www.wildberries.ru
+www.wildberries.ru##.footer__list-wrap--download.footer__list-wrap
+www.wildberries.ru##.footer__social-wrap
+
+! 2022-04-19 https://mail.yandex.ru
+mail.yandex.ru##.qa-LeftColumn-Footer-Android.FooterItem-m__item--3YxQr
+mail.yandex.ru##.qa-LeftColumn-Footer-iOS.FooterItem-m__item--3YxQr
+mail.yandex.ru##.qa-LeftColumn-Footer-Advertising.FooterItem-m__item--3YxQr
+
+! 2022-04-20 https://iplogger.org
+iplogger.org###social > .googleplay > [href^="https://play.google.com/store/apps/details"] > [src="/i/google-play-badge.png"]
+iplogger.org###chngversion
+iplogger.org###footer > div > .googleplay > [href^="https://play.google.com/store/apps/details"] > [src="/i/google-play-badge.png"]
+
+! 2022-04-20 https://www.ups.com
+www.ups.com##.implicit_privacy_prompt_content
+
+! 2022-04-21 https://www.blockchain.com
+www.blockchain.com##.dKFNB.jpata7-0
+www.blockchain.com##.ksVtE.jrcERS.kVdGzV.sc-16etjrv-6.sc-16etjrv-3.sc-1j9nxnw-0
+www.blockchain.com##.bCPahV.iBeHLJ.gjezaC.gc7vnv-5.gc7vnv-4.sc-1j9nxnw-0
+
+! 2022-04-21 https://win10tweaker.ru
+win10tweaker.ru##.non-hundred-percent-height-scrolling.hundred-percent-fullwidth.fusion-builder-row-8.fullwidth-box.fusion-fullwidth
+win10tweaker.ru##.fusion-section-separator-4.bigtriangle.section-separator.fusion-section-separator > .fusion-section-separator-fullwidth.fusion-section-separator-spacer > .fusion-section-separator-spacer-height
+win10tweaker.ru##.fusion-section-separator-4.bigtriangle.section-separator.fusion-section-separator > .fusion-section-separator-fullwidth.fusion-section-separator-svg > .fusion-big-triangle-candy > path
+
+! 2022-04-21 https://crowdin.com
+crowdin.com##.cc-color-override-1528406573.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+
+! 2022-04-22 https://web.dev
+web.dev##web-snackbar
+
+! 2022-04-22 https://webmaster.yandex.ru
+webmaster.yandex.ru##.dashboard-item.WidgetTeaser_type_yandex360.WidgetTeaser
+
+! 2022-04-23 https://aliexpress.ru
+aliexpress.ru##.PrivacyPolicyBanner_PrivacyPolicyBanner__wrapper__5dnwg.ali-kit_Paragraph__size-xs__1w2ua6.ali-kit_Paragraph__paragraph__1w2ua6.ali-kit_Base__default__104pa1.ali-kit_Base__base__104pa1
+
+! 2022-04-23 https://developer.fyne.io
+developer.fyne.io##.footer.col-lg-12
+developer.fyne.io##footer
+
+! 2022-04-25 https://benchgame.com
+benchgame.com###cookie_notification
+
+! 2022-04-25 https://selectel.ru
+selectel.ru##.event-advertising__link
+
+! 2022-04-25 https://www.avito.ru
+www.avito.ru##.alert-design-warning-lSCAn.alert-alert-qP1VZ
+
