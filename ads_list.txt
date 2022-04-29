@@ -4961,8 +4961,6 @@ file.karelia.ru##.android_app
 ! 2020-10-09 https://vk.com
 vk.com###l_covid19 > .left_row
 vk.com##.ShortVideoFeedBlock__header
-vk.com###l_svd > .left_row
-vk.com###l_job > .left_row
 vk.com##.top_profile_vkconnect_descr
 
 ! 2020-10-09 https://connect.vk.com
@@ -4977,7 +4975,6 @@ vk.com##.olist_item_wrap_on.olist_item_no_covid19_app.olist_item_menu.olist_item
 vk.com##.olist_item_wrap_on.olist_item_no_worki_app.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
 vk.com##.olist_item_wrap_on.olist_item_no_market.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
 vk.com##.olist_item_wrap_on.olist_item_no_clips.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
-vk.com###l_ap > .left_row
 vk.com##.olist_item_wrap_on.olist_item_no_apps.olist_item_menu.olist_item_wrap > .clear_fix.olist_item
 vk.com##.olist_item_wrap_on.olist_item_no_worki_app.olist_item_menu.olist_item_wrap
 vk.com##.olist_item_wrap_on.olist_item_no_apps.olist_item_menu.olist_item_wrap
@@ -9173,4 +9170,19 @@ selectel.ru##.event-advertising__link
 
 ! 2022-04-25 https://www.avito.ru
 www.avito.ru##.alert-design-warning-lSCAn.alert-alert-qP1VZ
+
+! 2022-04-26 https://www.dll.ru
+www.dll.ru##.c-list-tbl__fluid-list
+
+! 2022-04-26 https://account.e.jimdo.com
+account.e.jimdo.com##.pp-limiter
+
+! 2022-04-27 https://www.ubisoft.com
+www.ubisoft.com##.emea.ru-ru.privacy__modal
+
+! 2022-04-28 https://waifu2x.pro
+waifu2x.pro##.cc-color-override-2012576291.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+
+! 2022-04-29 https://disk.yandex.ru
+disk.yandex.ru##.InfoSpace__Button.Button2_width_max.Button2_size_m.Button2_view_raised.Button2
 
