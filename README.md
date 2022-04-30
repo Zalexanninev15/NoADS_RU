@@ -33,7 +33,8 @@
 * Другими AdBlock-расширениями, которые поддерживают пользовательские списки
 * Браузерами, которые имеют встроенный AdBlock с поддержкой пользовательских списков
 
-[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru)
+[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru) [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com/ru)
+
 ## Инструкция по настройке расширения для работы со списком (на примере uBlock Origin)
 ### a) С автообновлением списка
 #### - Добавление автоматически
