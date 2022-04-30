@@ -9186,3 +9186,31 @@ waifu2x.pro##.cc-color-override-2012576291.cc-right.cc-bottom.cc-theme-block.cc-
 ! 2022-04-29 https://disk.yandex.ru
 disk.yandex.ru##.InfoSpace__Button.Button2_width_max.Button2_size_m.Button2_view_raised.Button2
 
+! 2022-04-30 https://www.pepper.ru
+www.pepper.ru##.hide--empty.space--fromW4-b-0.space--fromW4-r-5.space--b-4.footer-borderLight.border--fromW4-v-r.border--b.cGrid-item--fromW4-c2\:3.cGrid-item--fromW4-r2\:3 > .hAlign--fromW4-l.hAlign--all-c
+www.pepper.ru##.hide--empty.space--fromW4-b-0.space--fromW4-r-5.space--b-4.footer-borderLight.border--fromW4-v-r.border--b.cGrid-item--fromW4-c2\:3.cGrid-item--fromW4-r2\:3
+www.pepper.ru##.hAlign--fromW4-l.hAlign--all-c.border--fromW4-v-r.border--t.footer-borderLight.space--fromW4-r-5.space--fromW4-t-0.space--t-4.size--all-m.text--color-white.cGrid-item--fromW4-c2\:3.cGrid-item--fromW4-r1\:2
+www.pepper.ru##li.space--fromW3-b-2.space--b-3.space--r-2.vAlign--all-t.box--all-i:nth-of-type(4)
+www.pepper.ru##.hAlign--fromW4-l.hAlign--all-c.space--fromW4-r-5.space--fromW4-b-0.space--b-4.cGrid-item--fromW4-c1\:2.cGrid-item--fromW4-r1\:3 > div
+
+! 2022-04-30 https://sbermegamarket.ru
+sbermegamarket.ru##.copyright-block_bottom.copyright-block > .copyright-block__social-links > .footer-social-links > .social-link-vk
+sbermegamarket.ru##.copyright-block_bottom.copyright-block > .copyright-block__social-links > .footer-social-links > .social-link-ok
+sbermegamarket.ru##a.category_menu_ddm_mobile.mobile-static-nav__item:nth-of-type(2)
+
+! 2022-04-30 https://yandex.ru
+yandex.ru##.DistrSmartbanner_type_default.DistrSmartbanner_size_m.DistrSmartbanner
+yandex.ru##.theader__login-plus
+
+! 2022-04-30 https://travel.yandex.ru
+travel.yandex.ru##.DDzaH.NprJI.WgwSu.rC02U
+
+! 2022-04-30 https://disk.yandex.ru
+disk.yandex.ru##a.mobile-navigation__item.Link_theme_dark.Link
+
+! 2022-04-30 https://zen.yandex.ru
+zen.yandex.ru##.jBMBMBUU0NUnSBFw6IKs
+
+! 2022-04-30 https://m.vk.com
+m.vk.com##.installApp__link
+
