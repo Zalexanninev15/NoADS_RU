@@ -9214,3 +9214,15 @@ zen.yandex.ru##.jBMBMBUU0NUnSBFw6IKs
 ! 2022-04-30 https://m.vk.com
 m.vk.com##.installApp__link
 
+! 2022-04-30 https://www.opera.com
+www.opera.com##.justify-content--center.flex-direction--column.flex.cookie-consent__wrapper
+
+! 2022-05-06 https://qr-code-generator.vercel.app
+qr-code-generator.vercel.app##.ng-star-inserted.visible
+
+! 2022-05-06 https://sms-activate.org
+sms-activate.org##.show.acceptCookieNotice.cookie-desktop
+
+! 2022-05-06 https://www.renderforest.com
+www.renderforest.com###cookie_message
+
