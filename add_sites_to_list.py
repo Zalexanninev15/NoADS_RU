@@ -1,6 +1,3 @@
-# Добавление сайтов в список
-# Версия скрипта: 1.1
-
 from itertools import groupby
 import re
 
