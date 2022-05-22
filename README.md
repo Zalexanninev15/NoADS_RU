@@ -33,7 +33,7 @@
 * Другими AdBlock-расширениями, которые поддерживают пользовательские списки
 * Браузерами, которые имеют встроенный AdBlock с поддержкой пользовательских списков
 
-[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru) [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com/ru)
+[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru) [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/ru/) [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com/ru)
 
 ## Инструкция по настройке расширения для работы со списком (на примере uBlock Origin)
 ### a) С автообновлением списка
@@ -42,7 +42,7 @@
 
 **Вариант 1:** Откроется вкладка с возможностью подписаться на список (в новых версиях uBlock Origin). Смело нажимаете на кнопку *Подписаться*
 
-![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/Subscribe.png?raw=true)
+![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/Subscribe-in-uBlock-Origin.png?raw=true)
 
 **Вариант 2 [всплывающие сообщения]:** Согласитесь на добавление в плагин (нажмите ОК на всех всплывающих сообщениях). Если у вас при нажатии на ссылку откроется новая вкладка, то закройте её, и нажмите на ссылку вновь
 
@@ -50,8 +50,8 @@
 1. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 2. Следуйте данной гифке
 
-![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/uBlockOrigin-how.gif)
-Ссылка, которую нужно вставить: `https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt`
+![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-subscribe-in-uBlock-Origin.gif)
+Ссылка, которую нужно вставить: ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt```
 
 ### b) Без автообновления списка (полностью вручную)
 1. Зайдите по [этой](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt) ссылке и нажмите в любое место правой кнопкой мыши
@@ -59,7 +59,16 @@
 3. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 4. Следуйте данной гифке, после импорта файл можно удалить
 
-![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/uBlockOrigin-how_from-file.gif)
+![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-from-file-in-uBlock-Origin.gif)
+
+### c) Для браузера Brave
+
+1. Перейдите по [ссылке](brave://adblock/) и пролистайте вниз до кнопки "Подписаться на отфильтрованный список" и 
+2. Следуйте данной гифке
+
+![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-subscribe-in-Brave.gif)
+
+Ссылка, которую нужно вставить: ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt```
 
 ## Решения проблем
 * Переподключите список в настройках блокировщика, скорее всего я уже исправил эту проблему
