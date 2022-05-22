@@ -9226,3 +9226,37 @@ sms-activate.org##.show.acceptCookieNotice.cookie-desktop
 ! 2022-05-06 https://www.renderforest.com
 www.renderforest.com###cookie_message
 
+! 2022-05-13 https://mail.yandex.ru
+mail.yandex.ru##.Modal-Table
+mail.yandex.ru##.Modal-Wrapper
+
+! 2022-05-15 https://ru.reactjs.org
+ru.reactjs.org##.css-1loxuh3
+
+! 2022-05-20 https://docs.appsmith.com
+docs.appsmith.com##.r-1yzf0co.r-ymttw5.r-1wtj0ep.r-18u37iz.r-1quu1zo.r-1i7sdiz.r-rs99b7.r-156hn8l.r-1habvwh.css-1dbjc4n
+
+! 2022-05-20 https://bugs.eclipse.org
+bugs.eclipse.org##.cc-color-override-1434350510.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
+
+! 2022-05-20 https://store.epicgames.com
+store.epicgames.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+
+! 2022-05-20 https://emojipedia.org
+emojipedia.org##.ot-fade-in.onetrust-pc-dark-filter
+
+! 2022-05-21 https://sbercloud.ru
+sbercloud.ru##.l-cookie-pop
+
+! 2022-05-21 https://qrcode.tec-it.com
+qrcode.tec-it.com##.cookieConsentContent
+
+! 2022-05-21 https://www.tec-it.com
+www.tec-it.com##.cookieConsentContent
+
+! 2022-05-22 https://yougame.biz
+yougame.biz##.yg_first_post
+
+! 2022-05-22 https://www.phrozen.io
+www.phrozen.io##.wpcc-color-custom--943834009.wpcc-right.wpcc-bottom.wpcc-border-thin.wpcc-corners-small.wpcc-corners-round.wpcc-float.wpcc-container
+
