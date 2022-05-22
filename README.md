@@ -31,7 +31,7 @@
 * AdGuard Антибаннер (***Desktop***)
 * Adblock Plus (***Desktop***)
 * Другими AdBlock-расширениями, которые поддерживают пользовательские списки
-* Браузерами, которые имеют встроенный AdBlock с поддержкой пользовательских списков
+* Браузерами, которые имеют встроенный AdBlock с поддержкой пользовательских списков. [Отдельная инструкция для Brave](https://github.com/Zalexanninev15/NoADS_RU#c-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0-brave), т.к. настройки нет "на поверхности"). Для всех остальных браузеров нужно просто вставить ссылку ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt``` в "Списки блокировки рекламы" (или что-то подобное) в самих настройках браузеров
 
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru) [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/ru/) [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com/ru)
 
