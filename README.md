@@ -31,13 +31,27 @@
 * AdGuard Антибаннер (***Desktop***)
 * Adblock Plus (***Desktop***)
 * Другими AdBlock-расширениями, которые поддерживают пользовательские списки
-* Браузерами, которые имеют встроенный AdBlock с поддержкой пользовательских списков. [Отдельная инструкция для Brave](https://github.com/Zalexanninev15/NoADS_RU#c-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0-brave), т.к. настройки нет "на поверхности"). Для всех остальных браузеров нужно просто вставить ссылку ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt``` в "Списки блокировки рекламы" (или что-то подобное) в самих настройках браузеров
+* Браузерами, которые имеют встроенный AdBlock с поддержкой пользовательских списков
 
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru) [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/ru/) [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com/ru)
 
-## Инструкция по настройке расширения для работы со списком (на примере uBlock Origin)
-### a) С автообновлением списка
-#### - Добавление автоматически
+## Инструкция по настройке расширения для работы со списком 
+
+### a) Если браузер уже имеет встроенный AdBlock
+
+[Отдельная инструкция для Brave](https://github.com/Zalexanninev15/NoADS_RU#d-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0-brave), т.к. настройки нет "на поверхности"). Для всех остальных браузеров нужно просто вставить ссылку ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt``` в "Списки блокировки рекламы" (или что-то подобное) в самих настройках браузера
+
+#### Для браузера Brave
+
+1. Перейдите по ссылке ```brave://adblock/``` и пролистайте вниз до кнопки "Подписаться на отфильтрованный список"
+2. Следуйте данной гифке
+
+![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-subscribe-in-Brave.gif)
+
+Ссылка, которую нужно вставить: ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt```
+
+### b) Для AdBlock-расширений (на примере uBlock Origin)
+#### - Добавление автоматически с автообновлением списка
 Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), далее всё зависит от версии расширения:
 
 **Вариант 1:** Откроется вкладка с возможностью подписаться на список (в новых версиях uBlock Origin). Смело нажимайте на кнопку *Подписаться*
@@ -46,29 +60,20 @@
 
 **Вариант 2 [всплывающие сообщения]:** Согласитесь на добавление в плагин (нажмите ОК на всех всплывающих сообщениях). Если у вас при нажатии на ссылку откроется новая вкладка, то закройте её, и нажмите на ссылку вновь
 
-#### - Добавление вручную
+#### - Добавление вручную с автообновлением списка
 1. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 2. Следуйте данной гифке
 
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-subscribe-in-uBlock-Origin.gif)
 Ссылка, которую нужно вставить: ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt```
 
-### b) Без автообновления списка (полностью вручную)
+#### - Добавление вручную без обновления списка
 1. Перейдите по [ссылке](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt) и нажмите в любое место правой кнопкой мыши
 2. Выберите пункт "Сохранить как" и сохраните в нужное вам место
 3. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 4. Следуйте данной гифке, после импорта файл можно удалить
 
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-from-file-in-uBlock-Origin.gif)
-
-### c) Для браузера Brave
-
-1. Перейдите по ссылке ```brave://adblock/``` и пролистайте вниз до кнопки "Подписаться на отфильтрованный список"
-2. Следуйте данной гифке
-
-![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-subscribe-in-Brave.gif)
-
-Ссылка, которую нужно вставить: ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt```
 
 ## Решения проблем
 * Переподключите список в настройках блокировщика, скорее всего я уже исправил эту проблему
