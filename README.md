@@ -40,7 +40,7 @@
 #### - Добавление автоматически
 Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), далее всё зависит от версии расширения:
 
-**Вариант 1:** Откроется вкладка с возможностью подписаться на список (в новых версиях uBlock Origin). Смело нажимаете на кнопку *Подписаться*
+**Вариант 1:** Откроется вкладка с возможностью подписаться на список (в новых версиях uBlock Origin). Смело нажимайте на кнопку *Подписаться*
 
 ![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/Subscribe-in-uBlock-Origin.png?raw=true)
 
@@ -63,7 +63,7 @@
 
 ### c) Для браузера Brave
 
-1. Перейдите по ссылке ```brave://adblock/``` и пролистайте вниз до кнопки "Подписаться на отфильтрованный список" и 
+1. Перейдите по ссылке ```brave://adblock/``` и пролистайте вниз до кнопки "Подписаться на отфильтрованный список"
 2. Следуйте данной гифке
 
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-subscribe-in-Brave.gif)
