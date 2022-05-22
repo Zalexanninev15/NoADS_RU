@@ -69,7 +69,7 @@
 
 #### Как настроить?
 
-[Отдельная инструкция для Brave](https://github.com/Zalexanninev15/NoADS_RU#%D0%B4%D0%BB%D1%8F-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0-brave), т.к. настройки нет "на поверхности"). Для всех остальных браузеров нужно просто вставить ссылку ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt``` в "Списки блокировки рекламы" (или что-то подобное) в самих настройках браузера. 
+[Отдельная инструкция для Brave](https://github.com/Zalexanninev15/NoADS_RU#%D0%B4%D0%BB%D1%8F-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0-brave), т.к. настройки нет "на поверхности". Для всех остальных браузеров нужно просто вставить ссылку ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt``` в "Списки блокировки рекламы" (или что-то подобное) в самих настройках браузера. 
 
 #### Для браузера Brave
 
