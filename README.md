@@ -38,7 +38,7 @@
 ## Инструкция по настройке расширения для работы со списком (на примере uBlock Origin)
 ### a) С автообновлением списка
 #### - Добавление автоматически
-Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), далее всё зависит от версии плагина:
+Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), далее всё зависит от версии расширения:
 
 **Вариант 1:** Откроется вкладка с возможностью подписаться на список (в новых версиях uBlock Origin). Смело нажимаете на кнопку *Подписаться*
 
@@ -54,7 +54,7 @@
 Ссылка, которую нужно вставить: ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt```
 
 ### b) Без автообновления списка (полностью вручную)
-1. Зайдите по [этой](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt) ссылке и нажмите в любое место правой кнопкой мыши
+1. Перейдите по [ссылке](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt) и нажмите в любое место правой кнопкой мыши
 2. Выберите пункт "Сохранить как" и сохраните в нужное вам место
 3. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 4. Следуйте данной гифке, после импорта файл можно удалить
@@ -63,7 +63,7 @@
 
 ### c) Для браузера Brave
 
-1. Перейдите по [ссылке](brave://adblock/) и пролистайте вниз до кнопки "Подписаться на отфильтрованный список" и 
+1. Перейдите по ссылке ```brave://adblock/``` и пролистайте вниз до кнопки "Подписаться на отфильтрованный список" и 
 2. Следуйте данной гифке
 
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-subscribe-in-Brave.gif)
