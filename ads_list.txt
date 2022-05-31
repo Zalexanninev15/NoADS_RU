@@ -9260,3 +9260,39 @@ yougame.biz##.yg_first_post
 ! 2022-05-22 https://www.phrozen.io
 www.phrozen.io##.wpcc-color-custom--943834009.wpcc-right.wpcc-bottom.wpcc-border-thin.wpcc-corners-small.wpcc-corners-round.wpcc-float.wpcc-container
 
+! 2022-05-22 https://yar.dom.ru
+yar.dom.ru##.ithxlf.sc-ce7bf58a-5
+
+! 2022-05-22 https://yaroslavl.mts.ru
+yaroslavl.mts.ru##.footer__app-links
+yaroslavl.mts.ru##.footer__app
+yaroslavl.mts.ru##.footer__social-list
+
+! 2022-05-24 https://apitracker.io
+apitracker.io###mtm-frame-container
+
+! 2022-05-24 https://icon-icons.com
+icon-icons.com##.ot-sdk-container > .ot-sdk-row
+
+! 2022-05-25 https://professorweb.ru
+||vk.com/widget_community.php$subdocument
+
+! 2022-05-26 https://qiwi.com
+qiwi.com##.cookies-self-292
+
+! 2022-05-31 https://www.onworks.net
+www.onworks.net##.cookie-banner
+
+! 2022-05-31 https://www.thelongdark.com
+www.thelongdark.com##.slide.bottom.bar
+
+! 2022-05-31 https://www.onworks.net
+www.onworks.net###adxxy
+www.onworks.net##[href="https://www.onworks.net/removeads.php"]
+
+! 2022-05-31 https://cutt.ly
+cutt.ly##.slide.center.bottom.cloud
+cutt.ly##.before_baner.subscription_box
+cutt.ly##.d-flex.col-md-12.col-lg-4
+cutt.ly##.rounded-6.w-100.text-center.buy_subs
+
