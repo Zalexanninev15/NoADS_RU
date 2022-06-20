@@ -9296,3 +9296,50 @@ cutt.ly##.before_baner.subscription_box
 cutt.ly##.d-flex.col-md-12.col-lg-4
 cutt.ly##.rounded-6.w-100.text-center.buy_subs
 
+! 2022-06-06 https://www.gdflab.com
+||static.wixstatic.com/media/1f4e99_*~mv2.png/v1/fill/w_*1,al_c,q_9*enc_auto/*.png$image
+||static.wixstatic.com/media/1f4e99_8cf0aa7d20484c2182ae657fffd4b9c1~mv2.png/v1/fill/w_980,h_861,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/pikaVue_mockup.png$image
+||static.wixstatic.com/media/1f4e99_8cf0aa7d20484c2182ae657fffd4b9c1~mv2.png/v1/fill/w_980,h_861,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/pikaVue_mockup.png$image
+www.gdflab.com##._4Ck7e._2f7c5._2svEM
+
+! 2022-06-09 https://keen.io
+keen.io##.cookie-notice-container
+
+! 2022-06-13 https://zennolab.com
+zennolab.com##.active.lslide.is-vis-processed.notice--hidemedium.capmonstercloud.js-notice.notice > .uix_noticeInner > .notice-content
+zennolab.com##.active.lslide.is-vis-processed.notice--hidemedium.capmonstercloud.js-notice.notice
+
+! 2022-06-13 https://vknext.net
+vknext.net##.ApprovalBlockWrapper
+
+! 2022-06-20 https://www.alot.pro
+www.alot.pro##a.nav-link:nth-of-type(4)
+www.alot.pro##.pb-lg-5.mt-5.iphone11.row
+www.alot.pro##.market-list.col-sm-12.col-md-6
+www.alot.pro##.text-left.percent.px-0.col
+www.alot.pro##.mt-md-5.mt-4.text-center.justify-content-md-center.row
+
+! 2022-06-20 https://youdo.com
+youdo.com##.IndexPage_mobileAppWrapper__1L47v.MobileApp_wrapper__2R2JM
+youdo.com##div.footer_row__67aUd:nth-of-type(3)
+
+! 2022-06-20 https://rybinsk.hh.ru
+rybinsk.hh.ru##.supernova-dashboard-footer-app-buttons
+rybinsk.hh.ru##.footer-mobile-banner--par3SXLB_uSowWs6TIXu
+rybinsk.hh.ru##.mobile-app-buttons_flexible-row--xoDpziKOhH7Dq4WFwyaB.mobile-app-buttons--aUSZuHMH41kx1rbRl6PZ
+
+! 2022-06-20 https://www.zarplata.ru
+www.zarplata.ru##div.column_1d9eV:nth-of-type(5)
+
+! 2022-06-20 https://rybinsk.rabota.ru
+||rybinsk.rabota.ru/static/images/serp-promo/our-apps/bg-gradient.png$image
+rybinsk.rabota.ru##.call-to-action-our-apps__content
+||rybinsk.rabota.ru/static/images/serp-promo/our-apps/bg-phone.png$image
+||rybinsk.rabota.ru/static/images/serp-promo/our-apps/qr.svg$image
+rybinsk.rabota.ru##.r-image_original.r-image.call-to-action-our-apps__phone
+rybinsk.rabota.ru##.r-image_original.r-image.call-to-action-our-apps__qr
+rybinsk.rabota.ru##.page-footer__app.get-app
+
+! 2022-06-20 https://yaroslavl.superjob.ru
+yaroslavl.superjob.ru##._3kGKe.yRH5q
+
