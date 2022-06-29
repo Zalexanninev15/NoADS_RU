@@ -9343,3 +9343,69 @@ rybinsk.rabota.ru##.page-footer__app.get-app
 ! 2022-06-20 https://yaroslavl.superjob.ru
 yaroslavl.superjob.ru##._3kGKe.yRH5q
 
+! 2022-06-20 https://rybinsk.superjob.ru
+rybinsk.superjob.ru##._3kGKe.yRH5q
+
+! 2022-06-21 https://bookflow.ru
+bookflow.ru##.td-front-end-display-block.td-more-articles-box
+bookflow.ru##p > [href="https://t.me/+wsrPAjWgDhpkNWRi"]
+bookflow.ru##.widget_custom_html.custom_html-3.widget.td_block_template_1.widget_text
+bookflow.ru##.td-ss-main-sidebar
+bookflow.ru###td_social_sharing_article_top > .td-post-sharing-visible > .td-social-whatsapp.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+bookflow.ru###td_social_sharing_article_top > .td-post-sharing-visible > .td-social-facebook.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+bookflow.ru###td_social_sharing_article_top > .td-post-sharing-visible > .td-social-facebook.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+bookflow.ru###td_social_sharing_article_top > .td-post-sharing-visible > .td-social-whatsapp.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+bookflow.ru###td_social_sharing_article_top > .td-post-sharing-visible > .td-social-twitter.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+bookflow.ru###td_social_sharing_article_top > .td-post-sharing-visible > .td-social-twitter.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+bookflow.ru###td_social_sharing_article_top > .td-post-sharing-visible > .td-social-vk.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+bookflow.ru###td_social_sharing_article_top > .td-post-sharing-visible > .td-social-vk.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+bookflow.ru###td_social_sharing_article_bottom > .td-post-sharing-visible > .td-social-twitter.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+bookflow.ru###td_social_sharing_article_bottom > .td-post-sharing-visible > .td-social-facebook.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+bookflow.ru###td_social_sharing_article_bottom > .td-post-sharing-visible > .td-social-twitter.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+bookflow.ru###td_social_sharing_article_bottom > .td-post-sharing-visible > .td-social-facebook.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+bookflow.ru###td_social_sharing_article_bottom > .td-post-sharing-visible > .td-social-whatsapp.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+bookflow.ru###td_social_sharing_article_bottom > .td-post-sharing-visible > .td-social-whatsapp.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+bookflow.ru###td_social_sharing_article_bottom > .td-post-sharing-visible > .td-social-vk.td-social-network.td-social-sharing-button-js.td-social-sharing-button > .td-social-but-icon
+bookflow.ru###td_social_sharing_article_bottom > .td-post-sharing-visible > .td-social-vk.td-social-network.td-social-sharing-button-js.td-social-sharing-button
+bookflow.ru##.td-social-style-2.footer-social-wrap
+
+! 2022-06-21 https://pos.gosuslugi.ru
+pos.gosuslugi.ru##.js_cookie_block.cookie
+
+! 2022-06-21 https://russianblogs.com
+russianblogs.com##.css-utdpwd
+russianblogs.com##.css-1tdick4.qc-cmp-cleanslate
+
+! 2022-06-21 https://tproger.ru
+tproger.ru##.push-modal__wrapper
+
+! 2022-06-22 https://www.fl.ru
+www.fl.ru##.shadow.py-16.px-xl-48.px-lg-36.px-24.justify-content-between.align-items-center.flex-column-unset-md.flex-column.d-flex.fl-cookie
+
+! 2022-06-24 https://tresorit.com
+tresorit.com##.cs_c6.cs_jg
+tresorit.com##.dv_lN
+
+! 2022-06-24 https://www.gamepix.com
+www.gamepix.com##.iubenda-cs-rationale
+www.gamepix.com##.iubenda-cs-visible.iubenda-cs-branded.iubenda-cs-slidein.iubenda-cs-overlay.iubenda-cs-center.iubenda-cs-bottom.iubenda-cs-default-floating
+
+! 2022-06-24 https://www.checklyhq.com
+www.checklyhq.com##.optanon-alert-box-wrapper
+
+! 2022-06-29 https://mubert.com
+mubert.com##.notification-left-enter-done.notification_stick-to_left.notification_has-closer.notification_animated.notification_visible.notification
+
+! 2022-06-29 https://www.soundsnap.com
+www.soundsnap.com##.ot-sdk-container > .ot-sdk-row
+
+! 2022-06-29 https://freesound.org
+freesound.org###cookie-bar
+
+! 2022-06-29 https://password.kaspersky.com
+password.kaspersky.com##.gdprPopup
+
+! 2022-06-29 https://coolors.co
+coolors.co##.iubenda-cs-rationale
+coolors.co##.iubenda-cs-visible.iubenda-cs-overlay.iubenda-cs-center.iubenda-cs-default-floating
+
