@@ -9409,3 +9409,43 @@ password.kaspersky.com##.gdprPopup
 coolors.co##.iubenda-cs-rationale
 coolors.co##.iubenda-cs-visible.iubenda-cs-overlay.iubenda-cs-center.iubenda-cs-default-floating
 
+! 2022-06-29 https://mubert.com
+mubert.com##.app-header__additional
+
+! 2022-06-29 https://supersnimki.ru
+supersnimki.ru##.slide.bottom.cloud
+
+! 2022-06-29 https://forums.ni.com
+forums.ni.com##div.container > .noindex
+
+! 2022-07-01 https://transform.tools
+transform.tools##.📦box-szg_border-box.📦b-top_1px-solid-E4E7EB.css-nil > [href]
+
+! 2022-07-04 https://yookassa.ru
+yookassa.ru##.hSkxny.Gdpr__StyleContent-sc-1wmeei3-1
+
+! 2022-07-04 https://yoomoney.ru
+yoomoney.ru##.hSkxny.Gdpr__StyleContent-sc-1wmeei3-1
+||static.yoomoney.ru/user-auth-center-front/media/image-wallet.98292877964c1ab7870b.jpg$image
+yoomoney.ru##.iKRcVu.styled__StyledGdpr-sc-1st7abq-4.qa-gdpr.giQNlN.Gdpr__StyledGdpr-sc-1wmeei3-0
+
+! 2022-07-05 https://qiwi.com
+qiwi.com##.css-15rhe70
+qiwi.com##.cookies-self-101
+
+! 2022-07-05 https://goo-gl.me
+goo-gl.me##cookie-notice
+
+! 2022-07-05 https://qiwi.com
+qiwi.com##.cookies-self-285
+
+! 2022-07-06 https://www.fl.ru
+www.fl.ru##.in.modal-overflow.show.modal-no-header.modal
+www.fl.ru##.modal-scrollable
+www.fl.ru##.in.modal-backdrop
+www.fl.ru##.app-download
+www.fl.ru##.mb-32.align-items-center.justify-content-between.flex-row.d-flex
+www.fl.ru##.b-layout_padbot_20.b-layout_relative.b-layout > [href]
+www.fl.ru##.page-with-banner.b-page__page_padtop_20.b-page__page_padtop_75_r1000.b-page__page_padtop_20_r600.b-page__page
+www.fl.ru##.fl-bonus-plate
+
