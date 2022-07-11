@@ -9449,3 +9449,16 @@ www.fl.ru##.b-layout_padbot_20.b-layout_relative.b-layout > [href]
 www.fl.ru##.page-with-banner.b-page__page_padtop_20.b-page__page_padtop_75_r1000.b-page__page_padtop_20_r600.b-page__page
 www.fl.ru##.fl-bonus-plate
 
+! 2022-07-11 https://mynickname.com
+mynickname.com##[src="/img/icons/app/google-play-en.svg"]
+mynickname.com##[src="/img/icons/app/app-store-en.svg"]
+mynickname.com##.social-medias
+
+! 2022-07-11 https://ru.gravatar.com
+ru.gravatar.com##.custom-cookie-banner.a8c-cookie-banner
+
+! 2022-07-11 https://www.directual.com
+www.directual.com###cookiescript_injected
+www.directual.com##.product-hunt
+www.directual.com##.soc-links.footer-text
+
