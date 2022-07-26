@@ -9462,3 +9462,12 @@ www.directual.com###cookiescript_injected
 www.directual.com##.product-hunt
 www.directual.com##.soc-links.footer-text
 
+! 2022-07-14 https://angular.io
+angular.io##.notification-container.mat-toolbar-row
+
+! 2022-07-17 https://mail.yandex.ru
+mail.yandex.ru##.Videotheme-Onboarding.Base-Onboarding
+
+! 2022-07-25 https://telegramic.org
+telegramic.org##.nag.cookie.fixed.bottom.inline.ui
+
