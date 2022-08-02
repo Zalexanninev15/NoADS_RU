@@ -3,7 +3,6 @@
 ![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/NoADS_RU%20Logo.png?raw=true)
 
 [![](https://img.shields.io/badge/platforms-AdBlocking_Extensions-F40D12.svg?logo=adblock)](https://github.com/Zalexanninev15/NoADS_RU)
-[![](https://img.shields.io/badge/written_on-Python-3776AB.svg?logo=python)](https://github.com/Zalexanninev15/NoADS_RU)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/commits/main)
 [![](https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/stargazers)
 [![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/network/members)
