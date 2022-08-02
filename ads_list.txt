@@ -9471,3 +9471,28 @@ mail.yandex.ru##.Videotheme-Onboarding.Base-Onboarding
 ! 2022-07-25 https://telegramic.org
 telegramic.org##.nag.cookie.fixed.bottom.inline.ui
 
+! 2022-07-26 https://mail.yandex.ru
+mail.yandex.ru##.WidthWithMargin_2dNWvNvFVJeGXm6FEY6BtS.ContentBox_p5ku5mgdDs68uhhr6YtjI.SmallCards_2c3xUbxCF6wFn7LCr4xXh0.container_1e_S9KVyEcoGdscp6C4lO2
+
+! 2022-07-26 https://telemost.yandex.ru
+telemost.yandex.ru##.Tooltip_view_default.Tooltip_size_m.Tooltip_visible.Tooltip.Popup2_view_default.Popup2_target_anchor.Popup2_direction_top-center.Popup2_visible.Popup2
+
+! 2022-07-26 https://disk.yandex.ru
+disk.yandex.ru##.Base-Onboarding-Content-Wrapper
+disk.yandex.ru##.Videotheme-Onboarding.Base-Onboarding
+
+! 2022-07-26 https://mail.yandex.ru
+mail.yandex.ru##.PSHeaderLogo360-Ya circle
+mail.yandex.ru##.PSHeaderLogo360-Ya
+
+! 2022-07-30 https://id.unity.com
+id.unity.com###onetrust-banner-sdk > div > .ot-sdk-container > .ot-sdk-row
+
+! 2022-08-02 https://msfreemicrosoft.ru
+msfreemicrosoft.ru##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+
+! 2022-08-02 https://krakenfiles.com
+krakenfiles.com###cm-ov
+krakenfiles.com##.slide.bottom.cloud
+krakenfiles.com##.cc_div
+
