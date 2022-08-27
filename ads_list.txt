@@ -9496,3 +9496,23 @@ krakenfiles.com###cm-ov
 krakenfiles.com##.slide.bottom.cloud
 krakenfiles.com##.cc_div
 
+! 2022-08-09 https://www.terabox.com
+www.terabox.com##.ru.\+.\{seo-banner-img.seo-banner-img
+
+! 2022-08-10 https://thecommunity.ru
+thecommunity.ru##div.col-md-3:nth-of-type(4)
+thecommunity.ru##[href="https://twitter.com/thecommunity_ru"] > .social-button
+
+! 2022-08-27 https://habr.com
+habr.com##.tm-project-block_variant-vacancies.tm-project-block
+
+! 2022-08-27 https://mail.yandex.ru
+mail.yandex.ru##.eqkhyjs
+mail.yandex.ru##.ns-view-id-90.ns-view-hgkwsun
+mail.yandex.ru##.qa-LeftColumn-Footer-Android.FooterItem-m__item--RmIF6
+mail.yandex.ru##.qa-LeftColumn-Footer-iOS.FooterItem-m__item--RmIF6
+mail.yandex.ru##.qa-LeftColumn-Footer-Advertising.FooterItem-m__item--RmIF6
+
+! 2022-08-27 https://disk.yandex.ru
+disk.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(5)
+
