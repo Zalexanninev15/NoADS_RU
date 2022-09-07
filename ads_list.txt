@@ -1,8 +1,8 @@
 ! List: NoADS_RU (2020-2022)
 ! Author: Zalexanninev15
 ! License: MIT
-! GitHub: github.com/Zalexanninev15/NoADS_RU
-! Buy Me a Coffee: zalexanninev15.jimdofree.com/buy-me-a-coffee
+! GitHub: https://github.com/Zalexanninev15/NoADS_RU
+! Buy Me a Coffee: https://zalexanninev15.jimdofree.com/buy-me-a-coffee
 
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
@@ -9515,4 +9515,19 @@ mail.yandex.ru##.qa-LeftColumn-Footer-Advertising.FooterItem-m__item--RmIF6
 
 ! 2022-08-27 https://disk.yandex.ru
 disk.yandex.ru##a.PSHeader-ServiceList-PopupService.PSHeaderService_theme_light.PSHeaderService:nth-of-type(5)
+
+! 2022-08-29 https://www.windowscentral.com
+www.windowscentral.com##.exit-intent__background.exit-intent
+
+! 2022-08-29 https://www.tutorialspoint.com
+www.tutorialspoint.com###privacy-banner
+
+! 2022-08-31 https://zen.yandex.ru
+zen.yandex.ru##.sDMb8NmydUbsa1zxGhLgRYgd6sH9LpPF7.sDMb8NmydRLMpxHRVzag
+zen.yandex.ru##div.sDMb8NmydRLMpxHRVzag:nth-of-type(3)
+zen.yandex.ru##._has-video-recommendation-heads.sDMb8NmydUbsa1zxGhKgXaBZ9v3lLpPF7.sDMb8NmydRLMpxHRVzag > div
+zen.yandex.ru##.panel-loadable-view__feed > div.sDMb8NmydRLMpxHRVzag > div
+
+! 2022-09-07 https://web.telegram.org (by Faust, https://t.me/TC_PowerUser/89977)
+web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
 
