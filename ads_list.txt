@@ -9535,3 +9535,13 @@ web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.h
 www.terabox.com##.seo-banner-img.\{seo-banner-img.\+.en
 www.terabox.com##.capacity-expansion
 www.terabox.com##.u-carousel__container
+
+! 2022-09-08 https://guidedhacking.com
+guidedhacking.com##.notice--cookie.notice--primary.js-notice.notice > .uix_noticeInner > .notice-content
+guidedhacking.com##.notice--cookie.notice--primary.js-notice.notice > .uix_noticeInner
+guidedhacking.com##.notice--cookie.notice--primary.js-notice.notice
+
+! 2022-09-09 https://pikabu.ru
+pikabu.ru##.top-story-popup
+pikabu.ru##.popup__container
+
