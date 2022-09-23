@@ -9545,6 +9545,66 @@ guidedhacking.com##.notice--cookie.notice--primary.js-notice.notice
 pikabu.ru##.top-story-popup
 pikabu.ru##.popup__container
 
+! 2022-09-14 https://habr.com
+habr.com##.tm-company-article__profile-card.tm-company-profile-card
+
+! 2022-09-17 https://goonlinetools.com
+goonlinetools.com##.white--text.overline
+goonlinetools.com##.red.rounded-0.theme--light.v-sheet.v-card
+
+! 2022-09-17 https://community.chocolatey.org
+community.chocolatey.org##.p-3.border-start.col-xxl-2.col-xl-3.col-md-4.d-md-block.d-none
+
+! 2022-09-17 https://azure.microsoft.com
+azure.microsoft.com###pricing
+
+! 2022-09-17 https://vk.com
+vk.com##.left_menu_mobile_app_promo_block
+
+! 2022-09-18 https://obrazovaka.ru
+obrazovaka.ru##.join.sidebar-block
+obrazovaka.ru##.results.main__results
+obrazovaka.ru##.block-with
+
+! 2022-09-22 https://pypi.org
+pypi.org##.js-stick-to-top.stick-to-top
+
+! 2022-09-22 https://cloud.mail.ru
+cloud.mail.ru##.ToolbarItem__root_blue--2jKhm.ToolbarItem__root--2HCf9
+
+! 2022-09-23 https://howdyho.net
+howdyho.net##section.default:nth-of-type(4)
+howdyho.net##.container > .special > .special-bottom-tip
+
+! 2022-09-23 https://www.avito.ru
+www.avito.ru##.carousel-list-BuRul
+www.avito.ru##.index-root-_Twzf > li:nth-of-type(2)
+www.avito.ru##div.styles-adv-D1naz.advert-mimicry-block-wrapper-_Fmsp:nth-of-type(32)
+www.avito.ru##div.styles-adv-D1naz
+www.avito.ru##.advert-serp-block-wrapper-KtgxK
+
+! [List from Faust]
+web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
+hotline.ua##.catalog-promo-products
+hotline.ua###catalogAdvertProduct
+www.terabox.com##.seo-banner-img.\{seo-banner-img.\+.en
+www.terabox.com##.adsense
+www.terabox.com##.membership-entry
+www.terabox.com##.u-carousel__container
+forum.xda-developers.com##.notice-content
+imgur.com##.notice-content
+tabletki.ua##.filter-advert.mt-3
+tabletki.ua##.col.col__com.h-100
+tabletki.ua##div.row.category-card__card-row:nth-of-type(1) > div.col:nth-of-type(4)
+rabota.ua##.wrapper
+rabota.ua##.santa-bg-white.santa-p-20.santa-rounded-5.ng-star-inserted
+rabota.ua##.santa-flex.santa-justify-between.santa-p-20.santa-rounded-5.santa-border-dashed.santa-border.santa-border-black-500
+www.asurascans.com##p > [href="https://asura.gg/discord"]
+www.asurascans.com##.code-block-1.code-block
+www.asurascans.com##p:nth-of-type(1)
+webmail.meta.ua###news-feed
+webmail.meta.ua###offer_table
+
 ! [Extended]
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|tjournal.ru|vc.ru
 @@||alcogolizm.com/addons/counter/$script,stylesheet,domain=alcogolizm.com
