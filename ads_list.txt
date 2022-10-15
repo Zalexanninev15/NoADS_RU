@@ -9583,24 +9583,17 @@ www.avito.ru##div.styles-adv-D1naz.advert-mimicry-block-wrapper-_Fmsp:nth-of-typ
 www.avito.ru##div.styles-adv-D1naz
 www.avito.ru##.advert-serp-block-wrapper-KtgxK
 
-! [List from Faust]
-web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
-hotline.ua##.catalog-promo-products
-hotline.ua###catalogAdvertProduct
-www.terabox.com##.seo-banner-img.\{seo-banner-img.\+.en
-www.terabox.com##.adsense
-www.terabox.com##.membership-entry
-www.terabox.com##.u-carousel__container
-forum.xda-developers.com##.notice-content
-imgur.com##.notice-content
-tabletki.ua##.filter-advert.mt-3
-tabletki.ua##.col.col__com.h-100
-tabletki.ua##div.row.category-card__card-row:nth-of-type(1) > div.col:nth-of-type(4)
-rabota.ua##.wrapper
-rabota.ua##.santa-bg-white.santa-p-20.santa-rounded-5.ng-star-inserted
-rabota.ua##.santa-flex.santa-justify-between.santa-p-20.santa-rounded-5.santa-border-dashed.santa-border.santa-border-black-500
-www.asurascans.com##p > [href="https://asura.gg/discord"]
-www.asurascans.com##.code-block-1.code-block
-www.asurascans.com##p:nth-of-type(1)
-webmail.meta.ua###news-feed
-webmail.meta.ua###offer_table
+! 2022-09-25 https://vk.com
+vk.com##.vkuiBanner__bg > div
+vk.com##.vkuiBanner__bg
+vk.com##.vkuiBanner--inverted.vkuiBanner--sz-s.vkuiBanner--md-image.vkuiBanner--ios.vkuiBanner
+
+! 2022-09-25 https://regex101.com
+regex101.com##.XNbml.jyUE5
+
+! 2022-09-25 https://happypython.ru
+happypython.ru##.lwpcngHide.lwpcngNotice-dark.lwpcngNoticeBar-bottom.lwpcngNoticeBar.lwpcngNotice-sticked.lwpcngNotice.js-lwpcngNotice
+
+! 2022-09-29 https://ru.msi.com
+ru.msi.com###ccc-overlay
+
