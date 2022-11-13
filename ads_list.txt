@@ -152,14 +152,6 @@ vk.com###ui_rmenu_podcasts
 vk.com##.stories_feed_items_wrap
 vk.com##.clear_fix.stories_feed_title
 
-! 13.02.2020 https://mail.google.com
-mail.google.com##.t7
-mail.google.com###lZwQje
-mail.google.com##.brC-bsf-aT5-aOt
-mail.google.com##.brC-aT5-aOt-bsf-Jw
-mail.google.com##.brC-aT5-aOt-Jw
-mail.google.com##.nn.bAw.nH
-
 ! 13.02.2020 https://drive.google.com
 drive.google.com##.a-da-ub-ce
 
@@ -1137,11 +1129,6 @@ gdeposylka.ru##.col-sm-6.col-md-2 > ul > li:nth-of-type(5)
 gdeposylka.ru##[href="/china/joom"]
 gdeposylka.ru##[href="/china/pandao"]
 gdeposylka.ru##.chrome-extension-install > [href="https://chrome.google.com/webstore/detail/pleaojdbmipmniiafnfmiainmdhkomgn"]
-
-! 20.02.2020 https://mail.google.com
-mail.google.com##.aHS-aHP.bzz.TN
-mail.google.com###\:lm
-mail.google.com##.aj5.J-KU-Jg-Zc.J-KU-Jg
 
 ! 20.02.2020 https://docs.google.com
 docs.google.com##.goog-flat-button.goog-inline-block.docs-explore-widget-button
@@ -7149,9 +7136,6 @@ cloud.mail.ru##.Bubble__root--KQnm8
 pastebin.com##.-cookies.popup-box
 pastebin.com##.-pro.popup-box
 
-! 2021-05-24 https://mail.google.com
-mail.google.com##.GR
-
 ! 2021-05-25 https://qiwi.com
 qiwi.com##.cookies-self-222
 
@@ -9596,4 +9580,22 @@ happypython.ru##.lwpcngHide.lwpcngNotice-dark.lwpcngNoticeBar-bottom.lwpcngNotic
 
 ! 2022-09-29 https://ru.msi.com
 ru.msi.com###ccc-overlay
+
+! 2022-10-28 https://maclookup.app
+maclookup.app###cm-ov
+maclookup.app##.slide.center.middle.cloud
+maclookup.app##.cc_div
+
+! 2022-10-28 https://macaddress.io
+macaddress.io##.cookie-message-block
+
+! 2022-10-29 https://boosty.to
+boosty.to##.GdprOffer_block_Ir4kJ.GdprOffer_block_AFxJr
+
+! 2022-10-31 https://linux-gaming.ru
+linux-gaming.ru##.lwpcngHide.lwpcngNotice-dark.lwpcngNoticeBar-bottom.lwpcngNoticeBar.lwpcngNotice-sticked.lwpcngNotice.js-lwpcngNotice
+
+! 2022-11-13 https://cloud.mail.ru
+cloud.mail.ru##.ph-project-promo-description
+cloud.mail.ru##.ph-project-promo-container
 
