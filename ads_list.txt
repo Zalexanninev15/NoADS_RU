@@ -4969,9 +4969,6 @@ vk.com##.olist_item_wrap_on.olist_item_no_apps.olist_item_menu.olist_item_wrap
 ! 2020-10-09 https://m.vk.com
 m.vk.com##.mmi_ads > .al_menu.mm_item
 
-! 2020-10-09 https://vk.com
-vk.com##.ui_gallery__inner_cont
-
 ! 2020-10-09 https://www.ableton.com
 www.ableton.com##.text-white.bg-black.abl-pa-20-ml.abl-pa-10
 
@@ -9597,4 +9594,7 @@ linux-gaming.ru##.lwpcngHide.lwpcngNotice-dark.lwpcngNoticeBar-bottom.lwpcngNoti
 ! 2022-11-13 https://cloud.mail.ru
 cloud.mail.ru##.ph-project-promo-description
 cloud.mail.ru##.ph-project-promo-container
+
+! 2022-11-16 https://habr.com
+habr.com##.tm-block_spacing-top.tm-stories-block.tm-block
 
