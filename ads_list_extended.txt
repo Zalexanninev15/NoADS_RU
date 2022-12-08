@@ -9598,6 +9598,39 @@ cloud.mail.ru##.ph-project-promo-container
 ! 2022-11-16 https://habr.com
 habr.com##.tm-block_spacing-top.tm-stories-block.tm-block
 
+! 2022-11-25 https://market.yandex.ru
+market.yandex.ru##._3WotU > div
+
+! 2022-11-30 https://answers.unity.com
+answers.unity.com###onetrust-banner-sdk > div > .ot-sdk-container > .ot-sdk-row
+answers.unity.com###block-socialblock--2
+
+! 2022-12-02 https://pikbest.com
+pikbest.com##.transform-login
+pikbest.com##.pwa-guide-inner
+pikbest.com##.need-login.pb-enter
+pikbest.com##.custom-event-topad.pb-topad
+pikbest.com##.pb-webpage.left-media
+pikbest.com##.fr.footer-siteinfo > .footer-shore
+pikbest.com##.footer-btn-wrap
+pikbest.com##.new-des
+
+! 2022-12-02 https://freepsdvn.com
+freepsdvn.com##.cp-overlay-background
+freepsdvn.com##.cp_cs_overlay.cp-modal-body-overlay
+freepsdvn.com##.cp-content-section-overlay
+freepsdvn.com##.cp-content-section.col-xs-12.col-sm-12.col-md-12.col-lg-12
+freepsdvn.com##.cp-form-section-overlay
+freepsdvn.com##.form-pos-bottom.cp-form-section.col-xs-12.col-sm-12.col-md-12.col-lg-12
+freepsdvn.com##.lazyloaded.ls-is-cached.cp-default-close
+freepsdvn.com##.perfecty-push-dialog-box
+freepsdvn.com##.floating.share-modern.shareit
+freepsdvn.com##.f-widget-2.f-widget
+
+! 2022-12-08 https://techexpert.tips
+techexpert.tips##.fusion-privacy-bar-bottom.fusion-privacy-bar
+techexpert.tips##.fusion-footer-copyright-area
+
 ! [List from Faust's Gist: https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
 hotline.ua##.catalog-promo-products
