@@ -39,6 +39,8 @@
 
 ## Инструкция по настройке расширений и браузеров для работы со списком
 
+*Возможно придётся немного подождать прогрузки GIF (3 штуки)*
+
 ### A) AdBlock-расширения (на примере uBlock Origin)
 #### - Добавление автоматически с автообновлением списка
 Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), далее всё зависит от версии расширения:
