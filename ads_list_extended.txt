@@ -9631,20 +9631,26 @@ freepsdvn.com##.f-widget-2.f-widget
 techexpert.tips##.fusion-privacy-bar-bottom.fusion-privacy-bar
 techexpert.tips##.fusion-footer-copyright-area
 
-! [List from Faust's Gist: https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
+! 2022-12-21 https://creator.nightcafe.studio
+creator.nightcafe.studio##.css-1qy1gp8
+creator.nightcafe.studio##.css-j2h1n6
+
+! 2022-12-21 https://www.suncalc.org
+||www.suncalc.org/img/adblocker*$image
+
+! 2022-12-24 https://market.yandex.ru
+market.yandex.ru##.w-head-banner
+
+! 2022-12-29 https://neural.love
+neural.love##.bg-success.discount.d-flex.justify-content-center.text-white
+
+! [List from Faust and his Gist: https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
-hotline.ua##.catalog-promo-products
-hotline.ua###catalogAdvertProduct
-hotline.ua##div.col-xs-,.col-sm-,.col-lg-,.promo-list-item--column.promo-list-item:nth-of-type(n)
-www.terabox.com##.seo-banner-img.\{seo-banner-img.\+.en
 www.terabox.com##.adsense
 www.terabox.com##.membership-entry
+www.terabox.com##.seo-banner-img.\{seo-banner-img.\+.en
 www.terabox.com##.u-carousel__container
-forum.xda-developers.com##.notice-content
 imgur.com##.notice-content
-tabletki.ua##.filter-advert.mt-3
-tabletki.ua##.col.col__com.h-100
-tabletki.ua##div.row.category-card__card-row:nth-of-type(1) > div.col:nth-of-type(4)
 asura.gg##p > [href="https://asura.gg/discord"]
 asura.gg##.code-block-1.code-block
 asura.gg##p:nth-of-type(1)
@@ -9653,6 +9659,18 @@ webmail.meta.ua###offer_table
 rabota.ua##alliance-telegram-bot-promo.ng-star-inserted
 rabota.ua##.santa-bg-white.santa-p-20.santa-rounded-5.ng-star-inserted
 rabota.ua##.santa-flex.santa-justify-between.santa-p-20.santa-rounded-5.santa-border-dashed.santa-border.santa-border-black-500
+forum.xda-developers.com##.notice-content
+gotoshop.ua##.top-header
+hotline.ua###catalogAdvertProduct
+hotline.ua##.catalog-promo-products
+hotline.ua##div.col-xs-,.col-sm-,.col-lg-,.promo-list-item--column.promo-list-item:nth-of-type(n)
+tabletki.ua###HeaderPanel_AppsPanel
+tabletki.ua##.banner__install
+tabletki.ua##.btn-small-upper.btn-sm.btn-outline-orange.btn
+tabletki.ua##.col.col__com.h-100
+tabletki.ua##.filter-advert.mt-3
+tabletki.ua##div.row.category-card__card-row:nth-of-type(1) > div.col:nth-of-type(4)
+www.eway.in.ua##.android.application-banner
 
 ! [Extended]
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|tjournal.ru|vc.ru
