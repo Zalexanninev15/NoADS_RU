@@ -9630,3 +9630,16 @@ freepsdvn.com##.f-widget-2.f-widget
 ! 2022-12-08 https://techexpert.tips
 techexpert.tips##.fusion-privacy-bar-bottom.fusion-privacy-bar
 techexpert.tips##.fusion-footer-copyright-area
+
+! 2022-12-21 https://creator.nightcafe.studio
+creator.nightcafe.studio##.css-1qy1gp8
+creator.nightcafe.studio##.css-j2h1n6
+
+! 2022-12-21 https://www.suncalc.org
+||www.suncalc.org/img/adblocker*$image
+
+! 2022-12-24 https://market.yandex.ru
+market.yandex.ru##.w-head-banner
+
+! 2022-12-29 https://neural.love
+neural.love##.bg-success.discount.d-flex.justify-content-center.text-white
