@@ -9646,3 +9646,4 @@ neural.love##.bg-success.discount.d-flex.justify-content-center.text-white
 
 ! 2023-01-05 https://ficbook.net
 ficbook.net##.fb-ads-block
+ficbook.net##.discount-sticky
