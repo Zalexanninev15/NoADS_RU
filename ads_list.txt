@@ -9647,3 +9647,42 @@ neural.love##.bg-success.discount.d-flex.justify-content-center.text-white
 ! 2023-01-05 https://ficbook.net
 ficbook.net##.fb-ads-block
 ficbook.net##.discount-sticky
+ficbook.net##[href="/rkl/offer-static"]
+
+! 2023-01-11 https://disk.yandex.ru
+disk.yandex.ru##.PSHeader-ServiceList-MainService_collapsible_n3.PSHeader-ServiceList-MainService.promozavr-anchor-servicePremiumButton.PSHeaderService_theme_light.PSHeaderService
+
+! 2023-01-11 https://mail.yandex.ru
+mail.yandex.ru##.PSHeader-ServiceList-MainService_collapsible_n3.PSHeader-ServiceList-MainService.promozavr-anchor-servicePremiumButton.PSHeaderService_theme_light.PSHeaderService
+
+! 2023-01-11 https://docs.yandex.ru
+docs.yandex.ru##.PSHeader-ServiceList-MainService_collapsible_n3.PSHeader-ServiceList-MainService.promozavr-anchor-servicePremiumButton.PSHeaderService_theme_light.PSHeaderService
+
+! 2023-01-11 https://calendar.yandex.ru
+calendar.yandex.ru##.PSHeader-ServiceList-MainService_collapsible_n3.PSHeader-ServiceList-MainService.promozavr-anchor-servicePremiumButton.PSHeaderService_theme_light.PSHeaderService
+
+! 2023-01-11 https://yandex.ru
+yandex.ru##.yamb-chat-not-selected__download-app-section
+
+! 2023-01-11 https://calendar.yandex.ru
+calendar.yandex.ru##.PSHeaderLogo360-360 > svg
+calendar.yandex.ru##.PSHeaderLogo360-Ya circle
+
+! 2023-01-11 https://disk.yandex.ru
+disk.yandex.ru##.PSHeaderLogo360_theme_light.PSHeaderLogo360
+
+! 2023-01-11 https://docs.yandex.ru
+docs.yandex.ru##.PSHeaderLogo360_theme_light.PSHeaderLogo360
+
+! 2023-01-14 https://textcortex.com
+textcortex.com##.cookie-consent__item
+textcortex.com##div.cookie-consent:nth-of-type(5)
+textcortex.com##.pop-up-wrapper
+textcortex.com##.banner
+
+! 2023-01-14 https://www.photoroom.com
+www.photoroom.com##.cky-banner-bottom.cky-consent-container
+
+! 2023-01-14 https://openvpn.net
+openvpn.net##.osano-cm-dialog--type_bar.osano-cm-dialog--position_bottom.osano-cm-dialog.osano-cm-window__dialog
+
