@@ -1,4 +1,4 @@
-! List: NoADS_RU (2020-2022)
+! List: NoADS_RU (2020-2023)
 ! Author: Zalexanninev15
 ! License: MIT
 ! GitHub: github.com/Zalexanninev15/NoADS_RU
