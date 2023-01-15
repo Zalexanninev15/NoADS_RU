@@ -1,4 +1,4 @@
-! List: NoADS_RU (2020-2022) [Extended]
+! List: NoADS_RU (2020-2023)
 ! Author: Zalexanninev15
 ! License: MIT
 ! GitHub: github.com/Zalexanninev15/NoADS_RU
@@ -9685,6 +9685,7 @@ www.photoroom.com##.cky-banner-bottom.cky-consent-container
 
 ! 2023-01-14 https://openvpn.net
 openvpn.net##.osano-cm-dialog--type_bar.osano-cm-dialog--position_bottom.osano-cm-dialog.osano-cm-window__dialog
+
 
 ! [List from Faust and his Gist: https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
