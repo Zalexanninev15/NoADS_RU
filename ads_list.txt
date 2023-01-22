@@ -9686,3 +9686,21 @@ www.photoroom.com##.cky-banner-bottom.cky-consent-container
 ! 2023-01-14 https://openvpn.net
 openvpn.net##.osano-cm-dialog--type_bar.osano-cm-dialog--position_bottom.osano-cm-dialog.osano-cm-window__dialog
 
+! 2023-01-15 https://usebottles.com
+usebottles.com##.cookies-panel > .large.container
+
+! 2023-01-16 https://cyber-x.ru
+cyber-x.ru##.lwpcngHide.lwpcngNotice-dark.lwpcngNoticeBar-bottom.lwpcngNoticeBar.lwpcngNotice-sticked.lwpcngNotice.js-lwpcngNotice
+
+! 2023-01-22 https://www.startpage.com
+www.startpage.com##.banner-top-wrapper
+www.startpage.com##.hero-widget-containter
+
+! 2023-01-22 https://afisha.yandex.ru
+afisha.yandex.ru##.ToplineItem-sc-1jmgotb-3:nth-of-type(5)
+afisha.yandex.ru##.iTDHYt.AfishaAppWrapper-sc-1ejapqn-0
+
+! 2023-01-22 https://www.startpage.com
+www.startpage.com###block-display > .themeProvider
+www.startpage.com##.widget-install-legacy
+
