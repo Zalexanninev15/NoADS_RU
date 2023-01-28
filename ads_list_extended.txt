@@ -1,8 +1,8 @@
 ! List: NoADS_RU (2020-2023)
 ! Author: Zalexanninev15
 ! License: MIT
-! GitHub: github.com/Zalexanninev15/NoADS_RU
-! Buy Me a Coffee: zalexanninev15.jimdofree.com/buy-me-a-coffee
+! GitHub: https://github.com/Zalexanninev15/NoADS_RU
+! Buy Me a Coffee: https://zalexanninev15.jimdofree.com/buy-me-a-coffee
 
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
@@ -9703,6 +9703,11 @@ afisha.yandex.ru##.iTDHYt.AfishaAppWrapper-sc-1ejapqn-0
 ! 2023-01-22 https://www.startpage.com
 www.startpage.com###block-display > .themeProvider
 www.startpage.com##.widget-install-legacy
+
+! 2023-01-24 https://zamunda.net
+zamunda.net##[href^="https://zamunda.net/zamunda-friends-visit.php"]
+zamunda.net##[href^="https://dmsbg.com/"]
+zamunda.net##.foot_links > [href="/banners.php"]
 
 ! [List from Faust and his Gist: https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
