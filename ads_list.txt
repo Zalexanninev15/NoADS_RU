@@ -35,15 +35,15 @@ drive.google.com##.Kk7lMc-Yb-Il-j
 drive.google.com##.wo35tf
 drive.google.com###lZwQje
 
-! 13.02.2020 https://4pda.ru
+! 13.02.2020 https://4pda.to
 ||s.4pda.to/dry7UiFpz28iVt3WhdUAxhEqSWpHqz2hl2MBv9g3ENlyLs14YRu8wdTW60.jpg$image
-4pda.ru###ASVyjffh5F
-4pda.ru##.p9s9whc.i2PTupWIQ
+4pda.to###ASVyjffh5F
+4pda.to##.p9s9whc.i2PTupWIQ
 ||s.4pda.to/dry7Ndn2mFPz2M546D5v2OVOoyJuZ.jpg?_=1581517204$image
-4pda.ru##.BI3E5cnB.oBI3E5cnB
-4pda.ru###NxyG9g1 > .post
+4pda.to##.BI3E5cnB.oBI3E5cnB
+4pda.to###NxyG9g1 > .post
 ||s.4pda.to/dry7JdLBJgFZXTkGz1XhYdm3Kcz0SfEz1ez1myvSd90HDMguhrIXnz2EL0LNB.jpg$image
-4pda.ru###LkLKeK60z0k > div.V27Pz0q4kjdd:nth-of-type(1)
+4pda.to##:nth-of-type(1)
 ||s.4pda.to/dry7Kmz0EyjmB3hyotaz1BI99a7dNYEgKnjZz0FyCZ5kuDdgJBz1XNAz2Xcf8.jpg$image
 
 ! 13.02.2020 https://www.playground.ru
@@ -913,22 +913,22 @@ yandex.ru##.serp-footer__link-protect
 yandex.ru###uniq621 > .menu__text
 yandex.ru###uniq623 > .menu__text
 
-! 15.02.2020 https://4pda.ru
-4pda.ru##[href="/advert/"] > strong
-4pda.ru##.icon-TWITTER
-4pda.ru##.icon-FB
-4pda.ru##td:nth-of-type(2) > [href^="//4pda.ru/forum/index.php"] > b
-4pda.ru###gfooter > tbody > tr > td:nth-of-type(2)
+! 15.02.2020 https://4pda.to
+4pda.to##[href="/advert/"] > strong
+4pda.to##.icon-TWITTER
+4pda.to##.icon-FB
+4pda.to##td:nth-of-type(2) > [href^="//4pda.to/forum/index.php"] > b
+4pda.to###gfooter > tbody > tr > td:nth-of-type(2)
 ||s.4pda.to/dry7Ndn2mFfTZKFKW84dXmG6kU56.jpg?_=1581511454$image
 ||s.4pda.to/dry7GWvMKoONChsXSyz14q4SyL563YshiFjxb.jpg$image
-4pda.ru##div.post:nth-of-type(8) > .BI3E5cnB
+4pda.to##div.post:nth-of-type(8) > .BI3E5cnB
 ||s.4pda.to/dry7MWAaGCrwwvFqFg4JTDCz0vK1jMAwA0nz18XW0mDocz0Gz270Ynrz21MnK.jpg$image
 ||s.4pda.to/dry7VpnHPljcNHz2su6tp0Mnn8G7WK1VUoeIY.png$image
-4pda.ru##.v-panel > [href^="//4pda.ru/2020/02/10/367738/"]
+4pda.to##.v-panel > [href^="//4pda.to/2020/02/10/367738/"]
 ||s.4pda.to/dry7MmgqYe9bpTf9KouZhLtg3cn.png$image
 ||s.4pda.to/dry7VpnHPljcNHz2su6tp0Mnn8G7WK1VUoeIY.png$image
 ||s.4pda.to/dry7J7LhGOPqQCA7Zyz1a4yG2M39xEO0EwSWz2.jpg$image
-4pda.ru##div.post:nth-of-type(12) > .BI3E5cnB
+4pda.to##div.post:nth-of-type(12) > .BI3E5cnB
 ||s.4pda.to/dry7HlddxHhVz0spJbHpz1WvdbfwghsaF9aAXdYYYNH0vUL61DVKi01sXy.jpg$image
 ||s.4pda.to/dry72L55VxKMEQ0lz2B9rZkVHz1CW15Q85VwWcpPK0SLRBr2asL57YqdAU.jpg$image
 
@@ -1007,9 +1007,9 @@ yandex.ru##.link_js_inited.i-bem.competitors__link.link_theme_none.link
 rabota.yandex.ru##.footer__row_type_app.footer__row
 rabota.yandex.ru##a.footer__link.link:nth-of-type(7)
 
-! 17.02.2020 https://4pda.ru
-4pda.ru##.icon-tw
-4pda.ru##.icon-fb
+! 17.02.2020 https://4pda.to
+4pda.to##.icon-tw
+4pda.to##.icon-fb
 
 ! 17.02.2020 https://yandex.ru
 yandex.ru##.distr-default-search_js_inited.i-dbn-cookie_js_inited.i-bem.i-dbn-cookie.distr-default-search
@@ -1017,8 +1017,8 @@ yandex.ru##.distr-default-search_js_inited.i-dbn-cookie_js_inited.i-bem.i-dbn-co
 ! 19.02.2020 https://vk.com
 vk.com##.apps_feedRightAppsBlock_collaborative_recommend_apps.apps_feedRightAppsBlock.page_block
 
-! 19.02.2020 https://4pda.ru
-4pda.ru##.footer
+! 19.02.2020 https://4pda.to
+4pda.to##.footer
 
 ! 20.02.2020 https://www.flaticon.com
 www.flaticon.com##.bg-twitter.flaticon-twitter
@@ -1133,10 +1133,10 @@ gdeposylka.ru##.chrome-extension-install > [href="https://chrome.google.com/webs
 ! 20.02.2020 https://docs.google.com
 docs.google.com##.goog-flat-button.goog-inline-block.docs-explore-widget-button
 
-! 20.02.2020 https://4pda.ru
+! 20.02.2020 https://4pda.to
 ||s.4pda.to/dry7Ndn2mFvz2qH634ITO1Wu24z2Me.jpg?_=1581944203$image
 ||s.4pda.to/dry7M8l7Y3rW3Udjxq4RjN57144tiU3NI3z0BymxpBDx25D6ZK6XTKNI2.jpg$image
-4pda.ru##.BchkdBmygoO2dOY
+4pda.to##.BchkdBmygoO2dOY
 
 ! 20.02.2020 https://getvideo.org
 getvideo.org##.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
@@ -1254,7 +1254,7 @@ yandex.ru##.service_name_collections.service > .link_theme_normal.link.service__
 yandex.ru##.service_name_collections.service
 yandex.ru##td.services-all__column:nth-of-type(3) > div.services-all__group:nth-of-type(6) > .services-all__list > div.services-all__item_wrap:nth-of-type(3) > .services-all__link.link > .services-all__item
 
-! 24.02.2020 https://4pda.ru
+! 24.02.2020 https://4pda.to
 ||s.4pda.to/dry7Ndn2mFPz1N71FQXZR7FGcz1MH4.jpg?_=1582296944$image
 
 ! 24.02.2020 https://mail.yandex.ru
@@ -1825,16 +1825,16 @@ www.loadboard.ru##[href^="https://www.livejournal.com/update.bml"]
 ! 09.03.2020 https://vk.com
 vk.com##.stories_groups_block_stories_empty
 
-! 09.03.2020 https://4pda.ru
-4pda.ru###gfooter > tbody > tr > td:nth-of-type(1)
+! 09.03.2020 https://4pda.to
+4pda.to###gfooter > tbody > tr > td:nth-of-type(1)
 
 ! 10.03.2020 https://cloud.mail.ru
 cloud.mail.ru##.b-promo-banner-spring-discount__content
 cloud.mail.ru##.b-promo-banner-spring-discount
 cloud.mail.ru##.Button__btnOctavius--1s7_j.button.primary.fluid.ui
 
-! 10.03.2020 https://4pda.ru
-4pda.ru##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(4)
+! 10.03.2020 https://4pda.to
+4pda.to##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(4)
 
 ! 10.03.2020 https://mail.yandex.ru
 mail.yandex.ru##.bIhJffJhscLGn55fZyYzBTLNRIVyADmE
@@ -1864,18 +1864,18 @@ mail.yandex.ru##.rd286476b.o48eacc72.w63c27741
 mail.yandex.ru##.y4cdad2af
 mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-id-70.ns-view-fill-height-placeholder-box
 
-! 11.03.2020 https://4pda.ru
-4pda.ru##.count-visitor
-4pda.ru##.footer-area
-4pda.ru##.news-list
+! 11.03.2020 https://4pda.to
+4pda.to##.count-visitor
+4pda.to##.footer-area
+4pda.to##.news-list
 ||s.4pda.to/dry7Nz2HQbEUu4z2q4bJM0z1LdDliXVK1VUIOAU.jpg$image
-4pda.ru##div.post:nth-of-type(3)
+4pda.to##div.post:nth-of-type(3)
 ||s.4pda.to/dry7Kmeawfz1DKRz2wgWfbUKy2z0LKGr6AUTNT4BcPdz2r7iSI29LbtQOfH4.jpg$image
 ||s.4pda.to/dry7NBvz1V7fCMofnK8i9fHDiSooHFR612Gz1i.jpg$image
-4pda.ru##.v-panel > [href^="//4pda.ru/2020/03/08/368890/"]
-4pda.ru##div.post:nth-of-type(9)
-4pda.ru##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(2)
-4pda.ru##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(5)
+4pda.to##.v-panel > [href^="//4pda.to/2020/03/08/368890/"]
+4pda.to##div.post:nth-of-type(9)
+4pda.to##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(2)
+4pda.to##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(5)
 
 ! 11.03.2020 https://yandex.ru
 yandex.ru###tabs-api_4384-tab-6 > .link_js_inited.i-bem.link_theme_normal.link > .tabs-menu__title
@@ -1930,8 +1930,8 @@ passport.yandex.ru##.registration__social-btn_short.registration__gg-btn
 ! 14.03.2020 https://tlgrm.ru
 tlgrm.ru##[href="https://tlgrm.ru/info/promo/channels"]
 
-! 16.03.2020 https://4pda.ru
-1584178604$domain=4pda.ru,image
+! 16.03.2020 https://4pda.to
+1584178604$domain=4pda.to,image
 
 ! 16.03.2020 https://mail.yandex.ru
 mail.yandex.ru##.acd060388
@@ -1952,7 +1952,7 @@ mail.yandex.ru##.r_oHy39q49Q1Uiw5FYCkq
 mail.yandex.ru##.gTc_2CbepPDXIddHeDmwv
 mail.yandex.ru##.gTc_2CbepPDXIddHeDmwv
 
-! 20.03.2020 https://4pda.ru
+! 20.03.2020 https://4pda.to
 ||s.4pda.to/dry7Ndn2mF
 
 ! 24.03.2020 https://icon-icons.com
@@ -1962,8 +1962,8 @@ icon-icons.com##.myicons-twitter.icons
 ! 26.03.2020 https://vk.com
 vk.com##.l_main.more_div
 
-! 27/03/2020 https://4pda.ru
-4pda.ru##.g0bQ6z1bCfsLpp1sU
+! 27/03/2020 https://4pda.to
+4pda.to##.g0bQ6z1bCfsLpp1sU
 
 ! 27/03/2020 https://vk.com
 vk.com###ads_ad_box_ad_89053d099912e3bf > .first.redesign.repeat_ver.ads_ad_box_border
@@ -2050,9 +2050,9 @@ mail.yandex.ru##.a2zaMvMDI57lSbajaBVA0
 ! 01.04.2020 https://yandex.ru
 yandex.ru##.rows__row_last
 
-! 01.04.2020 https://4pda.ru
-4pda.ru##.materials-box
-4pda.ru###Ufz29u9r2Th > div.K5j4jftiDYe:nth-of-type(1)
+! 01.04.2020 https://4pda.to
+4pda.to##.materials-box
+4pda.to###Ufz29u9r2Th > div.K5j4jftiDYe:nth-of-type(1)
 ||s.4pda.to/Cu4CVt2vgqDFqUmUrbc1XXBgyZ57qGB18ZfAL0WqKYb5z1oqYISU17CkO.jpg$image
 ||s.4pda.to/Cu4CVtNJim39ZkpMeXnljyz1C6H6rFyLkuN91YgQM5llE8pz0LckZaz13MK.jpg$image
 
@@ -2104,7 +2104,7 @@ www.ozon.ru##a.a8v3.a0n3:nth-of-type(2)
 www.ozon.ru##.a8b4.a8b3.a0n3 > span
 www.ozon.ru##.c1x8
 
-! 09.04.2020 https://4pda.ru
+! 09.04.2020 https://4pda.to
 ||s.4pda.to/dry7Nd1W4Ta3NbKEPdiZBH3e5yGd.jpg?_=1585757445$image
 
 ! 09.04.2020 https://metanit.com
@@ -2158,7 +2158,7 @@ yandex.ru##div.cl-masonry__column_4.cl-masonry__column:nth-of-type(4) > div.cl-c
 yandex.ru##div.cl-card-teaser.cl-teaser_no-footer.cl-teaser_controls_bottom.cl-teaser_controls.cl-teaser_stat.cl-teaser_fixed.cl-teaser_card.cl-teaser:nth-of-type(2) > .cl-teaser-video-play.cl-teaser__wrap > .cl-teaser__picture > .cl-card-teaser-controls.cl-pulse-animation-container > .cl-card-teaser-controls__button_share.cl-card-teaser-controls__button.button_card.button_shadow.button_shape_round.button_type_action.button_size_M.button_ei.button
 yandex.ru##div.cl-masonry__column_4.cl-masonry__column:nth-of-type(2) > div.cl-card-teaser.cl-teaser_no-footer.cl-teaser_controls_bottom.cl-teaser_controls.cl-teaser_fixed.cl-teaser_card.cl-teaser:nth-of-type(1) > .cl-teaser-video-play.cl-teaser__wrap > .cl-teaser__picture > .cl-card-teaser-controls.cl-pulse-animation-container > .cl-card-teaser-controls__button_share.cl-card-teaser-controls__button.button_card.button_shadow.button_shape_round.button_type_action.button_size_M.button_ei.button
 
-! 10.04.2020 https://4pda.ru
+! 10.04.2020 https://4pda.to
 ||s.4pda.to/dry7Nd1W4Ta3NbKEPdiZBH3e5yGd.jpg$image
 
 ! 10.04.2020 https://www.google.ru
@@ -2471,12 +2471,12 @@ adultmult12.multmania.club##.lm > div:nth-of-type(3)
 adultmult12.multmania.club##hr#etchedline:nth-of-type(3)
 adultmult12.multmania.club##hr#etchedline:nth-of-type(4)
 
-! 28.05.2020 https://4pda.ru
+! 28.05.2020 https://4pda.to
 ||s.4pda.to/dry7Ky5pfDKqD26qXVhz0PHWY87RjZihDZDv6Ez2hq4b0ohez0fbTRqpBaL.jpg$image
-4pda.ru##.V27Pz0S44hFXI
-4pda.ru###Lz1r7iF6QN2BMjPP
-4pda.ru##.menu-main > li.menu-main-item:nth-of-type(5) > [href^="//4pda.ru/honor/"]
-4pda.ru##.icon-INSTAGRAM
+4pda.to##.V27Pz0S44hFXI
+4pda.to###Lz1r7iF6QN2BMjPP
+4pda.to##.menu-main > li.menu-main-item:nth-of-type(5) > [href^="//4pda.to/honor/"]
+4pda.to##.icon-INSTAGRAM
 
 ! 28.05.2020 https://translate.google.ru
 translate.google.ru##div.gb_zc:nth-of-type(1)
@@ -2648,26 +2648,26 @@ rutracker.org##.hide-for-print.bottom_info > .tRight
 rutracker.org##a[href^="info.php"]:nth-of-type(2)
 rutracker.org##div:nth-of-type(2) > a[href^="viewforum.php"]:nth-of-type(4)
 
-! 12.06.2020 https://4pda.ru
+! 12.06.2020 https://4pda.to
 ||s.4pda.to/xjMN2JoMlVgwQRe8z1LlpH3.gif$image
-4pda.ru##.p9OEZyi.i2tQXaglA
+4pda.to##.p9OEZyi.i2tQXaglA
 ||s.4pda.to/xjMNN9sRd5qFWVHI7QbX6YnWvq8k.jpg?_=1591602462$image
-4pda.ru##.By4NIiCR.fBy4NIiCR
-4pda.ru###NLx9UWy > .post
-4pda.ru###LGoUx5xAtSKJC4W
+4pda.to##.By4NIiCR.fBy4NIiCR
+4pda.to###NLx9UWy > .post
+4pda.to###LGoUx5xAtSKJC4W
 ||s.4pda.to/xjMNNDkuz1e72DVZWahgOeKjM2CfBiMy5V1vR31Muonw3K5yVQpyTyTF2.jpg$image
-4pda.ru##.Vi00gMvKBHz1N
+4pda.to##.Vi00gMvKBHz1N
 ||s.4pda.to/xjMNKUwNhdDRZrZtMv7nJ4OwSJfqXiNYhYoYvBZGd1ka4MkI76DcMyyS.jpg$image
 ||s.4pda.to/xjMNK2NG1fWUFbW73J7ZCGPR6wqMz0RsFxGtocTo7OG9RLiR3i4ez29Ca0.jpg$image
-4pda.ru###L0IDz2UxGTm > div.Vi00gz1vz1Dvu:nth-of-type(1)
+4pda.to###L0IDz2UxGTm > div.Vi00gz1vz1Dvu:nth-of-type(1)
 
 ! 13.06.2020 https://yandex.ru
 yandex.ru##.dist-popup__content.popup__content
 yandex.ru##.popup__under
 yandex.ru##.popup_to_bottom.popup_visibility_visible.popup_js_inited.dist-popup_js_inited.popup_autoclosable_no.popup_theme_ffffff.popup_focusevents_no.popup_animate_yes.popup_adaptive_yes.popup_source_yabs.dist-popup_product_sethome.dist-popup.popup.i-bem
 
-! 13.06.2020 https://4pda.ru
-4pda.ru###fo_-1
+! 13.06.2020 https://4pda.to
+4pda.to###fo_-1
 
 ! 13.06.2020 https://yandex.ru
 yandex.ru##.yabrowser-promo__text
@@ -2701,8 +2701,8 @@ docviewer.yandex.ru##.tjyecudb.gnjnbxsnh.ytqiinpx > ruuobnix-proxn
 ! 16.06.2020 https://uploadrar.com
 uploadrar.com##.socialmedia
 
-! 18.06.2020 https://4pda.ru
-4pda.ru##.menu-main > li.w-sub.menu-main-item:nth-of-type(2) > [href="//4pda.ru/reviews/"]
+! 18.06.2020 https://4pda.to
+4pda.to##.menu-main > li.w-sub.menu-main-item:nth-of-type(2) > [href="//4pda.to/reviews/"]
 
 ! 19.06.2020 https://yandex.ru
 yandex.ru##.Q_Lb.w_i5
@@ -2728,12 +2728,12 @@ yadi.sk##.link__icon_side_left.link__icon.icon.ufo-icon > .ufo-icon__icon > path
 yadi.sk##.hover-tooltip__tooltip-anchor
 yadi.sk##a.inline-services-menu__link.link_theme_dark.link.control:nth-of-type(2)
 
-! 23.06.2020 https://4pda.ru
-4pda.ru##[href="https://4pda.ru/2020/06/23/6828877/"]
-4pda.ru###vz2K9Tiz0kjM
-4pda.ru##.wL2FRZ.nwMD3b6V
-4pda.ru##.un8xrZbE.yun8xrZbE
-4pda.ru###aOtbvlL > .post
+! 23.06.2020 https://4pda.to
+4pda.to##[href="https://4pda.to/2020/06/23/6828877/"]
+4pda.to###vz2K9Tiz0kjM
+4pda.to##.wL2FRZ.nwMD3b6V
+4pda.to##.un8xrZbE.yun8xrZbE
+4pda.to###aOtbvlL > .post
 ||s.4pda.to/SEo4a4wt0ATQeOi5gaNktgKBI5Yz0.jpg?_=1592837090$image
 
 ! 23.06.2020 https://lenta.ru
@@ -2741,9 +2741,9 @@ lenta.ru##.jxuilv.dxilri > div:nth-of-type(1)
 lenta.ru##.b-longgrid-column.okeovzb
 lenta.ru##.nrkqe__rxkz
 
-! 24.06.2020 https://4pda.ru
+! 24.06.2020 https://4pda.to
 ||s.4pda.to/dry7LxUNuYBpV0XyvCMSsxbWLNYiJbollpEE4jtdQQmAseZQxErz2X6v0.jpg$image
-4pda.ru##.icon-YOUTUBE
+4pda.to##.icon-YOUTUBE
 
 ! 24.06.2020 https://yougame.biz
 yougame.biz##div.pre-footer--column:nth-of-type(1) > .pre-footer--container > .pre-footer--content > .pre-footer--links > li:nth-of-type(4)
@@ -2760,8 +2760,8 @@ yougame.biz##div.otstup:nth-of-type(1)
 yougame.biz##div.sponsor-banners:nth-of-type(7)
 yougame.biz##.top-banners
 
-! 25.06.2020 https://4pda.ru
-4pda.ru##.menu-brands
+! 25.06.2020 https://4pda.to
+4pda.to##.menu-brands
 
 ! 25.06.2020 https://yadi.sk
 yadi.sk##a.inline-services-menu__link.link_theme_dark.link.control:nth-of-type(1)
@@ -2806,10 +2806,10 @@ ok.ru##.__fb.__s.social-icon
 ok.ru##.__fb.__small.social-icon-button.h-mod
 ok.ru##[href="https://ok.ru/adsmanager"]
 
-! 27.06.2020 https://4pda.ru
-4pda.ru###revive-0-0
+! 27.06.2020 https://4pda.to
+4pda.to###revive-0-0
 ||s.4pda.to/dry7Ndn2mFPz1JFLjFWWT8Ni01s1C.jpg?_=1593174145$image
-4pda.ru##div.MC3OmFwl6D:nth-of-type(3)
+4pda.to##div.MC3OmFwl6D:nth-of-type(3)
 ||s.4pda.to/dry7LxUNuYBpV0XyvCMSsxbWLNYiJbollpEE4jtdQQmAseZQxErz2X6v0.jpg$image
 
 ! 27.06.2020 https://www.playground.ru
@@ -3526,7 +3526,7 @@ m.aliexpress.ru##.smb-banner__main
 ! 24.07.2020 https://cloud.mail.ru
 cloud.mail.ru##div.b-nav__group:nth-of-type(4) > .b-nav__group__name > .js-href.b-nav__item_group-name.b-nav__item
 
-! 24.07.2020 https://4pda.ru
+! 24.07.2020 https://4pda.to
 ||s.4pda.to/dry7Ndn2mF9V3629LvVz0OVu2aFk4.jpg?_=1595010564$image
 
 ! 24.07.2020 https://sourceforge.net
@@ -3596,7 +3596,7 @@ cloud.mail.ru##.portal-footer_portal-footer.portal-footer
 cloud.mail.ru##.footer__wrapper
 cloud.mail.ru##.footer__push
 
-! 01.08.2020 https://4pda.ru
+! 01.08.2020 https://4pda.to
 ||s.4pda.to/dry7Ky5pfDKqD26qXVhz0PHWY87RjZihDZDv6Ez2hq4b0ohez0fbTRqpBaL.jpg$image
 
 ! 02.08.2020 https://portapps.io
@@ -3618,7 +3618,7 @@ exelab.ru###kurs_txt > center
 exelab.ru###kurs_txt
 exelab.ru###kurs_container
 
-! 03.08.2020 https://4pda.ru
+! 03.08.2020 https://4pda.to
 ||s.4pda.to/dry7Ndn2mFvz1mOHdUBYuHei0X6vW.jpg?_=1596441073$image
 
 ! 04.08.2020 https://rutor.info
@@ -3792,10 +3792,10 @@ uploadrar.com###gdpr-cookie-notice
 docviewer.yandex.ru##.qtxehgmnf.joothgk.kfngrky > uqdbcleza-ut
 docviewer.yandex.ru##.exyid.wuqrvaxw.kfngrky > uqdbcleza-ut
 
-! 2020-08-23 https://4pda.ru
+! 2020-08-23 https://4pda.to
 ||s.4pda.to/dry7Ndn2mFvz1mOHdUBYuHei0X6vW.jpg?_=1597821619$image
 ||s.4pda.to/dry7UiVIypv42mC8x0ORaCuz1nz2l4keu24V60.jpg$image
-4pda.ru##div.post:nth-of-type(13) > .BI3E5cnB
+4pda.to##div.post:nth-of-type(13) > .BI3E5cnB
 
 ! 2020-08-23 https://market.yandex.ru
 market.yandex.ru##._32MQPGi7g3 > div > div > div:nth-of-type(1) > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
@@ -3830,7 +3830,7 @@ userstyles.org##div.us-stylecard--short:nth-of-type(12) > .fallbackDiv
 ! 2020-08-25 https://www.gog.com
 www.gog.com##.ng-scope._floating-banner
 
-! 2020-08-26 https://4pda.ru
+! 2020-08-26 https://4pda.to
 ||s.4pda.to/dry7Ndn2mF9U13BUnZ62Oz2egW5VV.jpg?_=1598428092$image
 ||s.4pda.to/dry7Kmeawfz1DKRz2wgWfbUKy2z0LKGr6AUTNT4BcPdz2r7iSI29LbtQOfH4.jpg$image
 
@@ -3976,7 +3976,7 @@ www.lansweeper.com###CybotCookiebotDialog
 ! 2020-08-28 https://www.fosshub.com
 www.fosshub.com##.cc-color-override--1985164196.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
-! 2020-08-28 https://4pda.ru
+! 2020-08-28 https://4pda.to
 ||s.4pda.to/dry7Nd1W4Ta3Ik6ZKQ9Q49Vz1Y0M8.jpg?_=1598474839$image
 
 ! 2020-08-28 https://aliexpress.ru
@@ -4041,7 +4041,7 @@ ocomp.info##.ya-share2__item_service_collections.ya-share2__item > .ya-share2__l
 ! 2020-08-28 https://www.outsidethebox.ms
 www.outsidethebox.ms##[href="https://twitter.com/sterkin_ru"]
 
-! 2020-08-29 https://4pda.ru
+! 2020-08-29 https://4pda.to
 ||s.4pda.to/dry7Kmeawfz1DKRz2wgWfbUKy2z0LKGr6AUTNT4BcPdz2r7iSI29LbtQOfH4.jpg$image
 ||s.4pda.to/dry7Ndn2mFvz0sN9RuqYOXmmss2JX.jpg?_=1598427890$image
 
@@ -4191,7 +4191,7 @@ m.habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1) > .tm-sv
 m.habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1)
 m.habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(2)
 
-! 2020-08-29 https://4pda.ru
+! 2020-08-29 https://4pda.to
 ||s.4pda.to/dry7VR1Q2uLBblEz0aRahjIxKWmM.jpg?_=1598427890$image
 ||s.4pda.to/dry7VR1Q2CTkymz15eb7TQcfvDTx.jpg?_=1598474839$image
 
@@ -4609,7 +4609,7 @@ www.youtube.com##.ytd-rich-metadata-renderer.style-scope.yt-simple-endpoint
 ! 2020-09-21 https://www.cryptopro.ru
 www.cryptopro.ru##.show.cookiealert.text-center.alert-dismissible.alert
 
-! 2020-09-22 https://4pda.ru
+! 2020-09-22 https://4pda.to
 ||s.4pda.to/dry7Nd1W4Ta0Jk6ZKQ9QavdIChqz0.jpg?_=1598525956$image
 
 ! 2020-09-22 https://yandex.ru
@@ -4764,7 +4764,7 @@ www.nvidia.ru###sideNav > div:nth-of-type(3)
 ! 2020-10-01 https://www.facebook.com
 www.facebook.com###u_0_20
 
-! 2020-10-03 https://4pda.ru
+! 2020-10-03 https://4pda.to
 ||s.4pda.to/dry7VR1Q2yjymkDxh3ODoY3Oz13e.jpg?_=1601392388$image
 
 ! 2020-10-03 https://yandex.ru
@@ -4823,7 +4823,7 @@ zen.yandex.ru###\34 038668146364786982
 ru.malwarebytes.com##.optanon-alert-box-bg
 ru.malwarebytes.com##.hide-cookie-setting-button.optanon-alert-box-wrapper
 
-! 2020-10-04 https://4pda.ru
+! 2020-10-04 https://4pda.to
 ||s.4pda.to/dry7Nd1W4Ta0SnsROagipTTxB7wc.jpg?_=1601392388$image
 
 ! 2020-10-04 https://studio.youtube.com
@@ -4894,7 +4894,7 @@ mail.yandex.ru##.mail-HeaderServicesPopup.popup2_target_anchor.popup2_visible_ye
 www.youtube.com###buttons > ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
 www.youtube.com###sections > ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 
-! 2020-10-06 https://4pda.ru
+! 2020-10-06 https://4pda.to
 ||s.4pda.to/dry7Ndn2mFfTf0j1XB2evCsvEEDo.jpg?_=1601392388$image
 
 ! 2020-10-06 https://music.yandex.ru
@@ -4983,10 +4983,10 @@ yandex.ru##.z32pqeZPb8Ma7750.z1nZlaYDq7fSc0clN.card
 ! 2020-10-10 https://www.w3resource.com
 www.w3resource.com##.cc_container--open.cc_container.cc_banner
 
-! 2020-10-10 https://4pda.ru
+! 2020-10-10 https://4pda.to
 ||s.4pda.to/dry7HxlYnTRs9eN7QZYbknleuldcAs82QQKC0FZTcFe0BMff5DpmPA73.jpg$image
 ||s.4pda.to/dry7HxlYnTRs9eN7QZYbknleuldcAs82QQKC0FZTcFe0BMff5DpmPA73.jpg$image
-4pda.ru##.i29Se6dMPBjRCUoZZKJOYF0bdmx
+4pda.to##.i29Se6dMPBjRCUoZZKJOYF0bdmx
 ||s.4pda.to/dry7HxlYnTRs9eN7QZYbknleuldcAs82QQKC0FZTcFe0BMff5DpmPA73.jpg$image
 
 ! 2020-10-11 https://qiwi.com
@@ -4995,7 +4995,7 @@ qiwi.com##.cookies-self-300
 ! 2020-10-12 https://www.comss.ru
 www.comss.ru##.hidden-sm.hidden-xs.container-fluid
 
-! 2020-10-12 https://4pda.ru
+! 2020-10-12 https://4pda.to
 ||s.4pda.to/dry7VR1Q2GLZX5FUoSerUiuIFOo.jpg?_=1602444622$image
 
 ! 2020-10-12 https://yandex.ru
@@ -5016,7 +5016,7 @@ www.sega60th.com##.ccc-content--dark.ccc-notify__notify
 yandex.ru##.uATgY02JDqj10SQcIi5s
 yandex.ru##.uCCQXw3FytwZTZF4.uATgY02JDqj10WgoZ.card
 
-! 2020-10-19 https://4pda.ru
+! 2020-10-19 https://4pda.to
 ||s.4pda.to/dry7VR1Q2ur82pOQuD3tR5Vk9NA.jpg?_=1602867884$image
 ||s.4pda.to/dry7VR1Q2Gb0MHDRxBCldZWEPVz1.jpg?_=1602865524$image
 
@@ -5030,7 +5030,7 @@ pokupki.market.yandex.ru##div._3P0bsUXnav:nth-of-type(6)
 ! 2020-10-19 https://www.codeproject.com
 www.codeproject.com##.cc-color-override--316233370.cc-bottom.cc-theme-edgeless.cc-type-opt-in.cc-banner.cc-window
 
-! 2020-10-19 https://4pda.ru
+! 2020-10-19 https://4pda.to
 ||s.4pda.to/dry7Nd1W4TqWDwasLPFLy51jixy9.jpg?_=1602867884$image
 
 ! 2020-10-20 https://winaero.com
@@ -5072,13 +5072,13 @@ edadeal.ru##.b-download-banner__root
 ! 2020-10-21 https://vk.com
 vk.com##a.left_menu_nav:nth-of-type(3)
 
-! 2020-10-22 https://4pda.ru
+! 2020-10-22 https://4pda.to
 ||s.4pda.to/dry7VR1Q2ObA7wFz1YKyNhz0p0257.jpg?_=1603361172$image
 
 ! 2020-10-22 https://docviewer.yandex.ru
 docviewer.yandex.ru##.howbxszh.miizzamb.qqvqelmhv > div
 
-! 2020-10-28 https://4pda.ru
+! 2020-10-28 https://4pda.to
 ||s.4pda.to/dry7VR1Q2SjUblEz0aRahD2JGAnr.jpg?_=1603894256$image
 
 ! 2020-10-29 https://www.fanatical.com
@@ -5103,14 +5103,14 @@ vgtimes.ru##.show.write_gr
 ! 2020-10-30 https://fex.net
 fex.net##.padding_vertical_25.container_width_primary.container.flex > .margin_left_auto
 
-! 2020-10-30 https://4pda.ru
+! 2020-10-30 https://4pda.to
 ||s.4pda.to/dry7VR1Q2SjUblEz0aRahD2JGAnr.jpg?_=1604010029$image
 
 ! 2020-10-31 https://msreview.net
 msreview.net##.pulse-widget
 msreview.net##div.block:nth-of-type(3)
 
-! 2020-10-31 https://4pda.ru
+! 2020-10-31 https://4pda.to
 ||s.4pda.to/dry7VR1Q2SjUblEz0aRahD2JGAnr.jpg?_=1604086017$image
 
 ! 2020-10-31 https://duckduckgo.com
@@ -5140,7 +5140,7 @@ drive.google.com##.g-Yd-Na.g-Yd-Ya.a-Ff-B.a-la-B.g-Yd
 ! 2020-11-03 https://www.youtube.com
 www.youtube.com##.ytd-popup-container.style-scope > .ytd-mealbar-promo-renderer.style-scope
 
-! 2020-11-04 https://4pda.ru
+! 2020-11-04 https://4pda.to
 ||s.4pda.to/dry7VR1Q2Kz0sX5FUoSerz1yGMbPH.jpg?_=1604325271$image
 
 ! 2020-11-04 https://telemost.yandex.ru
@@ -5153,13 +5153,13 @@ calendar.yandex.ru##.PSHeader-MorePopupServices > a.PSHeader-Service.PSHeaderSer
 ! 2020-11-04 https://youla.ru
 youla.ru##.ezLUQn.sc-jxsHlP
 
-! 2020-11-06 https://4pda.ru
+! 2020-11-06 https://4pda.to
 ||s.4pda.to/dry7VR1Q285QFkjhZNwOp1Lz2YLF.jpg?_=1604331052$image
 
 ! 2020-11-09 https://linuxmint.com
 linuxmint.com##.cookiebanner
 
-! 2020-11-09 https://4pda.ru
+! 2020-11-09 https://4pda.to
 ||s.4pda.to/dry7VR1Q2ObA7wFz1YKyNhz0p0257.jpg?_=1604906165$image
 
 ! 2020-11-09 https://www.e-katalog.ru
@@ -5168,7 +5168,7 @@ www.e-katalog.ru##.rb-div
 www.e-katalog.ru##.left-art-block
 www.e-katalog.ru##div.va-m.table-cell
 
-! 2020-11-10 https://4pda.ru
+! 2020-11-10 https://4pda.to
 ||s.4pda.to/dry7Nd1W4TqY0dJ27KIWDz1hCz2LNB.jpg?_=1604906165$image
 
 ! 2020-11-11 https://tools.seo-zona.ru
@@ -5186,17 +5186,17 @@ tomassetti.me###cookie-law-info-bar
 ! 2020-11-13 https://programmersforum.ru
 ||programmersforum.ru/onehostplanet.com.gif$image
 
-! 2020-11-15 https://4pda.ru
+! 2020-11-15 https://4pda.to
 ||s.4pda.to/dry7VR1Q2GrY3GETqJm9O3m6jjZ.jpg?_=1604058495$image
 
 ! 2020-11-15 https://howdyho.net
 howdyho.net##section.default:nth-of-type(3)
 
-! 2020-11-15 https://4pda.ru
+! 2020-11-15 https://4pda.to
 ||s.4pda.to/dry7Nl1fz0O5QFkjh3d2qTgtApUT.jpg?_=1604906165$image
 ||s.4pda.to/dry7Nl1fz0GLoB4i8LWEgkKqCSsv.jpg?_=1604058495$image
 
-! 2020-11-17 https://4pda.ru
+! 2020-11-17 https://4pda.to
 ||s.4pda.to/dry7Nl1fz04z0sX5FUIiGPGNoZqI3.jpg?_=1605535141$image
 
 ! 2020-11-19 https://docviewer.yandex.ru
@@ -5207,7 +5207,7 @@ docviewer.yandex.ru##.ykbwitiuh.pkxtkm.dxupyf
 docviewer.yandex.ru##.fdcsegem.qfhory.sfoonqc
 docviewer.yandex.ru##.bvofssx.fapxocwv.sfoonqc
 
-! 2020-11-19 https://4pda.ru
+! 2020-11-19 https://4pda.to
 ||s.4pda.to/dry7Nl1fz00rY3GETKZ8bseIpycn.jpg?_=1605258145$image
 ||s.4pda.to/dry7VR1Q20LoB4i8rGs60z2MvDz0h.jpg?_=1605258145$image
 
@@ -5220,10 +5220,10 @@ win10tweaker.pro###rev_slider_9_2 > rs-slides > rs-slide > rs-layer-wrap.rs-para
 ! 2020-11-20 https://convertio.co
 convertio.co##.rate-us
 
-! 2020-11-23 https://4pda.ru
+! 2020-11-23 https://4pda.to
 ||s.4pda.to/dry7Nd1W4TqW4j2f5nBz2z06dIiRCH.jpg?_=1605886681$image
 
-! 2020-11-24 https://4pda.ru
+! 2020-11-24 https://4pda.to
 ||s.4pda.to/dry7VR1Q2ubgNoRStLz2HabFcz0bN.jpg?_=1605886681$image
 
 ! 2020-11-25 https://mail.yandex.ru
@@ -5235,7 +5235,7 @@ mail.yandex.ru##.js-skin-saver-box.mail-SkinSaver-Box
 mail.yandex.ru##.ns-view-mail-pro-left-column-button
 mail.yandex.ru##.ns-view-hwletv
 
-! 2020-11-25 https://4pda.ru
+! 2020-11-25 https://4pda.to
 ||s.4pda.to/dry7VR1Q2ubgNoRStLz2HabFcz0bN.jpg?_=1606287638$image
 
 ! 2020-11-25 https://youhack.xyz
@@ -5244,17 +5244,17 @@ youhack.xyz##li.message:nth-of-type(2) > div
 ! 2020-11-25 https://yoomoney.ru
 yoomoney.ru##.money-app-promo2_visible_yes
 
-! 2020-11-26 https://4pda.ru
+! 2020-11-26 https://4pda.to
 ||s.4pda.to/dry7VR1Q2yjz1rdQVnQdj2QlsrHb.jpg?_=1605886666$image
 
-! 2020-11-27 https://4pda.ru
+! 2020-11-27 https://4pda.to
 ||s.4pda.to/dry7Nl1fz0yDkz0puAGfPEqDhy4Az2.jpg?_=1605886666$image
 ||s.4pda.to/dry7Nd1W4Ta0KbMBGm8voURqJxSP.jpg?_=1605886666$image
 
-! 2020-11-28 https://4pda.ru
+! 2020-11-28 https://4pda.to
 ||s.4pda.to/dry7Nd1W4TqZ2YQLZEBVDUxaxVcG.jpg?_=1606470697$image
 
-! 2020-11-29 https://4pda.ru
+! 2020-11-29 https://4pda.to
 ||s.4pda.to/dry7VR1Q28LwVcv9sMvUyPfPTrV.jpg?_=1606470697$image
 
 ! 2020-12-01 https://yandex.ru
@@ -5284,7 +5284,7 @@ www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footer-partial-component__content-i
 www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footer-partial-component__content-item:nth-of-type(2) > ._3Rkutv2b09UBzWZI15ckk9.footer-partial-component__content-link
 www.kinopoisk.ru##._2dovdoswa7bR8x0rL7ktFM.rX2wg-Vp7_P1amxEKCGQU._1MG74vTvaoBQmB-_AmSxe5._3HbqMqZ14X1esFIA1sAfIY._37lW_FG6qMc8EuD2q6mnGm
 
-! 2020-12-11 https://4pda.ru
+! 2020-12-11 https://4pda.to
 ||s.4pda.to/dry7Nd1W4T43ow6ZKQ9Q49Vz1Y0M8.jpg?_=1607589836$image
 
 ! 2020-12-11 https://devsoft.club
@@ -5306,15 +5306,15 @@ yandex.ru##.t_LYBwsc.yaplus_available_yes.yaplus
 yandex.ru##.t9vcKysvhxb4X8e6cqdqxJkT5lL2fBAAPqv8JGUwHIUIv9gSi
 yandex.ru##.t9P8VaN7s0PYr9OuLot2k.t9P8VaNr608wZ_ayNr5OyOx3ulL4.t9P8V
 
-! 2020-12-19 https://4pda.ru
-4pda.ru##.oIG0tz1.vz042luDF
+! 2020-12-19 https://4pda.to
+4pda.to##.oIG0tz1.vz042luDF
 ||s.4pda.to/wosii3euiNs8qRMkSWZz1Bz2hfpbi4.jpg
-4pda.ru##.msQqPz1kU.emsQqPz1kU
-4pda.ru###iVbgLoU > .post
+4pda.to##.msQqPz1kU.emsQqPz1kU
+4pda.to###iVbgLoU > .post
 ||s.4pda.to/wosilK*$image
-4pda.ru##[href="https://4pda.ru/2020/12/19/9495953/"]
-4pda.ru##.l1hgN2CbC1YIRbCRivz1R.tk6r
-4pda.ru##.m2oKxJlfz1z15oAR7
+4pda.to##[href="https://4pda.to/2020/12/19/9495953/"]
+4pda.to##.l1hgN2CbC1YIRbCRivz1R.tk6r
+4pda.to##.m2oKxJlfz1z15oAR7
 
 ! 2020-12-21 https://translate.google.com
 ||ogs.google.com/widget/callout?prid=19016223&pgid=19010602&puid=d1f84a9b388b267e&origin=https%3A%2F%2Ftranslate.google.com&cn=callout&pid=269&spid=51&hl=ru$subdocument
@@ -5425,16 +5425,16 @@ yandex.ru##.rpLQwa9KImmuJJIvy_AOjwCGwYoHkTNIDTaGdxkOl7PLmUk5c
 yandex.ru##.lbvbcf
 yandex.ru##.rsL04ctuZjWuHJJfkzTij1lOlZJz5T9cIdeqn6g.map-left-pane__ad.rsL04ctuZjWuHJJfkzTij1g
 
-! 2021-01-12 https://4pda.ru
+! 2021-01-12 https://4pda.to
 ||s.4pda.to/dry7VR1Q2KTs1L7AG9fsup8g3cn.jpg?_=1610318226$image
-4pda.ru##[href="https://4pda.ru/2021/01/12/2263744/"]
-4pda.ru##.hQdOCfuxPHyjTx9z1J8pA.ngTv
-4pda.ru##.s9SoiL.z0c8mqJvH
-4pda.ru##.qjM62LQ0.pqjM62LQ0
+4pda.to##[href="https://4pda.to/2021/01/12/2263744/"]
+4pda.to##.hQdOCfuxPHyjTx9z1J8pA.ngTv
+4pda.to##.s9SoiL.z0c8mqJvH
+4pda.to##.qjM62LQ0.pqjM62LQ0
 ||s.4pda.to/OVlWeOaAtyYK6MTm9mz0XT9gcDNdQ.jpg?_=1610318226$image
-4pda.ru###e4fOEPg > .post
+4pda.to###e4fOEPg > .post
 ||s.4pda.to/OVlWeOaAtyYK6MTm9mz0XT9gcDNdQ.jpg?_=1610318226$image
-4pda.ru##.z0oXrPiKdIDgR5SBtiLgH.Wz0IHw7lbixa
+4pda.to##.z0oXrPiKdIDgR5SBtiLgH.Wz0IHw7lbixa
 ||s.4pda.to/OVlWhFz0iz0QL6L7yr1z09yILAyDIjM9z2GE6on3KfqZcroqJrBt5o6eMDz1b.jpg$image
 ||s.4pda.to/OVlWeOaAtyYK6MTm9mz0XT9gcDNdQ.jpg?_=1610318226$image
 ||s.4pda.to/OVlWhFe6xUR02tz2z0SvUIU8z2QtWkaoJEXs6H8Z3E1tuuz2bq20n0xDl26f.jpg$image
@@ -5567,9 +5567,9 @@ youla.ru##.jcvHDw.sc-kIybTg
 youla.ru##a.fShiuj.sc-jxthLd.jhJagt.sc-fznNTe:nth-of-type(2)
 youla.ru##a.cDXlTN.sc-oVdHe.sc-fznLPX:nth-of-type(3)
 
-! 2021-01-13 https://4pda.ru
-4pda.ru##[href="https://4pda.ru/2021/01/13/6829300/"]
-4pda.ru##.l5nBRwq.EUVPYon8
+! 2021-01-13 https://4pda.to
+4pda.to##[href="https://4pda.to/2021/01/13/6829300/"]
+4pda.to##.l5nBRwq.EUVPYon8
 ||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
 ||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
 ||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
@@ -5577,7 +5577,7 @@ youla.ru##a.cDXlTN.sc-oVdHe.sc-fznLPX:nth-of-type(3)
 ||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
 ||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
 ||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
-4pda.ru##.OYmnQ8mYtyAtrPdOz0b5G.xPbk
+4pda.to##.OYmnQ8mYtyAtrPdOz0b5G.xPbk
 ||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
 ||s.4pda.to/Ker3RWpZXTgDexhgXIJ7paSybLPq.jpg?_=1610318226$image
 ||s.4pda.to/Ker3*$image
@@ -5682,11 +5682,11 @@ yandex.ru###u-1611077366000-84 > div
 yandex.ru###u-1611077373000-84 > div
 yandex.ru###u-1611077399000-84 > div
 
-! 2021-01-20 https://4pda.ru
+! 2021-01-20 https://4pda.to
 ||s.4pda.to/dry7VR1Q2OLgtYJ8L0z1IYgNQRQt.jpg?_=1610957593$image
-4pda.ru##.TEcw1z0.MXouPxhz0
-4pda.ru##.VgiElz08i.xVgiElz08i
-4pda.ru###j33JGZnu > .post
+4pda.to##.TEcw1z0.MXouPxhz0
+4pda.to##.VgiElz08i.xVgiElz08i
+4pda.to###j33JGZnu > .post
 ||s.4pda.to/JpiJ1RXxJCyXqz2GM4nHmoN3Mxz1hJJQ4ohlBd0nJfWTrsX71bnbKaHall.jpg$image
 ||s.4pda.to/JpiJ1RXxJCyXqz2GM4nHmoN3Mxz1hJJQ4ohlBd0nJfWTrsX71bnbKaHall.jpg$image
 ||s.4pda.to/JpiJ1RXxJCyXqz2GM4nHmoN3Mxz1hJJQ4ohlBd0nJfWTrsX71bnbKaHall.jpg$image
@@ -5694,11 +5694,11 @@ yandex.ru###u-1611077399000-84 > div
 ||s.4pda.to/JpiJ1RXxJCyXqz2GM4nHmoN3Mxz1hJJQ4ohlBd0nJfWTrsX71bnbKaHall.jpg$image
 ||s.4pda.to/JpiJ1RXxJCyXqz2GM4nHmoN3Mxz1hJJQ4ohlBd0nJfWTrsX71bnbKaHall.jpg$image
 ||s.4pda.to/JpiJ1RXxJCyXqz2GM4nHmoN3Mxz1hJJQ4ohlBd0nJfWTrsX71bnbKaHall.jpg$image
-4pda.ru##.i2W10Apjx0z2
-4pda.ru##.g0TTGX1gNEmPru7PNDz1oe.ch1Q3
+4pda.to##.i2W10Apjx0z2
+4pda.to##.g0TTGX1gNEmPru7PNDz1oe.ch1Q3
 ||s.4pda.to/JpiJBZkQe3iDXVrVRXEYmTW67sw.jpg?_=1610957593$image
 ||s.4pda.to/JpiJ530YR6YHVLnGK2ILy6Oqa3gJHshyp723oey5GYcJlMANiG5FJXcO.jpg$image
-4pda.ru##.Mnpeiylz1TGz0RGJJJ6alz1JieIhx
+4pda.to##.Mnpeiylz1TGz0RGJJJ6alz1JieIhx
 ||s.4pda.to/JpiJ530YR6YHVLnGK2ILy6Oqa3gJHshyp723oey5GYcJlMANiG5FJXcO.jpg$image
 ||s.4pda.to/JpiJBZkQe3iDXVrVRXEYmTW67sw.jpg?_=1610957593$image
 ||s.4pda.to/JpiJ530YR6YHVLnGK2ILy6Oqa3gJHshyp723oey5GYcJlMANiG5FJXcO.jpg$image
@@ -5720,14 +5720,14 @@ www.canva.com##.hMJi3w.fP4ZCw.fFOiLQ.Ekl2FA.RNFNIA._9y-BYQ._2l-hHA
 ! 2021-01-21 https://www.festisite.com
 www.festisite.com##.singleton-element.cookie-choices-info
 
-! 2021-01-21 https://4pda.ru
-4pda.ru##[href="https://4pda.ru/2021/01/21/5930456/"]
-4pda.ru##.knAKOfNoaMz2gx63kHFmD.mlsK
-4pda.ru##.pYnz1uL.uDbyWJMO
+! 2021-01-21 https://4pda.to
+4pda.to##[href="https://4pda.to/2021/01/21/5930456/"]
+4pda.to##.knAKOfNoaMz2gx63kHFmD.mlsK
+4pda.to##.pYnz1uL.uDbyWJMO
 ||s.4pda.to/S0jrjp96Zyz0z0AA4E0bJBMPjBAv31.jpg?_=1610957593$image
 ||s.4pda.to/S0jrjp96Zyz0z0AA4E0bJBMPjBAv31.jpg?_=1610957593$image
 ||s.4pda.to/S0jrjp96Zyz0z0AA4E0bJBMPjBAv31.jpg?_=1610957593$image
-4pda.ru##.uPCvDixklAfSZX1dkIfM.bMz2Tk70iHyd
+4pda.to##.uPCvDixklAfSZX1dkIfM.bMz2Tk70iHyd
 ||s.4pda.to/S0jrka5AlUq9z2myww4K2SFyTnDi029utxvz1XkyXeQtlQsuJgwmCOaI1a.jpg$image
 ||s.4pda.to/S0jrkaGWfQwFe0z2od03iGI9xBz2lovbcOBDUgPMRABwbH0vQTE2nz0TTve.jpg$image
 ||s.4pda.to/S0jrjp96Zyz0z0AA4E0bJBMPjBAv31.jpg?_=1610957593$image
@@ -5796,7 +5796,7 @@ blog.themarfa.name##[href^="https://play.google.com/store/apps/details"] > svg
 ||i.ibb.co/ZBKf8kN/1200x100.png$image
 blog.themarfa.name##[href^="https://giox.ru/catalog/tekhnologii-i-innovatsii"]
 
-! 2021-01-26 https://4pda.ru
+! 2021-01-26 https://4pda.to
 ||s.4pda.to/dry7VdPLRd5wVcv9McXYwsXjleA.jpg?_=1611510102$image
 
 ! 2021-01-26 https://yandex.ru
@@ -5872,24 +5872,24 @@ overcoder.net##.layout > div:nth-of-type(7)
 ! 2021-02-11 https://wpinternals.net
 wpinternals.net##.activebar-container
 
-! 2021-02-11 https://4pda.ru
-4pda.ru##.anrhgl.lUXfofL1
-4pda.ru##.l2O0IRurQgpwGBKbt0HGVH.o5x8yz03rz0bI
-4pda.ru##article.cXNz1hbWgc23rz052.uff5fT1Rji.post:nth-of-type(3)
+! 2021-02-11 https://4pda.to
+4pda.to##.anrhgl.lUXfofL1
+4pda.to##.l2O0IRurQgpwGBKbt0HGVH.o5x8yz03rz0bI
+4pda.to##article.cXNz1hbWgc23rz052.uff5fT1Rji.post:nth-of-type(3)
 ||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
-4pda.ru##.xVIHXXJ760
-4pda.ru##.vYE1AJKh8FAaJLdBR9rx.qubG
-||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
-||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
+4pda.to##.xVIHXXJ760
+4pda.to##.vYE1AJKh8FAaJLdBR9rx.qubG
 ||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
 ||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
-4pda.ru##.i25aHJIz2kAe6yruQ9p0XVjc.V27Pz0q4kjdd
-4pda.ru##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(3)
+||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
+||s.4pda.to/pKJIwWDJn6Ub55sCs59jQm0PqDR2.jpg?_=1612811795$image
+4pda.to##.i25aHJIz2kAe6yruQ9p0XVjc.V27Pz0q4kjdd
+4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(3)
 ||s.4pda.to/dry7Ndn2mFPz1L73AJs71UmmM6wz2F.jpg?_=1612811795$image
-4pda.ru##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(9)
-4pda.ru##article.Kz03eBiCWaLV53MZvoM.LkLKeK60z0k.post:nth-of-type(3)
-4pda.ru##article.Kz03eBiCWaLV53MZvoM.LkLKeK60z0k.post:nth-of-type(9)
-4pda.ru##div.type-row:nth-of-type(5)
+4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(9)
+4pda.to##article.Kz03eBiCWaLV53MZvoM.LkLKeK60z0k.post:nth-of-type(3)
+4pda.to##article.Kz03eBiCWaLV53MZvoM.LkLKeK60z0k.post:nth-of-type(9)
+4pda.to##div.type-row:nth-of-type(5)
 
 ! 2021-02-11 https://yandex.ru
 yandex.ru##.knRuCGps.yaplus_available_yes.yaplus
@@ -5975,12 +5975,12 @@ boardreader.com###cookies-policy
 ! 2021-02-15 https://otus.ru
 otus.ru##.cookies
 
-! 2021-02-19 https://4pda.ru
-4pda.ru##.KL0Ges.VwKImmbJ
+! 2021-02-19 https://4pda.to
+4pda.to##.KL0Ges.VwKImmbJ
 ||s.4pda.to/AA72A4uepVEs0nBZsPm8hNJTMaJS.jpg?_=1613483548$image
 ||s.4pda.to/AA72A4uepVEs0nBZsPm8hNJTMaJS.jpg?_=1613483548$image
 ||s.4pda.to/*.jpg?_=1613483548$image
-4pda.ru##.p96xw8AavjgyPz14ZBpnMd.xo81b
+4pda.to##.p96xw8AavjgyPz14ZBpnMd.xo81b
 
 ! 2021-02-19 https://overcoder.net
 overcoder.net##div:nth-of-type(5)
@@ -5994,8 +5994,8 @@ mijo-software.de##.cookie-notice-container
 ! 2021-02-19 https://vk.com
 vk.com##.cookies_policy_wrap
 
-! 2021-02-20 https://4pda.ru
-4pda.ru##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(8)
+! 2021-02-20 https://4pda.to
+4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(8)
 
 ! 2021-02-20 https://yoomoney.eu
 yoomoney.eu##.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
@@ -6100,9 +6100,9 @@ myip.ru##.promo
 ! 2021-03-06 https://2ip.ru
 2ip.ru##[href="https://www.bestwatch.ru/"]
 
-! 2021-03-06 https://4pda.ru
-4pda.ru##[href="//4pda.ru/cooperation/sellers/"]
-4pda.ru##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(1)
+! 2021-03-06 https://4pda.to
+4pda.to##[href="//4pda.to/cooperation/sellers/"]
+4pda.to##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(1)
 
 ! 2021-03-06 https://habr.com
 habr.com###effect
@@ -6227,7 +6227,7 @@ www.google.com###gws-output-pages-elements-homepage_additional_languages__als
 ! 2021-03-12 https://unboxhow.com
 unboxhow.com##.cookie-notice-container
 
-! 2021-03-12 https://4pda.ru
+! 2021-03-12 https://4pda.to
 ||s.4pda.to/dry7VR1Q285RCeYpVn5OpXbdz13e.jpg?_=1615558005$image
 
 ! 2021-03-12 https://yandex.ru
@@ -6258,10 +6258,10 @@ mail.yandex.ru##.ptr-message
 www.google.com##div:nth-of-type(2) > a.Fx4vi.JWaTvb:nth-of-type(1)
 www.google.com##a.Fx4vi.JWaTvb:nth-of-type(2)
 
-! 2021-03-14 https://4pda.ru
+! 2021-03-14 https://4pda.to
 ||s.4pda.to/dry7Nl1fz08bB4y0cz12xx5sXjFOo.jpg?_=1615558005$image
-4pda.ru##.menu-main-mobile > li.menu-main-item > [href^="https://4pda.ru/huawei/"] > svg > rect
-4pda.ru##.menu-main-mobile > li.menu-main-item > [href^="https://4pda.ru/huawei/"] > svg
+4pda.to##.menu-main-mobile > li.menu-main-item > [href^="https://4pda.to/huawei/"] > svg > rect
+4pda.to##.menu-main-mobile > li.menu-main-item > [href^="https://4pda.to/huawei/"] > svg
 
 ! 2021-03-14 https://duckduckgo.com
 duckduckgo.com##.atb-loaded--animated.atb-banner__btn--standalone.btn.js-atb-banner
@@ -6432,13 +6432,13 @@ telemetr.me###zzonbot_banner
 ! 2021-04-06 https://habr.com
 ||habrastorage.org/webt/ou/g5/kh/oug5kh6sjydt9llengsiebnp40w.png$image
 
-! 2021-04-07 https://4pda.ru
+! 2021-04-07 https://4pda.to
 ||s.4pda.to/7JeKa99a68MaZZg7dK14z1GJAvg4l.jpg$image
-4pda.ru##.bsscsz23oKt
-4pda.ru##.dBAsz0TCAujSz1f6AxWPUa.ycCK
-4pda.ru##.wOnSTX.ntbU5dDW
-4pda.ru##.nhStbLWKg8bWgOvLCGwFCb.iiz2z2BpRKD74
-4pda.ru##article.u8J9ShuBMWLl7Ml.c0joUJPwTE.post:nth-of-type(3)
+4pda.to##.bsscsz23oKt
+4pda.to##.dBAsz0TCAujSz1f6AxWPUa.ycCK
+4pda.to##.wOnSTX.ntbU5dDW
+4pda.to##.nhStbLWKg8bWgOvLCGwFCb.iiz2z2BpRKD74
+4pda.to##article.u8J9ShuBMWLl7Ml.c0joUJPwTE.post:nth-of-type(3)
 ||s.4pda.to/7JeKa99a68MaZZg7dK14z1GJAvg4l.jpg?_=1617716314$image
 ||s.4pda.to/dry7Ndn2mF9U339RuqYO108QOfnK.jpg?_=1617716314$image
 
@@ -6585,8 +6585,8 @@ yandex.ru##a.simple-button_wide_yes.simple-button_size_m.simple-button_theme_whi
 yandex.ru##.domik2__dropdown-form.domik2__dropdown-bg.domik2__dropdown-multiauth
 yandex.ru##.grid_unmargin-x_yes.grid.rounded-divider_bottom.rounded-divider
 
-! 2021-04-13 https://4pda.ru
-4pda.ru##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(15)
+! 2021-04-13 https://4pda.to
+4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(15)
 
 ! 2021-04-13 https://m.pokupki.market.yandex.ru
 m.pokupki.market.yandex.ru##body > div > div > div > .b_2OWfL8avUU.b_3WrmmagGA_
@@ -6844,8 +6844,8 @@ habr.com##[href="https://slc.tl/hpT36"]
 ! 2021-04-30 https://www.playground.ru
 ||i.playground.ru/e/Q-y1x_xqhNxIHMfZCchdPw.jpeg$image
 
-! 2021-04-30 https://4pda.ru
-4pda.ru##.KrI12qGRMDrz0kFc6.LkLKeK60z0k.post
+! 2021-04-30 https://4pda.to
+4pda.to##.KrI12qGRMDrz0kFc6.LkLKeK60z0k.post
 
 ! 2021-04-30 https://www.flaticon.com
 www.flaticon.com##.active.bg-light-gray.form_valuation_cl
@@ -6876,7 +6876,7 @@ yandex.ru##div.incut_inserted_yes
 yandex.ru##.button2_js_inited.i-bem.dropdown-menu__switcher.button2_view_classic.button2_size_s.button2_theme_clear.button2
 yandex.ru##.market-cart__icon
 
-! 2021-05-04 https://4pda.ru
+! 2021-05-04 https://4pda.to
 ||s.4pda.to/dry7VR1Q2CTlz1rtICz2UYQ6vH9NA.jpg$image
 
 ! 2021-05-04 https://www.kinopoisk.ru
@@ -9744,4 +9744,19 @@ function-x.ru##.b-share_theme_counter.yashare-auto-init
 
 ! 2023-02-16 https://uchi.ru
 uchi.ru##.header__nav-content > ul > li > [href="/otvety/podarki"]
+
+! 2023-02-18 https://www.hostinger.ru
+www.hostinger.ru##.w-100.z-index-1001.bottom-0.position-fixed.gdpr-bottom-banner
+
+! 2023-02-18 https://mail.yandex.ru
+mail.yandex.ru##.promo-auto-onboarding-Container
+
+! 2023-02-19 https://aliexpress.ru
+aliexpress.ru##:nth-of-type(10)
+aliexpress.ru##.SnowFooter_StoreButton__container__cbgmg.snow-ali-kit_Col__col__1ccuye
+
+! 2023-02-19 https://www.w3schools.com
+www.w3schools.com##.gt-btn-top-pro.topnavmain_pro.barex.ws-hide-1160.w3-hide-small.ws-hide-900.w3-hover-dark-grey.w3-right.w3-button.w3-bar-item
+www.w3schools.com##.m12.l2.w3-col
+www.w3schools.com##div.w3-hide-small.w3-hide-medium.m12.w3-col:nth-of-type(5)
 
