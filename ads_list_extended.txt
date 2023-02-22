@@ -9760,6 +9760,12 @@ www.w3schools.com##.gt-btn-top-pro.topnavmain_pro.barex.ws-hide-1160.w3-hide-sma
 www.w3schools.com##.m12.l2.w3-col
 www.w3schools.com##div.w3-hide-small.w3-hide-medium.m12.w3-col:nth-of-type(5)
 
+! 2023-02-19 https://kb.synology.com
+kb.synology.com##.scb_container
+
+! 2023-02-20 https://mac.eltima.com
+mac.eltima.com##.float-message__wrap--on.float-message__wrap
+
 ! [List from Faust and his Gist: https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
 www.terabox.com##.adsense
