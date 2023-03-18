@@ -9766,6 +9766,24 @@ kb.synology.com##.scb_container
 ! 2023-02-20 https://mac.eltima.com
 mac.eltima.com##.float-message__wrap--on.float-message__wrap
 
+! 2023-03-02 https://dzen.ru
+dzen.ru##._has-video-recommendation-heads
+dzen.ru##.article_theme_white.article.publication-columns-layout > .publication-columns-layout__columns-container > .article__right.publication-columns-layout__right
+dzen.ru##.article__content_limited.article__content_theme_white.article__content.publication-columns-layout__columns-container > .article__middle.publication-columns-layout__middle
+dzen.ru###zen-row-1
+dzen.ru###zen-row-15
+
+! 2023-03-04 https://dzen.ru
+dzen.ru##.article-sticky-target > div.publication-columns-layout > .publication-columns-layout__columns-container > .undefined.publication-columns-layout__right
+dzen.ru##.article-sticky-target > div.publication-columns-layout > .publication-columns-layout__columns-container > .undefined.publication-columns-layout__left
+dzen.ru##.subscribe-banner__subscribeBanner-kp.article__bottom-subscribe-banner
+dzen.ru###article__zen-feed > .publication-columns-layout > .article__content_theme_white.article__content.publication-columns-layout__columns-container > .undefined.publication-columns-layout__right
+dzen.ru###zen-row-10
+dzen.ru##div.video-card-ad__videoCardAd-2Q:nth-of-type(8)
+
+! 2023-03-09 https://disk.yandex.ru
+disk.yandex.ru##.Subscription-Onboarding.Base-Onboarding
+
 ! [List from Faust and his Gist: https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
 www.terabox.com##.adsense
