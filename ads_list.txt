@@ -37,13 +37,10 @@ drive.google.com###lZwQje
 
 ! 13.02.2020 https://4pda.to
 ||s.4pda.to/dry7UiFpz28iVt3WhdUAxhEqSWpHqz2hl2MBv9g3ENlyLs14YRu8wdTW60.jpg$image
-4pda.to###ASVyjffh5F
 4pda.to##.p9s9whc.i2PTupWIQ
 ||s.4pda.to/dry7Ndn2mFPz2M546D5v2OVOoyJuZ.jpg?_=1581517204$image
 4pda.to##.BI3E5cnB.oBI3E5cnB
-4pda.to###NxyG9g1 > .post
 ||s.4pda.to/dry7JdLBJgFZXTkGz1XhYdm3Kcz0SfEz1ez1myvSd90HDMguhrIXnz2EL0LNB.jpg$image
-4pda.to##:nth-of-type(1)
 ||s.4pda.to/dry7Kmz0EyjmB3hyotaz1BI99a7dNYEgKnjZz0FyCZ5kuDdgJBz1XNAz2Xcf8.jpg$image
 
 ! 13.02.2020 https://www.playground.ru
@@ -916,7 +913,6 @@ yandex.ru###uniq623 > .menu__text
 ! 15.02.2020 https://4pda.to
 4pda.to##[href="/advert/"] > strong
 4pda.to##.icon-TWITTER
-4pda.to##.icon-FB
 4pda.to##td:nth-of-type(2) > [href^="//4pda.to/forum/index.php"] > b
 4pda.to###gfooter > tbody > tr > td:nth-of-type(2)
 ||s.4pda.to/dry7Ndn2mFfTZKFKW84dXmG6kU56.jpg?_=1581511454$image
@@ -9783,4 +9779,16 @@ dzen.ru##div.video-card-ad__videoCardAd-2Q:nth-of-type(8)
 
 ! 2023-03-09 https://disk.yandex.ru
 disk.yandex.ru##.Subscription-Onboarding.Base-Onboarding
+
+! 2023-03-31 https://4pda.to
+4pda.to##.z0Rv1UgmRdO
+4pda.to##.z2cLn50h1U35Mvz2t9fVZs.ez1XB
+4pda.to##.z2cLn50h1U35Mvz2t9fVZs.pz1XB
+||4pda.to/s/as6yyaMZz1LHiW9NrkIS6FwW3QjwR.jpg?_=1679896696$image
+4pda.to##.YrkRby.fQwPz0wgh
+4pda.to##.z2cLn50h1U35Mvz2t9fVZs.cz1XB
+||4pda.to/s/as6yyaMZz1LHiW9NrkIS6FwW3QjwR.jpg?_=1679896696$image
+4pda.to##article.WbCEasV0mEC7NlI.z1jorcEz1nxW.post:nth-of-type(3)
+||4pda.to/s/as6yz2pQlot8w5b66uz0WbaVlcz2gBfXZYRHamFXO0knf7BPCQ8hdpD1t3K.jpg$image
+4pda.to##article.WbCEasV0mEC7NlI.z1jorcEz1nxW.post:nth-of-type(9)
 
