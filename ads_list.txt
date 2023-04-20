@@ -8097,7 +8097,6 @@ gamedev.net##.cc-color-override--85076452.cc-bottom.cc-theme-classic.cc-type-inf
 
 ! 2021-11-19 https://mail.yandex.ru
 mail.yandex.ru##.Modal-Content
-mail.yandex.ru##.Modal-Cell_align_middle.Modal-Cell
 mail.yandex.ru##.ns-view-id-113.ns-view-uoauapcev-box
 
 ! 2021-11-20 https://www.deepl.com
@@ -8304,10 +8303,6 @@ www.amd.com##.ot-sdk-container > .ot-sdk-row
 www.amd.com##.ot-fade-in.onetrust-pc-dark-filter
 
 ! 2022-01-11 https://disk.yandex.ru
-disk.yandex.ru##.Modal-Cell_align_middle.Modal-Cell
-disk.yandex.ru##.Modal-Table
-disk.yandex.ru##.Modal-Wrapper
-disk.yandex.ru##.Modal-Overlay
 disk.yandex.ru##.welcome.dialog.Modal_theme_normal.Modal_hasAnimation.Modal_visible.Modal
 
 ! 2022-01-12 https://www.donationalerts.com
@@ -9201,10 +9196,6 @@ sms-activate.org##.show.acceptCookieNotice.cookie-desktop
 
 ! 2022-05-06 https://www.renderforest.com
 www.renderforest.com###cookie_message
-
-! 2022-05-13 https://mail.yandex.ru
-mail.yandex.ru##.Modal-Table
-mail.yandex.ru##.Modal-Wrapper
 
 ! 2022-05-15 https://ru.reactjs.org
 ru.reactjs.org##.css-1loxuh3
