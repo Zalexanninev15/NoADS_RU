@@ -9783,3 +9783,39 @@ disk.yandex.ru##.Subscription-Onboarding.Base-Onboarding
 ||4pda.to/s/as6yz2pQlot8w5b66uz0WbaVlcz2gBfXZYRHamFXO0knf7BPCQ8hdpD1t3K.jpg$image
 4pda.to##article.WbCEasV0mEC7NlI.z1jorcEz1nxW.post:nth-of-type(9)
 
+! 2023-05-11 https://wiki.dieg.info
+wiki.dieg.info##[href="https://to.dieg.info/dolphinbannerside"]
+wiki.dieg.info##[href="https://dieg.info/review/obzor-pq-perfect-quality-hosting/"]
+wiki.dieg.info##[href="https://to.dieg.info/dolphinbannerfooter"]
+wiki.dieg.info###inform_block
+
+! 2023-05-15 https://cms.e.jimdo.com
+cms.e.jimdo.com##div.commentsWrapper:nth-of-type(2) > .row.clearfix.rowSpace.fadeMe.faded > .col-xs-1.hideWhenSmall.column > .row.clearfix.authorImage.hideWhenSmall > .col-xs-12.column.imageWrapper.text-right > .byImage.img-responsive.full-width.hardLightShadow
+cms.e.jimdo.com##div.commentsWrapper:nth-of-type(2) > .row.clearfix.rowSpace.fadeMe.faded > .col-xs-11.fullWhenSmall.commentWrapper.column > .col-xs-12.comment.hardLightShadow
+
+! 2023-05-15 https://www.jimdo.com
+www.jimdo.com##div.commentsWrapper:nth-of-type(2) > .row.clearfix.rowSpace.fadeMe.faded > .col-xs-1.hideWhenSmall.column > .row.clearfix.authorImage.hideWhenSmall > .col-xs-12.column.imageWrapper.text-right > .byImage.img-responsive.full-width.hardLightShadow
+www.jimdo.com##div.commentsWrapper:nth-of-type(2) > .row.clearfix.rowSpace.fadeMe.faded > .col-xs-11.fullWhenSmall.commentWrapper.column > .col-xs-12.comment.hardLightShadow
+
+! 2023-05-15 https://www.powr.io
+www.powr.io##div.commentsWrapper:nth-of-type(2) > .row.clearfix.rowSpace.fadeMe.faded > .col-xs-11.fullWhenSmall.commentWrapper.column > .col-xs-12.comment.hardLightShadow
+www.powr.io##div.commentsWrapper:nth-of-type(2) > .row.clearfix.rowSpace.fadeMe.faded > .col-xs-1.hideWhenSmall.column > .row.clearfix.authorImage.hideWhenSmall > .col-xs-12.column.imageWrapper.text-right > .byImage.img-responsive.full-width.hardLightShadow
+
+! 2023-05-15 https://habr.com
+habr.com##.tm-top-link
+habr.com##.tm-article-blocks > div:nth-of-type(5) > .tm-block.tm-block_spacing-around
+habr.com##.tm-block.tm-stories-block.tm-block_spacing-around
+
+! 2023-05-15 https://winrcmd.wordpress.com
+winrcmd.wordpress.com###cmp-app-container > div > iframe
+winrcmd.wordpress.com##.robots-nocontent.sd-block.sd-social.sd-social-icon-text.sd-sharing
+winrcmd.wordpress.com###eu-cookie-law
+
+! 2023-05-15 https://public-api.wordpress.com
+public-api.wordpress.com##.robots-nocontent.sd-block.sd-social.sd-social-icon-text.sd-sharing
+public-api.wordpress.com###eu-cookie-law
+
+! 2023-05-15 https://ealebed.github.io
+ealebed.github.io##.icon-twitter
+ealebed.github.io##.icon-facebook-rect
+
