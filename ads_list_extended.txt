@@ -9819,7 +9819,7 @@ public-api.wordpress.com###eu-cookie-law
 ealebed.github.io##.icon-twitter
 ealebed.github.io##.icon-facebook-rect
 
-! [List from Faust and his Gist: https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
+! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
 www.terabox.com##.adsense
 www.terabox.com##.membership-entry
@@ -9839,6 +9839,9 @@ rabota.ua##.santa-bg-white.santa-p-20.santa-rounded-5.ng-star-inserted
 rabota.ua##.santa-flex.santa-justify-between.santa-p-20.santa-rounded-5.santa-border-dashed.santa-border.santa-border-black-500
 forum.xda-developers.com##.notice-content
 gotoshop.ua##.top-header
+||igg-games.com/wp-content/uploads/*/*/netfl*.jpg$image
+||igg-games.com/wp-content/uploads/*/*/hh*.gif$image	||igg-games.com/wp-content/uploads/*/*/hh*.gif$image
+||www.startpage.com/*/*/ads/*$subdocument
 hotline.ua###catalogAdvertProduct
 hotline.ua##.catalog-promo-products
 hotline.ua##div.col-xs-,.col-sm-,.col-lg-,.promo-list-item--column.promo-list-item:nth-of-type(n)
