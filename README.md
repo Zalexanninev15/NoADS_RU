@@ -32,7 +32,7 @@
 * uBlock Origin (***Desktop***)
 * AdGuard Content Blocker для Samsung Browser и Яндекс Браузер (***Android***)
 * AdGuard Антибаннер (***Desktop***)
-* Adblock Plus (***Desktop***)
+* Adblock Plus (***Desktop***) ([подключение списка](https://github.com/Zalexanninev15/NoADS_RU/issues/10))
 * Другими AdBlock-расширениями, которые поддерживают пользовательские списки в формате, который используется в uBlock Origin (гарантировать работоспособность применения списка фильтров не могу)
 * Браузерами, которые имеют встроенный AdBlock с поддержкой пользовательских списков
 
@@ -86,6 +86,6 @@
 Ссылка, которую нужно вставить: ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt```
 
 ## Решения проблем
-* [Решение проблемы подключения списка фильтров для пользователей Adblock Plus](https://github.com/Zalexanninev15/NoADS_RU/issues/10#issuecomment-1595818054)
+* [Решение проблем для пользователей Adblock Plus](https://github.com/Zalexanninev15/NoADS_RU/issues/10#issuecomment-1595818054)
 * Переподключите список в настройках блокировщика, скорее всего я уже исправил эту проблему
 * Если проблема всё ещё актуальна, то [сообщите о неполадке](https://github.com/Zalexanninev15/NoADS_RU/issues/new) (возможно пока сообщаете ещё и сможете найти причину проблемы, так я быстрее исправлю баги списка)
