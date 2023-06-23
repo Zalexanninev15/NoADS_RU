@@ -9819,6 +9819,30 @@ public-api.wordpress.com###eu-cookie-law
 ealebed.github.io##.icon-twitter
 ealebed.github.io##.icon-facebook-rect
 
+! 2023-06-21 https://mimo.org
+mimo.org##.cky-banner.cky-consent-bar
+
+! 2023-06-22 https://sms-activate.org
+sms-activate.org##.show.popupDesctopApp.fade.modal
+sms-activate.org##.show.fade.modal-backdrop
+sms-activate.org##.show.acceptCookieNotice.cookie
+sms-activate.org##[href="https://bit.ly/3vaf1pm"]
+sms-activate.org##[href="https://bit.ly/3sbS1UI"]
+sms-activate.org##[href="https://bit.ly/3LVScf4"]
+
+! 2023-06-22 https://hostinghub.ru
+hostinghub.ru##.view-content .row
+
+! 2023-06-22 https://timeweb.cloud
+timeweb.cloud##.layout > .body-2-regular.cc
+timeweb.cloud##.layout > div > .body-2-regular.cc
+timeweb.cloud##.fs__stores
+timeweb.cloud##.secondary--savz.subscribeButton.primary--jhPR
+timeweb.cloud##.wrapper__svg-is-black.wrapper__svg-is-hoverable.wrapper
+
+! 2023-06-22 https://qa.yodo.im
+qa.yodo.im##.eapps-countdown-timer-has-background.eapps-countdown-timer-area-clickable.eapps-countdown-timer-position-bar.eapps-countdown-timer-style-blocks.eapps-countdown-timer-style-combined.eapps-countdown-timer-finish-button-show.eapps-countdown-timer-theme-default.eapps-countdown-timer-animation-none.eapps-countdown-timer-position-bottom-bar-floating.eapps-countdown-timer-align-center.eapps-countdown-timer.elfsight-app-f7cc60f3-31e5-40d6-94da-fbbd1d490702
+
 ! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
 www.terabox.com##.adsense
