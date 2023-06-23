@@ -22,7 +22,7 @@ extended_list = response.text
 
 with open(target_file, 'r') as file:
     ads_list = file.read()
-extended_list = extended_list.replace(extended_list.split("! [List from Faust and his Gist: https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]")[0], ads_list)
+extended_list = extended_list.replace(extended_list.split("! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]")[0], ads_list)
 
 with open('ads_list_extended.txt', 'w') as file:
     file.write(extended_list)
