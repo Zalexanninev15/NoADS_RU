@@ -9870,3 +9870,49 @@ mail.yandex.ru##.ggkmo
 ! 2023-06-28 https://symbl.cc
 symbl.cc##.cookie--showed.cookie
 
+! 2023-06-28 https://www.pcloud.com
+www.pcloud.com##.ecRlSS.CookieConsent__WrapperCookieConsent-lkMuzO.cookie-consent-wrapper
+www.pcloud.com##.fade-enter-done
+
+! 2023-06-29 https://aivalley.ai
+aivalley.ai##.custom-position.active.size-medium.responsive.pum-responsive-medium.pum-responsive.popmake.pum-container
+aivalley.ai##.pum-active.click_open.auto_open.pum-click-to-close.popmake-overlay.pum-theme-enterprise-blue.pum-overlay.pum
+aivalley.ai##.click_open.auto_open.pum-click-to-close.popmake-overlay.pum-theme-enterprise-blue.pum-overlay.pum
+
+! 2023-06-29 https://www.fotor.com
+www.fotor.com##.Footer_footer__3lJSd
+
+! 2023-06-30 https://vkusvill.ru
+vkusvill.ru##.Footer__Apps
+
+! 2023-06-30 https://www.avito.ru
+www.avito.ru##.apps-banner-apps-banner-BKOwv
+
+! 2023-06-30 https://360.yandex.ru
+360.yandex.ru##.Theme.Link
+
+! 2023-07-02 https://happypython.ru
+happypython.ru##.lwpcngHide
+
+! 2023-07-08 https://medium.com
+medium.com##.go.ab.acy.gf.acx.acw.ge.acv.acu.gd.act.v.gc.ic.t.gb.ia
+
+! 2023-07-09 https://stopgame.ru
+stopgame.ru##._boosty_pxu4o_1030
+
+! 2023-07-09 https://atel.me
+atel.me##.messages_cookies
+
+! 2023-07-14 https://www.linuxadictos.com
+www.linuxadictos.com##.machete_cookie_bar
+
+! 2023-07-14 https://theb.ai
+theb.ai##.alert-popup
+
+! 2023-07-21 https://img-webcalypt.ru
+img-webcalypt.ru##.cookie-wrapper.w-100
+img-webcalypt.ru##.right-wrapper
+
+! 2023-07-22 https://app.daily.dev
+app.daily.dev##.laptop\:left-\[unset\].z-\[200\].typo-footnote.border-theme-divider-secondary.bg-theme-bg-tertiary.text-theme-label-secondary.border-t.laptop\:border.laptop\:rounded-2xl.laptop\:text-center.laptop\:w-48.w-full.pl-4.pr-14.py-4.laptop\:p-6.laptop\:items-center.flex-col.left-0.laptop\:bottom-6.bottom-0.laptop\:right-6.fixed.flex
+
