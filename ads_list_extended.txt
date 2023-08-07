@@ -1,4 +1,4 @@
-! List: NoADS_RU (2020-2023)
+! List: NoADS_RU Extended (2023)
 ! Author: Zalexanninev15
 ! License: MIT
 !! GitHub: https://github.com/Zalexanninev15/NoADS_RU
@@ -9916,46 +9916,69 @@ img-webcalypt.ru##.right-wrapper
 ! 2023-07-22 https://app.daily.dev
 app.daily.dev##.laptop\:left-\[unset\].z-\[200\].typo-footnote.border-theme-divider-secondary.bg-theme-bg-tertiary.text-theme-label-secondary.border-t.laptop\:border.laptop\:rounded-2xl.laptop\:text-center.laptop\:w-48.w-full.pl-4.pr-14.py-4.laptop\:p-6.laptop\:items-center.flex-col.left-0.laptop\:bottom-6.bottom-0.laptop\:right-6.fixed.flex
 
+! 2023-08-07 https://web.ligaudio.ru
+web.ligaudio.ru###billboard
+web.ligaudio.ru###DesktopInread
+web.ligaudio.ru###DesktopFooter
+
+! 2023-08-07 https://www.steamgriddb.com
+www.steamgriddb.com##.noty_body
+www.steamgriddb.com###noty_layout__bottomRight
+www.steamgriddb.com##.noty_none.noty_close_with_button.noty_has_progressbar.noty_theme__sgdb.noty_type__info.noty_bar
+
+! 2023-08-07 https://ciox.ru
+ciox.ru##.share
+
+! 2023-08-07 https://it-tools.tech
+it-tools.tech##.colored-card.c-card
+
+! 2023-08-07 https://wiki.dieg.info
+wiki.dieg.info##.hidden-print.col-md-2.col-sm-3.dw__sidebar
+
 ! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
-web.telegram.org##.SponsoredMessage.Message.open > .message-content.has-shadow.has-solid-background
-www.terabox.com##.adsense
-www.terabox.com##.membership-entry
-www.terabox.com##.seo-banner-img.\{seo-banner-img.\+.en
-www.terabox.com##.u-carousel__container
+gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
+gotoshop.ua##.product-ads,.ads-item
+habr.com##.tm-company-widgets
+habr.com##.tm-sexy-sidebar_initial.tm-sexy-sidebar
+habr.com##.tm-sexy-sidebar_margin.tm-sexy-sidebar > .tm-block_spacing-bottom.tm-block
+habr.com##.tm-sexy-sidebar_stick-top.tm-sexy-sidebar > .tm-block_spacing-bottom.tm-block
+habr.com##.tm-sexy-sidebar_stick-bottom.tm-sexy-sidebar > .tm-block_spacing-bottom.tm-block
+habr.com##.tm-promo-post-link_appearance-most-reading.tm-promo-post-link
+habr.com##div.tm-articles-list__after-article:nth-of-type(n)
+habr.com##.pull-down > div > .tm-block_spacing-around.tm-block
+habr.com##.tm-block_spacing-around.tm-stories-block.tm-block
+habr.com##.tm-project-block_variant-questions.tm-project-block
+habr.com##.tm-article-blocks > div > .tm-block_spacing-around.tm-block
+hotline.ua##.catalog-promo-products
+hotline.ua##.promo-list-item--row.promo-list-item
+tabletki.ua###HeaderPanel_AppsPanel
+tabletki.ua##.com__panel
+tabletki.ua##.banner__install
+tabletki.ua##.btn-small-upper.btn-sm.btn-outline-orange.btn
+www.eway.in.ua##.android.application-banner
+rozetka.com.ua##rz-widget-goods.ng-star-inserted
 www.terabox.com##.seo-banner-box
 www.terabox.com##.u-carousel__container
 www.terabox.com##.bottom-tip-wrap
-imgur.com##.notice-content
-asura.gg##p > [href="https://asura.gg/discord"]
-asura.gg##.code-block-1.code-block
-asura.gg##p:nth-of-type(1)
-webmail.meta.ua###news-feed
-webmail.meta.ua###offer_table
-rabota.ua##alliance-telegram-bot-promo.ng-star-inserted
-rabota.ua##.santa-bg-white.santa-p-20.santa-rounded-5.ng-star-inserted
-rabota.ua##.santa-flex.santa-justify-between.santa-p-20.santa-rounded-5.santa-border-dashed.santa-border.santa-border-black-500
-forum.xda-developers.com##.notice-content
-gotoshop.ua##.top-header
-||igg-games.com/wp-content/uploads/*/*/netfl*.jpg$image
-||igg-games.com/wp-content/uploads/*/*/hh*.gif$image	||igg-games.com/wp-content/uploads/*/*/hh*.gif$image
-||www.startpage.com/*/*/ads/*$subdocument
-hotline.ua###catalogAdvertProduct
-hotline.ua##.catalog-promo-products
-hotline.ua##div.col-xs-,.col-sm-,.col-lg-,.promo-list-item--column.promo-list-item:nth-of-type(n)
-tabletki.ua###HeaderPanel_AppsPanel
-tabletki.ua##.banner__install
-tabletki.ua##.btn-small-upper.btn-sm.btn-outline-orange.btn
-tabletki.ua##.col.col__com.h-100
-tabletki.ua##.filter-advert.mt-3
-tabletki.ua##div.row.category-card__card-row:nth-of-type(1) > div.col:nth-of-type(4)
-www.eway.in.ua##.android.application-banner
 web.telegram.org##.open.Message.SponsoredMessage
-habr.com##div.tm-articles-list__after-article:nth-of-type(n)
-habr.com##.tm-sexy-sidebar_stick-top.tm-sexy-sidebar > .tm-block_spacing-bottom.tm-block
-habr.com##.pull-down > div > .tm-block_spacing-around.tm-block
-habr.com##.tm-notice_positive.tm-comments__comment-notice.tm-notice
-www.eway.in.ua##.android.application-banner
-gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
+||igg-games.com/wp-content/uploads/*/*/netfl*.jpg$image
+||igg-games.com/wp-content/uploads/*/*/hh*.gif$image
+||www.startpage.com/*/*/ads/*$subdocument
+chapmanganato.com##.panel-logo-chapter
+mangakakalot.com##footer
+chapmanganato.com##.fb-comment-title-hidden.fb-comment-title
+mangakakalot.com##[src="https://mangakakalot.com//themes/home/images/clickhere2.png"]
+mangakakalot.com##.comments
+mangakakalot.com##.logo_chapter
+mangakakalot.com##.info-top-chapter
+chapmanganato.com##.a-h.panel-fb-comment.panel-story-comment
+||www.facebook.com/plugins/comments.php$subdocument
+||chapmanganato.com/themes/hm/images/gohome.png$image
+chapmanganato.com##.a-h.panel-fb-comment.panel-chapter-comment
+chapmanganato.com##.container-footer.container
+chapmanganato.com##.panel-chapter-info-bot
+returnofthesssclassranker.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
+web.telegram.org##.avoid-selection.is-group-first.is-group-last.can-have-tail.is-in.bubble
 
 ! [Extended Content]
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|tjournal.ru|vc.ru
