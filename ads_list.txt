@@ -9916,3 +9916,22 @@ img-webcalypt.ru##.right-wrapper
 ! 2023-07-22 https://app.daily.dev
 app.daily.dev##.laptop\:left-\[unset\].z-\[200\].typo-footnote.border-theme-divider-secondary.bg-theme-bg-tertiary.text-theme-label-secondary.border-t.laptop\:border.laptop\:rounded-2xl.laptop\:text-center.laptop\:w-48.w-full.pl-4.pr-14.py-4.laptop\:p-6.laptop\:items-center.flex-col.left-0.laptop\:bottom-6.bottom-0.laptop\:right-6.fixed.flex
 
+! 2023-08-07 https://web.ligaudio.ru
+web.ligaudio.ru###billboard
+web.ligaudio.ru###DesktopInread
+web.ligaudio.ru###DesktopFooter
+
+! 2023-08-07 https://www.steamgriddb.com
+www.steamgriddb.com##.noty_body
+www.steamgriddb.com###noty_layout__bottomRight
+www.steamgriddb.com##.noty_none.noty_close_with_button.noty_has_progressbar.noty_theme__sgdb.noty_type__info.noty_bar
+
+! 2023-08-07 https://ciox.ru
+ciox.ru##.share
+
+! 2023-08-07 https://it-tools.tech
+it-tools.tech##.colored-card.c-card
+
+! 2023-08-07 https://wiki.dieg.info
+wiki.dieg.info##.hidden-print.col-md-2.col-sm-3.dw__sidebar
+
