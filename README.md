@@ -1,6 +1,6 @@
 # NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
 
-<img src="https://github.com/Zalexanninev15/NoADS_RU/blob/main/NoADS_RU%20Logo.png" width="70" height="70"/>
+<img src="./assets/Logo.png" width="70" height="70"/>
 
 [![](https://img.shields.io/badge/platforms-AdBlocking_Extensions-F40D12.svg?logo=adblock)](https://github.com/Zalexanninev15/NoADS_RU)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/commits/main)
