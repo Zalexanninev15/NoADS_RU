@@ -1,7 +1,13 @@
 import requests
-from itertools import groupby
+import json
 import re
 import os
+
+print('NoADS_RU Updater')
+print('- Запись фильтров из файла uBlock Origin в ads_list.txt и ads_list_extended.txt')
+print('- Удаление дублей фильтров')
+print('- Формирование файла SITES.md')
+print('- Обновление фильтров от Faust для ads_list_extended.txt\n')
 
 txt_files = [file for file in os.listdir() if file.endswith(".txt")]
 target_file = "ads_list.txt"
@@ -27,7 +33,7 @@ extended_list = extended_list.replace(extended_list.split("! [List from Faust (h
 with open('ads_list_extended.txt', 'w') as file:
     file.write(extended_list)
 
-print('[!] Файл расширенного варианта списка обновлён!')
+print('[!] Файл расширенного варианта списка обновлён! (1/3)')
 
 regex = r"[0-9] https:\/\/[a-z]\w+(.+)$"
 
@@ -50,4 +56,29 @@ with open('SITES.md', 'w', encoding="utf8") as file:
         file.write(line)
     file.write('\n- И другие сайты (при использовании [расширенного варианта](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt) списка)')
 
-print('[!] Список пополнился новыми сайтами!')
+print('[!] Список сайтов с поддержкой фильтров NoADS_RU пополнился новыми сайтами! (2/3)')
+
+url_gists = "https://api.github.com/users/dymitr-ua/gists"
+response = requests.get(url_gists)
+data = json.loads(response.text)
+url_file = data[0]["files"]["brave_adblock_additions.txt"]["raw_url"]
+
+response = requests.get(url_file)
+
+with open("ads_list_extended.txt", "r") as file:
+    lines = file.readlines()
+
+for i in range(len(lines)):
+    if lines[i].strip().startswith("! [List from Faust"):
+        j = i
+        while j < len(lines) and lines[j].strip() != "":
+            j += 1
+        lines[i + 1:j] = [line + "\n" for line in response.text.splitlines()]
+        break
+
+with open("ads_list_extended.txt", "w") as file:
+    file.writelines(lines)
+
+print('[!] Обновлены фильтры от Faust для файла расширенного варианта списка! (3/3)')
+
+print('[!] Работа скрипта завершена успешно!')
