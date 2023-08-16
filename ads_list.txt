@@ -1037,7 +1037,6 @@ www.ozon.ru##div.row:nth-of-type(6) > .md-3.column
 www.ozon.ru##div.row:nth-of-type(5) > .md-3.column
 www.ozon.ru##.a0f4
 www.ozon.ru##.block-vertical > .c2y6.container > div.row:nth-of-type(1)
-www.ozon.ru##.a1
 ||cdn1.ozone.ru/s3/cms/6c/t0e/c*000/ozon_pampers_pants_1000x2000.jpg$image
 ||cdn1.ozone.ru/s3/cms/01/t9e/c*000/1000x2000.jpg$image
 www.ozon.ru##div.row:nth-of-type(4) > div.column:nth-of-type(1) > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4 > .a2a6.f2.img
@@ -9934,4 +9933,13 @@ it-tools.tech##.colored-card.c-card
 
 ! 2023-08-07 https://wiki.dieg.info
 wiki.dieg.info##.hidden-print.col-md-2.col-sm-3.dw__sidebar
+
+! 2023-08-14 https://www.marktechpost.com
+www.marktechpost.com##.mysticky-welcomebar-fixed-wrap
+www.marktechpost.com##.animation-start.entry-effect.mysticky-welcomebar-animation.mysticky-welcomebar-entry-effect-slide-in.mysticky-welcomebar-attention-default.mysticky-welcomebar-display-mobile.mysticky-welcomebar-display-desktop.mysticky-welcomebar-btn-mobile.mysticky-welcomebar-btn-desktop.mysticky-welcomebar-showx-mobile.mysticky-welcomebar-showx-desktop.mysticky-welcomebar-position-bottom.mysticky-welcomebar-widget-19.front-site.mysticky-welcomebar-fixed
+
+! 2023-08-16 https://www.ozon.ru
+www.ozon.ru##.h7 > .b0
+www.ozon.ru##.uc0
+www.ozon.ru##.cu0.d2g
 
