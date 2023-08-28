@@ -9943,20 +9943,22 @@ www.ozon.ru##.h7 > .b0
 www.ozon.ru##.uc0
 www.ozon.ru##.cu0.d2g
 
+! 2023-08-16 https://market.yandex.ru
+market.yandex.ru##.main > div > div > article
+
+! 2023-08-18 https://www.ixbt.com
+www.ixbt.com##.gdpr-root
+
+! 2023-08-28 https://www.cifrus.ru
+www.cifrus.ru##.messages_cookies
+www.cifrus.ru##.modal3
+www.cifrus.ru###popover-modal > .dm-table > .dm-cell
+www.cifrus.ru###popover-modal
+www.cifrus.ru###slideout_inner > [href] > .img-responsive
+
 ! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
 gotoshop.ua##.product-ads,.ads-item
-habr.com##.tm-company-widgets
-habr.com##.tm-sexy-sidebar_initial.tm-sexy-sidebar
-habr.com##.tm-sexy-sidebar_margin.tm-sexy-sidebar > .tm-block_spacing-bottom.tm-block
-habr.com##.tm-sexy-sidebar_stick-top.tm-sexy-sidebar > .tm-block_spacing-bottom.tm-block
-habr.com##.tm-sexy-sidebar_stick-bottom.tm-sexy-sidebar > .tm-block_spacing-bottom.tm-block
-habr.com##.tm-promo-post-link_appearance-most-reading.tm-promo-post-link
-habr.com##div.tm-articles-list__after-article:nth-of-type(n)
-habr.com##.pull-down > div > .tm-block_spacing-around.tm-block
-habr.com##.tm-block_spacing-around.tm-stories-block.tm-block
-habr.com##.tm-project-block_variant-questions.tm-project-block
-habr.com##.tm-article-blocks > div > .tm-block_spacing-around.tm-block
 hotline.ua##.catalog-promo-products
 hotline.ua##.promo-list-item--row.promo-list-item
 tabletki.ua###HeaderPanel_AppsPanel
@@ -9992,6 +9994,8 @@ gamecopyworld.com###sk
 gamecopyworld.com###bt
 gamecopyworld.com##[src="/ddd/ii/tc/is_lb_1.gif"]
 ||gamecopyworld.com/ddd/ii/tc/is_*$image
+habr.com##.tm-block_spacing-bottom.tm-block
+habr.com##.tm-placeholder-salary.tm-placeholder-inset
 
 ! [Extended Content]
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|tjournal.ru|vc.ru

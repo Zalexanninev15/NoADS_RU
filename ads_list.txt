@@ -9943,3 +9943,16 @@ www.ozon.ru##.h7 > .b0
 www.ozon.ru##.uc0
 www.ozon.ru##.cu0.d2g
 
+! 2023-08-16 https://market.yandex.ru
+market.yandex.ru##.main > div > div > article
+
+! 2023-08-18 https://www.ixbt.com
+www.ixbt.com##.gdpr-root
+
+! 2023-08-28 https://www.cifrus.ru
+www.cifrus.ru##.messages_cookies
+www.cifrus.ru##.modal3
+www.cifrus.ru###popover-modal > .dm-table > .dm-cell
+www.cifrus.ru###popover-modal
+www.cifrus.ru###slideout_inner > [href] > .img-responsive
+
