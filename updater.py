@@ -3,7 +3,7 @@ import json
 import re
 import os
 
-print('NoADS_RU Updater v3.1')
+print('NoADS_RU Updater v3.3')
 print('Что я умею?')
 print('- Запись фильтров из файла uBlock Origin в ads_list.txt и ads_list_extended.txt')
 print('- Удаление дублей фильтров')
