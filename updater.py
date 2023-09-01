@@ -3,7 +3,7 @@ import json
 import re
 import os
 
-print('NoADS_RU Updater')
+print('NoADS_RU Updater v3.1')
 print('Что я умею?')
 print('- Запись фильтров из файла uBlock Origin в ads_list.txt и ads_list_extended.txt')
 print('- Удаление дублей фильтров')
@@ -12,17 +12,16 @@ print('- Обновление фильтров от Faust для ads_list_extend
 
 txt_files = [file for file in os.listdir() if file.endswith(".txt")]
 ads_list_file = "ads_list.txt"
+
 for file in txt_files:
     if file.startswith('my-ublock-static-filters_'):
         ads_list_file = file
+        if os.path.exists('ads_list.txt'):
+            os.remove('ads_list.txt')
+        os.rename(ads_list_file, 'ads_list.txt')
+        ads_list_file = 'ads_list.txt'
         break
-
-if 'my-ublock-static-filters_' in ads_list_file:
-    if os.path.exists("ads_list.txt"):
-        os.remove("ads_list.txt")
-    os.rename(ads_list_file, 'ads_list.txt')
-    ads_list_file = 'ads_list.txt'
-
+    
 print('[!] Файл списка обновлён! (1/4)')
 
 extended_list_url = 'https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt'

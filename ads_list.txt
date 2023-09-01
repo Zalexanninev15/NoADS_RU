@@ -5527,16 +5527,6 @@ qiwi.com##.footer-apps-85
 qiwi.com##.cookies-self-65
 qiwi.com##.footer-apps-59
 
-! 2021-01-13 https://best.aliexpress.ru
-||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
-||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
-||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
-||campaign.aliexpress.com/wow/gcp$subdocument
-||campaign.aliexpress.com/wow/gcp/*$subdocument
-||campaign.aliexpress.com/wow/gcp$domain=best.aliexpress.ru,subdocument
-||campaign.aliexpress.com/wow/gcp/*$domain=best.aliexpress.ru,subdocument
-||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
-
 ! 2021-01-13 https://www.ozon.ru
 www.ozon.ru##.a0x6
 ||cdn1.ozone.ru/s3/cms/27/t85/wc*0/336x550_3.jpg$image
@@ -5553,6 +5543,16 @@ travel.ozon.ru##li.RootNav2_item__1SxQ9.FooterLinks_item__2_ZJT > [href="/advert
 travel.ozon.ru##dd:nth-of-type(12)
 travel.ozon.ru##.IndexBottom_mobile-icon-text__Yv6eV
 travel.ozon.ru##.fontello-mobile
+
+! 2021-01-13 https://best.aliexpress.ru
+||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
+||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
+||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
+||campaign.aliexpress.com/wow/gcp$subdocument
+||campaign.aliexpress.com/wow/gcp/*$subdocument
+||campaign.aliexpress.com/wow/gcp$domain=best.aliexpress.ru,subdocument
+||campaign.aliexpress.com/wow/gcp/*$domain=best.aliexpress.ru,subdocument
+||campaign.aliexpress.com/wow/gcp/f3bed60d2e324b62b4390bf25035def4_1604385126201?__poplayer_position_sign=pc_Best_Homepage&__prefix=&__poplayer_preserve_uuid=27768&wh_weex=true&parentSpmB=best$subdocument
 
 ! 2021-01-13 https://yoomoney.ru
 yoomoney.ru##.dukEFQ.Gdpr__StyleContent-sc-1wmeei3-1
@@ -9738,7 +9738,6 @@ www.hostinger.ru##.w-100.z-index-1001.bottom-0.position-fixed.gdpr-bottom-banner
 mail.yandex.ru##.promo-auto-onboarding-Container
 
 ! 2023-02-19 https://aliexpress.ru
-aliexpress.ru##:nth-of-type(10)
 aliexpress.ru##.SnowFooter_StoreButton__container__cbgmg.snow-ali-kit_Col__col__1ccuye
 
 ! 2023-02-19 https://www.w3schools.com
@@ -9955,4 +9954,13 @@ www.cifrus.ru##.modal3
 www.cifrus.ru###popover-modal > .dm-table > .dm-cell
 www.cifrus.ru###popover-modal
 www.cifrus.ru###slideout_inner > [href] > .img-responsive
+
+! 2023-09-01 https://www.ozon.ru
+www.ozon.ru##div.acc5:nth-of-type(6)
+www.ozon.ru##div.acc5:nth-of-type(3)
+www.ozon.ru##li.di8:nth-of-type(3)
+www.ozon.ru##.c0u
+www.ozon.ru##.uc.dg2
+www.ozon.ru##.sk3.k2s.k5s.rk9 > div.e0:nth-of-type(1) > .c7
+www.ozon.ru##.c7.d5 > div > div > div.acc5 > .ac5c
 
