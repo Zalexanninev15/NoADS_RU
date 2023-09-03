@@ -9964,6 +9964,15 @@ www.ozon.ru##.uc.dg2
 www.ozon.ru##.sk3.k2s.k5s.rk9 > div.e0:nth-of-type(1) > .c7
 www.ozon.ru##.c7.d5 > div > div > div.acc5 > .ac5c
 
+! 2023-09-01 https://www.youtube.com
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
+
+! 2023-09-03 https://www.emu-land.net
+www.emu-land.net##.policy-validation
+
+! 2023-09-03 https://dev.pgteam.org
+dev.pgteam.org###portals-root > div:nth-of-type(1)
+
 ! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
 gotoshop.ua##.product-ads,.ads-item
