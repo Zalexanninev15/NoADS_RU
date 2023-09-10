@@ -9973,3 +9973,13 @@ www.emu-land.net##.policy-validation
 ! 2023-09-03 https://dev.pgteam.org
 dev.pgteam.org###portals-root > div:nth-of-type(1)
 
+! 2023-09-07 https://www.perplexity.ai
+www.perplexity.ai##.h-full.flex-col.justify-between.flex.top-0.sticky.pb-sm.pt-\[12px\] > .flex-col.flex
+
+! 2023-09-07 https://chevap.ru
+chevap.ru##.notice-content
+
+! 2023-09-10 https://bookvoejka.livejournal.com
+bookvoejka.livejournal.com##.cookies-banner
+bookvoejka.livejournal.com##.ng-scope.discoverytimes-noiframe.b-discoverytimes-wrapper
+
