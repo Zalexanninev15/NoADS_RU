@@ -9983,3 +9983,26 @@ chevap.ru##.notice-content
 bookvoejka.livejournal.com##.cookies-banner
 bookvoejka.livejournal.com##.ng-scope.discoverytimes-noiframe.b-discoverytimes-wrapper
 
+! 2023-09-10 https://h.amazingsoftworks.com
+h.amazingsoftworks.com##.tm-block_spacing-around.tm-stories-block.tm-block
+
+! 2023-09-11 https://ru.citaty.net
+ru.citaty.net##.cl-consent-visible.cl-consent-popup--main.cl-consent-popup
+ru.citaty.net##.__lxG__safari_mode.cl-consent-center.cl-consent
+ru.citaty.net##.sb
+ru.citaty.net##.md\:flex
+
+! 2023-09-11 http://ru.quotesbox.org
+ru.quotesbox.org##.cookies.form
+
+! 2023-09-11 https://zaochnik-com.com
+zaochnik-com.com##.cookies-notice
+zaochnik-com.com##.footer__apps
+zaochnik-com.com##div.footer__sotial-item:nth-of-type(3)
+
+! 2023-09-11 https://geum.ru
+geum.ru##.uscl-list
+geum.ru##.bh-fadeIn.bh-widget-page__call-to-action
+geum.ru##.bh-widget-page__button-main.bh-w-button-whatsapp-chat.bh-w-button.bh-w-button--round
+geum.ru##.col-md-4
+
