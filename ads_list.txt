@@ -2,7 +2,7 @@
 ! Author: Zalexanninev15
 ! License: MIT
 !! GitHub: https://github.com/Zalexanninev15/NoADS_RU
-!! Buy Me a Coffee: https://zalexanninev15.jimdofree.com/buy-me-a-coffee
+!! Buy Me a Coffee: https://zalexanninev15-donate.pfm.live
 
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
@@ -10023,4 +10023,25 @@ inf-ege.sdamgia.ru##body > div:nth-of-type(6)
 
 ! 2023-09-16 https://ege.sdamgia.ru
 ege.sdamgia.ru##body > div:nth-of-type(6)
+
+! 2023-09-16 https://www.wps.com
+www.wps.com##.gdpr-wrapper
+
+! 2023-11-08 https://www.paraphraser.io
+www.paraphraser.io##.notification-bar
+
+! 2023-11-13 https://supertools.therundown.ai
+||tally.so/popup/nra2ER$subdocument
+
+! 2023-11-18 https://osintteam.blog
+osintteam.blog##.adl.bg.yw.yv.bw
+osintteam.blog##.aef.aee.ko.aed.aec.aeb.bo.cg.aea.adz.ady.adx.adw.adv.adu.adt.ads.adr.qx.adq.adp.n.yw
+
+! 2023-11-18 https://www.photopea.com
+www.photopea.com##button.bbtn.fitem:nth-of-type(2)
+
+! 2023-11-11 https://coolors.co
+coolors.co###modal-affiliation > .modal_container > .modal_cell
+coolors.co###modal-affiliation > .modal_container
+coolors.co##.is-visible.modal--m.modal
 
