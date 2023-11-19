@@ -2,7 +2,7 @@
 ! Author: Zalexanninev15
 ! License: MIT
 !! GitHub: https://github.com/Zalexanninev15/NoADS_RU
-!! Buy Me a Coffee: https://zalexanninev15.jimdofree.com/buy-me-a-coffee
+!! Buy Me a Coffee: https://zalexanninev15-donate.pfm.live
 
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
@@ -10024,6 +10024,27 @@ inf-ege.sdamgia.ru##body > div:nth-of-type(6)
 ! 2023-09-16 https://ege.sdamgia.ru
 ege.sdamgia.ru##body > div:nth-of-type(6)
 
+! 2023-09-16 https://www.wps.com
+www.wps.com##.gdpr-wrapper
+
+! 2023-11-08 https://www.paraphraser.io
+www.paraphraser.io##.notification-bar
+
+! 2023-11-13 https://supertools.therundown.ai
+||tally.so/popup/nra2ER$subdocument
+
+! 2023-11-18 https://osintteam.blog
+osintteam.blog##.adl.bg.yw.yv.bw
+osintteam.blog##.aef.aee.ko.aed.aec.aeb.bo.cg.aea.adz.ady.adx.adw.adv.adu.adt.ads.adr.qx.adq.adp.n.yw
+
+! 2023-11-18 https://www.photopea.com
+www.photopea.com##button.bbtn.fitem:nth-of-type(2)
+
+! 2023-11-11 https://coolors.co
+coolors.co###modal-affiliation > .modal_container > .modal_cell
+coolors.co###modal-affiliation > .modal_container
+coolors.co##.is-visible.modal--m.modal
+
 ! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
 gotoshop.ua##.product-ads,.ads-item
@@ -10042,28 +10063,12 @@ web.telegram.org##.open.Message.SponsoredMessage
 ||igg-games.com/wp-content/uploads/*/*/netfl*.jpg$image
 ||igg-games.com/wp-content/uploads/*/*/hh*.gif$image
 ||www.startpage.com/*/*/ads/*$subdocument
-chapmanganato.com##.panel-logo-chapter
-mangakakalot.com##footer
-chapmanganato.com##.fb-comment-title-hidden.fb-comment-title
-mangakakalot.com##[src="https://mangakakalot.com//themes/home/images/clickhere2.png"]
-mangakakalot.com##.comments
-mangakakalot.com##.logo_chapter
-mangakakalot.com##.info-top-chapter
-chapmanganato.com##.a-h.panel-fb-comment.panel-story-comment
-||www.facebook.com/plugins/comments.php$subdocument
-||chapmanganato.com/themes/hm/images/gohome.png$image
-chapmanganato.com##.a-h.panel-fb-comment.panel-chapter-comment
-chapmanganato.com##.container-footer.container
-chapmanganato.com##.panel-chapter-info-bot
-returnofthesssclassranker.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 web.telegram.org##.avoid-selection.is-group-first.is-group-last.can-have-tail.is-in.bubble
 ||igg-games.com/wp-content/uploads/*/*/netf*.jpg$image
 gamecopyworld.com###sk
 gamecopyworld.com###bt
 gamecopyworld.com##[src="/ddd/ii/tc/is_lb_1.gif"]
 ||gamecopyworld.com/ddd/ii/tc/is_*$image
-habr.com##.tm-block_spacing-bottom.tm-block
-habr.com##.tm-placeholder-salary.tm-placeholder-inset
 
 ! [Extended Content]
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|tjournal.ru|vc.ru
