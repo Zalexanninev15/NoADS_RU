@@ -3,7 +3,7 @@
 ! License: MIT
 !! GitHub: https://github.com/Zalexanninev15/NoADS_RU
 !! Telegram group: https://t.me/noads_ru
-!! Buy Me a Coffee: https://zalexanninev15-donate.pfm.live
+!! Donate: https://zalexanninev15-donate.pfm.live
 
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
@@ -10045,4 +10045,7 @@ www.photopea.com##button.bbtn.fitem:nth-of-type(2)
 coolors.co###modal-affiliation > .modal_container > .modal_cell
 coolors.co###modal-affiliation > .modal_container
 coolors.co##.is-visible.modal--m.modal
+
+! 2023-11-21 https://www.youtube.com/
+www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 
