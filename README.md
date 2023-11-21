@@ -8,11 +8,15 @@
 [![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/network/members)
 [![](https://img.shields.io/github/issues/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aopen+is%3Aissue)
 [![](https://img.shields.io/github/issues-closed/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aissue+is%3Aclosed)
+[![](https://img.shields.io/badge/Telegram_чат-26A5E4.svg?logo=telegram)](https://t.me/+Sjvl415cZ5E4ZTQy)
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![](https://img.shields.io/badge/donate-Buy_Me_a_Coffee-F94400.svg)](https://zalexanninev15-donate.pfm.live/)
 
 ## Описание
 Мой список для блокировки элементов на русскоязычных, и не только, сайтах. Список составляю вручную, поэтому блокируется и то, что не может заблокировать никакое расширение. [Сайты на которых будет работать данный список](https://github.com/Zalexanninev15/NoADS_RU/blob/main/SITES.md) (список расширяется по мере посещения сайтов)
+
+### 21.11.23 НОВИНКА!!! Telegram чат
+[![](https://img.shields.io/badge/Вступить-26A5E4.svg?logo=telegram)](https://t.me/+Sjvl415cZ5E4ZTQy)
 
 Для любителей более обширной блокировки вредных элементов рекомендуется использовать новинку - [NoADS_RU Extended](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt). Ссылка для вставки: ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt```
 
