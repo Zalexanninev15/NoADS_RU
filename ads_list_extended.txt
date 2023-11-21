@@ -2,6 +2,7 @@
 ! Author: Zalexanninev15
 ! License: MIT
 !! GitHub: https://github.com/Zalexanninev15/NoADS_RU
+!! Telegram group: https://t.me/noads_ru
 !! Buy Me a Coffee: https://zalexanninev15-donate.pfm.live
 
 ! 13.02.2020 https://mail.yandex.ru
