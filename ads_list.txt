@@ -37,12 +37,8 @@ drive.google.com##.wo35tf
 drive.google.com###lZwQje
 
 ! 13.02.2020 https://4pda.to
-||s.4pda.to/dry7UiFpz28iVt3WhdUAxhEqSWpHqz2hl2MBv9g3ENlyLs14YRu8wdTW60.jpg$image
 4pda.to##.p9s9whc.i2PTupWIQ
-||s.4pda.to/dry7Ndn2mFPz2M546D5v2OVOoyJuZ.jpg?_=1581517204$image
 4pda.to##.BI3E5cnB.oBI3E5cnB
-||s.4pda.to/dry7JdLBJgFZXTkGz1XhYdm3Kcz0SfEz1ez1myvSd90HDMguhrIXnz2EL0LNB.jpg$image
-||s.4pda.to/dry7Kmz0EyjmB3hyotaz1BI99a7dNYEgKnjZz0FyCZ5kuDdgJBz1XNAz2Xcf8.jpg$image
 
 ! 13.02.2020 https://www.playground.ru
 www.playground.ru##li.hidden-xs.hidden-sm.hidden-md.full-width.dropdown-hover:nth-of-type(8) > .disabled.dropdown-toggle
@@ -97,9 +93,7 @@ home.aliexpress.ru##.mobile-app.me-ui-box
 home.aliexpress.ru##.ng-mobile.ng-item
 
 ! 13.02.2020 https://www.dns-shop.ru
-||as.dns-shop.ru/assets/d00224c9/images/valentines-day-2020/md-min.jpg$image
 www.dns-shop.ru##.valentines-day-2020.head-promo-banner
-||c.dns-shop.ru/original/st1/72fef3ae745942cfddb196e7d194d133/ffbee4ea7314b684af029681f9c1acf098af6ea70d3680ee684ad679aa2e10a1.jpg$image
 www.dns-shop.ru###b-0805bfb7-ff0f-4b61-99e2-61277ee39eec
 www.dns-shop.ru##.main-footer__main-right
 www.dns-shop.ru##.header-top-menu__common-list > li.header-top-menu__common-item:nth-of-type(4) > .header-top-menu__common-link
@@ -133,7 +127,6 @@ m.vk.com##.mmi_recommended > .al_menu.mm_item
 m.vk.com##.mmi_likes > .al_menu.mm_item
 
 ! 13.02.2020 https://vk.com
-||pp.userapi.com/ouEIfaNitjfwHg2u4SvMqgX-bVqQ4PtlVzsXqQ/TVyzBIA-8JY.jpg$image
 vk.com##.audio_promo__link
 vk.com##.audio_subscribe_promo
 vk.com##._audio_friends_list.audio_friends_list
@@ -523,8 +516,6 @@ afisha.yandex.ru##li.iMAzBs.Item-sc-17ybl0w-6:nth-of-type(4)
 afisha.yandex.ru##div.gMCZcF.Cell-sc-1xzfbbh-2:nth-of-type(2) > .yAsTt.Text-sc-1cp2g90-0 > .dRKNnJ.Link-sc-1uu6abm-0
 afisha.yandex.ru##div.gMCZcF.Cell-sc-1xzfbbh-2:nth-of-type(1) > .yAsTt.Text-sc-1cp2g90-0 > .dRKNnJ.Link-sc-1uu6abm-0
 afisha.yandex.ru##.aCVIoFraQMHr68Z1kqFr8NMbaNWa08Fw.aCVIoFraQMHr68Z1kqA_tld_ru.aCVIoFraQMHr68Z1kqA
-||afisha.yandex.ru/DP3Q14521/fac2e7AEA1/FaTLMiXq_5VjuXf8csjJPVa1u12Ws8-6d0S81HH1yS7ABtRiOkpy25Dynv_4oE3ZizqVV6XD6EXOnu99pAsNJQDgkn8zsajJO7g37mqcmG9c9PcBieyaqhYmyYUS_OkC6DizKVoeKIbsiMCLgPokmdZgzSzXtOBFuKqTBKYMejEOk4tsc97KvHSZZPwy_MMBW6LPZrnFmewdO_uPE8LLLOcokAV-KQy9wK3hhpjxEJjUW_otx6b_QYe2tziSClMzC4e9Sm7c04tskVbZPeXJIXKr0kuSypTzKRnFjyTyyyzVDLwhciwSre2txo65_TS2-WroFd2f10-RmZ8wkg9fLza2oFdH0N-LW7BnzjLi6RFttfFIss2KyCgmxLUk0soNwjSMA3oUOKHbk-u5nOYbleti3yPMsvhPvZuOAaYJUwIIlpNPeen5tWu5dP4a--Q8b67RbqXNju0DDNyCLNj5AusLmSNLPgupy4DgtJzaF4PlXMMf-IHjR5qZuz6SAUEwCZC5WFPF_Y5Um13EEP_LF1-5xn-G65TaCCfbnRn45xH9LK0yQDUzuv670o6g_CuY_Vz9I_mR90-2sJATgDFnAAqZlUpC5NOIa4xW_i7h6hx4odlVsd6pyTE4-7It4dcq5R--H2svK67Nj_uDiP4YseVD4jDimsp0vZ2oDKgqcDs9vYhNaNHtgWurTv0eyM84T5vCW479nskpI8OIN_PZGd0Zqz1bLze85L3enJTtB47Oe-gt2YDUUo2OmzOUOUYAJ6CQdFvA35dKsXX3O93kAmGC0Xisy5PgNQDMkCT3yQLjGp4WZRAGnduz866U-Ba50mD5CMOEy2mcu7w-tiFmMRGRiF5H_PeQW4hA7BjZyx94rv5_mtuJxDUc1K0Nx8AiwQ2NCUIvCLD6i8efjuc2uPpt8hfVouFXgq-MHp8lYRgHtZdHb_jTomeKYv4y6tUvWoT6SrL4kcAKBeaIB8$image
-afisha.yandex.ru##[href="https://afisha.yandex.ru/DP3Q14521/fac2e7AEA1/FaTLMiXp-ogjvWHpM9GDKUzipxrWpM-7aBHiqDf6xhzKDY9saRhvmc25wqWj-VCJ2zKPVKDEuRbGz-J78VkBcFXjxyg6rvaafrQ4uW2dnjkK_6MX2_-evSNBvcIt_pAv-EbDO3AUD9nZgPmugOUXuchf9CXaz_Rswb-WPpMrTDAQo4RbWOv0uF-XUMQK7MIiY4unGZXTuN0VDv-9LNf3OMoaqDF5Iyiyx6nfiYDmBYjvO_AjxoHFZbXLvgiyWV0RUryiR3i727d6-TbLeZrpfUus-0ve9InvIgz0lXjm3DuSDJM1WgwEguOY5_SN_ji22n3tBfuzylOEn6AogwlfFlDxgW836uuBZ7p_43rZnGZar_dehrqE_jNLtdJspJx_nk_MYTpLctiR7MH58f8NjdF3nR70gbMQ2cvvfP9ORDQMs8cuN_H7iCuscOY4m5ApTK_nRoCxlusrF_6MMPrEI8AI1jdtDymex7qXvP6qG5jTd50e-oGzENnL73z-TkQnWL-FaXr7u8hM-TfJeZvrOl-k5keCsoTrKRLonHDm2G2dOJ4lbRI2mY349_murknRiTuCXvDG6kPOwr5zpl1QeVKylz1b2NqaQbRBxRvv5SFrr_9Dp96MzQsb1J03-9sD7j2VNkcsC6TJrv-8p9MHkcZZ7yDvsu9Tma-0EKUHbgg_jpV7UMXokECKY-sU_8YNT5jbeIv7rcATEOCcNcDsAv4vijJ4MC-Y_ajWvqLHMbfbW_YX97rddpa2vjCMDnMlFIGYZGTn1pB3umPrJtvqKUOdxWim-4rIMhzEshjx_jrkFqI8bh8HkP2t2qKf9iyq8lf6F8Cb7GGZsZ4AkxBQJjSGhl9l2Neqd5piyjHj2gtLpe9kkMWn_xcH65EK-ckM9TuNPEIdFqHJq9aPodYfssxu3Cnwkv9RsaiTLZELcAAjhoJ6TvLPnX-QUcUY3M8reo_cbIDWrPIXO-eHBMfVMMEIljRlHyOe_aPEvaDQNaXmQtgSz7DWa7usvAahHGcRAKCYTUXZyIJKsE_WDvv7OnGE5H-17Z7IKx3bnBzH6wzAGII8STYIs--T4o2j2Rm392P2FPCn3VGFsp0NhgR4OzeVpV58xuitfql_7RbI6Bdanvxrhtm3xQMf6LUE2PQf2xO_B0IbMKzHiPW2lP0EsN1WyB3wgMVStZu4KbE-YzUItpJeZN3Ql2S7cd4uzv01ap7gea_rktofDPeKL-D-AuAJoSFyCAOT-5vDjY7gHInuR_oL0Zr-WJCOkxOfJ3AWKoCfd3j-3493v2HFEM3IHlSh0ViQ5b_oHxnmvTP77yf6Db4aYz0kntmD47y40QSj8nvSDMCjy0OzirwOhgtfERyQhVN44seyXo9o5TLa2wFznt91sd2L2QUGxrwb9uQ47CuUJH0pFL7wh-SVrvUbutp_9j78oelRmbmiPqQhWyQ0s51XR_v1l1SOUNUe8OccQan8VY3SidwSMNmMBNfkAP0TviFeLQ2A5anCr7nuCo3HYc838qLEZb-TtS2JD3YsK5KDUX_j-pF_m2bsCO7cF1Sb_F2g6bviADrIohze4Dj3H5Q5XgULq-qF56GK4BmD7WHKA_WY62KclJ4BggB2Fxeyp3J_-sm1eaxI5z79wA5LgMJ1jfqT-SoYzpAsxPk97gqSN1gSEKnfmvqemdw4i-h29QLXkPZHoK6ePbY7TicgpplaQOP7vVqaVcAE-8ojX6LaWq_fts8EIumINd7fJ_gJvzlsLBWL44nWjpjuBKz8SuIF9aHXToS9jz6QJX0NJqaJdlPQ5IN8pkfJBM_iOFGs72at9KjmJSblrjz55RLWDpQwXhYFsvmsxKep7ziI90bNLP6S2FeUlLEgqz5ECiykhH5b4eq5ZbVq3yr85BpPh_FcjM2azS0g5rQm8s4g-TyoNlwdFYjvht-amfwXpsd17gDltMN6kp-RPIowQQoHjbR1SdzGlmOzQ_cv3OUrc6bEQZLsv_k_IOuyK_ndCeAbiRBeGDWpzKf_iZnlCJDxSdwD8qXcT6W1rgurDWEQMKClaEfC1IJLtE7VO9HiL22jz1qaz4rkMCH6tgn43CreG6gCcggJqMeSxam81B-o2kT4K9yCxW26tbwagQR-BSSvv2p45caIWbpT2ATC6zNqhsFEte-K8h8Y66Ur4-cx5T-PGVgEMoPQruCfisU-rPVI6BHZjcVUhpWZCaEfTQ8iv5pnWO7pllqsdcY30fQ-TZ_eZ7HSvPMWBOmVH9LkI-UQmRhxEAWT0LLQi6v0F6nbXdYm4pbHaJurjgadIUM3L6-VaXDD0oxlhH36PubXFmq_30SyxI3BHTzogzPZyQTlDaggWQw2u92f866fzjmv-GvLP-6GzGW4vrYtiyJkCBOhpXZk7e2WT5dhzibn4ihfodBYi9St4y8d6pMp_fsK5BGuC2U1F6TsjNqLqNsIp_1h1jfumP9ploqgGY0pUiM0lJReSOLPuHmSZ_cty8QoQIP3V7PYj8EwIdyjDfDcOfsWlxVSLgqA27nArYrvO6bTfMMX87TEdIGSnwG-PEU4D4eFf33-3YpehkLhBePZGXup0G6T-ZvyFiXGsDff2zrkC5UmRjMYpsK48I-V5jqkyEncCsyb6nCer6gpgyleGzOhv3N-6_OeX6lfyjvs6xJXus9Hq-qp5jIUyJES7ukByy69HUcaGp3fsNKHhPgzmNhp2RDbtsR2trirAqofUikNv4lcfdDclGeMdsUL8MoLX73sf6_6nP0FJOO0LPv0Jd0wnj1mEzaFwpP5rp7_PrrPefEm-If9aY2Yny2VMlsZH6KYRWj_3Zhrq3PMDMLiA2-e_HWO87nuEQ7orx3S-grOErMeYQUWiceT3a-j1T6oxX3_F9ucyWSfqpIYnSJ3LQ2FpXhrw8-IT7lRzTnK2hdXgORkhPWb3g4Py5Em48s5-Ba3Onw-LZ78jvqfnNMzh9lqwSrno8pata6_HagfWDYznJ9YYubtrVSxZv4s4-k1ToLkTK3tv8MuLuytH8LPHcwonjZqPyCbxp3UiK_2GpPwavQv3ofpWpmtsiaII3kYE7SiSXs"]
 afisha.yandex.ru###uniq158160344778737358
 afisha.yandex.ru##.aCVIoFraQMHr68Z1kqFr8NMbaNWa08Fw.aC1svEbKfaSft6J5jqA-emotional__adv-media.aCVIoFraQMHr68Z1kqA
 afisha.yandex.ru##.aC1svEbKfaSft6J5jqA-emotional__foot-inner
@@ -532,7 +523,6 @@ afisha.yandex.ru##.aC1svEbKfaSft6J5jqA-emotional__foot-wrapper
 
 ! 13.02.2020 https://www.kinopoisk.ru
 www.kinopoisk.ru##.footer-partial-component_footer-width_default.footer-partial-component_footer-theme_dark.footer-partial-component
-||www.kinopoisk.ru/Ir1w70133/9a2a2fMCH0/EUBlOuoduC8vUw2sXg_3AOcnp7BW1GyLLkw_jhPTsKDAWfZNFC47FkLkG-8hP8pCAuS5aqJaozbVAy3rCR8syCxbMUGnA4FaaXMo0E4l_iXTPP20dNo1uAl3AY8epI2i_xPTejcTCBpikifoKjP8CyrDqieMQ7wD5QIv6wE0AsgYfgZhgQKPWm1gE8thHOgi4Q78tUrHEb0SWTKPA5ScmdMk73gnKSAqdqUk0TkT8CUV-JUHpk--N8cNMNoaEB_1O3I9crAppFRpdTrAaw_3Pu4W-5t95C66DnQdsQWPtLj2Bc1VEi0LBGSEPvosNPQdHsCaDIZ6pADIABHsMzYY-AJ5NVKAHr9qRncPw0wEzivUGvCyadEskRZ8J6sdqZe76zzvRBEqFTdluhTgEy7RISPQhyyDWKAJ2BI85yoiONAgZh5AjSGNbHBdKcBWLfowwRzEmGTkDLA3WASoAbmWt_MG_HQuIgM8U4Av0BEg_SsQ_ZospkChBdIuOtcfKznpLHoHQoEBjlJragXxVjryM88VxalWzQqPF3krqyGljYn9LuZqPzcrBWWGFPcTPcw4IeCtC5tHrAHpFgnGDAkl5hZeK1iiBYVMSGELxmwk-AHwJcO2UPk6tBNPFoYTtq-9zzDBVikdOQlogjHyBC7IOxXYujmPYr4Y9zcj_AEWE-kFVQhxtwi0eUJwJcdNCfYD9R7Cr1z1BrgSbASSHLShvd4s0lIPCiAdS6MPxAE27T8W_4cagGe9B_o8IswpDwLjFmErYJ8vjX9YehnzfwLvNNMn6rhiwTKaFHgLqgOum6DLOtFcIww1B36oF_kqAtQAPOSSGK1NszjOBwzfNDA-yQJcNW-WFqtnYFcU604A8wLgJvCcY9I3iRRrC5QyjI-49iXUcSQWIhp7kxb5FxfPDjjsjxuoaYM_0jw-4S0RFtUzYipAhzm-bnBBH9VFDewV5yrsq1DxL60qSgSkMp$image
 www.kinopoisk.ru##.flag2.flag.movie-info__flag > [href^="/lists/navigator/country-2/"]
 www.kinopoisk.ru##.flag2.flag.movie-info__flag
 www.kinopoisk.ru##.footerk0ntw529uk0yg299q79_footer-width_default.footerk0ntw529uk0yg299q79_footer-theme_default.footerk0ntw529uk0yg299q79
@@ -553,7 +543,6 @@ www.bing.com###sb_privacy
 www.bing.com###langChange > [href^="/account/general"]
 
 ! 13.02.2020 https://randstuff.ru
-||vk.com/widget_community.php?app=0&width=200px&_ver=1&gid=60549401&mode=0&color1=FFFFFF&color2=b30000&color3=000000&class_name=&height=320&url=https%3A%2F%2Frandstuff.ru%2F&referrer=&title=RandStuff.ru%20-%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%2C%20%D0%B3%D0%B4%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%B5%D1%82%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%8C&1703fa4594e$subdocument
 randstuff.ru###vkrs
 randstuff.ru##.contacts > .title
 ||yandex.st/share/static/b-share-icons__theme_counter.png$image
@@ -684,10 +673,10 @@ yandex.ru##div.serp-footer__col:nth-of-type(1)
 yandex.ru##.link_js_inited.i-bem.promo-popup__social-icon_bg_gg-white.promo-popup__social-icon_type_gg.promo-popup__social-icon.link_theme_normal.link
 
 ! 14.02.2020 https://www.liveexpert.ru
-||s.liveexpert.ru/public/images/fb-icon.png?v=87d4d1bf0280055dabe6bcdee470a5c8c4da7f3f$image
+||s.liveexpert.ru/public/images/fb-icon.png$image
 www.liveexpert.ru##.android-app
 www.liveexpert.ru##.applications-section
-||s.liveexpert.ru/public/images/sprite.png?v=6a4e81d54c0e95e370e81c49a6585e5b15f39d8d$image
+||s.liveexpert.ru/public/images/sprite.png$image
 www.liveexpert.ru##.fb
 
 ! 14.02.2020 https://duckduckgo.com
@@ -916,18 +905,9 @@ yandex.ru###uniq623 > .menu__text
 4pda.to##.icon-TWITTER
 4pda.to##td:nth-of-type(2) > [href^="//4pda.to/forum/index.php"] > b
 4pda.to###gfooter > tbody > tr > td:nth-of-type(2)
-||s.4pda.to/dry7Ndn2mFfTZKFKW84dXmG6kU56.jpg?_=1581511454$image
-||s.4pda.to/dry7GWvMKoONChsXSyz14q4SyL563YshiFjxb.jpg$image
 4pda.to##div.post:nth-of-type(8) > .BI3E5cnB
-||s.4pda.to/dry7MWAaGCrwwvFqFg4JTDCz0vK1jMAwA0nz18XW0mDocz0Gz270Ynrz21MnK.jpg$image
-||s.4pda.to/dry7VpnHPljcNHz2su6tp0Mnn8G7WK1VUoeIY.png$image
 4pda.to##.v-panel > [href^="//4pda.to/2020/02/10/367738/"]
-||s.4pda.to/dry7MmgqYe9bpTf9KouZhLtg3cn.png$image
-||s.4pda.to/dry7VpnHPljcNHz2su6tp0Mnn8G7WK1VUoeIY.png$image
-||s.4pda.to/dry7J7LhGOPqQCA7Zyz1a4yG2M39xEO0EwSWz2.jpg$image
 4pda.to##div.post:nth-of-type(12) > .BI3E5cnB
-||s.4pda.to/dry7HlddxHhVz0spJbHpz1WvdbfwghsaF9aAXdYYYNH0vUL61DVKi01sXy.jpg$image
-||s.4pda.to/dry72L55VxKMEQ0lz2B9rZkVHz1CW15Q85VwWcpPK0SLRBr2asL57YqdAU.jpg$image
 
 ! 15.02.2020 https://translate.google.ru
 translate.google.ru##.unstarred.jfk-button.jfk-button-flat.starbutton > .jfk-button-img
@@ -9306,12 +9286,6 @@ rybinsk.rabota.ru##.r-image_original.r-image.call-to-action-our-apps__phone
 rybinsk.rabota.ru##.r-image_original.r-image.call-to-action-our-apps__qr
 rybinsk.rabota.ru##.page-footer__app.get-app
 
-! 2022-06-20 https://yaroslavl.superjob.ru
-yaroslavl.superjob.ru##._3kGKe.yRH5q
-
-! 2022-06-20 https://rybinsk.superjob.ru
-rybinsk.superjob.ru##._3kGKe.yRH5q
-
 ! 2022-06-21 https://bookflow.ru
 bookflow.ru##.td-front-end-display-block.td-more-articles-box
 bookflow.ru##p > [href="https://t.me/+wsrPAjWgDhpkNWRi"]
@@ -9392,7 +9366,6 @@ yookassa.ru##.hSkxny.Gdpr__StyleContent-sc-1wmeei3-1
 
 ! 2022-07-04 https://yoomoney.ru
 yoomoney.ru##.hSkxny.Gdpr__StyleContent-sc-1wmeei3-1
-||static.yoomoney.ru/user-auth-center-front/media/image-wallet.98292877964c1ab7870b.jpg$image
 yoomoney.ru##.iKRcVu.styled__StyledGdpr-sc-1st7abq-4.qa-gdpr.giQNlN.Gdpr__StyledGdpr-sc-1wmeei3-0
 
 ! 2022-07-05 https://qiwi.com
@@ -10048,4 +10021,16 @@ coolors.co##.is-visible.modal--m.modal
 
 ! 2023-11-21 https://www.youtube.com/
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+
+! 2023-11-23 https://freelance.ru
+freelance.ru##.user-cookie-confirm
+freelance.ru##div.col-lg-3.col-md-4.col-sm-6.col-xs-12.col:nth-of-type(4)
+freelance.ru##.social
+freelance.ru##li:nth-of-type(10)
+
+! 2023-11-27 https://www.deepl.com
+www.deepl.com##.empty\:hidden.min-w-0.min-h-0.z-20.top-2.right-0.absolute
+
+! 2023-12-10 https://4pda.to
+4pda.to##.posts
 
