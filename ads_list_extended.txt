@@ -10034,6 +10034,10 @@ www.deepl.com##.empty\:hidden.min-w-0.min-h-0.z-20.top-2.right-0.absolute
 ! 2023-12-10 https://4pda.to
 4pda.to##.posts
 
+! 2023-12-13 https://www.xelent.ru
+www.xelent.ru##.animated-bottom-fade
+www.xelent.ru##.tech-widget
+
 ! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
 gotoshop.ua##.product-ads,.ads-item
