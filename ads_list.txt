@@ -10034,3 +10034,7 @@ www.deepl.com##.empty\:hidden.min-w-0.min-h-0.z-20.top-2.right-0.absolute
 ! 2023-12-10 https://4pda.to
 4pda.to##.posts
 
+! 2023-12-13 https://www.xelent.ru
+www.xelent.ru##.animated-bottom-fade
+www.xelent.ru##.tech-widget
+
