@@ -1,8 +1,8 @@
-! List: NoADS_RU Extended (2023)
+! List: NoADS_RU Extended (2023-2024)
 ! Author: Zalexanninev15
 ! License: MIT
 !! GitHub: https://github.com/Zalexanninev15/NoADS_RU
-!! Telegram group: https://t.me/noads_ru
+!! Topic in Telegram group: https://t.me/z15_community/123
 !! Donate: https://zalexanninev15-donate.pfm.live
 
 ! 13.02.2020 https://mail.yandex.ru
@@ -28,13 +28,6 @@ translate.google.ru###ft-icon-img-cmn
 translate.google.ru##.ft-icon-img-cmn.footer-icon-container > .ft-icon-txt
 translate.google.ru###ft-icon-img-svd
 translate.google.ru##.ft-icon-img-svd.footer-icon-container > .ft-icon-txt
-
-! 13.02.2020 https://drive.google.com
-drive.google.com##.Kk7lMc-Ku9FSb-Yb-Il
-drive.google.com##.Kk7lMc-Yb-Il-Ku9FSb-j
-drive.google.com##.Kk7lMc-Yb-Il-j
-drive.google.com##.wo35tf
-drive.google.com###lZwQje
 
 ! 13.02.2020 https://4pda.to
 4pda.to##.p9s9whc.i2PTupWIQ
@@ -142,9 +135,6 @@ vk.com##.shown._actions_menu.friends_actions_menu._ui_menu_wrap.ui_actions_menu_
 vk.com###ui_rmenu_podcasts
 vk.com##.stories_feed_items_wrap
 vk.com##.clear_fix.stories_feed_title
-
-! 13.02.2020 https://drive.google.com
-drive.google.com##.a-da-ub-ce
 
 ! 13.02.2020 https://www.sergeistrelec.ru
 ||www.sergeistrelec.ru/templates/sstr/images/style/log5.png$image
@@ -5110,9 +5100,6 @@ www.techpowerup.com##.clearfix.site-header
 ! 2020-11-02 https://cloud.mail.ru
 cloud.mail.ru##.b-react-component > div.TreeNode__root--22m4E:nth-of-type(4) > .TreeNode__item--24fww
 
-! 2020-11-02 https://drive.google.com
-drive.google.com##.g-Yd-Na.g-Yd-Ya.a-Ff-B.a-la-B.g-Yd
-
 ! 2020-11-03 https://www.youtube.com
 www.youtube.com##.ytd-popup-container.style-scope > .ytd-mealbar-promo-renderer.style-scope
 
@@ -10037,6 +10024,15 @@ www.deepl.com##.empty\:hidden.min-w-0.min-h-0.z-20.top-2.right-0.absolute
 ! 2023-12-13 https://www.xelent.ru
 www.xelent.ru##.animated-bottom-fade
 www.xelent.ru##.tech-widget
+
+! 2024-01-10 https://vk.com
+vk.com##div.LeftMenuAppPromo:nth-of-type(5)
+
+! 2024-01-10 https://4pda.to
+4pda.to##.z2cLn50h1U35Mvz2t9fVZs.bz1XB
+
+! 2024-01-24 https://drive.google.com
+drive.google.com##.g-Yd-Na.g-Yd-Ya.a-Ff-B.a-la-B.g-Yd
 
 ! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
