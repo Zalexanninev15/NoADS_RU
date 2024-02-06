@@ -3,7 +3,7 @@
 ! License: MIT
 !! GitHub: https://github.com/Zalexanninev15/NoADS_RU
 !! Topic in Telegram group: https://t.me/z15_community/123
-!! Donate: https://zalexanninev15-donate.pfm.live
+!! Donate: https://teletype.in/@zalexanninev15/donate
 
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
@@ -10033,4 +10033,32 @@ vk.com##div.LeftMenuAppPromo:nth-of-type(5)
 
 ! 2024-01-24 https://drive.google.com
 drive.google.com##.g-Yd-Na.g-Yd-Ya.a-Ff-B.a-la-B.g-Yd
+
+! 2024-02-01 https://2gis.ru
+2gis.ru##._nlniiu
+2gis.ru##._1klo7mz
+2gis.ru##._19fuo6gz
+
+! 2024-02-03 https://www.sunvel.ru
+www.sunvel.ru###cookie_info
+
+! 2024-02-03 https://www.coinbase.com
+www.coinbase.com##.cds-fixed-f1v5p9l4.cds-2-_fbgb57.cds-backgroundAlternate-b1o0kdmt.cds-center-czxavit.cds-flex-f1g67tkn
+
+! 2024-02-03 https://www.vpnjantit.com
+www.vpnjantit.com##.show.cookiealert.text-center.alert
+
+! 2024-02-04 https://stackoverflow.com
+stackoverflow.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
+
+! 2024-02-06 https://gemoo.com
+gemoo.com##.fixedbot
+gemoo.com##.stadv_pct
+gemoo.com##video
+
+! 2024-02-06 https://mega.io
+mega.io##.cookie-banner
+
+! 2024-02-06 https://centerstart.ru
+centerstart.ru##.cookie-policy
 
