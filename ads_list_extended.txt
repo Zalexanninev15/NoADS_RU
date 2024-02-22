@@ -1,4 +1,4 @@
-! List: NoADS_RU Extended (2023-2024)
+! Title: NoADS_RU Extended
 ! Author: Zalexanninev15
 ! License: MIT
 !! GitHub: https://github.com/Zalexanninev15/NoADS_RU
@@ -10061,6 +10061,38 @@ mega.io##.cookie-banner
 
 ! 2024-02-06 https://centerstart.ru
 centerstart.ru##.cookie-policy
+
+! 2024-02-06 https://omniproekt.ru
+omniproekt.ru###the_champ_sharing_more_content
+||omniproekt.ru/wp-content/plugins/super-socializer/images/transparent_bg.png$image
+||omniproekt.ru/wp-content/plugins/super-socializer/images/close.png$image
+
+! 2024-02-06 https://www.vagrantup.com
+www.vagrantup.com##.banner_root__N0Etm
+
+! 2024-02-06 https://crackstatus.net
+||crackstatus.net/data/advertisement/*.jpg$image
+crackstatus.net###ad-heading
+crackstatus.net##li#slide8.bg-success.p-a-2.b-t-1.px-nav-box:nth-of-type(1)
+crackstatus.net##.current-slide.slide.bg-success.p-a-2.b-t-1.px-nav-box
+
+! 2024-02-10 https://www.shoop.de
+www.shoop.de##.ng-star-inserted.ng-tns-c131-0
+
+! 2024-02-11 https://destream.net
+destream.net##.ng-tns-c121-0.we-use-cookie.info-panel
+
+! 2024-02-17 https://flash.getpczone.com
+flash.getpczone.com###gdpr-cookie-notice
+
+! 2024-02-17 https://stackoverflow.com
+stackoverflow.com##.vertical-align-content.ot-bottom-left.ot-iab-2.otFloatingRoundedCorner
+
+! 2024-02-21 https://pvs-studio.com
+pvs-studio.com##.personalDataConfirmWrapper
+
+! 2024-02-22 https://mail.yandex.ru
+mail.yandex.ru##.ns-view-fomszklcs-box
 
 ! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
