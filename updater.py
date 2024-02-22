@@ -3,7 +3,7 @@ import json
 import re
 import os
 
-print('NoADS_RU Updater v3.3a')
+print('NoADS_RU Updater v3.3b')
 print('Что я умею?')
 print('- Запись фильтров из файла uBlock Origin в ads_list.txt и ads_list_extended.txt')
 print('- Удаление дублей фильтров')
@@ -33,7 +33,7 @@ with open(ads_list_file, 'r') as file:
     
 extended_list = extended_list.replace(extended_list.split('! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]')[0], ads_list.replace('NoADS_RU (2020-2023)', 'NoADS_RU Extended (2023)'))
 
-with open('ads_list_extended.txt', 'w') as file:
+with open('ads_list_extended.txt', 'w', encoding="utf8") as file:
     file.write(extended_list)
 
 print('[!] Файл расширенного варианта списка обновлён! (2/4)')
@@ -68,7 +68,7 @@ url_file = data[0]['files']['brave_adblock_additions.txt']['raw_url']
 
 response = requests.get(url_file)
 
-with open('ads_list_extended.txt', 'r') as file:
+with open('ads_list_extended.txt', 'r', encoding="utf8") as file:
     lines = file.readlines()
 
 for i in range(len(lines)):
@@ -81,7 +81,7 @@ for i in range(len(lines)):
 
 lines[0] = '! List: NoADS_RU Extended (2023-2024)\n'
 
-with open('ads_list_extended.txt', 'w') as file:
+with open('ads_list_extended.txt', 'w', encoding="utf8") as file:
     file.writelines(lines)
 
 print('[!] Обновлены фильтры от Faust для файла расширенного варианта списка! (4/4)')
