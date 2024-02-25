@@ -3,7 +3,7 @@ import json
 import re
 import os
 
-print('NoADS_RU Updater v3.3b')
+print('NoADS_RU Updater v3.3b-1')
 print('Что я умею?')
 print('- Запись фильтров из файла uBlock Origin в ads_list.txt и ads_list_extended.txt')
 print('- Удаление дублей фильтров')
@@ -31,7 +31,7 @@ extended_list = response.text
 with open(ads_list_file, 'r') as file:
     ads_list = file.read()
     
-extended_list = extended_list.replace(extended_list.split('! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]')[0], ads_list.replace('NoADS_RU (2020-2023)', 'NoADS_RU Extended (2023)'))
+extended_list = extended_list.replace(extended_list.split('! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]')[0], ads_list.replace('NoADS_RU', 'NoADS_RU Extended'))
 
 with open('ads_list_extended.txt', 'w', encoding="utf8") as file:
     file.write(extended_list)
@@ -79,7 +79,7 @@ for i in range(len(lines)):
         lines[i + 1:j] = [line + "\n" for line in response.text.splitlines()]
         break
 
-lines[0] = '! List: NoADS_RU Extended (2023-2024)\n'
+lines[0] = '! Title: NoADS_RU Extended\n'
 
 with open('ads_list_extended.txt', 'w', encoding="utf8") as file:
     file.writelines(lines)
