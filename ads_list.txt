@@ -10094,3 +10094,15 @@ pvs-studio.com##.personalDataConfirmWrapper
 ! 2024-02-22 https://mail.yandex.ru
 mail.yandex.ru##.ns-view-fomszklcs-box
 
+! 2024-02-25 https://www.digitaltrends.com
+www.digitaltrends.com##.ot-sdk-container > .ot-sdk-row
+
+! 2024-02-25 https://superuser.com
+superuser.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
+
+! 2024-02-25 https://gparted.org
+gparted.org##.cc-color-override-1827372716.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2024-02-25 https://community.chocolatey.org
+community.chocolatey.org##.py-2.callout-warning.callout
+
