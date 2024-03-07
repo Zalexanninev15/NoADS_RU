@@ -10106,3 +10106,21 @@ gparted.org##.cc-color-override-1827372716.cc-bottom.cc-theme-block.cc-type-info
 ! 2024-02-25 https://community.chocolatey.org
 community.chocolatey.org##.py-2.callout-warning.callout
 
+! 2024-03-03 https://msk.rt.ru
+msk.rt.ru###cookie-notification > .rt-container
+
+! 2024-03-03 https://www.yota.ru
+www.yota.ru##.visible.js-info-message.b-info-message
+
+! 2024-03-05 https://ya.ru
+ya.ru##.dist-stripe_js_inited.i-mini-bem.dist-stripe
+
+! 2024-03-05 https://masters59.ru
+masters59.ru##.perfecty-push-dialog-box
+masters59.ru##.lwpcngHide.lwpcngNotice-dark.lwpcngNoticeBar-bottom.lwpcngNoticeBar.lwpcngNotice-float.lwpcngNotice.js-lwpcngNotice
+masters59.ru##.page-scroll-up
+
+! 2024-03-07 https://ya.ru
+ya.ru##.dist-stripe
+ya.ru##.message-promo_link_yes.i-mini-bem.message-promo
+
