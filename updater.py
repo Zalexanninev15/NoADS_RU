@@ -31,7 +31,7 @@ extended_list = response.text
 with open(ads_list_file, 'r') as file:
     ads_list = file.read()
     
-extended_list = extended_list.replace(extended_list.split('! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]')[0], ads_list.replace('NoADS_RU', 'NoADS_RU Extended'))
+extended_list = extended_list.replace(extended_list.split('! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]')[0], ads_list.replace(': NoADS_RU', ': NoADS_RU Extended'))
 
 with open('ads_list_extended.txt', 'w', encoding="utf8") as file:
     file.write(extended_list)
