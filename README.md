@@ -10,7 +10,7 @@
 [![](https://img.shields.io/github/issues-closed/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aissue+is%3Aclosed)
 [![](https://img.shields.io/badge/Topic_in_Telegram_group-26A5E4.svg?logo=telegram)](https://t.me/z15_community/123)
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![](https://img.shields.io/badge/Donate-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://zalexanninev15-donate.pfm.live/)
+[![](https://img.shields.io/badge/Donate-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://teletype.in/@zalexanninev15/donate)
 
 ## Описание
 Мой список для блокировки элементов на русскоязычных, и не только, сайтах. Список составляю вручную, поэтому блокируется и то, что не может заблокировать никакое расширение. [Сайты на которых будет работать данный список](https://github.com/Zalexanninev15/NoADS_RU/blob/main/SITES.md) (список расширяется по мере посещения сайтов)
