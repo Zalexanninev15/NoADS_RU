@@ -10124,3 +10124,34 @@ masters59.ru##.page-scroll-up
 ya.ru##.dist-stripe
 ya.ru##.message-promo_link_yes.i-mini-bem.message-promo
 
+! 2024-03-09 https://disk.yandex.ru
+disk.yandex.ru##.InfoSpace__DiscountImage
+
+! 2024-03-10 https://www.deepl.com
+www.deepl.com##.focus-visible-light-container
+
+! 2024-03-10 https://translate.yandex.ru
+translate.yandex.ru##.social-links
+translate.yandex.ru##.popularTranslationsTextWrapper
+
+! 2024-03-10 https://www.chipmaker.ru
+www.chipmaker.ru##.ipsJS_hide.ipsPad_half
+
+! 2024-03-15 https://www.fotor.com
+www.fotor.com##._1Pece
+www.fotor.com##._3KDv2
+
+! 2024-03-16 https://club.dns-shop.ru
+club.dns-shop.ru##.on-air__header
+club.dns-shop.ru##.on-air__list
+club.dns-shop.ru##.on-air__container
+
+! 2024-03-20 https://trackchecker.ru
+trackchecker.ru##div.ads-hor.ads:nth-of-type(3)
+
+! 2024-03-21 https://malich.org
+malich.org##.cky-consent-bar
+
+! 2024-03-21 https://boosty.to
+boosty.to##.GdprOffer_root_pCuOO.GdprOffer_root_UFqrk
+
