@@ -2643,7 +2643,6 @@ yandex.ru##.yabrowser-promo__text
 ||t.7fon.org/new/web/as.gif$image
 ||t.7fon.org/new/web/gp.gif$image
 7fon.org##div#flink:nth-of-type(1)
-7fon.org##[href="/Картинки_для_телефона/"]
 7fon.org##div#tmbox:nth-of-type(15)
 7fon.org###irads > .adsbygoogle
 ||7fon.org/goapp.php?tip=240$subdocument
@@ -5021,13 +5020,6 @@ www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footeru4m8ouf5vt6be3oapid__content-
 
 ! 2020-10-21 https://travel.yandex.ru
 travel.yandex.ru##a._1MtxE.Link_lego._7U37p.Link_theme_pseudo.Link:nth-of-type(5)
-
-! 2020-10-21 https://afisha.yandex.ru
-afisha.yandex.ru##.zeIgS295eeviwcFPU0dlVHMSENeRG_Yo.za5sZ2t9ceviwcFPU0Q.zeIgS295eeviwcFPU0dlKFdKcLs9g8JZJIMT0dPa8iA.zeIgS295eeviwcFPU0Q
-
-! 2020-10-21 https://school.yandex.ru
-school.yandex.ru##.app__content > .footer > .footer__layout.layout > .footer__item.social-networks > li.social-networks__social-network:nth-of-type(3) > .social-networks__link_name_Твиттер.social-networks__link
-school.yandex.ru##.social-networks__link_name_Фейсбук.social-networks__link
 
 ! 2020-10-21 https://yandex.ru
 yandex.ru##div.description-card:nth-of-type(6)
@@ -9345,9 +9337,6 @@ supersnimki.ru##.slide.bottom.cloud
 ! 2022-06-29 https://forums.ni.com
 forums.ni.com##div.container > .noindex
 
-! 2022-07-01 https://transform.tools
-transform.tools##.📦box-szg_border-box.📦b-top_1px-solid-E4E7EB.css-nil > [href]
-
 ! 2022-07-04 https://yookassa.ru
 yookassa.ru##.hSkxny.Gdpr__StyleContent-sc-1wmeei3-1
 
@@ -10155,6 +10144,37 @@ malich.org##.cky-consent-bar
 ! 2024-03-21 https://boosty.to
 boosty.to##.GdprOffer_root_pCuOO.GdprOffer_root_UFqrk
 
+! 2024-04-13 https://yandex.ru
+yandex.ru##.Organic-Warning.Warning_display_block.Warning_size_m.Warning_tooltip.Warning_type_roskomnadzor.Warning.VanillaReact
+
+! 2024-04-13 https://translate.yandex.ru
+translate.yandex.ru##a.verticalMenuNavItem:nth-of-type(7)
+
+! 2024-04-13 https://yandex.ru
+yandex.ru##[class^="BannerHobbies_promo__"]
+
+! 2024-04-13 https://habr.com
+||habr.com/img/dark-mode-switcher-mobile.png$image
+
+! 2024-04-18 https://4pda.to
+4pda.to##.SlwG3SoCrFRnz1gv
+4pda.to###logostrip
+
+! 2024-04-19 https://disk.yandex.ru
+||avatars.mds.yandex.net/get-bunker$image
+
+! 2024-04-21 https://ya.ru
+ya.ru##.promo-gallery__gradient
+ya.ru##.body__content > div
+ya.ru##[class^="content__bottom"]
+ya.ru##.dist-overlay__content_button-theme_light.dist-overlay__content
+ya.ru##.simple-popup__overlay_shown_true.simple-popup__overlay_theme_modal.simple-popup__overlay
+ya.ru##.simple-popup__close
+
+! 2024-04-21 https://yandex.ru
+yandex.ru##[id="content_right"]
+yandex.ru##[data-container="outer"]
+yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
 ! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
 gotoshop.ua##.product-ads,.ads-item
