@@ -10155,3 +10155,34 @@ malich.org##.cky-consent-bar
 ! 2024-03-21 https://boosty.to
 boosty.to##.GdprOffer_root_pCuOO.GdprOffer_root_UFqrk
 
+! 2024-04-13 https://yandex.ru
+yandex.ru##.Organic-Warning.Warning_display_block.Warning_size_m.Warning_tooltip.Warning_type_roskomnadzor.Warning.VanillaReact
+
+! 2024-04-13 https://translate.yandex.ru
+translate.yandex.ru##a.verticalMenuNavItem:nth-of-type(7)
+
+! 2024-04-13 https://yandex.ru
+yandex.ru##[class^="BannerHobbies_promo__"]
+
+! 2024-04-13 https://habr.com
+||habr.com/img/dark-mode-switcher-mobile.png$image
+
+! 2024-04-18 https://4pda.to
+4pda.to##.SlwG3SoCrFRnz1gv
+4pda.to###logostrip
+
+! 2024-04-19 https://disk.yandex.ru
+||avatars.mds.yandex.net/get-bunker$image
+
+! 2024-04-21 https://ya.ru
+ya.ru##.promo-gallery__gradient
+ya.ru##.body__content > div
+ya.ru##[class^="content__bottom"]
+ya.ru##.dist-overlay__content_button-theme_light.dist-overlay__content
+ya.ru##.simple-popup__overlay_shown_true.simple-popup__overlay_theme_modal.simple-popup__overlay
+ya.ru##.simple-popup__close
+
+! 2024-04-21 https://yandex.ru
+yandex.ru##[id="content_right"]
+yandex.ru##[data-container="outer"]
+yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
