@@ -397,11 +397,8 @@ sosedopedia.fandom.com##.wds-is-follow-us.wds-global-footer__section > .wds-glob
 dc.fandom.com##div.wds-global-footer__column:nth-of-type(4)
 
 ! 13.02.2020 https://habr.com
-habr.com##div.footer-block.footer-grid__item:nth-of-type(4) > .footer-block__content > .footer-menu > li.footer-menu__item:nth-of-type(1)
-habr.com##div.footer-block.footer-grid__item:nth-of-type(4) > .footer-block__content > .footer-menu > li.footer-menu__item:nth-of-type(2)
 habr.com##.social-icons__item-link_twitter.social-icons__item-link_normal.social-icons__item-link
 habr.com##.social-icons__item-link_facebook.social-icons__item-link_normal.social-icons__item-link
-habr.com##div.footer-grid__item_link.footer-grid__item:nth-of-type(5)
 
 ! 13.02.2020 https://gcup.ru
 ||gcup.ru/dis/pda.png$image
@@ -3040,12 +3037,6 @@ www.programmersforum.ru##div:nth-of-type(1) > .page > div > center
 www.programmersforum.ru##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
 www.programmersforum.ru##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2)
 
-! 22.07.2020 https://qna.habr.com
-qna.habr.com##.question__additionals > div:nth-of-type(5)
-qna.habr.com##.alert_info.alert
-qna.habr.com##.menu_socials > .menu_inline.menu > li.menu__item:nth-of-type(1)
-qna.habr.com##.menu_socials > .menu_inline.menu > li.menu__item:nth-of-type(2)
-
 ! 23.07.2020 https://yandex.ru
 yandex.ru##.xHIficRhRZFB6exmwPHY
 yandex.ru##.jca65a213.p9a5fd1e3.nac908c89.x55b448c9.d3aa81452
@@ -5466,10 +5457,6 @@ stackoverflow.com##.js-primary-footer-links.-list > li.-item:nth-of-type(6)
 ! 2021-01-13 https://tele.click
 tele.click##.line
 
-! 2021-01-13 https://m.habr.com
-m.habr.com##.tm-block_spacing-bottom.tm-block
-m.habr.com##div.tm-footer-menu__block:nth-of-type(4) > .tm-footer-menu__block-content > .tm-footer-menu__list > li.tm-footer-menu__list-item:nth-of-type(1)
-
 ! 2021-01-13 https://habr.com
 habr.com###our-partners
 
@@ -6051,11 +6038,9 @@ yandex.ru###fu-1614875436000-119 > div
 yandex.ru##.mg-grid__item.wov_ac8isojw__wrf7bZZe5-banger.news-wrf7bZZe5__banger_without-style.news-wrf7bZZe5__banger.wov_C-wrf7bZZe5
 
 ! 2021-03-05 https://habr.com
-habr.com###widget
 habr.com###vk-group > .default-block__header
 habr.com###vk-group > .sidebar-block.default-block__content
 habr.com###fb-like
-||habrastorage.org/webt/8p/3v/z4/8p3vz47nluspfyc0axlkx88gdua.png$image
 
 ! 2021-03-06 https://myip.ru
 myip.ru##.promo
@@ -6066,10 +6051,6 @@ myip.ru##.promo
 ! 2021-03-06 https://4pda.to
 4pda.to##[href="//4pda.to/cooperation/sellers/"]
 4pda.to##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(1)
-
-! 2021-03-06 https://habr.com
-habr.com###effect
-habr.com###effect-sidebar > .default-block
 
 ! 2021-03-06 https://career.habr.com
 career.habr.com##.svg-icon--icon-twitter.svg-icon
@@ -6392,9 +6373,6 @@ www.playground.ru##.page-aside
 ! 2021-04-05 https://telemetr.me
 telemetr.me###zzonbot_banner
 
-! 2021-04-06 https://habr.com
-||habrastorage.org/webt/ou/g5/kh/oug5kh6sjydt9llengsiebnp40w.png$image
-
 ! 2021-04-07 https://4pda.to
 ||s.4pda.to/7JeKa99a68MaZZg7dK14z1GJAvg4l.jpg$image
 4pda.to##.bsscsz23oKt
@@ -6413,9 +6391,6 @@ docviewer.yandex.ru##.ichvbzqu.dwtmidnl.jdhdorfig > div
 ||i.forum-gta.ru/styles/theme/images/fon2.png$image
 forum-gta.ru##td
 forum-gta.ru##div.bg2.post:nth-of-type(9) > .inner > .content
-
-! 2021-04-07 https://m.habr.com
-||habrastorage.org/r/w1560/webt/et/1a/yp/et1aypandyuamqprsz3m2ntm4ky.png$image
 
 ! 2021-04-07 https://www.playground.ru
 ||i.playground.ru/e/or-KSYFY2dp38ObiOrlcBw.jpeg$image
@@ -6504,9 +6479,6 @@ showgamer.com##.thb-cookie-bar
 ! 2021-04-12 https://www.bollywoodlife.com
 www.bollywoodlife.com##.cookie_msg_blk
 
-! 2021-04-13 https://habr.com
-habr.com##[src="https://habrastorage.org/webt/et/1a/yp/et1aypandyuamqprsz3m2ntm4ky.png"]
-
 ! 2021-04-13 https://win10tweaker.pro
 win10tweaker.pro##[href="/buy"]
 win10tweaker.pro###menu-item-102 > .fusion-bottombar-highlight
@@ -6593,11 +6565,6 @@ onedrive.live.com##.LeftNav-notificationLink
 ! 2021-04-14 https://serpstat.com
 serpstat.com###gdpr_tab_content
 
-! 2021-04-14 https://habr.com
-habr.com##.column-wrapper__last.column-wrapper > .sidebar_stick-top.sidebar
-habr.com##.sidebar_stick-top.sidebar
-habr.com##.column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .sidebar
-
 ! 2021-04-15 https://address.stop-list.info
 address.stop-list.info###videobbTp3VU > tbody > tr > td
 address.stop-list.info###dVibbTp3VU
@@ -6651,18 +6618,12 @@ www.patreon.com##.root__2wgwq
 ! 2021-04-20 https://otvet.mail.ru
 otvet.mail.ru##.i-font-md.i-link-no-deco.i-relative.i-block.toolbar.tb-83299973
 
-! 2021-04-22 https://habr.com
-habr.com##[src="//habrastorage.org/getpro/habr/branding/759/938/742/759938742c2919b96e2325dd72a5fabb.png"]
-
 ! 2021-04-22 https://mail.yandex.ru
 mail.yandex.ru##.PSHeaderLogo360-360 > svg > path
 mail.yandex.ru##.PSHeaderLogo360-360 > svg
 
 ! 2021-04-23 https://splinter-cell-blacklist-spider-bot.ru.uptodown.com
 splinter-cell-blacklist-spider-bot.ru.uptodown.com##.ot-sdk-ten.ot-sdk-columns
-
-! 2021-04-23 https://habr.com
-habr.com##[src="https://habrastorage.org/getpro/habr/upload_files/b2a/c70/848/b2ac70848031ec48a4b62f40a6e315d5.jpg"]
 
 ! 2021-04-23 https://md5decrypt.net
 md5decrypt.net###cookiescript_injected
@@ -6801,9 +6762,6 @@ nnmclub.to##.spaceRow
 ! 2021-04-30 https://cloud.mail.ru
 cloud.mail.ru###portal-menu__toolbar > .portal-menu_width > .pm-menu > .pm-menu__center
 
-! 2021-04-30 https://habr.com
-habr.com##[href="https://slc.tl/hpT36"]
-
 ! 2021-04-30 https://www.playground.ru
 ||i.playground.ru/e/Q-y1x_xqhNxIHMfZCchdPw.jpeg$image
 
@@ -6812,12 +6770,6 @@ habr.com##[href="https://slc.tl/hpT36"]
 
 ! 2021-04-30 https://www.flaticon.com
 www.flaticon.com##.active.bg-light-gray.form_valuation_cl
-
-! 2021-05-04 https://habr.com
-habr.com###editoral-subscribe-close > svg
-habr.com##.tm-editoral-subscription__close
-habr.com##.post-share__item-link_facebook.post-share__item-link_normal.post-share__item-link
-habr.com##.post-share__item-link_twitter.post-share__item-link_normal.post-share__item-link
 
 ! 2021-05-04 https://msilab.net
 msilab.net###adsCSS
@@ -7133,10 +7085,6 @@ docviewer.yandex.ru##.ejvurtseg.rxxdf.ypibal > div
 ! 2021-05-26 https://www.jetbrains.com
 www.jetbrains.com##.banner__image
 
-! 2021-05-27 https://habr.com
-habr.com##[src="//habrastorage.org/getpro/habr/branding/6d1/2d0/9f7/6d12d09f7aac64440e669b99c2355155.jpg"]
-habr.com##[src="https://habrastorage.org/webt/ty/b7/fd/tyb7fdkkt98xbfhc-jlqbuybdda.jpeg"]
-
 ! 2021-05-27 https://www.geeksforgeeks.org
 ||accounts.google.com/gsi/iframe/select$subdocument
 
@@ -7165,9 +7113,6 @@ win10tweaker.ru###rev_slider_9_2_wrapper > .rev_redraw_on_blurfocus.revslider-in
 win10tweaker.ru###rev_slider_9_2_wrapper
 win10tweaker.ru##.fusion-copyright-notice [href]
 win10tweaker.ru##.fusion-social-networks-wrapper
-
-! 2021-05-28 https://habr.com
-habr.com##[src="https://habrastorage.org/webt/pe/ay/zf/peayzfh745-twugmjk-r2zg-plc.png"]
 
 ! 2021-05-28 https://www.ip-score.com
 ||www.ip-score.com/im*.gif$image
@@ -7371,9 +7316,6 @@ disk.yandex.ru##.notes-footer__app-badge_android.notes-footer__app-badge_locale_
 
 ! 2021-06-21 https://giphy.com
 giphy.com##.bottom.shape-banner.didomi-notice-banner.didomi-banner-notice-info-type.didomi-regular-notice
-
-! 2021-06-24 https://habr.com
-habr.com##.page-header__banner > [href]
 
 ! 2021-06-24 https://taxi.yandex.ru
 taxi.yandex.ru##._2Ve65WmONrnGcRTOrjZamV.Popup2_target_anchor.Popup2_direction_left-center.Popup2_visible.Popup2
@@ -7612,12 +7554,6 @@ www.symmetron.ru##.current.blocker.jquery-modal > .modal
 ! 2021-07-29 https://boosty.to
 boosty.to##.GdprOffer_block_1n-uo.GdprOffer_block_VaJdy
 
-! 2021-07-29 https://habr.com
-habr.com##section.tm-block_spacing-bottom.tm-block:nth-of-type(3)
-habr.com##section.tm-block_spacing-bottom.tm-block:nth-of-type(2)
-habr.com##.tm-company-widgets > section.tm-block_spacing-bottom.tm-block
-habr.com##.tm-company-card__branding-image
-
 ! 2021-08-01 https://gta-mania.ru
 gta-mania.ru##div.csColumn:nth-of-type(3)
 
@@ -7800,13 +7736,6 @@ accounts.crowdin.com##.cc-color-override-1528406573.cc-right.cc-bottom.cc-theme-
 ! 2021-09-15 https://adblockplus.org
 adblockplus.org##.cookiebar.cookie
 
-! 2021-09-15 https://habr.com
-habr.com##.tm-article-feed-blocks > .tm-block_spacing-bottom.tm-block
-habr.com##.tm-project-block_variant-salary.tm-project-block
-habr.com##.tm-article-author__company
-habr.com##[src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/cd3/ff0/980/cd3ff098055c645099d8a1c75410f42f.png"]
-habr.com##a[href^="https://vdsina.ru/cloud-servers"]:nth-of-type(6)
-
 ! 2021-09-16 https://realpython.com
 realpython.com###reading-csv-files-into-a-dictionary-with-csv > div:nth-of-type(4)
 
@@ -7853,9 +7782,6 @@ opensourcelibs.com###flamelab-convo-widget
 vovsoft.com##.cc-color-override-499801634.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
 
 ! 2021-09-28 https://habr.com
-habr.com##section.tm-block_spacing-around.tm-block:nth-of-type(3)
-habr.com##div.tm-footer-menu__block:nth-of-type(4) > .tm-footer-menu__block-content > .tm-footer-menu__list > li.tm-footer-menu__list-item:nth-of-type(1)
-habr.com##a.tm-footer__link:nth-of-type(3)
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1) > .tm-svg-icon.tm-svg-img > use
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(2) > .tm-svg-icon.tm-svg-img > use
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(6) > .tm-svg-icon.tm-svg-img > use
@@ -7865,7 +7791,6 @@ habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1) > .tm-svg-
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(2)
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(1)
 habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(6)
-habr.com##.tm-block_spacing-bottom.tm-block
 
 ! 2021-10-05 https://mark0.net
 mark0.net###cookieChoiceInfo
@@ -7875,12 +7800,6 @@ translate.yandex.ru##li:nth-of-type(6)
 translate.yandex.ru##.footer-socialIcons
 translate.yandex.ru##li:nth-of-type(1)
 translate.yandex.ru##li:nth-of-type(5)
-
-! 2021-10-07 https://habr.com
-habr.com##div > [href="https://itsoft.ru/data-center/dedicated/"]
-habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(3) > .tm-svg-icon.tm-svg-img > use
-habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(3) > .tm-svg-icon.tm-svg-img
-habr.com##a.tm-social-icons__icon.tm-svg-icon__wrapper:nth-of-type(3)
 
 ! 2021-10-07 https://www.promt.com
 www.promt.com##.cc-color-override--1608664607.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
@@ -8240,9 +8159,6 @@ aliexpress.ru##.SharePanel_SharePanel__wrapperFixed__1nkdh
 ! 2021-12-14 https://flutter.dev
 flutter.dev##.show.cookie-snack
 
-! 2021-12-15 https://habr.com
-habr.com##[href="https://bit.ly/30z0Qws"]
-
 ! 2021-12-15 https://www.saintsrowmods.com
 www.saintsrowmods.com##.notice-content
 
@@ -8319,8 +8235,6 @@ pythoncsharp.com##.simple.dark.cc_dialog.cc_css_reboot
 ! 2022-01-15 https://www.microsoft.com
 www.microsoft.com###msccBannerV2
 
-! 2022-01-15 https://habr.com
-habr.com##[src="https://habrastorage.org/r/w1560/webt/tc/cd/j3/tccdj3itayq7tpqluu4-qziadry.png"]
 
 ! 2022-01-15 https://gis.stackexchange.com
 ||cdn.sstatic.net/Sites/gis/img/background-image.jpg$image
@@ -9429,9 +9343,6 @@ www.terabox.com##.ru.\+.\{seo-banner-img.seo-banner-img
 thecommunity.ru##div.col-md-3:nth-of-type(4)
 thecommunity.ru##[href="https://twitter.com/thecommunity_ru"] > .social-button
 
-! 2022-08-27 https://habr.com
-habr.com##.tm-project-block_variant-vacancies.tm-project-block
-
 ! 2022-08-27 https://mail.yandex.ru
 mail.yandex.ru##.eqkhyjs
 mail.yandex.ru##.ns-view-id-90.ns-view-hgkwsun
@@ -9470,9 +9381,6 @@ guidedhacking.com##.notice--cookie.notice--primary.js-notice.notice
 ! 2022-09-09 https://pikabu.ru
 pikabu.ru##.top-story-popup
 pikabu.ru##.popup__container
-
-! 2022-09-14 https://habr.com
-habr.com##.tm-company-article__profile-card.tm-company-profile-card
 
 ! 2022-09-17 https://goonlinetools.com
 goonlinetools.com##.white--text.overline
@@ -9540,9 +9448,6 @@ linux-gaming.ru##.lwpcngHide.lwpcngNotice-dark.lwpcngNoticeBar-bottom.lwpcngNoti
 ! 2022-11-13 https://cloud.mail.ru
 cloud.mail.ru##.ph-project-promo-description
 cloud.mail.ru##.ph-project-promo-container
-
-! 2022-11-16 https://habr.com
-habr.com##.tm-block_spacing-top.tm-stories-block.tm-block
 
 ! 2022-11-25 https://market.yandex.ru
 market.yandex.ru##._3WotU > div
@@ -9758,11 +9663,6 @@ www.jimdo.com##div.commentsWrapper:nth-of-type(2) > .row.clearfix.rowSpace.fadeM
 ! 2023-05-15 https://www.powr.io
 www.powr.io##div.commentsWrapper:nth-of-type(2) > .row.clearfix.rowSpace.fadeMe.faded > .col-xs-11.fullWhenSmall.commentWrapper.column > .col-xs-12.comment.hardLightShadow
 www.powr.io##div.commentsWrapper:nth-of-type(2) > .row.clearfix.rowSpace.fadeMe.faded > .col-xs-1.hideWhenSmall.column > .row.clearfix.authorImage.hideWhenSmall > .col-xs-12.column.imageWrapper.text-right > .byImage.img-responsive.full-width.hardLightShadow
-
-! 2023-05-15 https://habr.com
-habr.com##.tm-top-link
-habr.com##.tm-article-blocks > div:nth-of-type(5) > .tm-block.tm-block_spacing-around
-habr.com##.tm-block.tm-stories-block.tm-block_spacing-around
 
 ! 2023-05-15 https://winrcmd.wordpress.com
 winrcmd.wordpress.com###cmp-app-container > div > iframe
@@ -10164,9 +10064,6 @@ translate.yandex.ru##a.verticalMenuNavItem:nth-of-type(7)
 ! 2024-04-13 https://yandex.ru
 yandex.ru##[class^="BannerHobbies_promo__"]
 
-! 2024-04-13 https://habr.com
-||habr.com/img/dark-mode-switcher-mobile.png$image
-
 ! 2024-04-18 https://4pda.to
 4pda.to##.SlwG3SoCrFRnz1gv
 4pda.to###logostrip
@@ -10186,3 +10083,12 @@ ya.ru##.simple-popup__close
 yandex.ru##[id="content_right"]
 yandex.ru##[data-container="outer"]
 yandex.ru##.legouser__menu-item_plus-icon_.legouser__menu-item_lang_ru.legouser__menu-item_action_plus.legouser__menu-item.menu__item_type_link.menu__item
+
+! May 31, 2024 https://medium.com
+medium.com##.fi.cn.q.ab.ur.uq.up.uo.un.um.v.ul.t.uk
+
+! Jun 3, 2024 https://dev.to
+dev.to##.popover-billboard--menuopenupwards.right-0.left-0.bottom-0.fixed.js-billboard.crayons-story__billboard.popover-billboard.crayons-bb.crayons-card--secondary.crayons-card
+
+! Jun 4, 2024 https://habr.com
+habr.com##.tm-sexy-sidebar_stick-top.tm-sexy-sidebar > .tm-block_spacing-bottom.tm-block
