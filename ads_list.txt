@@ -893,7 +893,6 @@ yandex.ru###uniq623 > .menu__text
 4pda.to##td:nth-of-type(2) > [href^="//4pda.to/forum/index.php"] > b
 4pda.to###gfooter > tbody > tr > td:nth-of-type(2)
 4pda.to##div.post:nth-of-type(8) > .BI3E5cnB
-4pda.to##.v-panel > [href^="//4pda.to/2020/02/10/367738/"]
 4pda.to##div.post:nth-of-type(12) > .BI3E5cnB
 
 ! 15.02.2020 https://translate.google.ru
@@ -1835,7 +1834,6 @@ mail.yandex.ru##.js-fill-height-placeholder.mail-FillHeightPlaceholder.ns-view-i
 4pda.to##div.post:nth-of-type(3)
 ||s.4pda.to/dry7Kmeawfz1DKRz2wgWfbUKy2z0LKGr6AUTNT4BcPdz2r7iSI29LbtQOfH4.jpg$image
 ||s.4pda.to/dry7NBvz1V7fCMofnK8i9fHDiSooHFR612Gz1i.jpg$image
-4pda.to##.v-panel > [href^="//4pda.to/2020/03/08/368890/"]
 4pda.to##div.post:nth-of-type(9)
 4pda.to##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(2)
 4pda.to##div.col:nth-of-type(2) > .footer-nav-list > li:nth-of-type(5)
@@ -1892,9 +1890,6 @@ passport.yandex.ru##.registration__social-btn_short.registration__gg-btn
 
 ! 14.03.2020 https://tlgrm.ru
 tlgrm.ru##[href="https://tlgrm.ru/info/promo/channels"]
-
-! 16.03.2020 https://4pda.to
-1584178604$domain=4pda.to,image
 
 ! 16.03.2020 https://mail.yandex.ru
 mail.yandex.ru##.acd060388
@@ -10066,7 +10061,6 @@ yandex.ru##[class^="BannerHobbies_promo__"]
 
 ! 2024-04-18 https://4pda.to
 4pda.to##.SlwG3SoCrFRnz1gv
-4pda.to###logostrip
 
 ! 2024-04-19 https://disk.yandex.ru
 ||avatars.mds.yandex.net/get-bunker$image
@@ -10092,3 +10086,33 @@ dev.to##.popover-billboard--menuopenupwards.right-0.left-0.bottom-0.fixed.js-bil
 
 ! Jun 4, 2024 https://habr.com
 habr.com##.tm-sexy-sidebar_stick-top.tm-sexy-sidebar > .tm-block_spacing-bottom.tm-block
+
+! 10 июн. 2024 г. https://ya.ru
+ya.ru##div.body__content:nth-of-type(4)
+ya.ru##[class^="ListItem MenuItem MenuItem_get-plus"]
+ya.ru##[class^="NoLogin-Text-Wrapper"]
+ya.ru##[class^="ya-search-promo__option ya-search-promo__option_active ya-search-promo__option-ya"]
+ya.ru##[class^="ya-search-promo__option ya-search-promo__option-ya"]
+ya.ru##[class^="banner i-mini-bem banner_js_inited"]
+ya.ru##[href^="https://yabs.yandex.ru/count/"]
+ya.ru##[class^="VanillaReact Warning "]
+ya.ru##[class^="Organic Organic-App"]
+ya.ru##[data-fast^="2"]
+
+! 10 июн. 2024 г. https://www.avito.ru
+www.avito.ru##[class^="top-banner-root"]
+www.avito.ru##[class^="styles-module-list-"]
+www.avito.ru##[class^="story-previewer-controlButton-"]
+www.avito.ru##[data-marker^="side-block/recently-block"]
+www.avito.ru##[href^="/premium"]
+
+! 10 июн. 2024 г. https://m.avito.ru
+m.avito.ru##[data-marker^="splash-banner/content"]
+m.avito.ru##[data-marker^="short-videos-witcher"]
+m.avito.ru##[id^="ads_"]
+m.avito.ru##[data-code^="mobile_main"]
+m.avito.ru##[data-scroll-blocker^="true"]
+m.avito.ru##[data-code^="mobile_main_top"]
+m.avito.ru##[data-marker^="stories"]
+m.avito.ru##[href^="/premium"]
+m.avito.ru##[href^="https://app.adjust.com/"]
