@@ -2628,7 +2628,7 @@ yandex.ru##.yabrowser-promo__text
 ||t.7fon.org/new/web/as.gif$image
 ||t.7fon.org/new/web/gp.gif$image
 7fon.org##div#flink:nth-of-type(1)
-7fon.org##[href="/РљР°СЂС‚РёРЅРєРё_РґР»СЏ_С‚РµР»РµС„РѕРЅР°/"]
+7fon.org##[href="/Картинки_для_телефона/"]
 7fon.org##div#tmbox:nth-of-type(15)
 7fon.org###irads > .adsbygoogle
 ||7fon.org/goapp.php?tip=240$subdocument
@@ -4992,8 +4992,8 @@ travel.yandex.ru##a._1MtxE.Link_lego._7U37p.Link_theme_pseudo.Link:nth-of-type(5
 afisha.yandex.ru##.zeIgS295eeviwcFPU0dlVHMSENeRG_Yo.za5sZ2t9ceviwcFPU0Q.zeIgS295eeviwcFPU0dlKFdKcLs9g8JZJIMT0dPa8iA.zeIgS295eeviwcFPU0Q
 
 ! 2020-10-21 https://school.yandex.ru
-school.yandex.ru##.app__content > .footer > .footer__layout.layout > .footer__item.social-networks > li.social-networks__social-network:nth-of-type(3) > .social-networks__link_name_РўРІРёС‚С‚РµСЂ.social-networks__link
-school.yandex.ru##.social-networks__link_name_Р¤РµР№СЃР±СѓРє.social-networks__link
+school.yandex.ru##.app__content > .footer > .footer__layout.layout > .footer__item.social-networks > li.social-networks__social-network:nth-of-type(3) > .social-networks__link_name_Твиттер.social-networks__link
+school.yandex.ru##.social-networks__link_name_Фейсбук.social-networks__link
 
 ! 2020-10-21 https://yandex.ru
 yandex.ru##div.description-card:nth-of-type(6)
@@ -7172,10 +7172,6 @@ vk.com##.Tooltip__in
 to-do.live.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert > div
 to-do.live.com##.x-hidden-focus.b-white.theme-light.epb-container.f-information.c-uhfh-alert
 
-! 2021-06-10 https://www.rsatu.ru
-www.rsatu.ru##a.social-network:nth-of-type(3)
-www.rsatu.ru##a.social-network:nth-of-type(2)
-
 ! 2021-06-11 https://disk.yandex.ru
 disk.yandex.ru##a.PSHeader-ServiceList-popup-service.PSHeaderService_theme_light.PSHeaderService:nth-of-type(5)
 
@@ -7213,11 +7209,6 @@ ru.wikipedia.org###centralNotice > div
 ! 2021-06-15 https://mail.yandex.ru
 mail.yandex.ru##.ns-view-rasaqap
 mail.yandex.ru##.ns-view-id-41.ns-view-tihxg-box
-
-! 2021-06-16 https://twitter.com
-twitter.com##a.r-qvutc0.r-i023vh.r-bcqeeo.r-1p6iasa.r-1cwl3u0.r-16dba41.r-n6v787.r-1qd0xha.r-1loqt21.r-m0bqgq.css-901oao.css-18t94o4.css-4rbku5:nth-of-type(11)
-twitter.com##a.r-qvutc0.r-i023vh.r-bcqeeo.r-1p6iasa.r-1cwl3u0.r-16dba41.r-n6v787.r-1qd0xha.r-1loqt21.r-m0bqgq.css-901oao.css-18t94o4.css-4rbku5:nth-of-type(6) > .r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao
-twitter.com##a.r-qvutc0.r-i023vh.r-bcqeeo.r-1p6iasa.r-1cwl3u0.r-16dba41.r-n6v787.r-1qd0xha.r-1loqt21.r-m0bqgq.css-901oao.css-18t94o4.css-4rbku5:nth-of-type(6)
 
 ! 2021-06-16 https://www.g2a.com
 www.g2a.com###\31 5fc8d5b-f2aa-404d-947b-09b3a5891e8d > .cevXsk.indexes__StyledArticle-sc-4a6f6e-0
@@ -9048,8 +9039,8 @@ yougame.biz##.yg_first_post
 ! 2022-05-22 https://www.phrozen.io
 www.phrozen.io##.wpcc-color-custom--943834009.wpcc-right.wpcc-bottom.wpcc-border-thin.wpcc-corners-small.wpcc-corners-round.wpcc-float.wpcc-container
 
-! 2022-05-22 https://yar.dom.ru
-yar.dom.ru##.ithxlf.sc-ce7bf58a-5
+! 2022-05-22 https://dom.ru
+dom.ru##.ithxlf.sc-ce7bf58a-5
 
 ! 2022-05-22 https://yaroslavl.mts.ru
 yaroslavl.mts.ru##.footer__app-links
@@ -9111,22 +9102,22 @@ www.alot.pro##.mt-md-5.mt-4.text-center.justify-content-md-center.row
 youdo.com##.IndexPage_mobileAppWrapper__1L47v.MobileApp_wrapper__2R2JM
 youdo.com##div.footer_row__67aUd:nth-of-type(3)
 
-! 2022-06-20 https://rybinsk.hh.ru
-rybinsk.hh.ru##.supernova-dashboard-footer-app-buttons
-rybinsk.hh.ru##.footer-mobile-banner--par3SXLB_uSowWs6TIXu
-rybinsk.hh.ru##.mobile-app-buttons_flexible-row--xoDpziKOhH7Dq4WFwyaB.mobile-app-buttons--aUSZuHMH41kx1rbRl6PZ
+! 2022-06-20 https://hh.ru
+hh.ru##.supernova-dashboard-footer-app-buttons
+hh.ru##.footer-mobile-banner--par3SXLB_uSowWs6TIXu
+hh.ru##.mobile-app-buttons_flexible-row--xoDpziKOhH7Dq4WFwyaB.mobile-app-buttons--aUSZuHMH41kx1rbRl6PZ
 
 ! 2022-06-20 https://www.zarplata.ru
 www.zarplata.ru##div.column_1d9eV:nth-of-type(5)
 
-! 2022-06-20 https://rybinsk.rabota.ru
-||rybinsk.rabota.ru/static/images/serp-promo/our-apps/bg-gradient.png$image
-rybinsk.rabota.ru##.call-to-action-our-apps__content
-||rybinsk.rabota.ru/static/images/serp-promo/our-apps/bg-phone.png$image
-||rybinsk.rabota.ru/static/images/serp-promo/our-apps/qr.svg$image
-rybinsk.rabota.ru##.r-image_original.r-image.call-to-action-our-apps__phone
-rybinsk.rabota.ru##.r-image_original.r-image.call-to-action-our-apps__qr
-rybinsk.rabota.ru##.page-footer__app.get-app
+! 2022-06-20 https://rabota.ru
+||rabota.ru/static/images/serp-promo/our-apps/bg-gradient.png$image
+rabota.ru##.call-to-action-our-apps__content
+||rabota.ru/static/images/serp-promo/our-apps/bg-phone.png$image
+||rabota.ru/static/images/serp-promo/our-apps/qr.svg$image
+rabota.ru##.r-image_original.r-image.call-to-action-our-apps__phone
+rabota.ru##.r-image_original.r-image.call-to-action-our-apps__qr
+rabota.ru##.page-footer__app.get-app
 
 ! 2022-06-21 https://bookflow.ru
 bookflow.ru##.td-front-end-display-block.td-more-articles-box
@@ -9201,7 +9192,7 @@ supersnimki.ru##.slide.bottom.cloud
 forums.ni.com##div.container > .noindex
 
 ! 2022-07-01 https://transform.tools
-transform.tools##.рџ“¦box-szg_border-box.рџ“¦b-top_1px-solid-E4E7EB.css-nil > [href]
+transform.tools##.📦box-szg_border-box.📦b-top_1px-solid-E4E7EB.css-nil > [href]
 
 ! 2022-07-04 https://yookassa.ru
 yookassa.ru##.hSkxny.Gdpr__StyleContent-sc-1wmeei3-1
@@ -10030,7 +10021,7 @@ medium.com##.fi.cn.q.ab.ur.uq.up.uo.un.um.v.ul.t.uk
 ! Jun 3, 2024 https://dev.to
 dev.to##.popover-billboard--menuopenupwards.right-0.left-0.bottom-0.fixed.js-billboard.crayons-story__billboard.popover-billboard.crayons-bb.crayons-card--secondary.crayons-card
 
-! 10 РёСЋРЅ. 2024 Рі. https://ya.ru
+! 10 июн. 2024 г. https://ya.ru
 ya.ru##div.body__content:nth-of-type(4)
 ya.ru##[class^="ListItem MenuItem MenuItem_get-plus"]
 ya.ru##[class^="NoLogin-Text-Wrapper"]
@@ -10042,14 +10033,14 @@ ya.ru##[class^="VanillaReact Warning "]
 ya.ru##[class^="Organic Organic-App"]
 ya.ru##[data-fast^="2"]
 
-! 10 РёСЋРЅ. 2024 Рі. https://www.avito.ru
+! 10 июн. 2024 г. https://www.avito.ru
 www.avito.ru##[class^="top-banner-root"]
 www.avito.ru##[class^="styles-module-list-"]
 www.avito.ru##[class^="story-previewer-controlButton-"]
 www.avito.ru##[data-marker^="side-block/recently-block"]
 www.avito.ru##[href^="/premium"]
 
-! 10 РёСЋРЅ. 2024 Рі. https://m.avito.ru
+! 10 июн. 2024 г. https://m.avito.ru
 m.avito.ru##[data-marker^="splash-banner/content"]
 m.avito.ru##[data-marker^="short-videos-witcher"]
 m.avito.ru##[id^="ads_"]
@@ -10060,10 +10051,10 @@ m.avito.ru##[data-marker^="stories"]
 m.avito.ru##[href^="/premium"]
 m.avito.ru##[href^="https://app.adjust.com/"]
 
-! 11 РёСЋРЅ. 2024 Рі. https://catsnetwork.ru
+! 11 июн. 2024 г. https://catsnetwork.ru
 catsnetwork.ru###gwd-ad
 
-! 11 РёСЋРЅ. 2024 Рі. https://www.zoneofgames.ru
+! 11 июн. 2024 г. https://www.zoneofgames.ru
 www.zoneofgames.ru##table:nth-of-type(6)
 www.zoneofgames.ru##.r-container__top.mt-iframe
 www.zoneofgames.ru##.r-container__right.mt-iframe
@@ -10072,14 +10063,14 @@ www.zoneofgames.ru##tr:nth-of-type(6) > td > table > tbody > tr > td:nth-of-type
 www.zoneofgames.ru##[class^="mt-root-creative"]
 www.zoneofgames.ru##.mt-root-inimage.mt-inimage-frame
 www.zoneofgames.ru##[title^="For advertisers"]
-www.zoneofgames.ru##[title^="Р РµРєР»Р°РјР° РЅР° Zone of Games"]
+www.zoneofgames.ru##[title^="Реклама на Zone of Games"]
 www.zoneofgames.ru##.nRentBnUnit.stickBanner
 www.zoneofgames.ru###advideo_adv_container
 
-! 11 РёСЋРЅ. 2024 Рі. https://youla.ru
+! 11 июн. 2024 г. https://youla.ru
 youla.ru##[data-debug-info^="664080"]
 
-! 11 РёСЋРЅ. 2024 Рі. https://4pda.to
+! 11 июн. 2024 г. https://4pda.to
 ||4pda.to/s/Zy0hTdTnAW5r0XUI7mFKWXoCtDTZcI3Hls0flPU7Paz1mObz1nlEnB5z1HQ.jpg$image
 ||4pda.to/s/Zy0hEv2CX05Cqz2jrG54II2kxg0kCytWlhdYgGTIyCUAjFbU1NYz2GVdEA.png$image
 ||4pda.to/s/Zy0hRxJpSZ3nTAMr5pgIcUV0NpiV.jpg$image
@@ -10091,10 +10082,49 @@ youla.ru##[data-debug-info^="664080"]
 4pda.to##article.post:nth-of-type(3)
 4pda.to##article.post:nth-of-type(9)
 
-! 11 РёСЋРЅ. 2024 Рі. https://habr.com
+! 11 июн. 2024 г. https://habr.com
 habr.com##.tm-company-card__branding-image
 habr.com##[type="banner"]
 habr.com##[type="applications"]
+
+! 12 июн. 2024 г. https://digiseller.market
+digiseller.market##.gdpr
+
+! 12 июн. 2024 г. https://oplata.info
+oplata.info##.gdpr
+
+! 13 июн. 2024 г. https://habr.com
+habr.com##.tm-stories-block.tm-block_spacing-around.tm-block
+habr.com##.tm-article-blocks > div > .tm-block_spacing-around.tm-block
+
+! 13 июн. 2024 г. https://www.reddit.com
+www.reddit.com##[bundlename="reddit_cookie_banner"]
+www.reddit.com##[id="get-app"]
+
+! 13 июн. 2024 г. https://open-vsx.org
+open-vsx.org##.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
+
+! 13 июн. 2024 г. https://dzen.ru
+dzen.ru##.ad-campaign-link__title-1y
+
+! 14 июн. 2024 г. https://t-save.ru
+t-save.ru##.\.default.popup-text-info.marketing-popup.form
+
+! 15 июн. 2024 г. https://medium.com
+medium.com##.fg.cl.q.ab.ug.uf.ue.ud.uc.ub.v.ua.t.tz
+medium.com##.ye.yd.lu.yc.yb.qs.bm.ce.ya.xz.xy.xx.xw.xv.xu.xt.xs.xr.tf.xq.xp.n.tx
+
+! 19 июн. 2024 г. https://yandex.ru
+yandex.ru##._login.main-user-view
+yandex.ru##[href="https://business.yandex.ru/priority/landing_webview"]
+yandex.ru##[href^="https://yandex.ru/an/count/"]
+yandex.ru##[href^="https://direct.yandex.ru/?partner"]
+
+! 24 июн. 2024 г. https://trudvsem.ru
+trudvsem.ru##.cookies__card.card
+
+! 24 июн. 2024 г. https://stackoverflow.com
+stackoverflow.com##.g16.jc-space-around.fd-column.d-flex.bs-lg.py32.px128.hs2.w100.s-card.z-modal.l0.b0.ps-fixed
 ! [List from Faust (https://gist.github.com/dymitr-ua): https://gist.github.com/dymitr-ua/ab19ebfa6b6027daf07a995e420d4613]
 gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
 gotoshop.ua##.product-ads,.ads-item
