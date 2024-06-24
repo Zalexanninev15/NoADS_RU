@@ -92,9 +92,19 @@
 
 #### Отдельно для браузера Brave
 
-1. Перейдите по ссылке ```brave://settings/shields/filters``` или ```brave://adblock/``` и пролистайте вниз до настройки "Списки фильтров"
+1. Перейдите по ссылке ```brave://settings/shields/filters``` или ```brave://adblock/``` и пролистайте до настройки "Списки фильтров"
 2. Вставьте ссылку ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt``` в поле "Введите URL списка фильтров"
 3. Нажмите кнопку "Добавить" и обновите страницу настроек
+
+#### Отдельно для браузера Vivaldi
+
+1. Перейдите по ссылке ```vivaldi://settings/privacy/``` и пролистайте до раздела "БЛОКИРОВКА СЛЕЖКИ И РЕКЛАМЫ"
+2. Следуйте стрелкам на скриншоте
+
+![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/Subscribe-in-Vivaldi.png?raw=true)
+
+3. В текстовое поле всплывающего окна вставьте ссылку ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt```
+4. Согласитесь на добавление
 
 ## Решения проблем и ответы на вопросы
 * Переподключите список в настройках блокировщика, скорее всего я уже исправил эту проблему
