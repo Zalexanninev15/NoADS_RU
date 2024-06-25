@@ -53,9 +53,7 @@
 > Способы могут быть частично актуальны и для других браузерных расширений.
 
 #### - Добавление автоматически с автообновлением списка
-Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), далее всё зависит от версии расширения:
-
-Откроется вкладка с возможностью подписаться на список (в новых версиях uBlock Origin). Смело нажимайте на кнопку "Подписаться". 
+Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU). Откроется вкладка с возможностью подписаться на список (в новых версиях uBlock Origin). Смело нажимайте на кнопку "Подписаться". 
 
 ![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/Subscribe-in-uBlock-Origin.png?raw=true)
 
