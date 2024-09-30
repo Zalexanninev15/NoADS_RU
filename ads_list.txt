@@ -10125,3 +10125,41 @@ trudvsem.ru##.cookies__card.card
 
 ! 24 июн. 2024 г. https://stackoverflow.com
 stackoverflow.com##.g16.jc-space-around.fd-column.d-flex.bs-lg.py32.px128.hs2.w100.s-card.z-modal.l0.b0.ps-fixed
+
+! 1 июл. 2024 г. https://www.computerra.ru
+www.computerra.ru##.site-header__socials > .social-btns
+www.computerra.ru##.banner-top > [href^="https://cloud.ru/ru/free-test"]
+
+! 2 июл. 2024 г. https://www.theverge.com
+www.theverge.com##.duet--layout--river-container 
+www.theverge.com##.duet--article--more-stories 
+
+! 2 июл. 2024 г. https://www.etsy.com
+www.etsy.com##li.wt-list-unstyled:has(span.wt-icon:matches-css(width: 12px)):remove() 
+
+! 2 июл. 2024 г. https://www.flickr.com
+www.flickr.com##.photo-charm-exif-scrappy-view + div:not([class]) 
+www.flickr.com##.search-tools-view + .view:has(img[src $= "/IStock_corporate_logo.svg"]) 
+www.flickr.com##.search-prints-results 
+
+serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#@#+js(acis, StackExchange.ga.init) 
+||*.inq.com/tagserver/* 
+
+! 2 июл. 2024 г. https://www.ups.com
+www.ups.com##virtual-assistant 
+||cdn.enterombacerick.com^ 
+||cdn.tepatonol.com^ 
+
+! 2 июл. 2024 г. https://developer.mozilla.org
+developer.mozilla.org##.top-banner:has(>section>p>a[href$="/plus/ai-help"])
+
+! 4 июл. 2024 г. https://rutracker.org
+rutracker.org##[href^="https://r.advg.agency/t"]
+rutracker.org##[class="ext-links"]
+rutracker.org##[class^="promo"]
+
+! 30 сент. 2024 г. https://yandex.ru
+yandex.ru##[id="click_area"]
+
+! 30 сент. 2024 г. https://habr.com
+habr.com##[href="https://slc.tl/iwe6n"]

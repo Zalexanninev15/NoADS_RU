@@ -3,7 +3,7 @@ import json
 import re
 import os
 
-print('NoADS_RU Updater v3.3c')
+print('NoADS_RU Updater v3.3d')
 print('Что я умею?')
 print('- Запись фильтров из файла uBlock Origin в ads_list.txt и ads_list_extended.txt')
 print('- Удаление дублей фильтров')
@@ -48,7 +48,7 @@ links = []
 
 for matchNum, match in enumerate(matches, start=1):
     match = match.group()
-    lk = f"\n- [{match.replace(' ', '')}]({match.replace(' ', '')})"
+    lk = f"\n- [{match.split(' ')[1]}]({match.split(' ')[1]})"
     links.append(lk)
 
 links_a = list(set(links))
