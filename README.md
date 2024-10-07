@@ -8,7 +8,7 @@
 [![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/network/members)
 [![](https://img.shields.io/github/issues/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aopen+is%3Aissue)
 [![](https://img.shields.io/github/issues-closed/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aissue+is%3Aclosed)
-[![](https://img.shields.io/badge/Вступить_в_группу-26A5E4.svg?logo=telegram)](https://t.me/z15_community/123)
+[![](https://img.shields.io/badge/Вступить_в_группу-FFFFFF.svg?logo=telegram)](https://t.me/z15_community/123)
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![](https://img.shields.io/badge/Donate-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://teletype.in/@zalexanninev15/donate)
 
