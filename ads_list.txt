@@ -10163,3 +10163,21 @@ yandex.ru##[id="click_area"]
 
 ! 30 сент. 2024 г. https://habr.com
 habr.com##[href="https://slc.tl/iwe6n"]
+
+! 7 окт. 2024 г. https://yandex.ru
+yandex.ru##.NeuroOnboarding-Container
+yandex.ru##.NeuroSearchInput-Text_showLogo.NeuroSearchInput-Text
+
+! 22 окт. 2024 г. https://disk.yandex.ru
+disk.yandex.ru##.top-direct-line
+
+! 29 окт. 2024 г. https://medium.lies.io
+medium.lies.io##.ww.wv.lc.wu.wt.ws.bp.ch.wr.wq.wp.wo.wn.wm.wl.wk.wj.wi.sj.wh.wg.n.su
+medium.lies.io##.fj.co.q.ab.td.tc.tb.ta.sz.sy.v.sx.t.sw
+
+! 2 нояб. 2024 г. https://chatgpt.com
+chatgpt.com##.justify-between.flex-wrap-reverse.flex-row.w-full.flex > .gap-2.items-center.flex
+
+! 10 нояб. 2024 г. https://www.nexusmods.com
+||www.nexusmods.com/assets/images/premiumbanner/billboard.png$image
+www.nexusmods.com###nonPremiumBanner
