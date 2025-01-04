@@ -10181,3 +10181,9 @@ chatgpt.com##.justify-between.flex-wrap-reverse.flex-row.w-full.flex > .gap-2.it
 ! 10 нояб. 2024 г. https://www.nexusmods.com
 ||www.nexusmods.com/assets/images/premiumbanner/billboard.png$image
 www.nexusmods.com###nonPremiumBanner
+
+! 16 дек. 2024 г. https://foxlearn.com
+foxlearn.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.ez_banner
+
+! 4 янв. 2025 г. https://disk.yandex.ru
+disk.yandex.ru##.top-banner_stretch.top-banner_desktop.top-banner
