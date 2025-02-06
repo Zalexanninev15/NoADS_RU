@@ -3,12 +3,13 @@ import json
 import re
 import os
 
-print('NoADS_RU Updater v3.3d')
+print('NoADS_RU Updater v4 (скоро)')
 print('Что я умею?')
 print('- Запись фильтров из файла uBlock Origin в ads_list.txt и ads_list_extended.txt')
 print('- Удаление дублей фильтров')
 print('- Формирование файла SITES.md')
-print('- Обновление фильтров от Faust для ads_list_extended.txt\n')
+print('- Исправление кодировки (при запуске с помощью win_build.bat или напрямую в unix-терминале')
+print('- Обновление расширенных фильтров для ads_list_extended.txt\n')
 
 txt_files = [file for file in os.listdir() if file.endswith(".txt")]
 ads_list_file = "ads_list.txt"
