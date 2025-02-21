@@ -1,9 +1,9 @@
-﻿! Title: NoADS_RU Extended
+! Title: NoADS_RU Extended
 ! Author: Zalexanninev15
 ! License: MIT
 !! GitHub: https://github.com/Zalexanninev15/NoADS_RU
 !! Topic in Telegram group: https://t.me/z15_community/123
-!! Donate: https://teletype.in/@zalexanninev15/donate
+!! Donate: https://z15.neocities.org/donate
 
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
@@ -10188,7 +10188,31 @@ foxlearn.com##.ez-twentytwentytwo.ez-main-cmp-wrapper.ez_banner
 ! 4 янв. 2025 г. https://disk.yandex.ru
 disk.yandex.ru##.top-banner_stretch.top-banner_desktop.top-banner
 
+! 16 янв. 2025 г. https://smachno.net
+smachno.net##.modal-footer > [href^="https://play.google.com/store/apps/details"]
+||smachno.net/logo/app-store_lg.png$image
+
+! 22 янв. 2025 г. https://blog.mihailgok.ru
+blog.mihailgok.ru##webpushrwppromptbox2_wrapper
+
+! 22 янв. 2025 г. https://www.gitbook.com
+www.gitbook.com##.--framer-cookie-banner-type-medium.--framer-cookie-banner-container
+
+! 9 февр. 2025 г. https://cloud.mail.ru
+||cloud.imgsmail.ru/cloud.mail.ru/hashes/img/aside-promo-modal/$image
+
+! 16 февр. 2025 г. https://sharewareonsale.com
+sharewareonsale.com##.fc-dialog.fc-ab-dialog
+sharewareonsale.com##.fc-dialog-container > .fc-dialog-overlay
+
 ! [List from Faust (https://gist.github.com/dymitr-ua):
+parcelsapp.com##body > div
+pass.proton.me##.text-sm.md\:block.hidden.anime-reveal
+web.telegram.org##.is-group-first.is-group-last.is-similar-channels.service.bubble
+web.telegram.org##.sponsored-media-preview.open.Message.SponsoredMessage
+www.atbmarket.com##article.banner-item:nth-of-type(n)
+
+! [Faust old]
 gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
 gotoshop.ua##.product-ads,.ads-item
 hotline.ua##.catalog-promo-products
