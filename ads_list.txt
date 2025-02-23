@@ -1244,7 +1244,6 @@ m.vk.com##.friendsRecommendedSlider.prettyCardsSlider.Slider > ._preventMenuOpen
 m.vk.com##.feedAssistance_recommendedFriends.friendsRecommendedSliderWrap.feedAssistance.wall_item
 
 ! 24.02.2020 https://cloud.mail.ru
-cloud.mail.ru##.b-tooltip__content
 cloud.mail.ru##.b-tooltip__corner
 cloud.mail.ru##.pm-toolbar__button_last-in-group.pm-toolbar__button.js-button > .pm-toolbar__button__inner.js-link
 
@@ -3871,7 +3870,6 @@ yandex.ru##div.news-app__t9KP1Q9yh-group.mg-grid__row_gap_8.mg-grid__row:nth-of-
 cloud.mail.ru##.js-action-banner.cloud-dr-banner
 cloud.mail.ru##.UploadDropArea__pulse--2pXrA > svg > circle
 cloud.mail.ru##.js-trashbin-marker.b-nav__marker.b-pulsar
-cloud.mail.ru##.active.visible.transition.dimmer.modals.page.ui
 
 ! 2020-08-28 https://youla.ru
 youla.ru##.gnqdsa.sc-kczZbr
