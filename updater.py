@@ -10,8 +10,9 @@ print('NoADS_RU Updater v4')
 print('Что я умею?')
 print('- Запись фильтров из файла uBlock Origin в ads_list.txt и ads_list_extended.txt')
 print('- Удаление дублей фильтров')
+print('- Обновление списка от Faust')
 print('- Формирование файла SITES.md')
-print('- Исправление кодировки (при запуске с помощью win_build.bat или напрямую в unix-терминале')
+print('- Корректная запись кодировки текста в файл (при запуске с помощью win_build.bat или напрямую в unix-терминале)')
 print('- Обновление расширенных фильтров для ads_list_extended.txt\n')
 
 txt_files = [file for file in os.listdir() if file.endswith(".txt")]
