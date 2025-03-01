@@ -6181,7 +6181,6 @@ zen.yandex.ru##.article-recommender
 
 ! 2021-03-18 https://www.playground.ru
 ||i.playground.ru/e/kD8mrg3Ii3Lm7F6Oy5VLFg.jpeg$image
-www.playground.ru##.page-header-bottom
 
 ! 2021-03-18 https://www.reg.ru
 www.reg.ru##.b-policy-info__wrapper
@@ -6312,9 +6311,6 @@ www.telerik.com###onetrust-banner-sdk
 
 ! 2021-04-05 https://www.codeproject.com
 www.codeproject.com##.cc-color-override--316233370.cc-bottom.cc-theme-edgeless.cc-type-opt-in-out.cc-banner.cc-window
-
-! 2021-04-05 https://www.playground.ru
-www.playground.ru##.page-aside
 
 ! 2021-04-05 https://telemetr.me
 telemetr.me###zzonbot_banner
@@ -8196,10 +8192,6 @@ socialclub.rockstargames.com##.CookiesBanner__content__1nghq
 
 ! 2022-01-25 https://www.woolseyworkshop.com
 www.woolseyworkshop.com##.hide-on-button
-
-! 2022-01-26 http://192.168.0.1
-192.168.0.1###adv_netcontrol
-192.168.0.1###adv_cloud
 
 ! 2022-01-27 https://forum.unity.com
 forum.unity.com###onetrust-banner-sdk > div > .ot-sdk-container > .ot-sdk-row
@@ -10202,3 +10194,15 @@ www.gitbook.com##.--framer-cookie-banner-type-medium.--framer-cookie-banner-cont
 ! 16 февр. 2025 г. https://sharewareonsale.com
 sharewareonsale.com##.fc-dialog.fc-ab-dialog
 sharewareonsale.com##.fc-dialog-container > .fc-dialog-overlay
+
+! 24 февр. 2025 г. https://mail.yandex.ru
+mail.yandex.ru##[class^=".DisableAdsButton__button"]
+
+! 24 февр. 2025 г. https://habr.com
+habr.com##.tm-article-snippet__cover
+habr.com##.tm-article-snippet .tm-article-body img
+
+! 1 мар. 2025 г. https://www.playground.ru
+www.playground.ru##.adult-icon
+www.playground.ru##.tiny-size.dzen.icon
+www.playground.ru##.tiny-size.vkontakte.icon
