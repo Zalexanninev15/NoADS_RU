@@ -10207,6 +10207,13 @@ www.playground.ru##.adult-icon
 www.playground.ru##.tiny-size.dzen.icon
 www.playground.ru##.tiny-size.vkontakte.icon
 
+! 7 мар. 2025 г. https://www.kinopoisk.ru
+www.kinopoisk.ru##[class^="styles_adBlockWarningRoot"]
+www.kinopoisk.ru##[class^="sticker-banner"]
+www.kinopoisk.ru##[class^="styles_themeTopBanner"]
+www.kinopoisk.ru##[class^="styles_coverWrapper"]
+www.kinopoisk.ru##.yandex_music
+
 ! [List from Faust (https://gist.github.com/dymitr-ua):
 parcelsapp.com##body > div
 pass.proton.me##.text-sm.md\:block.hidden.anime-reveal
