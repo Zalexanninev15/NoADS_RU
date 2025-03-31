@@ -10213,3 +10213,26 @@ www.kinopoisk.ru##[class^="sticker-banner"]
 www.kinopoisk.ru##[class^="styles_themeTopBanner"]
 www.kinopoisk.ru##[class^="styles_coverWrapper"]
 www.kinopoisk.ru##.yandex_music
+
+! 18 мар. 2025 г. https://mail.yandex.ru
+mail.yandex.ru##.PSHeader-ServiceList-MainService_collapsible_n3.PSHeader-ServiceList-MainService.promozavr-anchor-servicePremiumButton.PSHeaderService_theme_dark.PSHeaderService
+
+! 19 мар. 2025 г. https://www.youtube.com
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+
+! 31 мар. 2025 г. https://www.reddit.com
+www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2) > .contents > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+
+! 31 мар. 2025 г. https://www.kinopoisk.ru
+||avatars.mds.yandex.net/get-ott/374297/20e2072e-413d-418f-a655-5eba09e485f7/540x620$image
+www.kinopoisk.ru##button:has-text("Подключить на год")
+www.kinopoisk.ru##button:has-text("Смотреть кино бесплатно")
+www.kinopoisk.ru##button:has-text("Смотреть&nbsp;кино бесплатно")
+www.kinopoisk.ru##button:has-text("Смотреть кино")
+www.kinopoisk.ru##button:has-text("Смотреть&nbsp;кино")
+www.kinopoisk.ru##button:has-text("Попробовать бесплатно")
+www.kinopoisk.ru##div[id$="mobile_app_promo_footer"]
+www.kinopoisk.ru##a[aria-label="presentation"] { display: none !important; }
+www.kinopoisk.ru##div[class^="styles_abbreviated"] { display: none !important; }
+www.kinopoisk.ru##div[class^="styles_subscriptionInfo"] { display: none !important; }
+www.kinopoisk.ru##div[class*="styles_plusBadgeCounter"] { display: none !important; }
