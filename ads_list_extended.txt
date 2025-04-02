@@ -10237,6 +10237,17 @@ www.kinopoisk.ru##div[class^="styles_abbreviated"] { display: none !important; }
 www.kinopoisk.ru##div[class^="styles_subscriptionInfo"] { display: none !important; }
 www.kinopoisk.ru##div[class*="styles_plusBadgeCounter"] { display: none !important; }
 
+! 2 апр. 2025 г. https://ya.ru
+ya.ru##.Distribution-SplashScreenModalContent
+ya.ru##.DistributionLinkBro-Link.Link
+ya.ru##.i-mini-bem.link-bro
+
+! 2 апр. 2025 г. https://mail.yandex.ru
+mail.yandex.ru##a[class*="DisableAdsButton"]
+
+! 2 апр. 2025 г. https://realty.yandex.ru
+realty.yandex.ru##div[class^="AppDownloadBanner"]
+
 ! [List from Faust (https://gist.github.com/dymitr-ua):
 parcelsapp.com##body > div
 pass.proton.me##.text-sm.md\:block.hidden.anime-reveal
