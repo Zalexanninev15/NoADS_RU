@@ -10247,3 +10247,6 @@ mail.yandex.ru##a[class*="DisableAdsButton"]
 
 ! 2 апр. 2025 г. https://realty.yandex.ru
 realty.yandex.ru##div[class^="AppDownloadBanner"]
+
+! 11 апр. 2025 г. https://habr.com
+habr.com##div > [href^="https://selectel.ru/services/cloud/servers/"]
