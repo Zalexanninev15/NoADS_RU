@@ -10251,6 +10251,9 @@ realty.yandex.ru##div[class^="AppDownloadBanner"]
 ! 11 апр. 2025 г. https://habr.com
 habr.com##div > [href^="https://selectel.ru/services/cloud/servers/"]
 
+! 24 апр. 2025 г. https://www.avito.ru
+www.avito.ru##div[data-marker$="top-notification/warning/stores-landing-entrypoint-android"]
+
 ! [List from Faust (https://gist.github.com/dymitr-ua):
 parcelsapp.com##body > div
 pass.proton.me##.text-sm.md\:block.hidden.anime-reveal

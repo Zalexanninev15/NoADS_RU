@@ -1,9 +1,9 @@
 # NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
 
-<img src="./assets/Logo.png" width="150" height="150"/>
+<img src="./assets/Logo.png" width="100" height="100"/>
 
 [![](https://img.shields.io/badge/platform-AdBlocking_Extensions-F40D12.svg?logo=adblock)](https://github.com/Zalexanninev15/NoADS_RU)
-[![](https://img.shields.io/badge/written_on-Python-%233776AB.svg?logo=python)](https://github.com/Zalexanninev15/My-Python-Code-Executor)
+[![](https://img.shields.io/badge/Скрипт_обновления-Python-%233776AB.svg?logo=python)](https://github.com/Zalexanninev15/NoADS_RU/blob/main/updater.py)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/commits/main)
 [![](https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/stargazers)
 [![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/network/members)
