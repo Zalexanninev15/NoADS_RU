@@ -9883,4 +9883,4 @@ yandex.com##a:has-text("Реклама")
 yandex.com##[href^="https://redirect.appmetrica.yandex.com"]
 
 ! 2 мая 2025 г. https://www.ozon.ru
-yandex.com##[href^="https://pvz.ozon.ru"]
+www.ozon.ru##[href^="https://pvz.ozon.ru"]
