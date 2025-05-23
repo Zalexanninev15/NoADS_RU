@@ -9884,3 +9884,9 @@ yandex.com##[href^="https://redirect.appmetrica.yandex.com"]
 
 ! 2 мая 2025 г. https://www.ozon.ru
 www.ozon.ru##[href^="https://pvz.ozon.ru"]
+
+! 23 мая 2025 г. https://yandex.com
+yandex.ru##a[href*="premium"]
+
+! 23 мая 2025 г. https://www.reddit.com/
+www.reddit.com##[class^="promotedlink relative block"]
