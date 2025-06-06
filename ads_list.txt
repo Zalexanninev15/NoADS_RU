@@ -5,6 +5,8 @@
 !! Topic in Telegram group: https://t.me/z15_community/123
 !! Donate: https://z15.neocities.org/donate
 
+! Автор выражает респект Faust.
+
 ! Если на вашем любимом сайте осталась реклама или фильтр создаёт проблемы
 ! в его работе, то свяжитесь со мной, пожалуйста:
 ! https://github.com/Zalexanninev15/NoADS_RU/issues/new
@@ -9944,8 +9946,6 @@ www.youtube.com##ytd-reel-shelf-renderer:has(.ytd-reel-shelf-renderer:has-text(/
 ! Hide shorts tab on channel pages`
 ! Old style
 www.youtube.com##tp-yt-paper-tab:has(.tp-yt-paper-tab:has-text(Shorts))
-! New style (2023-10)
-www.youtube.com##yt-tab-shape:has-text(/^Shorts$/)
 ! Hide short remixes in video descriptions
 www.youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer:has-text(/^Shorts remixing this video$/i)
 ! Hide shorts category on homepage and search pages
@@ -9972,7 +9972,7 @@ m.youtube.com##ytm-reel-shelf-renderer:has(.reel-shelf-title-wrapper .yt-core-at
 ! Hide shorts category on homepage
 m.youtube.com##ytm-chip-cloud-chip-renderer:has(.yt-core-attributed-string:has-text(/^Shorts$/i))
 
-! [Extended Content from here https://forums.lanik.us/viewtopic.php?t=22512-%D0%BE-%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D0%B5-ru-adlist-%D0%B8-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D1%85]
+! [Extended Content]
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|tjournal.ru|vc.ru
 @@||alcogolizm.com/addons/counter/$script,stylesheet,domain=alcogolizm.com
 @@||api.chat.olx.*/api/conversations/counters$xmlhttprequest,domain=olx.kz|olx.ua|olx.uz
@@ -13910,8 +13910,6 @@ utm_$document,removeparam=ig_rid,domain=instagram.com
 ||everall.ru/static/img/banners/
 ||vkbot.ru/trash/
 @@||vk.com/ads*.php?__query=$~third-party
-
-! [Extended Mobile]
 yandex.*##[data-bem*="search-select-promo"]
 yandex.*##div[class*="Advert_container__"]
 yandex.*##div[class^="Card_container__"][class*=" err_none "]
@@ -13930,8 +13928,6 @@ lena-miro.ru,levik.blog,livejournal.com,olegmakarenko.ru,periskop.su,shakko.ru,s
 lena-miro.ru,levik.blog,livejournal.com,olegmakarenko.ru,periskop.su,shakko.ru,shiro-kino.ru,vadimrazumov.ru##html.html-mobile div[class*="--hideable"]
 lena-miro.ru,levik.blog,livejournal.com,olegmakarenko.ru,periskop.su,shakko.ru,shiro-kino.ru,vadimrazumov.ru##html.html-mobile div[data-banner-place-id]
 116.ru,72.ru,e1.ru,ngs55.ru##[data-ref="sticky-header-wrap"] > [data-test="sticky-header"] ~ div
-
-! [Extended Specific]
 .infox.sg^$csp=script-src
 /gateway/aHR0c$csp=script-src
 |http*//fastpic.org/$csp=frame-src 'self'
@@ -13977,7 +13973,6 @@ lena-miro.ru,levik.blog,livejournal.com,olegmakarenko.ru,periskop.su,shakko.ru,s
 ||www.ukr.net^$csp=frame-src 'self' *.ukr.net *.sinoptik.ua kinoafisha.ua *.twitter.com *.google.com
 ||yadistr.ru^$csp=script-src
 ||yandex.ru/turbo?text=https*fishki.net$csp=connect-src
-! ---
 $subdocument,domain=appmo.org|bookmo.org|eromo.org|hitmo.org|hotmo.org|nasimke.com|vidmo.org
 $third-party,domain=123torrent.ru|37.1.201.32|37.1.202.140|37.1.203.156|37.1.204.182|37.1.204.76|37.1.205.159|37.1.205.47|37.1.206.118|37.1.206.121|37.1.206.231|37.1.206.95|37.1.207.130|37.1.207.65|37.1.216.106|37.1.216.119|37.1.217.105|37.1.217.113|5.45.65.153|5.45.66.118|5.45.70.162|5.45.86.39|5.45.87.85|berutor.site|blackrutor.site|extrutor.org|extrutor.site|fastrutor.site|herutor.org|listrutor.org|new-rutor.org|pipitor.org|pronpic.org|prutor.site|r-tor.ru|rutor-live.tk|rutor-search.info|rutor1.site|tracker-rutor.tk|xrutor.org|znaipticu.ru
 $third-party,image,domain=gaykursk.ru|gaynsk.ru|novgay.ru
@@ -14321,14 +14316,11 @@ $xmlhttprequest,domain=happy-biock.info|happy-block.info|howto-news.info|mschist
 /deadblocker/*
 /mod_ablockdetector/*
 /npsblocker/js/ads.
-!
 @@/adsbygoogle.js$script,domain=arabiaweather.com
-!
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=shahid.mbc.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=shed4u1.com|elktob.online
 @@||play.bokracdn.run/v2/adsjs/ads.js$script,~third-party
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=shahid.mbc.net
-!
 ###adblock_screen
 ###adblock_message
 ##.adblockInfo
@@ -14338,7 +14330,6 @@ $xmlhttprequest,domain=happy-biock.info|happy-block.info|howto-news.info|mschist
 ##.deadblocker-header-bar
 ##.detected-block-modal
 ##.no-ad-reminder
-!
 kimo.ma##.adb
 azrotv.com##.adbn-wrap
 freestore.app##.adbn2-wrap2
@@ -14348,31 +14339,21 @@ okanime.tv##.jconfirm
 fctvhd.com##.mw-adblock
 4algeria.com##.xenOverlay
 azrotv.com##div[id^="laoad_Adb"]
-!
 shahid4u.club#@#.adsBox
-!
 @@||ency-educ.com^$generichide
 @@||shahid.mbc.net^$generichide
 @@||yacine-app.com^$generichide
-!
-! *** antiadblockfilters:antiadblockfilters/antiadblock_chinese.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_czech.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_dutch.txt ***
 bouweenpc.nl###header-banner
 rtlxl.nl##.adblock
 spele.nl##.adblocker
 koolhydraatarmerecepten.info##body > [style^="z-index: 1000000; "]
-! *** antiadblockfilters:antiadblockfilters/antiadblock_english.txt ***
-! General block
 /adblock-alerter/js/adblock_alerter.js
 /adblock-img.
 /adsmatcher-anti-adblock/*
 /arlinablock.js
-! General hide
 ##.ad-blocker-warning
 ##.main_adbalert
 ##.pane-emediate
-! Specific block
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
 ||baeldung.com/*/library/dist/js/ad-recovery.min.js
 ||corrosif.science^$domain=filerev.cc|pencurimovie.pw
@@ -14386,10 +14367,8 @@ koolhydraatarmerecepten.info##body > [style^="z-index: 1000000; "]
 ||venea.net/web/ab_message?
 ||wheregoes.com/c/uploads/$script
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
-! Third-party servers
 ||content-settings.com^$third-party
 ||site-config.com^$third-party
-! Admiral antiadb
 ||2znp09oa.com^$third-party
 ||4jnzhl0d0.com^$third-party
 ||5mcwl.pw^$third-party
@@ -15641,7 +15620,6 @@ koolhydraatarmerecepten.info##body > [style^="z-index: 1000000; "]
 ||zephyrlabyrinth.com^$third-party
 ||zestycrime.com^$third-party
 ||zlp6s.pw^$third-party
-! Specific hide
 mediafire.com###abnotify
 llifle.com###ad_blocker_found
 flightradar24.com###bottomRightPanel
@@ -15685,26 +15663,19 @@ playonlinux.com##div[style="text-align:center;  border-radius:7px; width:160px; 
 byzoo.org,videobug.net##div[style^="position: absolute; width: 300px;"]
 outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 homerun.re,strikeout.co,vipbox.sx,vipleague.ch,vipleague.co,vipleague.is,vipleague.me##span[id][style] > div[id]:first-child:last-child
-! NSFW
 redtube.com###as_131
 redtube.com###slidePanelContainerAB
 redtube.com##.qb
 shadbase.com##img[alt="adblock"]
-! Firstparty whitelist
 @@||ankrzkz.sbs/js/boxad.js?$script,~third-party
 @@||download.megaup.net/openads.js$script,~third-party
-! Thirdparty whitelist
 @@||alwingulla.com/88/tag.min.js$domain=darkino.online
 @@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr|milliyet.com.tr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=exe-urls.com|fileink.com|rockmods.net
-! Generichide
 @@||cheatography.com^$generichide
 @@||darkino.online^$generichide
 @@||docs.w3cub.com^$generichide
 @@||www.ifon.ca^$generichide
-! *** antiadblockfilters:antiadblockfilters/antiadblock_finnish.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_french.txt ***
-!
 -adblock-notice-
 -adblock-notice/*
 /abb-msg.js
@@ -15754,7 +15725,6 @@ shadbase.com##img[alt="adblock"]
 /SvgAdblockDetected/*
 _adblocker_detected
 _adblock_killer.
-!
 ||bdgest.com/js/site.js?
 ||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
 ||cmath.fr/images/fond2.gif
@@ -15769,11 +15739,9 @@ _adblock_killer.
 ||nrj.fr/nrj?Page=/rg.fake&
 ||sdefx.cloud/js/acheck.js
 ||skyrock.net/img/*/adblock/
-!
 @@/ads.js$script,~third-party,domain=abcbourse.com|action-sociale.org|anime-vf.fr|impactmangas.fr|presse-algerie.net|primfx.com|undernews.fr
 @@/advertisement.js$script,~third-party,domain=fun-animes.fr|macupload.net|majorgeeks.com|upload.ac
 @@/noadblock-nice-message/assets/js/ads.js?$script,~third-party
-!
 @@||animedigitalnetwork.fr/templates/*/js/advertising.min.js?$script,~third-party
 @@||ausujet.com/skins/common/ads.js
 @@||cdncontent.wakanim.tv/scripts/dist/ads.js$script,xmlhttprequest,~third-party
@@ -15811,7 +15779,6 @@ _adblock_killer.
 @@||v.fwmrm.net/ad/g/1?$xmlhttprequest,domain=www.mycanal.fr
 @@||wamiz.com/css/ads.css
 @@||zagaz.com/img/blogads.css
-!
 ###AdBlockDialog
 ###aabl-container
 ###abp-killer
@@ -15946,7 +15913,6 @@ _adblock_killer.
 ##adblock-detect
 ##adblock-modal-component
 ##adblocker
-!
 cowcotland.com,wamiz.com###adblocker
 jaitoutcompris.com###antiBlock
 nautiljon.com###cmsg
@@ -15974,9 +15940,6 @@ forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
 closermag.fr##div[id^="detection-block"]
 bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
 pausecafein.fr###adb-pop
-!
-#@##adblocktest
-!
 dbz-fantasy.com#@##adTeaser
 fstore.biz#@##adblockinfo
 dz-android.com,freeiphone.fr,hommedumatch.fr,jetetroll.com,testious.com#@##adsense
@@ -15990,20 +15953,11 @@ japscan.lol#@#.ad_slot
 gamaniak.com#@#.adsbygoogle
 dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
-!
 @@||jeux.meteocity.com^$generichide
 @@||toplien.fr^$generichide
-!
-! *** antiadblockfilters:antiadblockfilters/antiadblock_german.txt ***
 ##.diysdk_webServices_banners1und1MainContent
 usgang.ch###rectangle-wrapper
 ||jappy.tv/i/wrbng/abb.png
-! *** antiadblockfilters:antiadblockfilters/antiadblock_hebrew.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_indonesian.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_italian.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_latvian.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_romanian.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_russian.txt ***
 delfi.ee###ab--notification-ribbon
 minimultik.ru###abDetected
 patrioty.org.ua###ad_pu_modal
@@ -16234,8 +16188,6 @@ bigpuzzle.ru##td[valign="top"][width="240px"][height="600"]
 ||rusnext.ru/advar.js$script
 ||shellcat.ru^$third-party
 ||vazhno.ru/cdn-cgi/apps/head/*.js
-! *** antiadblockfilters:antiadblockfilters/antiadblock_slovak.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_spanish.txt ***
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|vc.ru
 @@||alcogolizm.com/addons/counter/$script,stylesheet,domain=alcogolizm.com
 @@||api.av.by/offers/*/counter|$xmlhttprequest,domain=av.by
@@ -16279,8 +16231,6 @@ bigpuzzle.ru##td[valign="top"][width="240px"][height="600"]
 @@||top.mail.ru/counter?*;rand=$domain=kp.ru
 @@||yastatic.net/metrika/*/counters/$domain=metrika.yandex.ru
 @@||youtube.com/api/stats/watchtime?$image,domain=youtube.com
-!
-! = Общие фильтры (блокировка по маске) =======================================
 .com/a.gif?
 .top100.$third-party
 /1x1.gif$domain=~idaprikol.ru|~thg.ru
@@ -16402,8 +16352,6 @@ _pagespeed_beacon?
 ||ru/stat/$domain=~allsocial.ru|~barcodes.olegon.ru|~be1.ru|~metrika.yandex.ru|~mobtop.ru|~proships.ru|~sms-track.ru|~sports.ru|~textovod.com|~wordstat.yandex.ru
 ||su/stat/
 ||ua/stat/$domain=~fotomag.com.ua
-!
-! = Общие фильтры (скрытие) ===================================================
 ##[alt="Rambler's Top100"]
 ##[title="uCoz Counter"]
 ##[title="uWeb Counter"]
@@ -16428,8 +16376,6 @@ _pagespeed_beacon?
 ##img[src^="/stat/"][width="88"][height="31"]
 ##img[style*="//counter.yadro.ru/"]
 ##img[title="bigmir)net TOP 100"]
-!
-! = Общие блокировки (и с использованием имени доменов) =========================
 //stats.myangular.life^$third-party
 /metrics.js$domain=maximum.ru|montecarlo.ru
 /redir/stat/*$domain=autonews.ru|rbc.ru|sportrbc.ru
@@ -17271,8 +17217,6 @@ _pagespeed_beacon?
 ||zcvh.net/*/ws|$websocket
 ||zero.kz/c.php?
 ||zoomby.ru/s/pixel?
-!
-! Google
 /__utm.gif
 /generate_204$~xmlhttprequest
 ||google-add.com/button/
@@ -17296,33 +17240,23 @@ _pagespeed_beacon?
 ||youtube.com/ptracking?
 ||youtube.com/s?
 ||youtube.com/set_awesome?
-!#if env_firefox
 google.*##+js(remove-attr, data-jsarwt, #rcnt [data-ved] a)
-!#endif
 www.google.*##+js(remove-attr, jsaction, #islsp c-wiz a[href^="http"][data-ved][target], stay)
-!
-! Mail.ru
 ||mail.ru/gstat?
 ||mail.ru/ok?ok=
 ||mail.ru/share_count?
 ||ok.mail.ru^
-!
-! Rambler
 ||rambler.ru/*/js/counters.$domain=~mail.rambler.ru
 ||rambler.ru/cl?
 ||rambler.ru/p_stat?
 ||rambler.ru/static/top100/tesla/
 ||rcounter.rambler.ru^
 ||scnt.rambler.ru^
-!
-! Ucoz.net
 ||at.ua/stat/
 ||clicks.moy.su^
 ||do.am/stat/
 ||ucoz.*/main/?a=ustat;
 ||ucoz.*/stat/
-!
-! Yandex и Dzen
 @@||clck.yandex.ru/redir/dtype=clck/lid=wcat.razdel.
 @@||yandex.ru/metrika/watch.js$domain=maxidom.ru
 @@||yandex.ru/metrika/watch_visor.js$domain=sports.ru
@@ -17337,9 +17271,6 @@ www.google.*##+js(remove-attr, jsaction, #islsp c-wiz a[href^="http"][data-ved][
 ||yandex.*/clck/
 ||yandex.ru/click/
 ||yandex.ru/metrika/
-!
-! = Определение логина в популярных сервисах ==================================
-! Подробнее: https://robinlinus.github.io/socialmedia-leak/
 ||academia.edu/login?$image
 ||amazon.com/ap/signin/*?$image
 ||battle.net/login/*/index?$image
@@ -17360,8 +17291,6 @@ www.google.*##+js(remove-attr, jsaction, #islsp c-wiz a[href^="http"][data-ved][
 ||plus.google.com/up/?$image
 ||plus.google.com/up/accounts/upgrade/?$image
 ||spotify.com/*/login/?$image
-!
-! = Частные и экспериментальные фильтры =======================================
 sfw.so###banner_counters
 sinoptik.ua###bigmirTop
 lurkmo.re,lurkmore.to###p-counters
@@ -17440,8 +17369,6 @@ top100.rambler.*##body > div:not([id])[style="position: absolute; z-index: 10000
 ||rcmjs.rambler.ru^$domain=avtorambler.com|rambler.ru
 ||storage.mds.yandex.net/get-canvas-html5/*.html?link1=$empty,subdocument
 ||yastatic.net/naydex/autoru/$script,redirect=empty
-!
-! yandex
 /^https?://mail\.yandex\.[^\s]{125,}/$empty,script,~third-party
 /^https?://yastatic\.net\/www\/_\/[^\s]{150,}/$empty,image,domain=yandex.by|yandex.kz|yandex.ru|yandex.uz
 @@://yandex.*/news/$generichide
@@ -17524,8 +17451,6 @@ yandex.com##.serp-list > div[data-bem*=".jpg"] ~ div .Root[id]:style(display: no
 ~yandex.net,yandex.*##+js(set-constant, Object.prototype.getHoneypot, null)
 ~yandex.net,yandex.*##+js(set-constant, Object.prototype.isOpenImageUnauthPopupEnabled, false)
 ~yandex.net,yandex.*##+js(set-constant, Object.prototype.los, null)
-!
-! мобильная версия
 yandex.*##.justifier__col > div[class*="_type_direct"]:style(display: none !important)
 yandex.*##.tiled-images__items > div[class*="rim-direct-"]:style(display: none !important)
 yandex.*##.touch-feed > div > .feed-item[id^="zen-row-"]:has([class^="zen-ui-channel-info"][class$="subtitle-text"]:has-text(промо)):style(display: none !important)
@@ -17538,8 +17463,6 @@ yandex.*##div[class^="images-viewer-content"] > div[class*="behavioral-direct"]:
 yandex.*##div[id*="page"] div[class*="_banner_"]:style(display: none !important)
 yandex.*##div[id^="ADVERT_"]:style(display: none !important)
 ~afisha.yandex.*,yandex.*##[data-bem*="type"][data-bem*="banner"]:not(body):not(form):not(.content):style(display: none !important)
-!
-! Альтернативное решение для старых браузеров
 @@||an.yandex.ru/jserr/1|$domain=dzen.ru|yandex.by|yandex.kz|yandex.ru|yandex.uz
 @@||an.yandex.ru/mapuid/tnscounter/?from=yan_oo-rtb-direct|$xmlhttprequest,domain=yandex.by|yandex.kz|yandex.ru|yandex.uz
 @@||an.yandex.ru/mapuid/yandex/$image,domain=dzen.ru|yandex.by|yandex.kz|yandex.ru|yandex.uz
@@ -17558,22 +17481,14 @@ yandex.*##div[id^="ADVERT_"]:style(display: none !important)
 @@||yastatic.net/safeframe-bundles/*/host.js|$xmlhttprequest,domain=ya.ru|yandex.by|yandex.kz|yandex.ru|yandex.uz
 dzen.*,ya.*,~yandex.net,yandex.*##body:not(#id) > div[style*="100px"][style*="75px"][style*="overflow:"] div:style(display: block !important)
 ya.*,~yandex.net,yandex.*##body > div[style="position:absolute;left:-10px;top:0;width:1px;height:1px;overflow:hidden;"] div:style(display: block ! important)
-!
-! 4pda.to (ранее 4pda.ru)
 4pda.*##+js(no-setTimeout-if, removeAttr, setTimeout)
-! верхняя плашка
 4pda.*##html[style]:not([style=""]) :not(div):not([id]) > :not(div)[id][class] > div[id][class]:not(:empty):style(display: none !important)
-! верхняя плашка в мобильном макете 534×854
 4pda.*##html[style] > body [class]:not([id]):not(div):not([style]) :not(div)[class][id][style^="min-height:"][style$="px;"]:style(display: none !important)
-! рекламный фон
 4pda.*##.icon-up-small:style(color: inherit !important)
 4pda.*##html[style] [class]:not(div):not([id]) > :not(div)[id][class] > div[id][class] ~ :not(div)[id][class] ~ :not(div)[id][class]:not(:empty):style(background: none !important)
 4pda.*##html[style]:not([style=""]) > body:style(background-color :#E6E7E9 !important)
-! кликабельный элемент рекламного фона
 4pda.*##html[style] > body [id][class] > script ~ [class]:not(empty):not(:last-of-type) article + article.post:style(display: none !important)
-! эстетический отступ сверху
 4pda.*##html[style] > body div.holder-no-hidden:style(margin-bottom: 10px !important)
-! пустые и рекламные блоки в правой колонке
 4pda.*##html[style] > body [id][class][style^="overflow: hidden; height:"] > div[style*="display: block;"]:style(display: none !important)
 4pda.*##html[style] > body [id][class][style^="overflow: hidden; height:"] > div[style]:has(a[href][target="_blank"] > img):style(display: none !important)
 4pda.*##html[style] > body:not([style=";background-color:#E6E7E9!important"]) [id][class] > .slider-list:nth-child(-n+5) + div[class]:style(display: none !important)
@@ -17581,11 +17496,9 @@ ya.*,~yandex.net,yandex.*##body > div[style="position:absolute;left:-10px;top:0;
 4pda.*##html[style] [id] .slider-list[style] ~ div[class]:not([id]) > [style=""]:style(display: none !important)
 4pda.*##html[style] [id] .slider-list[style] ~ div[class]:not([id]):has(> :only-child:not(div):not([id]):not([class])):style(display: none !important)
 4pda.*##html[style] [id] div[class]:has(> h2 ~ script:has-text(/return/)):style(display: none !important)
-! пустые и рекламные блоки в материалах
 4pda.*##html[style] > body .advanced-area .post[itemid] ~ .post:not([itemid]):has(> [class] a[href][target="_blank"]):style(display: none !important)
 4pda.*##html[style] > body .advanced-area .post[itemid] ~ .post:not([itemid]):has(> [class]:empty):style(display: none !important)
 4pda.*##html[style] > body .advanced-area .post[itemid] ~ .post:not([itemid]):nth-child(-n+3):style(display: none !important)
-! различные рекламные ссылки, в основном в брендированных материалах
 4pda.*##.article > div[style^="background-color:"]:has(> span + a[id][href][target="_blank"]):style(display: none !important)
 4pda.*##.infinix-nav:style(display: none !important)
 4pda.*##[itemprop="articleBody"] > div[style^="background-color:"]:has(> span + a[id][href][target="_blank"]):style(display: none !important)
@@ -17603,22 +17516,14 @@ ya.*,~yandex.net,yandex.*##body > div[style="position:absolute;left:-10px;top:0;
 4pda.*##html[style] > body a[href*="goo.gl"]:style(display: none !important)
 4pda.*##html[style] > body a[href*="is.gd"]:style(display: none !important)
 4pda.*##html[style] > body div[class$="-brand-header"]:style(display: none !important)
-! анонс в мобильно-планшетной версии макета
 4pda.*##html[style] > body > script[src*=".js?_="] ~ * > [class][style*="zoom:"]:style(display: none !important)
 4pda.*##html[style] > body > script[src*=".js?_="] ~ [class][style*="zoom:"]:style(display: none !important)
-! анонс в шапке форума
 4pda.*###go_1 > :not(p):not(h4):not(.globalmesscontent):style(display: none !important)
-! реклама в шапке форума
 4pda.*##html:not([style]) tbody > tr[valign="top"] > td[width*="20"] + td[class]:style(display: none !important)
-! реклама при скачивании на форуме
 4pda.*###lbOverlay:style(background: none !important)
 4pda.*##html:not([style]) > body:not([itemscope]) > div[id]:not([href]) > [href="#"]:empty ~ [id][href]:style(display: none !important)
-! реклама в QMS и мобильной версии сайта
 4pda.*##.menu-main-mobile > [style="display:none;"]:style(display: none !important)
-! редирект
 4pda.*##+js(abort-on-property-read, document.referrer)
-!
-! Экспериментальные правила для маркеров
 $document,removeparam=/[a-z]\=1$/,domain=svpressa.ru
 $document,removeparam=app_id_mytracker,domain=mail.ru
 $document,removeparam=authid,domain=mail.ru
@@ -17874,7 +17779,6 @@ utm_$document,removeparam=ig_rid,domain=instagram.com
 ||ykt.ru^$document,removeparam=/news_interesting|news_plus|news_popular|news_recent|promo_inner/,domain=ykt.ru
 ||youtube.com/embed/$subdocument,removeparam=iv_load_policy
 ||youtube.com/embed/$subdocument,removeparam=rel
-! исключения
 @@/forum\/(login|torrent)\.php\?(logout|mode)\=/$removeparam,domain=nnmclub.ro|nnmclub.to
 @@|https://www.sravni.ru/$subdocument,removeparam=utm_campaign
 @@|https://www.sravni.ru/$subdocument,removeparam=utm_content
@@ -17888,14 +17792,11 @@ utm_$document,removeparam=ig_rid,domain=instagram.com
 /deadblocker/*
 /mod_ablockdetector/*
 /npsblocker/js/ads.
-!
 @@/adsbygoogle.js$script,domain=arabiaweather.com
-!
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=shahid.mbc.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=shed4u1.com|elktob.online
 @@||play.bokracdn.run/v2/adsjs/ads.js$script,~third-party
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=shahid.mbc.net
-!
 ###adblock_screen
 ###adblock_message
 ##.adblockInfo
@@ -17905,7 +17806,6 @@ utm_$document,removeparam=ig_rid,domain=instagram.com
 ##.deadblocker-header-bar
 ##.detected-block-modal
 ##.no-ad-reminder
-!
 kimo.ma##.adb
 azrotv.com##.adbn-wrap
 freestore.app##.adbn2-wrap2
@@ -17915,31 +17815,21 @@ okanime.tv##.jconfirm
 fctvhd.com##.mw-adblock
 4algeria.com##.xenOverlay
 azrotv.com##div[id^="laoad_Adb"]
-!
 shahid4u.club#@#.adsBox
-!
 @@||ency-educ.com^$generichide
 @@||shahid.mbc.net^$generichide
 @@||yacine-app.com^$generichide
-!
-! *** antiadblockfilters:antiadblockfilters/antiadblock_chinese.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_czech.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_dutch.txt ***
 bouweenpc.nl###header-banner
 rtlxl.nl##.adblock
 spele.nl##.adblocker
 koolhydraatarmerecepten.info##body > [style^="z-index: 1000000; "]
-! *** antiadblockfilters:antiadblockfilters/antiadblock_english.txt ***
-! General block
 /adblock-alerter/js/adblock_alerter.js
 /adblock-img.
 /adsmatcher-anti-adblock/*
 /arlinablock.js
-! General hide
 ##.ad-blocker-warning
 ##.main_adbalert
 ##.pane-emediate
-! Specific block
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
 ||baeldung.com/*/library/dist/js/ad-recovery.min.js
 ||corrosif.science^$domain=filerev.cc|pencurimovie.pw
@@ -17953,10 +17843,8 @@ koolhydraatarmerecepten.info##body > [style^="z-index: 1000000; "]
 ||venea.net/web/ab_message?
 ||wheregoes.com/c/uploads/$script
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
-! Third-party servers
 ||content-settings.com^$third-party
 ||site-config.com^$third-party
-! Admiral antiadb
 ||2znp09oa.com^$third-party
 ||4jnzhl0d0.com^$third-party
 ||5mcwl.pw^$third-party
@@ -19208,7 +19096,6 @@ koolhydraatarmerecepten.info##body > [style^="z-index: 1000000; "]
 ||zephyrlabyrinth.com^$third-party
 ||zestycrime.com^$third-party
 ||zlp6s.pw^$third-party
-! Specific hide
 mediafire.com###abnotify
 llifle.com###ad_blocker_found
 flightradar24.com###bottomRightPanel
@@ -19252,26 +19139,19 @@ playonlinux.com##div[style="text-align:center;  border-radius:7px; width:160px; 
 byzoo.org,videobug.net##div[style^="position: absolute; width: 300px;"]
 outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 homerun.re,strikeout.co,vipbox.sx,vipleague.ch,vipleague.co,vipleague.is,vipleague.me##span[id][style] > div[id]:first-child:last-child
-! NSFW
 redtube.com###as_131
 redtube.com###slidePanelContainerAB
 redtube.com##.qb
 shadbase.com##img[alt="adblock"]
-! Firstparty whitelist
 @@||ankrzkz.sbs/js/boxad.js?$script,~third-party
 @@||download.megaup.net/openads.js$script,~third-party
-! Thirdparty whitelist
 @@||alwingulla.com/88/tag.min.js$domain=darkino.online
 @@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr|milliyet.com.tr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=exe-urls.com|fileink.com|rockmods.net
-! Generichide
 @@||cheatography.com^$generichide
 @@||darkino.online^$generichide
 @@||docs.w3cub.com^$generichide
 @@||www.ifon.ca^$generichide
-! *** antiadblockfilters:antiadblockfilters/antiadblock_finnish.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_french.txt ***
-!
 -adblock-notice-
 -adblock-notice/*
 /abb-msg.js
@@ -19321,7 +19201,6 @@ shadbase.com##img[alt="adblock"]
 /SvgAdblockDetected/*
 _adblocker_detected
 _adblock_killer.
-!
 ||bdgest.com/js/site.js?
 ||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
 ||cmath.fr/images/fond2.gif
@@ -19336,11 +19215,9 @@ _adblock_killer.
 ||nrj.fr/nrj?Page=/rg.fake&
 ||sdefx.cloud/js/acheck.js
 ||skyrock.net/img/*/adblock/
-!
 @@/ads.js$script,~third-party,domain=abcbourse.com|action-sociale.org|anime-vf.fr|impactmangas.fr|presse-algerie.net|primfx.com|undernews.fr
 @@/advertisement.js$script,~third-party,domain=fun-animes.fr|macupload.net|majorgeeks.com|upload.ac
 @@/noadblock-nice-message/assets/js/ads.js?$script,~third-party
-!
 @@||animedigitalnetwork.fr/templates/*/js/advertising.min.js?$script,~third-party
 @@||ausujet.com/skins/common/ads.js
 @@||cdncontent.wakanim.tv/scripts/dist/ads.js$script,xmlhttprequest,~third-party
@@ -19378,7 +19255,6 @@ _adblock_killer.
 @@||v.fwmrm.net/ad/g/1?$xmlhttprequest,domain=www.mycanal.fr
 @@||wamiz.com/css/ads.css
 @@||zagaz.com/img/blogads.css
-!
 ###AdBlockDialog
 ###aabl-container
 ###abp-killer
@@ -19513,7 +19389,6 @@ _adblock_killer.
 ##adblock-detect
 ##adblock-modal-component
 ##adblocker
-!
 cowcotland.com,wamiz.com###adblocker
 jaitoutcompris.com###antiBlock
 nautiljon.com###cmsg
@@ -19541,9 +19416,6 @@ forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
 closermag.fr##div[id^="detection-block"]
 bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
 pausecafein.fr###adb-pop
-!
-#@##adblocktest
-!
 dbz-fantasy.com#@##adTeaser
 fstore.biz#@##adblockinfo
 dz-android.com,freeiphone.fr,hommedumatch.fr,jetetroll.com,testious.com#@##adsense
@@ -19557,20 +19429,11 @@ japscan.lol#@#.ad_slot
 gamaniak.com#@#.adsbygoogle
 dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
-!
 @@||jeux.meteocity.com^$generichide
 @@||toplien.fr^$generichide
-!
-! *** antiadblockfilters:antiadblockfilters/antiadblock_german.txt ***
 ##.diysdk_webServices_banners1und1MainContent
 usgang.ch###rectangle-wrapper
 ||jappy.tv/i/wrbng/abb.png
-! *** antiadblockfilters:antiadblockfilters/antiadblock_hebrew.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_indonesian.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_italian.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_latvian.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_romanian.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_russian.txt ***
 delfi.ee###ab--notification-ribbon
 minimultik.ru###abDetected
 patrioty.org.ua###ad_pu_modal
@@ -19801,5 +19664,3 @@ bigpuzzle.ru##td[valign="top"][width="240px"][height="600"]
 ||rusnext.ru/advar.js$script
 ||shellcat.ru^$third-party
 ||vazhno.ru/cdn-cgi/apps/head/*.js
-! *** antiadblockfilters:antiadblockfilters/antiadblock_slovak.txt ***
-! *** antiadblockfilters:antiadblockfilters/antiadblock_spanish.txt ***
