@@ -1,8 +1,8 @@
 ! Title: NoADS_RU Extended
-! Author: Zalexanninev15. 
+! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: MIT
-!! Topic in Telegram group: https://t.me/z15_community/123
+!! Topic in Telegram group: https://t.me/z15_community
 !! Donate: https://z15.neocities.org/donate
 
 ! Автор выражает больщущий респект Faust и mtxadmin.
@@ -10689,6 +10689,8 @@ zloekino.ru
 zoomby.ru
 
 ! Маркетплейсы, Ru. Порабощают ваш разум и душу, заставляя скупать всё что видите. Бегите, глупцы.
+ozon.ru##div[data-widget="bigPromoCounterFlex"]
+
 ||megamarket.ru/*/promoContent/
 ||megamarket.ru/*/promoContentService/
 ||megamarket.ru/api/mobile/v1/cxappadmin/alarmScreen/get
