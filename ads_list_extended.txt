@@ -258,22 +258,6 @@ thecommunity.ru##[href="https://fb.me/thecommunity.ru"] > .social-button
 thecommunity.ru##.row-margin.row
 thecommunity.ru##.navbar-button.navbar-right-mobile.dropdown > .dropdown-toggle
 
-! 13.02.2020 https://www.ozon.ru
-www.ozon.ru##li.a0f7:nth-of-type(1) > .ui-a0s9
-www.ozon.ru##.c3v9
-www.ozon.ru##a.a8t9.ay7:nth-of-type(2) > .a8t7
-www.ozon.ru##a.a8t9.ay7:nth-of-type(2)
-www.ozon.ru##a.a8t9.ay7:nth-of-type(3) > .a8t7
-www.ozon.ru##a.a8t9.ay7:nth-of-type(3)
-||cdn1.ozone.ru/s3/sellerassets/*46a9a207-4c1a-11ea-b7be-021953603d88.jpeg$image
-www.ozon.ru##.block-vertical > .c2o5.container > div.row:nth-of-type(1) > div.column:nth-of-type(1)
-||cdn1.ozone.ru/s3/cms/e5/t1b/c*000/gifts_ozon_1000_2000_1.jpg$image
-www.ozon.ru##div.row:nth-of-type(3) > .md-3.column > .column__item_remove-margin.ag0 > .a0t3.a0t0.ay7 > .a0t5.av1 > .av3.c4.img
-www.ozon.ru##div.row:nth-of-type(3) > .md-3.column > .column__item_remove-margin.ag0 > .a0t3.a0t0.ay7 > .a0t5.av1
-www.ozon.ru##div.row:nth-of-type(3) > .md-3.column > .column__item_remove-margin.ag0 > .a0t3.a0t0.ay7
-www.ozon.ru##div.row:nth-of-type(3) > .md-3.column > .column__item_remove-margin.ag0
-www.ozon.ru##a.f9:nth-of-type(2)
-
 ! 13.02.2020 https://gmbox.ru
 ||vk.com/widget_community.php?app=0&width=260px&_ver=1&gid=31313813&mode=3&color1=eeeeee&color2=000000&color3=5E81A8&class_name=&height=400&url=https%3A%2F%2Fgmbox.ru%2F&referrer=https%3A%2F%2Fgmbox.ru%2Fmaterials%2F41489-10-izvestnih-igr-ischeznuvshih-iz-steam&title=GMBOX%20-%20%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%20%D0%BF%D1%80%D0%BE%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8E%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80.%20%D0%A1%D0%BC%D1%8B%D1%81%D0%BB%20%D0%B2%20%D0%B8%D0%B3%D1%80%D0%B0%D1%85!&1703f6b7197$subdocument
 gmbox.ru###vk_groups
@@ -935,66 +919,6 @@ aliexpress.ru##[href^="https://www.facebook.com/sharer/sharer.php"]
 aliexpress.ru##[href^="https://twitter.com/intent/tweet"]
 aliexpress.ru##div:nth-of-type(3) > .cross-link
 
-! 20.02.2020 https://www.ozon.ru
-www.ozon.ru##.a0n5.a0n4.a1l8 > span
-www.ozon.ru##li.a0n7:nth-of-type(1)
-www.ozon.ru##div.row:nth-of-type(6) > .md-3.column
-www.ozon.ru##div.row:nth-of-type(5) > .md-3.column
-www.ozon.ru##.a0f4
-www.ozon.ru##.block-vertical > .c2y6.container > div.row:nth-of-type(1)
-||cdn1.ozone.ru/s3/cms/6c/t0e/c*000/ozon_pampers_pants_1000x2000.jpg$image
-||cdn1.ozone.ru/s3/cms/01/t9e/c*000/1000x2000.jpg$image
-www.ozon.ru##div.row:nth-of-type(4) > div.column:nth-of-type(1) > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4 > .a2a6.f2.img
-www.ozon.ru##div.row:nth-of-type(4) > div.column:nth-of-type(1) > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4
-www.ozon.ru##div.row:nth-of-type(4) > div.column:nth-of-type(1) > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8
-www.ozon.ru##div.row:nth-of-type(4) > div.column:nth-of-type(1) > .column__item_remove-margin.ay7
-www.ozon.ru##div.row:nth-of-type(4) > div.column:nth-of-type(1)
-www.ozon.ru##div.row:nth-of-type(3) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4 > .a2a6.f2.img
-www.ozon.ru##div.row:nth-of-type(3) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4
-www.ozon.ru##div.row:nth-of-type(3) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8
-www.ozon.ru##div.row:nth-of-type(3) > .md-3.column > .column__item_remove-margin.ay7
-www.ozon.ru##div.row:nth-of-type(3) > .md-3.column
-||cdn1.ozone.ru/s3/cms/c8/t2c/c*000/8001600.jpg$image
-www.ozon.ru##div.row:nth-of-type(12) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4 > .a2a6.f2.img
-www.ozon.ru##div.row:nth-of-type(12) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4
-www.ozon.ru##div.row:nth-of-type(12) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8
-www.ozon.ru##div.row:nth-of-type(12) > .md-3.column > .column__item_remove-margin.ay7
-www.ozon.ru##div.row:nth-of-type(12) > .md-3.column
-www.ozon.ru##div.row:nth-of-type(2) > div.column:nth-of-type(3) > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4 > .a2a6.f2.img
-www.ozon.ru##div.row:nth-of-type(2) > div.column:nth-of-type(3) > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4
-www.ozon.ru##div.row:nth-of-type(2) > div.column:nth-of-type(3) > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8
-www.ozon.ru##div.row:nth-of-type(2) > div.column:nth-of-type(3) > .column__item_remove-margin.ay7
-www.ozon.ru##div.row:nth-of-type(2) > div.column:nth-of-type(3)
-www.ozon.ru##.column__item_remove-margin.b7w4
-www.ozon.ru##.paginator > div:nth-of-type(1) > div.c2y6.container:nth-of-type(3) > .row > div.column:nth-of-type(1)
-www.ozon.ru##.aj
-www.ozon.ru##a.a8o.a1l8:nth-of-type(2) > .a8n8
-www.ozon.ru##a.a8o.a1l8:nth-of-type(3) > .a8n8 > path
-www.ozon.ru##a.a8o.a1l8:nth-of-type(3) > .a8n8
-www.ozon.ru##a.a8o.a1l8:nth-of-type(3)
-www.ozon.ru##a.a8o.a1l8:nth-of-type(2)
-www.ozon.ru##.a7n1 > .a7m3
-www.ozon.ru##div.row:nth-of-type(3) > .column > .column__item_remove-margin.ay7 > .a3g6
-www.ozon.ru##div.c2y6.container:nth-of-type(1) > div.row:nth-of-type(3) > .column
-||cdn1.ozone.ru/s3/cms/3f/t7f/c*000/800x1600_2_copy_2.jpg$image
-www.ozon.ru##div.row:nth-of-type(1) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4 > .a2a6.f2.img
-www.ozon.ru##div.row:nth-of-type(1) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4
-www.ozon.ru##div.row:nth-of-type(1) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8
-www.ozon.ru##div.c2y6.container:nth-of-type(1) > div.row:nth-of-type(1) > .md-3.column > .column__item_remove-margin.ay7
-www.ozon.ru##div.c2y6.container:nth-of-type(1) > div.row:nth-of-type(1) > .md-3.column
-www.ozon.ru##.c3o1
-www.ozon.ru###header
-www.ozon.ru##div.row:nth-of-type(3) > div.column:nth-of-type(1) > .column__item_remove-margin.ay7 > .a3g2 > .a3g3
-www.ozon.ru##div.row:nth-of-type(3) > div.column:nth-of-type(1) > .column__item_remove-margin.ay7 > .a3g2
-www.ozon.ru##div.row:nth-of-type(3) > div.column:nth-of-type(1) > .column__item_remove-margin.ay7
-www.ozon.ru##div.row:nth-of-type(3) > div.column:nth-of-type(1)
-||cdn1.ozone.ru/s3/cms/a1/ta7/c*000/800x1600_4_1_1.jpg$image
-www.ozon.ru##div.row:nth-of-type(10) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4 > .a2a6.f2.img
-www.ozon.ru##div.row:nth-of-type(10) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8 > .a3m9.a2a4
-www.ozon.ru##div.row:nth-of-type(10) > .md-3.column > .column__item_remove-margin.ay7 > .a3m7.a3m4.a1l8
-www.ozon.ru##div.row:nth-of-type(10) > .md-3.column > .column__item_remove-margin.ay7
-www.ozon.ru##div.row:nth-of-type(10) > .md-3.column
-
 ! 20.02.2020 https://euroset.ru
 euroset.ru##.corp-info > .corn
 ||cdn.euroset.ru/upload/resize_cache/rk/305/240_400_1d4745e82aecb406b29b31e88c9ff0e4a/305f25de2bd30178ce1825b60d6dea87.jpg$image
@@ -1276,25 +1200,6 @@ yandex.ru##.link_js_inited.uIWB2GzY.footer__link_name_stat-news.footer__link.lin
 
 ! 04.03.2020 https://music.yandex.ru
 music.yandex.ru##li.deco-popup-menu__item.d-links__link:nth-of-type(1) > .deco-link_no-hover-color.d-link_no-hover-color.d-links__link_text.footer__subscribe-link.deco-link.d-link
-
-! 04.03.2020 https://www.ozon.ru
-www.ozon.ru##.a
-www.ozon.ru##.block-vertical > .c2c4.container > div.row:nth-of-type(1)
-www.ozon.ru##div.c2c4.container:nth-of-type(1) > div.row:nth-of-type(1) > .column
-www.ozon.ru##div.row:nth-of-type(4) > div.column:nth-of-type(3) > .column__item_remove-margin.b6i7 > .b6i9
-www.ozon.ru##div.row:nth-of-type(4) > div.column:nth-of-type(3) > .column__item_remove-margin.b6i7
-www.ozon.ru##div.c2c4.container:nth-of-type(1) > div.row:nth-of-type(4) > div.column:nth-of-type(3)
-www.ozon.ru##div.c2c4.container:nth-of-type(1) > .b4b9
-www.ozon.ru##.block-vertical > .c2c4.container > div.row:nth-of-type(4) > .md-3.column
-www.ozon.ru##div.row:nth-of-type(8) > .md-3.column
-www.ozon.ru##a.a2a1.a0r8:nth-of-type(3) > .a2a > path
-www.ozon.ru##a.a2a1.a0r8:nth-of-type(3) > .a2a
-www.ozon.ru##a.a2a1.a0r8:nth-of-type(3)
-www.ozon.ru##a.a2a1.a0r8:nth-of-type(2) > .a2a > path
-www.ozon.ru##a.a2a1.a0r8:nth-of-type(2) > .a2a
-www.ozon.ru##a.a2a1.a0r8:nth-of-type(2)
-www.ozon.ru##.w
-www.ozon.ru##li.a1q0:nth-of-type(1) > .ui-a0s9
 
 ! 04.03.2020 https://yandex.ru
 yandex.ru##div.services-all__group:nth-of-type(10) > .services-all__list > div.services-all__item_wrap:nth-of-type(8) > .services-all__link.link > .services-all__item
@@ -1923,24 +1828,6 @@ mail.yandex.ru##.ha9527469.b7f985700.i6a94d03d.g7af0ba7b
 ! 08.04.2020 https://vk.com
 vk.com###chat_tab_wrap
 
-! 09.04.2020 https://www.ozon.ru
-www.ozon.ru##div.c0g:nth-of-type(2) > div.c0c9.c0d3:nth-of-type(1)
-www.ozon.ru##div.c0g1.container:nth-of-type(2) > div.c0g:nth-of-type(1) > div.c0c9:nth-of-type(3)
-www.ozon.ru##div.c0g:nth-of-type(8) > .c0c9.c0d3
-www.ozon.ru##.paginator > div:nth-of-type(1) > div.c0g1.container:nth-of-type(2) > div.c0g:nth-of-type(3) > div.c0c9:nth-of-type(3)
-www.ozon.ru##div.c0g:nth-of-type(4) > .c0c9.c0d3
-www.ozon.ru##div.c0g:nth-of-type(3) > .c0c9.c0d3
-||cdn1.ozone.ru/s3/cms/da/ta7/wc*0/care_1416x100_2x.jpg$image
-www.ozon.ru##.c0d0.a9d4.a9d6.a9c8
-www.ozon.ru##.a2t3
-www.ozon.ru##a.a8v3.a0n3:nth-of-type(3) > .a8v1 > path
-www.ozon.ru##a.a8v3.a0n3:nth-of-type(3) > .a8v1
-www.ozon.ru##a.a8v3.a0n3:nth-of-type(3)
-www.ozon.ru##a.a8v3.a0n3:nth-of-type(2) > .a8v1
-www.ozon.ru##a.a8v3.a0n3:nth-of-type(2)
-www.ozon.ru##.a8b4.a8b3.a0n3 > span
-www.ozon.ru##.c1x8
-
 ! 09.04.2020 https://4pda.to
 ||s.4pda.to/dry7Nd1W4Ta3NbKEPdiZBH3e5yGd.jpg?_=1585757445$image
 
@@ -2154,28 +2041,6 @@ megapredmet.ru##div:nth-of-type(20)
 megapredmet.ru##.mb-share-all-content > div:nth-of-type(3)
 megapredmet.ru##.mb-share-all-content > div:nth-of-type(6)
 megapredmet.ru##div:nth-of-type(18)
-
-! 28.05.2020 https://aliexpress.ru
-aliexpress.ru##.fb
-aliexpress.ru##.twitter
-aliexpress.ru##.instagram
-
-! 28.05.2020 https://www.ozon.ru
-www.ozon.ru##div.bm9:nth-of-type(2)
-www.ozon.ru##.a1e5
-www.ozon.ru##.block-vertical > .bn0.container > div.bm9:nth-of-type(4) > .bj1.bj6
-www.ozon.ru##.ai9
-www.ozon.ru##a.c4q8.a0g7:nth-of-type(4) > .c4q6
-www.ozon.ru##a.c4q8.a0g7:nth-of-type(4)
-www.ozon.ru##a.c4q8.a0g7:nth-of-type(3) > .c4q6 > path
-www.ozon.ru##a.c4q8.a0g7:nth-of-type(3) > .c4q6
-www.ozon.ru##a.c4q8.a0g7:nth-of-type(3)
-www.ozon.ru##a.c4q8.a0g7:nth-of-type(2) > .c4q6 > path
-www.ozon.ru##a.c4q8.a0g7:nth-of-type(2) > .c4q6
-www.ozon.ru##a.c4q8.a0g7:nth-of-type(2)
-www.ozon.ru##.c4l9 > .c4l0
-www.ozon.ru##.c1u5.c1u4.a0g7
-www.ozon.ru##.block-vertical > .bn0.container > div.bm9:nth-of-type(3) > .bj1
 
 ! 28.05.2020 https://www.svyaznoy.ru
 www.svyaznoy.ru##.is-mobile-not.b-footer-menu__col > .b-footer-menu__socials > [href="https://twitter.com/svyaznoy_ru"]
@@ -2630,30 +2495,6 @@ app.simplenote.com##.grecaptcha-badge
 www.avito.ru##.apps-banner_vertical.apps-banner
 www.avito.ru##.width-width-12-2VZLz.carousel-content-wrap_right-shadow-k5Ni0.carousel-layout-XP-XZ
 www.avito.ru##.item-view-ads
-
-! 29.06.2020 https://www.ozon.ru
-www.ozon.ru##li.c4p2:nth-of-type(1) > .ui-a0s9
-||cdn1.ozone.ru/s3/cms/44/t93/wc*0/certificates_b2b_320x160.png$image
-www.ozon.ru##.c3w9.c3w2
-www.ozon.ru##div.b1s2.b1t5:nth-of-type(3) > .b1s0
-www.ozon.ru##li.c4l5:nth-of-type(1) > .c4l6.a0f1
-www.ozon.ru##div.b1t5:nth-of-type(1) > .b1s0.b1t0
-www.ozon.ru##div.b1s0:nth-of-type(2) > .b1s2.a7w3 > .a7w6.a7w5 > .az7 > .a0a5.az8.a0f1 > .a0a0 > .a0h3 > .a0h7
-www.ozon.ru##div.b1s0:nth-of-type(2) > .b1s2.a7w3 > .a7w6.a7w5 > .az7 > .a0a5.az8.a0f1 > .a0a0 > .a0h3
-www.ozon.ru##div.b1s2.aq7:nth-of-type(4)
-www.ozon.ru##div.b1s2.aq7:nth-of-type(3)
-www.ozon.ru##.b7h2.b7g6.b7g0.b7f0.b7f.b7e7.b7e5 > div.b1t5:nth-of-type(3) > .b1s0.b1s5
-www.ozon.ru##div.b1s2.aq7:nth-of-type(2)
-www.ozon.ru##.b1s2.a7t
-www.ozon.ru##a.c4q9.a0f1:nth-of-type(4) > .c4q7
-www.ozon.ru##a.c4q9.a0f1:nth-of-type(4)
-www.ozon.ru##a.c4q9.a0f1:nth-of-type(3) > .c4q7
-www.ozon.ru##a.c4q9.a0f1:nth-of-type(3)
-www.ozon.ru##a.c4q9.a0f1:nth-of-type(2) > .c4q7
-www.ozon.ru##a.c4q9.a0f1:nth-of-type(2)
-www.ozon.ru##.c4l0 > .c4k3 > div:nth-of-type(1)
-www.ozon.ru##div.c4k5:nth-of-type(3) > span.c4k8
-www.ozon.ru##div.c4k5:nth-of-type(3) > .c4k8.a0f1
 
 ! 29.06.2020 https://www.soundeffectsplus.com
 ||www.soundeffectsplus.com/uploads/prosoundpack.jpg$image
@@ -4236,20 +4077,6 @@ yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.kqSrtAPo.
 yandex.ru##.ko2jhEfLlGWunpL5FWag
 yandex.ru##.kqnTuAeHUBFCAiec.ko2jhEfLlGWunt7NU.card
 
-! 2020-09-12 https://www.ozon.ru
-www.ozon.ru##div.b6e2:nth-of-type(4) > .b5y.b5y4
-||cdn1.ozone.ru/s3/cms/46/t59/wc*0/frame_113_1.png$image
-www.ozon.ru##div.b6e3.container:nth-of-type(4) > .c6b1.c6a5
-www.ozon.ru##a.c6n1.a0k9:nth-of-type(2) > .c6n
-www.ozon.ru##a.c6n1.a0k9:nth-of-type(2)
-www.ozon.ru##a.c6n1.a0k9:nth-of-type(3) > .c6n > path
-www.ozon.ru##a.c6n1.a0k9:nth-of-type(3) > .c6n
-www.ozon.ru##a.c6n1.a0k9:nth-of-type(3)
-www.ozon.ru##.c4w6.c4w5.a0k9 > span
-www.ozon.ru##li.c4w8:nth-of-type(2) > .ui-a0s9 > .c4w5.a0k9 > span
-www.ozon.ru##li.c4w8:nth-of-type(3) > .ui-a0s9 > .c4w5.a0k9 > span
-www.ozon.ru##div:nth-of-type(1) > a.c6g2.a0k9:nth-of-type(2)
-
 ! 2020-09-12 https://pantherbar-app.com
 pantherbar-app.com##.cookie-notice-container
 
@@ -4610,17 +4437,6 @@ cloud.mail.ru##.TooltipAutumnSaleContent
 cloud.mail.ru##.TooltipAutumnSaleBox
 cloud.mail.ru##.Tooltip__arrow--d1fTW
 
-! 2020-10-04 https://www.ozon.ru
-www.ozon.ru##.b5y1.a7s5
-www.ozon.ru##div.b6e3.container:nth-of-type(1) > .c3t2
-www.ozon.ru##div.b6e2:nth-of-type(3) > .b5y > div.b5y1.ax0:nth-of-type(2) > .ax3.ax2
-www.ozon.ru##div.b6e3.container:nth-of-type(1) > div.b6e2:nth-of-type(3) > .b5y
-www.ozon.ru##.b0k.b0j3.b0i.b0h8 > div:nth-of-type(1)
-www.ozon.ru##div.b6e2:nth-of-type(2) > .b5y.b5y8 > .b5y1.c3t2
-www.ozon.ru##.b5y1.b6e7 > div.c3t2:nth-of-type(4)
-www.ozon.ru##.b0k.b0j3.b0i.b0h8 > div.b6e2:nth-of-type(4) > .b5y
-www.ozon.ru##div:nth-of-type(2) > .b6e2 > .b5y.b5y8 > div.b5y1.c3t2:nth-of-type(4)
-
 ! 2020-10-04 https://ru.wikipedia.org
 ru.wikipedia.org##.cbnnr-main
 
@@ -4967,12 +4783,6 @@ www.kinopoisk.ru##._2dovdoswa7bR8x0rL7ktFM.rX2wg-Vp7_P1amxEKCGQU._1MG74vTvaoBQmB
 ! 2020-12-11 https://devsoft.club
 devsoft.club##.js-enablePushContainer.notice--enablePush.notice--primary.js-notice.notice > .notice-content
 
-! 2020-12-11 https://www.ozon.ru
-www.ozon.ru##.b5y.b5y4
-www.ozon.ru##.b0j9.b0j3.b0i.b0h8 > div.b6e2:nth-of-type(1)
-www.ozon.ru##.b5y.b5z > .b5y1.b0k2.b0j3.b0i.b0h8 > div:nth-of-type(4)
-www.ozon.ru##.b5y1.twoItems4
-
 ! 2020-12-19 https://yandex.ru
 yandex.ru##.t9vQN08_71Mwr4uuer8o
 yandex.ru##.t_agCw9zKyfcMz7I.t9vQN08_71Mwr8eaP.card.t9vQHwvzw0g
@@ -5123,17 +4933,9 @@ qiwi.com##.footer-apps-85
 qiwi.com##.cookies-self-65
 qiwi.com##.footer-apps-59
 
-! 2021-01-13 https://www.ozon.ru
-www.ozon.ru##.a0x6
-||cdn1.ozone.ru/s3/cms/27/t85/wc*0/336x550_3.jpg$image
-www.ozon.ru##.b5y1.c6b1.c6a5
-www.ozon.ru##div.b6e2:nth-of-type(5)
-www.ozon.ru##div.b5y1.b6e2:nth-of-type(3)
-
 ! 2021-01-13 https://travel.ozon.ru
 travel.ozon.ru##.MobileAdSection_mobilePart__3ctgt
 travel.ozon.ru##div.FooterSocial_item__3Qwwb:nth-of-type(2)
-travel.ozon.ru##li.RootNav2_item__1SxQ9.FooterLinks_item__2_ZJT > [href="/advertising/"]
 ||cdn.ozon.travel/common/i/all-pics/banners/adfox_app_free_reg.png$image
 ||cdn.ozon.travel/common/i/all-pics/banners/adfox_autoreg.png$image
 travel.ozon.ru##dd:nth-of-type(12)
@@ -9353,11 +9155,6 @@ wiki.dieg.info##.hidden-print.col-md-2.col-sm-3.dw__sidebar
 www.marktechpost.com##.mysticky-welcomebar-fixed-wrap
 www.marktechpost.com##.animation-start.entry-effect.mysticky-welcomebar-animation.mysticky-welcomebar-entry-effect-slide-in.mysticky-welcomebar-attention-default.mysticky-welcomebar-display-mobile.mysticky-welcomebar-display-desktop.mysticky-welcomebar-btn-mobile.mysticky-welcomebar-btn-desktop.mysticky-welcomebar-showx-mobile.mysticky-welcomebar-showx-desktop.mysticky-welcomebar-position-bottom.mysticky-welcomebar-widget-19.front-site.mysticky-welcomebar-fixed
 
-! 2023-08-16 https://www.ozon.ru
-www.ozon.ru##.h7 > .b0
-www.ozon.ru##.uc0
-www.ozon.ru##.cu0.d2g
-
 ! 2023-08-16 https://market.yandex.ru
 market.yandex.ru##.main > div > div > article
 
@@ -9374,11 +9171,6 @@ www.cifrus.ru###slideout_inner > [href] > .img-responsive
 ! 2023-09-01 https://www.ozon.ru
 www.ozon.ru##div.acc5:nth-of-type(6)
 www.ozon.ru##div.acc5:nth-of-type(3)
-www.ozon.ru##li.di8:nth-of-type(3)
-www.ozon.ru##.c0u
-www.ozon.ru##.uc.dg2
-www.ozon.ru##.sk3.k2s.k5s.rk9 > div.e0:nth-of-type(1) > .c7
-www.ozon.ru##.c7.d5 > div > div > div.acc5 > .ac5c
 
 ! 2023-09-01 https://www.youtube.com
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
@@ -9883,9 +9675,6 @@ yandex.com##div[class^="AppPromo"]
 yandex.com##div[class^="AppMoney"]
 yandex.com##a:has-text("Реклама")
 yandex.com##[href^="https://redirect.appmetrica.yandex.com"]
-
-! 2 мая 2025 г. https://www.ozon.ru
-www.ozon.ru##[href^="https://pvz.ozon.ru"]
 
 ! 23 мая 2025 г. https://yandex.ru
 yandex.ru##a[href*="premium"]
@@ -11097,7 +10886,6 @@ ozon.*##[data-widget="objectGrid3"]:has-text(Ловите часы)
 ozon.*##div[data-widget="skuScroll"]:has(span:has-text(Покупают вместе))
 ozon.*##[data-widget=islandSeparator] + div[data-widget=container]:has(div[data-widget="skuScroll"])
 ozon.*##[data-widget=islandSeparator] ~ div[data-widget=objectGrid1]
-ozon.*##[data-widget="island"]:not(:matches-path(/my/order)):not(:matches-path(/my/fav)):not(:matches-path(/seller))
 ozon.*##[data-widget="container"]:has-text(Все товары Хот Сейл)
 ozon.*##button:has-text(Premium)
 ozon.*##.skeleton-banner
@@ -11157,23 +10945,36 @@ ozon.*##[data-widget="objectLine"]:has-text(/распродаж/i)
 ozon.*##div[data-widget="skuGrid"]:matches-path(miniapp=)
 ozon.*##[data-widget="cell"]:has-text(Время призов)
 ozon.ru##div:has(>a[href^="https://www.ozon.ru/product/elektronnyy-podarochnyy-sertifikat"])
+ozon.ru##a[href*="/product/elektronnyy-podarochnyy-sertifikat"]
 ozon.by##div:has(>a[href^="https://www.ozon.by/product/elektronnyy-podarochnyy-sertifikat"])
+ozon.by##a[href*="/product/elektronnyy-podarochnyy-sertifikat"]
 ozon.com##div:has(>a[href^="https://www.ozon.com/product/elektronnyy-podarochnyy-sertifikat"])
+ ozon.com##a[href*="/product/elektronnyy-podarochnyy-sertifikat"]
 ozon.kz##div:has(>a[href^="https://www.ozon.kz/product/elektronnyy-podarochnyy-sertifikat"])
+ozon.kz##a[href*="/product/elektronnyy-podarochnyy-sertifikat"]
 ozon.ru##a[href^="https://www.ozon.ru/landing/"]:has(img)
 ozon.by##a[href^="https://www.ozon.by/landing/"]:has(img)
 ozon.com##a[href^="https://www.ozon.com/landing/"]:has(img)
 ozon.kz##a[href^="https://www.ozon.kz/landing/"]:has(img)
 ozon.*##a[href^="/landing/"]
+ozon.*##a[href^="/partpayment/"]
+ozon.*##a[href^="/premium/"]
 ozon.ru##div:has(>a[href^="https://www.ozon.ru/special/care/"])
+ozon.ru##a[href*="/special/care/"]
 ozon.by##div:has(>a[href^="https://www.ozon.by/special/care/"])
+ozon.by##a[href*="/special/care/"]
 ozon.com##div:has(>a[href^="https://www.ozon.com/special/care/"])
+ ozon.com##a[href*="/special/care/"]
 ozon.kz##div:has(>a[href^="https://www.ozon.kz/special/care/"])
+ozon.kz##a[href*="/special/care/"]
 ozon.*##[data-widget="userAvatar"]
 ozon.ru##a[href="https://finance.ozon.ru/"]:has(img)
 ozon.by##a[href="https://finance.ozon.by/"]:has(img)
 ozon.com##a[href="https://finance.ozon.com/"]:has(img)
 ozon.kz##a[href="https://finance.ozon.kz/"]:has(img)
+ozon.*##a[href^="https://pvz.ozon.ru/"]:has(img)
+ozon.*##a[href^="https://seller.ozon.ru/"]:has(img)
+ozon.*##a[href^="https://www.ozon.ru/business/"]:has(img)
 finance.ozon.*##.notification:has-text(подписку)
 finance.ozon.*##.premium-benefit-card
 finance.ozon.*###modal-container:has(button:has-text(Получить бесплатно))
@@ -43859,3 +43660,20 @@ bigpuzzle.ru##td[valign="top"][width="240px"][height="600"]
 ||rusnext.ru/advar.js$script
 ||shellcat.ru^$third-party
 ||vazhno.ru/cdn-cgi/apps/head/*.js
+
+! 11 июн. 2025 г. https://softlab-portable.net
+||freebestsoft.net/uploads/files/regruhost.png$image
+softlab-portable.net##.news > noindex
+softlab-portable.net##noindex > center > noindex > center
+softlab-portable.net##td > table > tbody > tr > td > table > tbody > tr > td > noindex > center
+softlab-portable.net##td:nth-of-type(3) > table:nth-of-type(2) > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+softlab-portable.net##table:nth-of-type(2)
+softlab-portable.net###dle-content > noindex > center
+||softlab-portable.net/uploads/vega.gif$image
+softlab-portable.net##noindex > center
+||softlab-portable.net/uploads/turb/turb.gif$image
+softlab-portable.net##noindex:nth-of-type(418)
+softlab-portable.net##noindex:nth-of-type(1355)
+
+! 12 июн. 2025 г. https://www.pepper.ru
+www.pepper.ru##div.hidden.md\:block > .dark\:md\:divide-dark-border.md\:divide-light-border.md\:divide-y.md\:mb-2.mb-6.py-4.md\:py-3.px-4.md\:px-3.md\:ml-2.md\:w-\[calc\(100\%-10px\)\].common-box > .pt-1.md\:pt-3
