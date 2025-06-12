@@ -1,6 +1,7 @@
 
 # Сайты, которые имеются в списке NoADS_RU:
 
+**⚠ Файл не обновляется! Поддерживается намного больше сайтов, чем указано здесь.**
 
 - [https://nextcloud.com](https://nextcloud.com)
 - [https://hackertarget.com](https://hackertarget.com)
