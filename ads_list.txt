@@ -19470,3 +19470,11 @@ softlab-portable.net##noindex:nth-of-type(1355)
 
 ! 12 июн. 2025 г. https://www.pepper.ru
 www.pepper.ru##div.hidden.md\:block > .dark\:md\:divide-dark-border.md\:divide-light-border.md\:divide-y.md\:mb-2.mb-6.py-4.md\:py-3.px-4.md\:px-3.md\:ml-2.md\:w-\[calc\(100\%-10px\)\].common-box > .pt-1.md\:pt-3
+
+! 13 июн. 2025 г. https://habr.com
+habr.com##figure.full-width:nth-of-type(25)
+habr.com##.block.tm-block_spacing-around.tm-block
+habr.com##.tm-sexy-sidebar_stick-top.tm-sexy-sidebar > .tm-block_spacing-bottom.tm-block
+
+! 20 июн. 2025 г. https://hh.ru
+hh.ru##div[class^="footer-mobile-banner"]
