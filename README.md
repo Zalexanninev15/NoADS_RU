@@ -1,4 +1,4 @@
-88₈# NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
+# NoADS_RU | [Список с блокировками](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
 
 <img src="./assets/Logo.png" width="100" height="100"/>
 
