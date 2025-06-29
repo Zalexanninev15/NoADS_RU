@@ -43687,3 +43687,19 @@ habr.com##.tm-sexy-sidebar_stick-top.tm-sexy-sidebar > .tm-block_spacing-bottom.
 
 ! 20 июн. 2025 г. https://hh.ru
 hh.ru##div[class^="footer-mobile-banner"]
+
+! Jun 25, 2025 https://www.youtube.com
+www.youtube.com##.yt-mealbar-promo-renderer.style-scope.yt-mealbar-promo-renderer-content > div.yt-mealbar-promo-renderer.style-scope
+www.youtube.com##.yt-mealbar-promo-renderer.style-scope.button-container
+www.youtube.com##ytd-companion-slot-renderer.ytd-player-legacy-desktop-watch-ads-renderer.style-scope
+
+! Jun 29, 2025 https://ya.ru
+ya.ru##div[class^="Distribution"]
+ya.ru##.HeaderDesktopActions-Item.HeaderDesktopActions-Alice.HeaderDesktopActions-Button
+ya.ru##div[id^="distr-pcode-container"]
+
+! Jun 29, 2025 https://dzen.ru
+dzen.ru##.desktop2--base-button__regular--M.desktop2--base-button__m-2y.desktop2--base-button__rootElement-12.desktop2--banner-desktop__buttonLayer-3h
+
+! Jun 29, 2025 https://www.bing.com
+www.bing.com##.b_phead_chat_link
