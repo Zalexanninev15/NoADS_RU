@@ -43663,6 +43663,16 @@ bigpuzzle.ru##td[valign="top"][width="240px"][height="600"]
 ||shellcat.ru^$third-party
 ||vazhno.ru/cdn-cgi/apps/head/*.js
 
+! Возвращение 5 видео в ряд на YouTube
+youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 5 !important;)
+youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-posts-per-row: 5 !important;)
+youtube.com##ytd-two-column-browse-results-renderer.grid-6-columns:style(width: 100% !important;)
+youtube.com##ytd-two-column-browse-results-renderer.grid:not(.grid-disabled):style(max-width: 100% !important;)
+youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-slim-items-per-row: 7 !important;)
+youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-game-cards-per-row: 7 !important;)
+youtube.com##+js(set-attr, ytd-rich-shelf-renderer, is-show-more-hidden)
+youtube.com##+js(ra, hidden, ytd-rich-item-renderer, stay)
+
 ! 11 июн. 2025 г. https://softlab-portable.net
 ||freebestsoft.net/uploads/files/regruhost.png$image
 softlab-portable.net##.news > noindex
