@@ -43724,6 +43724,7 @@ www.deepl.com##span.md\:inline-flex.empty\:hidden.hidden:nth-of-type(5)
 www.deepl.com##.md\:block.hidden > .gap-4.flex-col.flex
 www.deepl.com##.homeExperience-module--logoCloud--e3778.overflow-hidden.mb-0.bg-white
 www.deepl.com##.homeExperience-module--homeExperience--904c9
+www.deepl.com##.\[\.is-home_\&\]\:hidden > .mobile\:hidden
 
 ! 11 июл. 2025 г. https://360.yandex.com
 360.yandex.com##div[data-promo-name]
