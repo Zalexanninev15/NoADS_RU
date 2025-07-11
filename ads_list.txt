@@ -19494,3 +19494,20 @@ dzen.ru##.desktop2--base-button__regular--M.desktop2--base-button__m-2y.desktop2
 
 ! Jun 29, 2025 https://www.bing.com
 www.bing.com##.b_phead_chat_link
+
+! Jul 1-7, 2025 https://www.bing.com
+www.bing.com###id_mobile
+www.bing.com##[href^="https://bingapp.microsoft.com/bing?at="]
+
+! 11 июл. 2025 г. https://www.deepl.com
+www.deepl.com##.max-w-full.bg-redesign-quartz-gray-200.rfm-marquee-container
+www.deepl.com##span.md\:inline-flex.empty\:hidden.hidden:nth-of-type(5)
+www.deepl.com##.md\:block.hidden > .gap-4.flex-col.flex
+www.deepl.com##.homeExperience-module--logoCloud--e3778.overflow-hidden.mb-0.bg-white
+www.deepl.com##.homeExperience-module--homeExperience--904c9
+
+! 11 июл. 2025 г. https://360.yandex.com
+360.yandex.com##div[data-promo-name]
+
+! 11 июл. 2025 г. https://passport.yandex.com
+passport.yandex.com##button[id^="passp:webauthn-auth-btn"]
