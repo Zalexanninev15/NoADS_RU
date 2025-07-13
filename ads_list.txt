@@ -19512,3 +19512,14 @@ www.deepl.com##.\[\.is-home_\&\]\:hidden > .mobile\:hidden
 
 ! 11 июл. 2025 г. https://passport.yandex.com
 passport.yandex.com##button[id^="passp:webauthn-auth-btn"]
+
+! Jul 13, 2025 https://www.nexusmods.com
+www.nexusmods.com##.rj-supporter-wrapper
+www.nexusmods.com##div[class^="border-premium-moderate"]
+www.nexusmods.com##a[href*="/premium"]
+www.nexusmods.com##[h3="Support Nexus Mods"]
+www.nexusmods.com##.sm\:max-w-xs.sm\:mt-0.sm\:ml-auto.space-y-4.w-full.mt-4.mb-10.col-span-2
+
+! Jul 13, 2025 https://www.playground.ru
+www.playground.ru###steamInfoBlock > [href="/bonus/steam/"]
+www.playground.ru##.page-aside
