@@ -19523,3 +19523,7 @@ www.nexusmods.com##.sm\:max-w-xs.sm\:mt-0.sm\:ml-auto.space-y-4.w-full.mt-4.mb-1
 ! Jul 13, 2025 https://www.playground.ru
 www.playground.ru###steamInfoBlock > [href="/bonus/steam/"]
 www.playground.ru##.page-aside
+
+! Jul 15, 2025 https://www.deepl.com
+www.deepl.com##.empty\:hidden.bottom-16.inset-x-0.absolute
+www.deepl.com##.empty\:hidden.z-20.right-2.bottom-2.fixed
