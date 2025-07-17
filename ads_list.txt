@@ -19527,3 +19527,6 @@ www.playground.ru##.page-aside
 ! Jul 15, 2025 https://www.deepl.com
 www.deepl.com##.empty\:hidden.bottom-16.inset-x-0.absolute
 www.deepl.com##.empty\:hidden.z-20.right-2.bottom-2.fixed
+
+! Jul 17, 2025 https://habr.com
+habr.com##.tm-company-article__top-image.tm-company-card__top-image > [href^="https://ruvds.com/ru/ispmanager"]
