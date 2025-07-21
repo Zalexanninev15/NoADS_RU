@@ -47217,3 +47217,6 @@ www.deepl.com##.empty\:hidden.z-20.right-2.bottom-2.fixed
 
 ! Jul 17, 2025 https://habr.com
 habr.com##.tm-company-article__top-image.tm-company-card__top-image > [href^="https://ruvds.com/ru/ispmanager"]
+
+! Jul 21, 2025 https://ya.ru
+ya.ru##div[style^="--image-aspect-ratio:1.7777777777777777"]
