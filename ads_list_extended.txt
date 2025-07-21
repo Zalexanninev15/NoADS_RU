@@ -47220,3 +47220,9 @@ habr.com##.tm-company-article__top-image.tm-company-card__top-image > [href^="ht
 
 ! Jul 21, 2025 https://ya.ru
 ya.ru##div[style^="--image-aspect-ratio:1.7777777777777777"]
+
+! Jul 21, 2025 https://grok.com
+grok.com##div[class^="fixed px-5 py-4 items-center w-[calc(100%-16px)] bg-black text-xs text-white border cursor-pointer border-card min-[384px]:w-max min-[384px]:min-w-52 rounded-3xl bottom-2 right-2 group text-left sm:flex gap-4 hidden dark transition-all duration-300 ease-in-out hover:scale-[1.01]"]
+grok.com##div[class^="relative px-4 py-3.5 w-full items-center bg-black text-xs text-white border cursor-pointer border-card rounded-3xl group text-left flex gap-4 dark -mb-10 sm:-mb-4 transition-all duration-300 ease-in-out hover:scale-[1.01] will-change-transform"]
+grok.com##a[href^="https://discord.gg"]
+grok.com##div.aria-disabled\:cursor-not-allowed.aria-disabled\:opacity-50.focus\:bg-button-ghost-hover.outline-none.text-sm.rounded-xl.py-2.px-3.cursor-pointer.items-center.select-none.flex.relative:nth-of-type(3)
