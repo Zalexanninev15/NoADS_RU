@@ -56953,3 +56953,6 @@ grok.com##div.aria-disabled\:cursor-not-allowed.aria-disabled\:opacity-50.focus\
 
 ! Jul 31, 2025 https://grok.com
 grok.com##.hover\:scale-\[1\.01\].ease-in-out.duration-300.transition-all.dark.gap-4.flex.text-left.group.rounded-3xl.min-\[384px\]\:min-w-52.min-\[384px\]\:w-max.border-card.cursor-pointer.border.text-white.text-xs.bg-black.w-\[calc\(100\%-16px\)\].items-center.py-4.px-5.sm\:right-2.sm\:bottom-2.bottom-\[140px\].fixed.upsell-small
+
+! Jul 31, 2025 https://mail.yandex.ru
+mail.yandex.ru##div[data-testid^="page-layout_right-column_container"]
