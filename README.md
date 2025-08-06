@@ -9,7 +9,6 @@
 [![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/network/members)
 [![](https://img.shields.io/github/issues/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aopen+is%3Aissue)
 [![](https://img.shields.io/github/issues-closed/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aissue+is%3Aclosed)
-[![](https://img.shields.io/badge/Вступить_в_группу-FFFFFF.svg?logo=telegram)](https://t.me/z15_community)
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![](https://img.shields.io/badge/Donate-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://z15.neocities.org/donate)
 
@@ -31,6 +30,8 @@
 
 🔗 Ссылка для вставки: ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt```
 
+🍕 Для любителей хостов подготовил **небольшие** правила. Смотрите в [данной директории](https://github.com/Zalexanninev15/NoADS_RU/tree/main/hosts).
+
 ## Особенности списка
 
 * Заблокирована реклама, её упоминания, баннеры и возможность её покупки (*давайте не будем переходить на тёмную сторону*)
@@ -48,6 +49,8 @@
 !! **СПИСОК НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ НА МАРШРУТИЗАТОРАХ (РОУТЕРАХ)** !!
 > 
 > Это связано с тем что список содержит не записи/домены/IP-адреса сайтов, а лишь указывает на элементы на самом сайте, грубо говоря, "косметическая блокировка контента".
+
+> 🍕 Однако, в качестве эксперимента, были личные хосты, смотрите в [данной директории](https://github.com/Zalexanninev15/NoADS_RU/tree/main/hosts).
 
 ### Список совместим с
 
