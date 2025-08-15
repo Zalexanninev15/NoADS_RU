@@ -8874,6 +8874,7 @@ gamecopyworld.com###bt
 gamecopyworld.com##[src="/ddd/ii/tc/is_lb_1.gif"]
 ||gamecopyworld.com/ddd/ii/tc/is_*$image
 
+! YouTube rules
 ! Remove empty spaces in grid
 www.youtube.com##ytd-rich-grid-row,#contents.ytd-rich-grid-row:style(display: contents !important)
 ! Hide all videos containing the phrase "#shorts"
@@ -8914,6 +8915,63 @@ m.youtube.com##yt-tab-shape:has-text(/^Shorts$/)
 m.youtube.com##ytm-reel-shelf-renderer:has(.reel-shelf-title-wrapper .yt-core-attributed-string:has-text(/^Shorts remixing this video$/i))
 ! Hide shorts category on homepage
 m.youtube.com##ytm-chip-cloud-chip-renderer:has(.yt-core-attributed-string:has-text(/^Shorts$/i))
+! Youtube Shorts
+! Main page
+youtube.com##ytd-rich-section-renderer:has(a[href^="/shorts/"])
+m.youtube.com##.rich-section-content
+! Trending page
+youtube.com##ytd-reel-shelf-renderer:has(a[href^="/shorts/"])
+! Search/Trending page (Android)
+youtube.com##ytm-reel-shelf-renderer
+youtube.com##.media-item-thumbnail-container[aria-hidden][href^="/shorts/"]
+youtube.com##ytm-media-item:has(a[href^="/shorts/"])
+youtube.com##ytd-rich-shelf-renderer[is-shorts]
+youtube.com##ytd-video-renderer > .ytd-video-renderer:has(a[href^="/shorts/"])
+! Side shorts
+youtube.com###items.yt-horizontal-list-renderer > ytd-reel-item-renderer
+! Shorts icons (desktop and mobile)
+youtube.com##.pivot-shorts.pivot-bar-item-tab
+youtube.com##.yt-simple-endpoint[title="Shorts"]
+! Updated rules
+youtube.com##.ytGridShelfViewModelHost:has-text(Shorts)
+
+! Великий и ужасный, гуголь
+play.google.com##+js(ra,jsdata)
+play.google.com##+js(ra,jslog)
+google.com##+js(set-local-storage-item, mapslitepromosdismissed, 1)
+||youtube.com/pixel
+||contributor.google.com^*/loader.js$third-party
+||google.com/log?$important
+/cleardot.gif$redirect=1x1.gif
+||apis.google.com/js/platform.js$3p,important
+||gstatic.com/recaptcha/api2/logo$image
+||gstatic.com/wcm/loader.js
+||google.com/insights/$script
+google.com##.header:style(position:static !important)
+||google.com/*/logImpressions?$xhr,redirect=nooptext
+docs.google.com##.docs-butterbar-container
+one.google.com##div:has(>img[src*="/subscriptions/"])
+support.google.com##.survey
+mail.google.com###talk_roster
+mail.google.com##div[role="alert"]:has-text(get calls here)
+||pay.google.com/gp/p/ui/payframe
+||google.com/mail/u/0/jserror
+support.google.com##.gb_Ed
+google.com##.devsite-banner
+google.com##.devsite-top-logo-row-wrapper-wrapper:style(position:static !important)
+google.com##devsite-header:style(position:static !important)
+google.com##.devsite-collapsible-section:style(transform:none !important)
+google.com###gc-wrapper:style(margin-top:0px !important)
+||google.com/js/bg/$script,3p
+youtube.com##.yt-upsell-dialog-renderer
+youtube.com###consent-bump
+www.google.*##+js(remove-attr, onmousedown|ping, a[href][onmousedown]\, a[href][ping])
+www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
+##iframe[id^="google_ads_frame"]
+||play.google.com/log?$xmlhttprequest,redirect-rule=noop.txt
+||google.com^*/log?
+google.*##div[aria-modal="true"]:has-text(cookies)
+||cse.google.com/cse.js?cx=partner-pub$important
 
 ! [Extended Content]
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|tjournal.ru|vc.ru
