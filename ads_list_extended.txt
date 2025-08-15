@@ -3823,7 +3823,6 @@ www.dns-shop.ru##.items-group__banner
 
 ! 2020-09-30 https://yandex.ru
 yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.g4ZRdqPY.links-section__link.link_theme_normal.link:nth-of-type(1)
-||yandex.ru/weather/_cry/c28e5514i/c8b39a4/M1LvegFe-P3h7dp-04b9Diot-obJqp5jAPEBQ_PMnCfqac02Nx2swFriS6xaDB2XEGngNKqiJeE96AtMrfnavyAToP2D2T8ptnsYf1RJdZxt_2vV3aIOIZFjD8W8xVyj7vtS96PAOsJUO8092wQZ2tG5YLj3teG2cSgeErNxh3Z6GCn9XEx_MeMq0mqYhmgH7b39FIEj2ePJZ5iPP9nTe7E7SzYp3a6dlTUIfU8CXNEWOzUxbe3ncKMpRJ44uVF79gOqqtuP6vR3qAhwEoI0gXy_f5NIvJ8iQSsPmHXO0i6gJsSqbl3jH8i0CewWFFGUyHjsrKx1Ij7iqAfOr25Hd6JB7_ODGWUwrrQPap5J_kDsPDtWgT1PrVA2mA7_j13ocGPS-GrGLQJRft85londX48s9fk272w7Y3YMFK_uR25zw6a_XZipdO-20rgTRPocO_z6AQol3nSBNsFYYVnTefFskjQqzafdUHICbNsCEBgYKSgx9CLnf77_gxYyONixY1LifROIImlquhVqRgQwXPNsNBEAppnvT3aJRbOIXyTu-oK47MVtHcigWGxPS13GFDksruys-vRiqB-R-7AVMreSv3CXm2apIH0JMIWR6Utw6rodT2yYIs10jA35AAuo6mOOe7cDIE8f9UrsUQjcBtOsdC6mKvq54rRMmng03fwyUaCxAwh-dHf3iX4TzCkKrSR8GIs8GnTJaw_Gs4vK4WXkCzRuQjuKHHcee1pVTFZX5vQ89rQmeaM3yRr48EA5fd4-6kIIfrX3v91t0ga9TjQ9f1zc_U6sESaORz0EHaGwKtDqL93mQkr4X_NbhJWaGa6kL6-s-fVzaY9Zr3kR9qBDvTRdD_80KqpY9hIT_MU3pL5AgOfS6ABqhoQ7BBVuc6wL92_A5cHfd8L1XcCaGgh7bLlhNeY1-WgF27IznrD_H2V8wdjsqe2xlHbYiDeEs-C1no8pGKGEpN8$image
 
 ! 2020-09-30 https://mail.yandex.ru
 mail.yandex.ru##.mail-App-Footer-Item_rek.mail-App-Footer-Item > .mail-ui-Link
@@ -8875,61 +8874,66 @@ gamecopyworld.com###bt
 gamecopyworld.com##[src="/ddd/ii/tc/is_lb_1.gif"]
 ||gamecopyworld.com/ddd/ii/tc/is_*$image
 
+! YouTube rules
 ! Remove empty spaces in grid
 www.youtube.com##ytd-rich-grid-row,#contents.ytd-rich-grid-row:style(display: contents !important)
-
 ! Hide all videos containing the phrase "#shorts"
 www.youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(/(^| )#Shorts?( |$)/i))
 www.youtube.com##ytd-rich-item-renderer:has(#video-title:has-text(/(^| )#Shorts?( |$)/i))
-
 ! Hide all videos with the shorts indicator on the thumbnail
 www.youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
 www.youtube.com##ytd-rich-item-renderer:has([overlay-style="SHORTS"])
 www.youtube.com##ytd-video-renderer:has([overlay-style="SHORTS"])
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer[page-subtype="subscriptions"]:has(ytd-video-renderer:has([overlay-style="SHORTS"]))
-
 ! Hide shorts button in sidebar
 www.youtube.com##ytd-guide-entry-renderer:has(yt-formatted-string:has-text(/^Shorts$/i))
-
 ! Tablet resolution
 www.youtube.com##ytd-mini-guide-entry-renderer:has(.title:has-text(/^Shorts$/i))
-
 ! Hide shorts section on homepage
 www.youtube.com##ytd-rich-section-renderer:has(#title:has-text(/(^| )Shorts( |$)/i))
 www.youtube.com##ytd-reel-shelf-renderer:has(.ytd-reel-shelf-renderer:has-text(/(^| )Shorts( |$)/i))
-
 ! Hide shorts tab on channel pages
 m.youtube.com##.single-column-browse-results-tabs>a:has-text(Shorts)
-
 ! Old style
 www.youtube.com##tp-yt-paper-tab:has(.tp-yt-paper-tab:has-text(Shorts))
-
 ! Hide short remixes in video descriptions
 www.youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer:has-text(/^Shorts remixing this video$/i)
-
 ! Hide shorts category on homepage and search pages
 www.youtube.com##yt-chip-cloud-chip-renderer:has(yt-formatted-string:has-text(/^Shorts$/i))
-
 ! Hide all videos in home feed containing the phrase "#shorts"
 www.youtube.com##ytm-rich-item-renderer:has(#video-title:has-text(/(^| )#Shorts?( |$)/i))
-
 ! Hide all videos in subscription feed containing the phrase "#shorts"
 m.youtube.com##ytm-item-section-renderer:has(#video-title:has-text(/(^| )#Shorts?( |$)/i))
-
 ! Hide shorts button in the bottom navigation bar
 m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-shorts)
 m.youtube.com##ytm-video-with-context-renderer:has([data-style="SHORTS"])
-
 ! Hide shorts sections
 m.youtube.com##ytm-rich-section-renderer:has(.reel-shelf-title-wrapper .yt-core-attributed-string:has-text(/(^| )Shorts( |$)/i))
 m.youtube.com##ytm-reel-shelf-renderer.item:has(.reel-shelf-title-wrapper .yt-core-attributed-string:has-text(/(^| )Shorts( |$)/i))
-
 ! New style (2023-10)
 m.youtube.com##yt-tab-shape:has-text(/^Shorts$/)
 m.youtube.com##ytm-reel-shelf-renderer:has(.reel-shelf-title-wrapper .yt-core-attributed-string:has-text(/^Shorts remixing this video$/i))
-
 ! Hide shorts category on homepage
 m.youtube.com##ytm-chip-cloud-chip-renderer:has(.yt-core-attributed-string:has-text(/^Shorts$/i))
+! Youtube Shorts
+! Main page
+youtube.com##ytd-rich-section-renderer:has(a[href^="/shorts/"])
+m.youtube.com##.rich-section-content
+! Trending page
+youtube.com##ytd-reel-shelf-renderer:has(a[href^="/shorts/"])
+! Search/Trending page (Android)
+youtube.com##ytm-reel-shelf-renderer
+youtube.com##.media-item-thumbnail-container[aria-hidden][href^="/shorts/"]
+youtube.com##ytm-media-item:has(a[href^="/shorts/"])
+youtube.com##ytd-rich-shelf-renderer[is-shorts]
+youtube.com##ytd-video-renderer > .ytd-video-renderer:has(a[href^="/shorts/"])
+! Side shorts
+youtube.com###items.yt-horizontal-list-renderer > ytd-reel-item-renderer
+! Shorts icons (desktop and mobile)
+youtube.com##.pivot-shorts.pivot-bar-item-tab
+youtube.com##.yt-simple-endpoint[title="Shorts"]
+! Updated rules
+youtube.com##.ytGridShelfViewModelHost:has-text(Shorts)
 
 ! Великий и ужасный, гуголь
 play.google.com##+js(ra,jsdata)
