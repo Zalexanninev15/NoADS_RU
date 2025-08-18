@@ -15818,3 +15818,7 @@ www.speedtest.net##a[href="/apps"]
 
 ! Aug 16, 2025 https://www.nexusmods.com
 www.nexusmods.com##section[id*="vortex"]
+
+! Aug 18, 2025 https://yandex.ru
+yandex.ru##.DistributionLinkBro_design2025.DistributionLinkBro_layout_neuro.DistributionLinkBro.Button_view_neuro-gradient.Distribution-Button.Button_link.Button
+yandex.ru##.Distribution-Popup_visible.Distribution-Popup_location_bottom.Distribution-Popup_animation_bounce.Distribution-Popup_layout_rectangle.Distribution-Popup_motley_yellow.Distribution-Popup
