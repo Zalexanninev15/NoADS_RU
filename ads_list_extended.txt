@@ -9934,10 +9934,18 @@ mm.ru##.seller-container:style(position:static !important)
 ||ozon.by/csp-log/
 ||ozon.com/csp-log/
 ||ozon.kz/csp-log/
+||ozon.ru/api/logs-gateway/
+||ozon.by/api/logs-gateway/
+||ozon.com/api/logs-gateway/
+||ozon.kz/api/logs-gateway/
 ||ozon.ru/v1/tracker-logs
 ||ozon.by/v1/tracker-logs
 ||ozon.com/v1/tracker-logs
 ||ozon.kz/v1/tracker-logs
+||ozon.ru/dlte/multi
+||ozon.by/dlte/multi
+||ozon.com/dlte/multi
+||ozon.kz/dlte/multi
 ||ozon.ru/st/service-worker/
 ||ozon.by/st/service-worker/
 ||ozon.com/st/service-worker/
@@ -9968,6 +9976,7 @@ ozon.*##[data-widget="searchHistory"] ~ [data-widget="skuGrid"]
 ozon.*###stickyHeader:style(padding:initial !important; margin:initial !important; height:auto !important)
 ozon.*##div[data-widget="row"]:has-text(/^$/)
 ozon.*##div[data-widget="container"]:style(margin-top:0px !important)
+ozon.ru##input:remove-attr(readonly)
 ||ozone.ru/_nuxt/marketing-all-adv_banner.
 ||ozone.ru/_nuxt/subscriptions-desktop-submit-email-pop-up*
 ||ozone.ru/_nuxt/uw-*-atom-sku-shelf-goods.
@@ -10009,6 +10018,7 @@ finance.ozon.*##.paranja:has-text(/Зв(е|ё)зды/i)
 ||ozonusercontent.com/s3/marketing-api/
 ||ozone.ru/s3/fs-chat-api/$image
 ||ozone.ru/assets/marketing
+||ozone.ru/s3/cdn-public/ozon_card_banner$image
 ||ozone.ru/s3/*/card-landing$image
 ||ozone.ru/s3/*/hero-landing$image
 ozon.*#@#html:not([style*="overflow:"]) [data-widget="skuGrid"]
@@ -10045,6 +10055,7 @@ ozon.*##[data-widget="skuGrid"] div:has(>a[href*="/product/smennye-kassety-gille
 ozon.ru##div:has(>a[href^="/product/sber-"])
 ozon.*##[data-widget="skuGrid"] div:has(>a[href*="/product/pakety-s-rezinkoy-dlya-hraneniya-produktov"])
 ozon.ru##.tile-root:has-text(Арбидол)
+ozon.ru##.tile-root:has-text(/подарок (сыну|дочке)|подарок с пожеланием|спаси и сохрани|сертификат/)
 ozon.*##[data-widget="skuGridSimple"]:has-text(Лучшие предложения)
 ozon.*##[data-widget="skuShelfGoods"]
 ozon.*##[data-widget="skuScroll"]:matches-path(/orderlist)
@@ -10179,8 +10190,6 @@ ozon.*##section:has(span:has-text("Распродажа Зимы"))
 ozon.*##section:has(span:has-text(/^[−-][0-9]+%$/))
 ozon.*##div:has(>div:has-text(/^(Применили |)[-−][0-9]+%$/))
 ozon.*##div[data-widget="webMarketingLabels"]:has-text(/^Больше [0-9]+% выкуп/)
-ozon.*##div:has(>div:has-text(/^[0-9]+% возвратов$/))
-ozon.*##div:has(>div:has-text(/^\s*Доберите до скидки/i)):not(:matches-path(/\/my\//))
 ozon.*##div:has(>div:has-text(/^\s*\d+\s*(балл(а|ов|) за отзыв|бонус(а|ов|))$/i))
 ozon.*##div:has(>div:has-text(/^\s*^(Осталось|Новинка)$/i)):matches-path(//(search|category)/)
 ozon.*##section:has(>div:has-text(/^\s*^(Остал(о|а)сь (мало|[0-9]+ шт))$/i)):matches-path(//(search|category)/)
@@ -10286,6 +10295,8 @@ wildberries.ru##.lk-item__premium
 wildberries.ru##.profile-menu__premium
 wildberries.ru##.credit-widget
 wildberries.ru##.main-page__banners-mini
+wildberries.ru##.courier-informer-text
+wildberries.ru##.delivery-block__courier-informer
 wildberries.ru##.price-last
 wildberries.ru##.price-old-block
 wildberries.ru##.product-card__sale
@@ -10324,6 +10335,7 @@ wildberries.ru##.feedback__img
 wildberries.ru##.feedback__state
 wildberries.ru##.feedback__sellers-reply
 wildberries.ru##.product-feedbacks::before
+wildberries.ru##.product-feedbacks::after
 
 ! 🍪
 *##+js(cookie-remover, 6suuid)
@@ -50282,3 +50294,61 @@ www.nexusmods.com##section[id*="vortex"]
 ! Aug 18, 2025 https://yandex.ru
 yandex.ru##.DistributionLinkBro_design2025.DistributionLinkBro_layout_neuro.DistributionLinkBro.Button_view_neuro-gradient.Distribution-Button.Button_link.Button
 yandex.ru##.Distribution-Popup_visible.Distribution-Popup_location_bottom.Distribution-Popup_animation_bounce.Distribution-Popup_layout_rectangle.Distribution-Popup_motley_yellow.Distribution-Popup
+
+! Aug 22, 2025 https://habr.com
+habr.com##.visible.banner-info
+habr.com##.advertising-info
+habr.com##.fixed-banner-wrapper
+habr.com##.tm-top-link
+habr.com##.tm-header__feature.tm-feature_variant-inline.tm-feature
+habr.com##div[id^="promo"]
+habr.com##.tm-footer__social.social-icons
+habr.com##selection[id^="calendar_block"]
+habr.com##div[data-test-id="project-block"]
+habr.com##div[class*="tm-placeholder-questions"]
+habr.com##selection[class="tm-events-block"]
+habr.com##selection[id^="calendar_block"]
+
+! Aug 22, 2025 https://qna.habr.com
+qna.habr.com##.fixed-ad-banner__face
+qna.habr.com##.fixed-ad-banner
+
+! Говнишко :D
+||max.ru
+
+! Aug 22, 2025 https://yandex.ru
+yandex.ru##div[class^="AppPromo"]
+yandex.ru##h3[class^="AppFooterLinks"]
+yandex.ru##ul[class^="AppFooterLinks"]
+yandex.ru##li[class^="AppFooterLinks"]
+
+! Aug 22, 2025 https://www.avito.ru
+www.avito.ru##div[data-marker^="top-notification"]
+
+! Aug 22, 2025 https://dzen.ru
+dzen.ru##div[class^="right-sidebar"] > article[class] ~ article[class]:not([class*="currency-rates"])
+dzen.ru##[aria-label="Лента Дзена"] div[id="zen-row-0"] ~ div[id^="zen-row-"]
+dzen.ru##div[class*="desktop-layout__morda"] div[class^="desktop-layout__stickyWrapper"]
+dzen.ru##div[class^="dzen-with-punch-desktop__main"] > div[class^="punch-feed__feed"]
+dzen.ru##div[class^="dzen-with-punch-desktop__main"] + div[class*="feedContent"]
+dzen.ru##div[class^="dzen-with-punch-desktop__container"]:style(display: unset !important)
+dzen.ru##div[class^="dzen-with-punch-desktop__main"] div[class^="geoblock-weather__content"]:style(flex-direction: unset !important; justify-content: space-between !important)
+
+! Aug 22, 2025 Последний фильтр для Я*, продолжение только в расширенном списке
+yandex.ru##div:contains(RKH: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
+yandex.ru##[role="button"]:contains(РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
+yandex.ru##[text*="РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ"]
+ya.ru##div:contains(RKH: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
+ya.ru##[role="button"]:contains(РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
+ya.ru##[text*="РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ"]
+id.yandex.ru##section[data-testid="web-authn-credentials-promo"]
+
+! Блокировка сайтов
+||direct.yandex.ru
+||yandex.ru/adv/
+||mail.ru
+||runtime.strm.yandex.ru
+! Скоро в обычном списке!
+!||yandex.ru^
+!||ya.ru^
+! Если нужен Я*, ищите инстант 4get или другой поисковик уже используйте.
