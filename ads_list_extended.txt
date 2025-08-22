@@ -10364,6 +10364,8 @@ wildberries.ru##.product-feedbacks::after
 *##+js(cookie-remover, ezAdBlockUser)
 *##+js(cookie-remover, ezCMPCCS)
 *##+js(cookie-remover, ezepvv)
+*##+js(cookie-remover, _fbp)
+*##+js(cookie-remover, _fbc)
 *##+js(cookie-remover, _ga)
 *##+js(cookie-remover, /^_ga_/)
 *##+js(cookie-remover, _gat)
