@@ -8652,23 +8652,23 @@ www.computerra.ru##.site-header__socials > .social-btns
 www.computerra.ru##.banner-top > [href^="https://cloud.ru/ru/free-test"]
 
 ! 2 июл. 2024 г. https://www.theverge.com
-www.theverge.com##.duet--layout--river-container 
-www.theverge.com##.duet--article--more-stories 
+www.theverge.com##.duet--layout--river-container
+www.theverge.com##.duet--article--more-stories
 
 ! 2 июл. 2024 г. https://www.etsy.com
-www.etsy.com##li.wt-list-unstyled:has(span.wt-icon:matches-css(width: 12px)):remove() 
+www.etsy.com##li.wt-list-unstyled:has(span.wt-icon:matches-css(width: 12px)):remove()
 
 ! 2 июл. 2024 г. https://www.flickr.com
-www.flickr.com##.photo-charm-exif-scrappy-view + div:not([class]) 
-www.flickr.com##.search-tools-view + .view:has(img[src $= "/IStock_corporate_logo.svg"]) 
-www.flickr.com##.search-prints-results 
-serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#@#+js(acis, StackExchange.ga.init) 
-||*.inq.com/tagserver/* 
+www.flickr.com##.photo-charm-exif-scrappy-view + div:not([class])
+www.flickr.com##.search-tools-view + .view:has(img[src $= "/IStock_corporate_logo.svg"])
+www.flickr.com##.search-prints-results
+serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#@#+js(acis, StackExchange.ga.init)
+||*.inq.com/tagserver/*
 
 ! 2 июл. 2024 г. https://www.ups.com
-www.ups.com##virtual-assistant 
-||cdn.enterombacerick.com^ 
-||cdn.tepatonol.com^ 
+www.ups.com##virtual-assistant
+||cdn.enterombacerick.com^
+||cdn.tepatonol.com^
 
 ! 2 июл. 2024 г. https://developer.mozilla.org
 developer.mozilla.org##.top-banner:has(>section>p>a[href$="/plus/ai-help"])
@@ -15822,3 +15822,61 @@ www.nexusmods.com##section[id*="vortex"]
 ! Aug 18, 2025 https://yandex.ru
 yandex.ru##.DistributionLinkBro_design2025.DistributionLinkBro_layout_neuro.DistributionLinkBro.Button_view_neuro-gradient.Distribution-Button.Button_link.Button
 yandex.ru##.Distribution-Popup_visible.Distribution-Popup_location_bottom.Distribution-Popup_animation_bounce.Distribution-Popup_layout_rectangle.Distribution-Popup_motley_yellow.Distribution-Popup
+
+! Aug 22, 2025 https://habr.com
+habr.com##.visible.banner-info
+habr.com##.advertising-info
+habr.com##.fixed-banner-wrapper
+habr.com##.tm-top-link
+habr.com##.tm-header__feature.tm-feature_variant-inline.tm-feature
+habr.com##div[id^="promo"]
+habr.com##.tm-footer__social.social-icons
+habr.com##selection[id^="calendar_block"]
+habr.com##div[data-test-id="project-block"]
+habr.com##div[class*="tm-placeholder-questions"]
+habr.com##selection[class="tm-events-block"]
+habr.com##selection[id^="calendar_block"]
+
+! Aug 22, 2025 https://qna.habr.com
+qna.habr.com##.fixed-ad-banner__face
+qna.habr.com##.fixed-ad-banner
+
+! Говнишко :D
+||max.ru
+
+! Aug 22, 2025 https://yandex.ru
+yandex.ru##div[class^="AppPromo"]
+yandex.ru##h3[class^="AppFooterLinks"]
+yandex.ru##ul[class^="AppFooterLinks"]
+yandex.ru##li[class^="AppFooterLinks"]
+
+! Aug 22, 2025 https://www.avito.ru
+www.avito.ru##div[data-marker^="top-notification"]
+
+! Aug 22, 2025 https://dzen.ru
+dzen.ru##div[class^="right-sidebar"] > article[class] ~ article[class]:not([class*="currency-rates"])
+dzen.ru##[aria-label="Лента Дзена"] div[id="zen-row-0"] ~ div[id^="zen-row-"]
+dzen.ru##div[class*="desktop-layout__morda"] div[class^="desktop-layout__stickyWrapper"]
+dzen.ru##div[class^="dzen-with-punch-desktop__main"] > div[class^="punch-feed__feed"]
+dzen.ru##div[class^="dzen-with-punch-desktop__main"] + div[class*="feedContent"]
+dzen.ru##div[class^="dzen-with-punch-desktop__container"]:style(display: unset !important)
+dzen.ru##div[class^="dzen-with-punch-desktop__main"] div[class^="geoblock-weather__content"]:style(flex-direction: unset !important; justify-content: space-between !important)
+
+! Aug 22, 2025 Последний фильтр для Я*, продолжение только в расширенном списке
+yandex.ru##div:contains(RKH: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
+yandex.ru##[role="button"]:contains(РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
+yandex.ru##[text*="РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ"]
+ya.ru##div:contains(RKH: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
+ya.ru##[role="button"]:contains(РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
+ya.ru##[text*="РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ"]
+id.yandex.ru##section[data-testid="web-authn-credentials-promo"]
+
+! Блокировка сайтов
+||direct.yandex.ru
+||yandex.ru/adv/
+||mail.ru
+||runtime.strm.yandex.ru
+! Скоро в обычном списке!
+!||yandex.ru^
+!||ya.ru^
+! Если нужен Я*, ищите инстант 4get или другой поисковик уже используйте.
