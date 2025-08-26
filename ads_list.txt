@@ -15841,9 +15841,6 @@ habr.com##selection[id^="calendar_block"]
 qna.habr.com##.fixed-ad-banner__face
 qna.habr.com##.fixed-ad-banner
 
-! Говнишко :D
-||max.ru
-
 ! Aug 22, 2025 https://yandex.ru
 yandex.ru##div[class^="AppPromo"]
 yandex.ru##h3[class^="AppFooterLinks"]
@@ -15871,12 +15868,33 @@ ya.ru##[role="button"]:contains(РКН: иностранный владелец 
 ya.ru##[text*="РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ"]
 id.yandex.ru##section[data-testid="web-authn-credentials-promo"]
 
-! Блокировка сайтов
+! Aug 26, 2025 https://search.brave.com
+search.brave.com##div[class^="download-"]
+search.brave.com##a[href^="https://ads.brave.com"]
+search.brave.com##.llm.t-secondary
+
+! Aug 26, 2025 https://duckduckgo.com
+duckduckgo.com##div[data-testid="privacy-reminder"]
+
+! Aug 26, 2025 https://habr.com
+habr.com##.tm-digest-subscription
+habr.com##script[src^="https://vk.com"]
+
+! Aug 26, 2025 https://bing.com
+bing.com##a[href^="https://bingapp.microsoft.com/"]
+bing.com##a[href="https://go.microsoft.com/fwlink/?linkid=868922"]
+bing.com##a[href="http://go.microsoft.com/fwlink/?LinkID=286759"]
+
+! Говнишко :D
+||max.ru
+! Super Black List
 ||direct.yandex.ru
 ||yandex.ru/adv/
 ||mail.ru
 ||runtime.strm.yandex.ru
-! Скоро в обычном списке!
-!||yandex.ru^
-!||ya.ru^
+||vk.com/js/api^
+||ya.ru/js^
+||yandex.ru/ads^
+||mc.yandex.ru/metrika^
+||avatars.mds.yandex.net/get-direct-picture$image
 ! Если нужен Я*, ищите инстант 4get или другой поисковик уже используйте.
