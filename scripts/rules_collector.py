@@ -23,7 +23,7 @@ def read_file(file_path):
         return []
 
 def is_comment(line):
-    line = line.encode('utf-8').decode('utf-8-sig').strip()
+    line = line.strip()
     if not line:
         return True
     return (line.startswith('!') or 
@@ -31,8 +31,10 @@ def is_comment(line):
             (line.startswith('#') and not line.startswith('##') and not line.startswith('#?')))
 
 def clean_rule(line):
-    line = line.encode('utf-8').decode('utf-8-sig').rstrip()
+    line = line.encode('utf-8').decode('utf-8-sig').lstrip().rstrip()
     if not line:
+        return None
+    if line.lower().startswith('[adblock plus 2.0]'):
         return None
     if is_comment(line):
         return None
@@ -56,16 +58,20 @@ def process_files(input_file, output_file):
 
     with open(output_file, 'w', encoding='utf-8') as out:
         for file_source in file_list:
+            if '=' in file_source:
+                file_source, filter_name = file_source.split('=', 1)
+            else:
+                file_source = file_source.strip()
+                filter_name = os.path.basename(urlparse(file_source).path)
+
             if file_source.startswith(('http://', 'https://')):
                 lines = download_file(file_source)
-                file_name = os.path.basename(urlparse(file_source).path)
             else:
                 lines = read_file(file_source)
-                file_name = os.path.basename(file_source)
 
             cleaned_rules = clean_rules(lines)
             if cleaned_rules:
-                out.write(f"! [{file_name}]\n")
+                out.write(f"! {filter_name.strip()}\n")
                 for rule in cleaned_rules:
                     out.write(f"{rule}\n")
                 out.write("\n")
@@ -75,7 +81,6 @@ def main():
     output_file = "cleaned_rules.txt"
     process_files(input_file, output_file)
     print(f"Очищенные правила сохранены в {output_file}")
-    input()
 
 if __name__ == "__main__":
     main()
