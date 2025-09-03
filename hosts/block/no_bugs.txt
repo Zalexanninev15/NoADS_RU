@@ -1,6 +1,0 @@
-notify.bugsnag.com
-sessions.bugsnag.com
-api.bugsnag.com
-app.bugsnag.com
-browser.sentry-cdn.com
-app.getsentry.com
