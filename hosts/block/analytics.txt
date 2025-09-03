@@ -1,6 +1,0 @@
-appcenter.ms
-firebase.io
-crashlytics.com
-api.browser.yandex.ru
-static.rustore.ru
-backapi.rustore.ru
