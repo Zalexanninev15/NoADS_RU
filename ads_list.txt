@@ -1,5 +1,5 @@
 ! Title: NoADS_RU
-! Last modified: 30 августа 2025 года
+! Last modified: 3 сентября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -19494,6 +19494,17 @@ bing.com##a[href="http://go.microsoft.com/fwlink/?LinkID=286759"]
 duckduckgo.com##.footer
 habr.com##img[class^="tm-company-card__top-image-image"]
 habr.com##div[class^="tm-article-author__company"]
+
+! 2 сент. 2025 г. https://vds.menu
+vds.menu##body > div.container:nth-of-type(1)
+vds.menu##.panel-default.panel > div > [href^="/out.php"]
+vds.menu##.col-lg-3.col-md-4.col-sm-5 .text-center > [href^="/out.php"]
+vds.menu##div.container > .text-center > [href^="/out.php"]
+vds.menu##.info.table-striped-active
+vds.menu##tr.info
+vds.menu##.text-center > [href^="/out.php"]
+vds.menu## [href^="/out.php"]
+vds.menu##.panel-info.panel
 
 ! Говнишко :D
 ||max.ru
