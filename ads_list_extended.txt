@@ -79088,7 +79088,7 @@ duckduckgo.com##.footer
 habr.com##img[class^="tm-company-card__top-image-image"]
 habr.com##div[class^="tm-article-author__company"]
 
-! 2 сент. 2025 г. https://vds.menu
+! Sep 2, 2025 https://vds.menu
 vds.menu##body > div.container:nth-of-type(1)
 vds.menu##.panel-default.panel > div > [href^="/out.php"]
 vds.menu##.col-lg-3.col-md-4.col-sm-5 .text-center > [href^="/out.php"]
@@ -79099,12 +79099,14 @@ vds.menu##.text-center > [href^="/out.php"]
 vds.menu## [href^="/out.php"]
 vds.menu##.panel-info.panel
 
+! Sep 3, 2025 https://dtf.ru
+dtf.ru##.comments-rotator.rotator
+
 ! Говнишко :D
 ||max.ru
 ! Super Black List
 ||direct.yandex.ru
 ||yandex.ru/adv/
-||mail.ru
 ||runtime.strm.yandex.ru
 ||vk.com/js/api^
 ||ya.ru/js^
