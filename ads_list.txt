@@ -19509,8 +19509,6 @@ vds.menu##.panel-info.panel
 ! Sep 3, 2025 https://dtf.ru
 dtf.ru##.comments-rotator.rotator
 
-! Говнишко :D
-||max.ru
 ! Super Black List
 ||direct.yandex.ru
 ||yandex.ru/adv/
@@ -19521,3 +19519,4 @@ dtf.ru##.comments-rotator.rotator
 ||mc.yandex.ru/metrika^
 ||avatars.mds.yandex.net/get-direct-picture$image
 ! Если нужен Я*, ищите инстант 4get или другой поисковик уже используйте.
+
