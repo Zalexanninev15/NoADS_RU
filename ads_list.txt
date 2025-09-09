@@ -8972,7 +8972,7 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||play.google.com/log?$xmlhttprequest,redirect-rule=noop.txt
 ||google.com^*/log?
 google.*##div[aria-modal="true"]:has-text(cookies)
-||cse.google.com/cse.js?cx=partner-pub$importan
+||cse.google.com/cse.js?cx=partner-pub$important
 
 ! Мелкомягкие
 ||microsoft.com/event
