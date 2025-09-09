@@ -1,5 +1,5 @@
 ! Title: NoADS_RU
-! Last modified: 3 сентября 2025 года
+! Last modified: 9 сентября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -8972,7 +8972,7 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||play.google.com/log?$xmlhttprequest,redirect-rule=noop.txt
 ||google.com^*/log?
 google.*##div[aria-modal="true"]:has-text(cookies)
-||cse.google.com/cse.js?cx=partner-pub$important
+||cse.google.com/cse.js?cx=partner-pub$importan
 
 ! Мелкомягкие
 ||microsoft.com/event
@@ -19300,6 +19300,57 @@ from=*_portal&lang=$document,removeparam=|,domain=dzen.*|yandex.*
 @@||quke.ru/promocodes?$document,removeparam
 @@||svpressa.ru/*/?page=1|$removeparam
 
+! Ответы на вопросы
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##.js-dismissable-hero
+askubuntu.com,stackexchange.com##.site-header--container
+stackoverflow.com##.top-bar ~ .container:style(position:static !important; margin-top:0px !important)
+stackoverflow.com##.top-bar:style(position:static !important)
+stackoverflow.com##.ps-sticky
+||sstatic.net/img/*/logo-$image
+||sstatic.net/*/logosponsored.svg
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##.-logo
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##.s-topbar--logo
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##.af-logo-img
+askubuntu.com,stackoverflow.com##.s-popover
+stackoverflow.com##.js-toast
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##.short-link
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##.new-login-form
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##.new-feature-wrapper
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##._fixed:style(position:absolute !important)
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com###post-form
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com###footer
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##.bottom-notice
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com###left-sidebar
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##.everyoneloves__top-leaderboard
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com##.everyonelovesstackoverflow
+askubuntu.com,stackexchange.com,stackoverflow.com,serverfault.com,superuser.com###announcement-banner
+serverfault.com##.site-header
+askubuntu.com##.js-sticky-leftnav:style(position:static !important)
+||sstatic.net/*/site-background-image.png
+askubuntu.com##.site-header
+stackoverrun.com##.text-muted
+stackoverrun.com##.exchange
+stackoverrun.com##.navbar-brand
+qaru.site,questarter.com##.navbar-fixed-top:style(position: absolute !important;)
+qaru.site,questarter.com##.s-link
+qaru.site,questarter.com##.blue
+qaru.site,questarter.com##.btn-primary
+qaru.site,questarter.com##.adtester-container
+qaru.site,questarter.com##.wraptip
+qaru.site,questarter.com##.wtip
+qa-help.ru##.order-btn
+qa-help.ru##.footer
+qa-help.ru##.back-up
+qa-help.ru##.center-block
+qa-helper.ru##.navbar
+coredump.su##.navbar-brand
+geekquestion.com##.flip-box
+geekquestion.com##.header
+geekquestion.com##body:style(padding-top:0px !important)
+ubuntugeeks.com##.navbar-brand
+askdev.ru###logo
+askdev.ru###ishame
+
 ! Jun 11, 2025 https://softlab-portable.net
 ||freebestsoft.net/uploads/files/regruhost.png$image
 softlab-portable.net##.news > noindex
@@ -19511,6 +19562,7 @@ dtf.ru##.comments-rotator.rotator
 
 ! Говнишко :D
 ||max.ru
+||mail.ru^
 ! Super Black List
 ||direct.yandex.ru
 ||yandex.ru/adv/
