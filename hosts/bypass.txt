@@ -182,3 +182,5 @@
 50.7.85.220 www.spotify.com
 50.7.85.220 accounts.spotify.com
 50.7.85.220 www.notion.so
+204.12.192.219 dell.com
+204.12.192.222 intel.com
