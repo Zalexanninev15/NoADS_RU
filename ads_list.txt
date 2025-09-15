@@ -19351,6 +19351,20 @@ ubuntugeeks.com##.navbar-brand
 askdev.ru###logo
 askdev.ru###ishame
 
+! Говнишко :D
+||max.ru
+||mail.ru^
+! Super Black List
+||direct.yandex.ru
+||yandex.ru/adv/
+||runtime.strm.yandex.ru
+||vk.com/js/api^
+||ya.ru/js^
+||yandex.ru/ads^
+||mc.yandex.ru/metrika^
+||avatars.mds.yandex.net/get-direct-picture$image
+! Если нужен Я*, ищите инстант 4get или другой поисковик уже используйте.
+
 ! Jun 11, 2025 https://softlab-portable.net
 ||freebestsoft.net/uploads/files/regruhost.png$image
 softlab-portable.net##.news > noindex
@@ -19560,16 +19574,5 @@ vds.menu##.panel-info.panel
 ! Sep 3, 2025 https://dtf.ru
 dtf.ru##.comments-rotator.rotator
 
-! Говнишко :D
-||max.ru
-||mail.ru^
-! Super Black List
-||direct.yandex.ru
-||yandex.ru/adv/
-||runtime.strm.yandex.ru
-||vk.com/js/api^
-||ya.ru/js^
-||yandex.ru/ads^
-||mc.yandex.ru/metrika^
-||avatars.mds.yandex.net/get-direct-picture$image
-! Если нужен Я*, ищите инстант 4get или другой поисковик уже используйте.
+! Sep 15, 2025 https://habr.com
+habr.com##div > [href^="https://ruvds.com/ru-rub"]
