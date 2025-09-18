@@ -76623,7 +76623,16 @@ youtube.com##+js(ra, hidden, ytd-rich-item-renderer, stay)
 
 ! Говнишко :D
 ||max.ru
-||mail.ru^
+||web.max.ru
+||max.ru
+||legal.max.ru
+||st.max.ru
+||link.max.ru
+||www.max.ru
+||api.max.ru
+||dev.max.ru
+||help.max.ru
+||download.max.ru 
 ! Super Black List
 ||direct.yandex.ru
 ||yandex.ru/adv/
