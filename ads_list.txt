@@ -19353,7 +19353,16 @@ askdev.ru###ishame
 
 ! Говнишко :D
 ||max.ru
-||mail.ru^
+||web.max.ru
+||max.ru
+||legal.max.ru
+||st.max.ru
+||link.max.ru
+||www.max.ru
+||api.max.ru
+||dev.max.ru
+||help.max.ru
+||download.max.ru
 ! Super Black List
 ||direct.yandex.ru
 ||yandex.ru/adv/
@@ -19576,4 +19585,3 @@ dtf.ru##.comments-rotator.rotator
 
 ! Sep 15, 2025 https://habr.com
 habr.com##div > [href^="https://ruvds.com/ru-rub"]
-
