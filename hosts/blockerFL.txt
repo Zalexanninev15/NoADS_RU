@@ -34970,3 +34970,13 @@
 0.0.0.0 zzsqqx.shopjapan.co.jp zzssfc.tk zztggqscmcyj.com zztxfj.xyz zzuml.nordicware.com zzynmuog.com zzyxhvqjjtgxj.online
 0.0.0.0 _saytturtsii.ru sayyac.com sayyac.net s.b2bstars.com s.b7q9v8z.com sb89347.com sba.about.co.kr
 0.0.0.0 _stock-exchange.ucoz.com stockgroup.us.intellitxt.com stock-images.0o.si stockingsight.com stockingsleet.com stockingsneeze.com stocks-analytics-events.news.apple-dns.net
+0.0.0.0 web.max.ru
+0.0.0.0 max.ru
+0.0.0.0 legal.max.ru
+0.0.0.0 st.max.ru
+0.0.0.0 link.max.ru
+0.0.0.0 www.max.ru
+0.0.0.0 api.max.ru
+0.0.0.0 dev.max.ru
+0.0.0.0 help.max.ru
+0.0.0.0 download.max.ru 

@@ -176835,6 +176835,16 @@ skadden.com#@#a[href="#back-to-top"]
 
 ! Говнишко :D
 ||max.ru
+||web.max.ru
+||max.ru
+||legal.max.ru
+||st.max.ru
+||link.max.ru
+||www.max.ru
+||api.max.ru
+||dev.max.ru
+||help.max.ru
+||download.max.ru
 ||mail.ru^
 ! Super Black List
 ||direct.yandex.ru
