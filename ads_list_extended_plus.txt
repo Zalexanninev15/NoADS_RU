@@ -10505,6 +10505,8 @@ mvideo.ru##+js(cookie-remover, partnerSrc)
 eldorado.ru##+js(cookie-remover, ek_ab_test)
 
 ! Слежка
+$removeparam=via,domain=~yandex.ru|~yandex.com
+
 $removeparam=/^abtest/i
 $removeparam=action_object_map
 $removeparam=action_type_map
@@ -10932,7 +10934,6 @@ $removeparam=vc_lpp
 $removeparam=vero_conv
 $removeparam=vero_id
 $removeparam=vgo_ee
-$removeparam=via
 $removeparam=visit_id
 $removeparam=visitorId
 $removeparam=vs
