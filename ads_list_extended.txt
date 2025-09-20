@@ -76856,3 +76856,6 @@ dtf.ru##.comments-rotator.rotator
 
 ! Sep 15, 2025 https://habr.com
 habr.com##div > [href^="https://ruvds.com/ru-rub"]
+
+! Sep 20, 2025 https://www.deepl.com
+www.deepl.com##.text-redesign-slate-gray-500.bg-redesign-jade-green-400
