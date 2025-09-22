@@ -101,7 +101,7 @@
 18.172.112.81 security.id.supercell.com
 45.95.233.23 accounts.supercell.com
 18.66.195.96 game-assets.clashroyaleapp.com
-51.158.190.98 game.clashroyaleapp.com
+179.43.148.190 game.clashroyaleapp.com
 3.162.38.39 game-assets.clashofclans.com
 70.34.251.56 gamea.clashofclans.com
 108.157.194.81 clashofclans.inbox.supercell.com
@@ -139,7 +139,9 @@
 204.12.192.219 fitbitvestibuleshim-pa.googleapis.com
 204.12.192.219 fitbit.google.com
 204.12.192.222 claude.ai
-204.12.192.220 console.anthropic.com
+185.246.223.127 console.anthropic.com
+185.246.223.127 auth.anthropic.com
+185.246.223.127 api.anthropic.com
 204.12.192.222 www.notion.so
 50.7.85.222 www.canva.com
 204.12.192.222 www.intel.com
@@ -182,5 +184,7 @@
 50.7.85.220 www.spotify.com
 50.7.85.220 accounts.spotify.com
 50.7.85.220 www.notion.so
+185.246.223.127 profile.broadcom.com
+45.95.233.23 test.dns.malw.link
 204.12.192.219 dell.com
 204.12.192.222 intel.com
