@@ -1,5 +1,5 @@
 ! Title: NoADS_RU Extended
-! Last modified: 15 сентября 2025 года
+! Last modified: 27 сентября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -8936,12 +8936,13 @@ youtube.com##.yt-simple-endpoint[title="Shorts"]
 youtube.com##.ytGridShelfViewModelHost:has-text(Shorts)
 
 ! Великий и ужасный, гуголь
+drive.google.com##[data-target="status-bar-content"]
 play.google.com##+js(ra,jsdata)
 play.google.com##+js(ra,jslog)
 google.com##+js(set-local-storage-item, mapslitepromosdismissed, 1)
 ||youtube.com/pixel
 ||contributor.google.com^*/loader.js$third-party
-||google.com/log?$important
+||google.com/log?$important,from=~accounts.google.com
 ||googleapis.com/gsf-scripts/global-remarketing/
 /cleardot.gif$redirect=1x1.gif
 ||apis.google.com/js/platform.js$3p,important
@@ -8951,6 +8952,8 @@ google.com##+js(set-local-storage-item, mapslitepromosdismissed, 1)
 google.com##.header:style(position:static !important)
 ||google.com/*/logImpressions?$xhr,redirect=nooptext
 docs.google.com##.docs-butterbar-container
+google.com##.fbar:style(position:static !important)
+google.com###fbar:style(position:static !important)
 one.google.com##div:has(>img[src*="/subscriptions/"])
 support.google.com##.survey
 mail.google.com###talk_roster
@@ -8973,6 +8976,7 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||google.com^*/log?
 google.*##div[aria-modal="true"]:has-text(cookies)
 ||cse.google.com/cse.js?cx=partner-pub$important
+meet.google.com#@#div[aria-live]
 
 ! Мелкомягкие
 ||microsoft.com/event
@@ -9967,6 +9971,7 @@ mm.ru##.seller-container:style(position:static !important)
 ||ozone.ru/assets/cms-desktop-promo
 ||ozone.ru/assets/*/cms-mobile-nav_bar.js
 ||ozone.ru/s3/sellerassets/
+||ozone.ru/s3/*/clickBanner
 ||ozone.ru/assets/*/addressBookMap-all-addressbook-bar.js$redirect=noopjs
 ||v.ozone.ru/vod/*/tile.mp4
 ozon.ru##video-player-super-lite:not(:matches-path(/\/product\//))
@@ -10005,6 +10010,7 @@ ozon.*##[data-widget="cookieBubble"]
 ozon.*##div[data-widget="webFeedbackForm"]
 ozon.*##[data-widget="feedbackTile"]
 ozon.*##[id^=state-webAddToFavorite]
+ozon.*##[id^=state-webAddToFavorite]:remove()
 ozon.*##ozpopover
 ozon.*##div[append="true"][mountto="body"]
 ozon.*##[data-widget="homeButton"]
@@ -10228,6 +10234,8 @@ ozon.*##*:remove-attr(trackinginfo)
 ozon.*##p:has-text(/Наведите камеру и скачайте|Point your camera and download/i)
 ozon.*##p:has-text(/Наведите камеру и скачайте|Point your camera and download/i) ~ div:has(img[src*="/group"])
 ||ozone.ru/s3/cms/*/qr-code$image
+ozon.*##[href^="https://galaxystore.samsung.com"]
+ozon.*##[href^="https://global.app.mi.com/details"]
 ozon.*##a[title="VK"]
 ozon.*##a[title="Одноклассники"]
 ozon.*##a[title="Telegram"]
@@ -10243,7 +10251,7 @@ ozon.*##[data-widget="objectThumbnailList"]:has-text(Популярные бре
 ozon.*##[data-widget="webSharingButton"]
 ozon.*##span:has-text(Условия доставки из-за рубежа):style(color:red !important)
 ozon.*##div[data-review-uuid] ~ div:has(div[comments]:has(a:has-text(/^в ответ/)))
-ozon.*##div[celltrackinginfo]:not(:matches-path(/reviewVuuid/)):not(div[reviewuuid])
+ozon.*##div[celltrackinginfo]:not(:matches-path(/reviewVuuid/)):not(:matches-path(/my/reviews)):not(:matches-path(/context/client_opinion):not(div[reviewuuid])
 ozon.*##div[data-review-uuid]:not(:has-text(/Вам помог этот|Показать весь отзыв/)):not(:matches-path(//my/reviews|/context/client_opinion/))
 ||ozone.ru/s3/my-account-api-img/*/OD-ok.png$image
 finance.ozon.*##.bank-logo
@@ -10317,6 +10325,7 @@ wildberries.ru##.product-card__tip
 wildberries.ru##.price-block__credit-payment
 wildberries.ru##.list-item__price-credit
 wildberries.ru##.b-top__bpl-switch:has-text(Оплатить потом)
+wildberries.ru##.installment-commission
 wildberries.ru##.j-quicknav
 wildberries.ru##.quicknav-v1
 wildberries.ru##.social
@@ -10348,9 +10357,11 @@ wildberries.ru##.product-feedbacks::after
 
 ! 🍪
 *##+js(cookie-remover, 6suuid)
+*##+js(cookie-remover, /^apbct_/)
 *##+js(cookie-remover, active_template)
 *##+js(cookie-remover, ad-id)
 *##+js(cookie-remover, /^admitad_/)
+*##+js(cookie-remover, /^adsplacerPro/)
 *##+js(cookie-remover, adtech_uid)
 *##+js(cookie-remover, /^advcake_/)
 ##+js(cookie-remover, ajs_anonymous_id)
@@ -10375,6 +10386,7 @@ wildberries.ru##.product-feedbacks::after
 *##+js(cookie-remover, ezepvv)
 *##+js(cookie-remover, _fbp)
 *##+js(cookie-remover, _fbc)
+*##+js(cookie-remover, /^feedot_/)
 *##+js(cookie-remover, _ga)
 *##+js(cookie-remover, /^_ga_/)
 *##+js(cookie-remover, _gat)
@@ -10388,12 +10400,23 @@ wildberries.ru##.product-feedbacks::after
 *##+js(cookie-remover, /^lp_[0-9]+$/)
 *##+js(cookie-remover, /refer/i)
 *##+js(cookie-remover, rerf)
+*##+js(cookie-remover, /^sbjs_/)
 *##+js(cookie-remover, sh2lastfid)
+*##+js(cookie-remover, _landing_page)
+*##+js(cookie-remover, shop_analytics)
+*##+js(cookie-remover, _shop_app_analytics)
+*##+js(cookie-remover, _shopify_essential)
+*##+js(cookie-remover, _shopify_essential_)
+*##+js(cookie-remover, _shopify_marketing)
+*##+js(cookie-remover, _shopify_s)
+*##+js(cookie-remover, _shopify_t)
+*##+js(cookie-remover, _shopify_y)
 *##+js(cookie-remover, /^s_vi_/)
 *##+js(cookie-remover, tmr_detect)
 *##+js(cookie-remover, tmr_lvid)
 *##+js(cookie-remover, tmr_lvidTS)
 *##+js(cookie-remover, tmr_reqNum)
+*##+js(cookie-remover, _tracking_consent)
 *##+js(cookie-remover, /visit/i)
 sso.dzen.ru##+js(cookie-remover, i)
 ya.ru##+js(cookie-remover, i)
@@ -10409,8 +10432,19 @@ yandex.ru##+js(cookie-remover, i)
 *##+js(cookie-remover, yuidss)
 *##+js(cookie-remover, /_utm_/)
 24review.ru##+js(cookie-remover, watched)
+atlassian.com##+js(cookie-remover, atlCohort)
+atlassian.com##+js(cookie-remover, ldAnonymousId)
+automost52.ru##+js(cookie-remover)
+avto.pro##+js(cookie-remover, proAnalyticsReflog)
+avto.pro##+js(cookie-remover, pref)
+avto-moto8.com##+js(cookie-remover)
 beeline.ru##+js(cookie-remover, abtest_new_basket)
 beeline.ru##+js(cookie-remover, abtest_new_basket_shop)
+bolshoyvopros.ru##+js(cookie-remover, ref_site)
+bolshoyvopros.ru##+js(cookie-remover, /_time$/)
+bolshoyvopros.ru##+js(cookie-remover, rs)
+bolshoyvopros.ru##+js(cookie-remover, ru)
+bolshoyvopros.ru##+js(cookie-remover, rd)
 buffer.com##+js(cookie-remover, buffer-marketing)
 buffer.com##+js(cookie-remover, buffer-marketing.sig)
 citilink.ru##+js(cookie-remover, /^ab_test/)
@@ -10418,20 +10452,24 @@ citilink.ru##+js(cookie-remover, directCrm-session)
 citilink.ru##+js(cookie-remover, __exponea_etc__)
 citilink.ru##+js(cookie-remover, __exponea_time2__)
 citilink.ru##+js(cookie-remover, mindboxDeviceUUID)
-cloudstorageinfo.org##+js(cookie-remover, /^apbct_/)
 cloudstorageinfo.org##+js(cookie-remover, ct_screen_info)
 cnn.com##+js(cookie-remover, _pxhd)
 coldsteel.com##+js(cookie-remover, fornax_anonymousId)
 creatio.com##+js(cookie-remover, /^visid_incap_/)
 crozdesk.com##+js(cookie-remover, conversion)
-cubelelo.com##+js(cookie-remover, _landing_page)
 digitalocean.com##+js(cookie-remover, first_landing_page)
 digitalocean.com##+js(cookie-remover, last_landing_page)
 digitalocean.com##+js(cookie-remover, last_landing_page_timestamp)
+dns-shop.ru##+js(cookie-remover, ab_spa)
 drivecentric.com##+js(cookie-remover, Ignitify)
 eksmo.ru##+js(cookie-remover, eid)
+eldorado.ru##+js(cookie-remover, ek_ab_test)
 empoweringsystems.com##+js(cookie-remover, _wpfuj)
 fanboy.co.nz##+js(cookie-remover)
+firmao.net##+js(cookie-remover, initialWebpage)
+firmao.net##+js(cookie-remover, pk_campaign)
+firmao.net##+js(cookie-remover, pk_campaign_set)
+firmao.net##+js(cookie-remover, vjs)
 fleeg.com##+js(cookie-remover, custom_origin_first)
 fleeg.com##+js(cookie-remover, user_origin)
 fleeg.com##+js(cookie-remover, origin)
@@ -10440,29 +10478,63 @@ fleeg.com##+js(cookie-remover, param_tag)
 forbes.com##+js(cookie-remover, fadvfpuid)
 forbes.com##+js(cookie-remover, fadve2etid)
 fridaycrm.com##+js(cookie-remover, income_point_uri)
+gaana.com##+js(cookie-remover, reftoken)
 gameplay.tips##+js(cookie-remover, caosLocalGa)
 gameplay.tips##+js(cookie-remover, caosLocalGa_gid)
+gold-vision.com##+js(cookie-remover, _monsterinsights_uj)
 google.com##+js(cookie-remover, DV)
+grafana.com##+js(cookie-remover, rl_anonymous_id)
 hellobonsai.com##+js(cookie-remover, bonsai_attribution_data)
+https-rulesets.org##+js(cookie-remover, __tad)
+https-rulesets.org##+js(cookie-remover, uuid)
+https-rulesets.org##+js(cookie-remover, parking_session)
 indeed.com##+js(cookie-remover, CTK)
 indeed.com##+js(cookie-remover, LV)
 indeed.com##+js(cookie-remover, RF)
 indeed.com##+js(cookie-remover, RQ)
 indeed.com##+js(cookie-remover, UD)
+intuit.com##+js(cookie-remover, ADRUM_BT)
+intuit.com##+js(cookie-remover, hosted-shell)
+intuit.com##+js(cookie-remover, qbn.qbo_sc)
 investing.com##+js(cookie-remover, adBlockerNewUserDomains)
 investing.com##+js(cookie-remover, lifetime_page_view_count)
 investing.com##+js(cookie-remover, smd)
 investing.com##+js(cookie-remover, udid)
+investing.com##+js(cookie-remover, inudid)
+investing.com##+js(cookie-remover, invab)
+investing.com##+js(cookie-remover, user-browser-sessions)
 invideo.io##+js(cookie-remover, /^amp_/)
+involve.me##+js(cookie-remover, first_lp)
+kuper.ru##+js(cookie-remover, external_analytics_anonymous_id)
+kuper.ru##+js(cookie-remover, rl_anonymous_id)
+kuzovnoi-msk.ru##+js(cookie-remover, ref)
+lemanapro.ru##+js(cookie-remover, uid_experiment)
+ludi.by##+js(cookie-remover, wordpress_gdpr_first_time_url)
+manualslib.com##+js(cookie-remover, stcookid)
 learn.microsoft.com##+js(cookie-remover, original_req_url)
+mirzap.ru##+js(cookie-remover, /^utmstat_/)
+mvideo.ru##+js(cookie-remover, __cpatrack)
+mvideo.ru##+js(cookie-remover, __SourceTracker)
+mvideo.ru##+js(cookie-remover, __allsource)
+mvideo.ru##+js(cookie-remover, __sourceid)
+mvideo.ru##+js(cookie-remover, partnerSrc)
 nethunt.com##+js(cookie-remover, NH-EXIT-BANNER)
 nordvpn.com##+js(cookie-remover, /^popups_/i)
 ozon.ru##+js(cookie-remover, ADDRESSBOOKBAR_WEB_CLARIFICATION)
 finance.ozon.ru##+js(cookie-remover, /trackerSessionId/i)
+planetofhotels.com##+js(cookie-remover, lptp)
+planetofhotels.com##+js(cookie-remover, /^SSESS/)
 price.ru##+js(cookie-remover, ruid)
+producthunt.com##+js(cookie-remover, track_code)
+prov-telegram.ru##+js(cookie-remover, siteStatistics)
+qnap.com##+js(cookie-remover, _ALGOLIA)
+radreads.co##+js(cookie-remover, __sl-fingerprint)
 reallysimplesystems.com##+js(cookie-remover, MoneypennyRef)
 rnk.ru##+js(cookie-remover, ASE_anonymousId)
 rnk.ru##+js(cookie-remover, ASE_SlideBannerShowedPeriod_15)
+root-nation.com##+js(cookie-remover, dwqa_anonymous)
+ru-shopping.ru##+js(cookie-remover, nc_Netshop_RecentGoods_sid)
+salescrm.org##+js(cookie-remover, mailchimp_landing_site)
 slashdot.org##+js(cookie-remover, VISITOR)
 softr.io##+js(cookie-remover, sfic)
 softr.io##+js(cookie-remover, slic)
@@ -10470,39 +10542,36 @@ softr.io##+js(cookie-remover, sfip)
 softr.io##+js(cookie-remover, sfid)
 softr.io##+js(cookie-remover, slip)
 softr.io##+js(cookie-remover, slid)
+sovcombank.ru##+js(cookie-remover, scb_utmz)
 squarespace.com##+js(cookie-remover, SS_ANALYTICS_ID)
 squarespace.com##+js(cookie-remover, SS_MID)
 squareup.com##+js(cookie-remover, _solidshop_guest_token)
+stroy-podskazka.ru##+js(cookie-remover, LastView)
+substack.com##+js(cookie-remover, ab_experiment_sampled)
+substack.com##+js(cookie-remover, ab_testing_id)
+tbank.ru##+js(cookie-remover, dsp_click_id)
+tbank.ru##+js(cookie-remover, utm_date_set)
+tbank.ru##+js(cookie-remover, utm_source)
+tbank.ru##+js(cookie-remover, pageLanding)
+t-j.ru##+js(cookie-remover, dsp_click_id)
+t-j.ru##+js(cookie-remover, utm_date_set)
+t-j.ru##+js(cookie-remover, utm_source)
+vidal.ru##+js(cookie-remover, /^banner-show/)
 vseinstrumenti.ru##+js(cookie-remover, reftoken)
+vwvortex.com##+js(cookie-remover, guest_hash)
+vwvortex.com##+js(cookie-remover, CAFN)
 webflow.com##+js(cookie-remover, wf_first_touch)
 webflow.com##+js(cookie-remover, wf_first_touch_v2)
 wynk.in##+js(cookie-remover, nonLoggedInUser)
+xn--80abdxm6c.xn--p1ai##+js(cookie-remover, cartGuestId)
 yandex.ru##+js(cookie-remover, usurveys)
 zabbix.com##+js(cookie-remover, bbdiscussion_view)
 zabbix.com##+js(cookie-remover, bblastactivity)
+zdnet.com##+js(cookie-remover, OptanonAlertBoxClosed)
+zdnet.com##+js(cookie-remover, OptanonConsent)
+znaiauto.ru##+js(cookie-remover)
 zoom.us##+js(cookie-remover, _zm_mtk_guid)
 zoom.us##+js(cookie-remover, _zm_visitor_guid)
-gaana.com##+js(cookie-remover, reftoken)
-salescrm.org##+js(cookie-remover, mailchimp_landing_site)
-producthunt.com##+js(cookie-remover, track_code)
-ru-shopping.ru##+js(cookie-remover, nc_Netshop_RecentGoods_sid)
-firmao.net##+js(cookie-remover, initialWebpage)
-firmao.net##+js(cookie-remover, pk_campaign)
-firmao.net##+js(cookie-remover, pk_campaign_set)
-firmao.net##+js(cookie-remover, vjs)
-radreads.co##+js(cookie-remover, __sl-fingerprint)
-gold-vision.com##+js(cookie-remover, _monsterinsights_uj)
-growsmartmarketing.com##+js(cookie-remover, apbct_urls)
-intuit.com##+js(cookie-remover, ADRUM_BT)
-intuit.com##+js(cookie-remover, hosted-shell)
-intuit.com##+js(cookie-remover, qbn.qbo_sc)
-involve.me##+js(cookie-remover, first_lp)
-mvideo.ru##+js(cookie-remover, __cpatrack)
-mvideo.ru##+js(cookie-remover, __SourceTracker)
-mvideo.ru##+js(cookie-remover, __allsource)
-mvideo.ru##+js(cookie-remover, __sourceid)
-mvideo.ru##+js(cookie-remover, partnerSrc)
-eldorado.ru##+js(cookie-remover, ek_ab_test)
 
 ! Слежка
 $removeparam=via,domain=~yandex.ru|~yandex.com
@@ -38349,6 +38418,7 @@ aliexpress.*##[class^=appScan-]
 aliexpress.*##[class*=down-load-app--menuItem]
 aliexpress.*##.comet-icon-chevronup
 aliexpress.*##.comet-back-top
+aliexpress.*##.comet-v2-back-top-content
 aliexpress.*##[class^=action--container]:style(position:static !important)
 aliexpress.*##[class^=survey--wrap]
 aliexpress.*###user-benefits
@@ -38385,6 +38455,7 @@ aliexpress.*##.placeholder-div
 aliexpress.*##div[data-role="for_header_fixed"]
 aliexpress.*##.atwl-btn-wrap
 aliexpress.*##[class^=product-snippet_ProductSnippet__tag]
+||alicdn.com/kf/*/96x96.png
 aliexpress.*##.ask-buyers
 aliexpress.*##.left-menu-container:style(max-height:none !important)
 ||alicdn.com/kf/*.gif
@@ -39228,6 +39299,7 @@ aliexpress.*##.left-menu-container:style(max-height:none !important)
 ||alicdn.com/kf/Hfb572dd5462641ef983625155d9ba9a8O.jpg
 ||alicdn.com/kf/Hfc358766d7634336a2fa90e25e50031a6.jpg
 ||alicdn.com/kf/Hff3155a9684c41228dd1216064baee25A.jpg
+||alicdn.com/kf/S01523ef93482448d8c33d410344d6a9eI/361x360.png
 ||alicdn.com/kf/U02e78b31f8d5458ca32e3a17ed631a76o.jpg
 ||alicdn.com/kf/U1296607da26143538769515e7b595b91k.png
 ||alicdn.com/kf/U2d68738f787647e8a293ce7cc02dcf51T.png
@@ -39360,6 +39432,8 @@ aliexpress.*##[class^=RedModuleBanner]
 aliexpress.*##[class^=PseudoSmartBanner]
 aliexpress.*##[class^=Footer_styles__social]
 aliexpress.*##.product-fix-wrap
+aliexpress.*##[class*=buy-more-save-more]
+aliexpress.*##[class*=sale-subject--container]
 aliexpress.*##.hot-words
 aliexpress.*##[class^=Header_HotWords]
 aliexpress.*##[class*=HotSearch__crossLinks]
@@ -39470,6 +39544,8 @@ aliexpress.*##.brand-store-wrap
 aliexpress.*##.drogue-poplayer-modal
 ||img.alicdn.com/imgextra/$image
 alibabacloud.com##.hmod-alicloud-contact-sales-support
+aliexpress.*##a:has-text(/^$/)
+aliexpress.*##span[ae_button_type="detail-sns-shares"]
 ali.onl
 ali.pub
 s.click.aliexpress.com
@@ -39719,7 +39795,6 @@ yandex.*##.business-card-view__offers
 yandex.*##.business-post-view
 yandex.*##iframe[src*="iframe-ux-feedback.html"]
 ||yandex.net/*/uxfeedback
-||yastatic.net/*/uxfeedback
 yandex.*##.search-business-snippet-view__badge:has-text(Реклама)
 yandex.*##._prioritized.business-verified-badge
 yandex.*##.business-verified-badge
@@ -39810,6 +39885,7 @@ market.yandex.*##div[data-zone-name="BnplWidget"]
 market.yandex.*##[data-baobab-name="customerChoice"]
 yandex.*##div:has-text(/^18\+ контент/)
 market.yandex.ru###\/content\/header\/header\/balanceBadge
+||market.yandex.ru/api/resolve/
 ya.ru,yandex.*##a[href="/q/"]:has(svg)
 ya.ru,yandex.*##div:has-text(/^Вы\s+знаете\s+ответ\s+на\s+этот\s+вопрос/)
 ya.ru,yandex.*##a:has-text(Скачайте приложение)
