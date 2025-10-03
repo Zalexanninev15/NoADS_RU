@@ -76938,3 +76938,6 @@ www.deepl.com##.text-redesign-slate-gray-500.bg-redesign-jade-green-400
 
 ! Sep 29, 2025 https://duckduckgo.com
 duckduckgo.com###free-badge-container
+
+! Oct 3, 2025 https://www.youtube.com
+www.youtube.com###mealbar-promo-renderer > .yt-mealbar-promo-renderer.style-scope
