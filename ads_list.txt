@@ -1,5 +1,5 @@
 ! Title: NoADS_RU
-! Last modified: 27 сентября 2025 года
+! Last modified: 4 октября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -20640,3 +20640,15 @@ duckduckgo.com###free-badge-container
 
 ! Oct 3, 2025 https://www.youtube.com
 www.youtube.com###mealbar-promo-renderer > .yt-mealbar-promo-renderer.style-scope
+
+! Oct 4, 2025 https://market.yandex.ru
+market.yandex.ru###optimize
+market.yandex.ru###\/content\/footer\/appPromoLoader
+market.yandex.ru###div[data-auto="creativeBanner"]
+market.yandex.ru##a[aria-label="Баннер"]
+market.yandex.ru##article[id="BANNER"]
+market.yandex.ru##div[data-zone-name="splitSimpleWidget"]
+market.yandex.ru##a[href^="http://media-adv"]
+market.yandex.ru##a[href^="https://media-adv"]
+market.yandex.ru##article[data-auto="banner"]
+||avatars.mds.yandex.net/get-market*$image
