@@ -54,7 +54,8 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 Реализовано 3 типа hosts-файлов с правилами: 
 - Блокировщик ([blocker](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt))
 - Расширенный блокировщик ([blockerFL](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt))
-- Анлокер сайтов ([bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt)).
+- Анлокер сайтов ([bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt)) или [альтернативный bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass2.txt) (пока в тестовом режиме).
+- Также доступен остаточный микс из разных хостов ([mix_trash.zip](https://github.com/Zalexanninev15/NoADS_RU/raw/refs/heads/main/hosts/mix_trash.zip)) (блокировщик)
 
 #### 📱 NoADS_RU TGCL
 
