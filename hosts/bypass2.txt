@@ -188,3 +188,28 @@
 45.95.233.23 test.dns.malw.link
 204.12.192.219 dell.com
 204.12.192.222 intel.com
+31.13.72.36 facebook.com www.facebook.com
+31.13.72.12 static.xx.fbcdn.net external-hel3-1.xx.fbcdn.net scontent-hel3-1.xx.fbcdn.net
+157.240.225.174 www.instagram.com instagram.com
+157.240.224.63 scontent.cdninstagram.com scontent-hel3-1.cdninstagram.com www.threads.com threads.com
+31.13.72.53 static.cdninstagram.com
+157.240.245.174 b.i.instagram.com z-p42-chat-e2ee-ig.facebook.com
+3.66.189.153 protonmail.com mail.proton.me
+134.0.118.88 chatgpt.com ab.chatgpt.com auth.openai.com auth0.openai.com platform.openai.com cdn.oaistatic.com cdn.auth0.com tcr9i.chat.openai.com webrtc.chatgpt.com android.chat.openai.com api.openai.com us.posthog.com
+204.12.192.222 files.oaiusercontent.com cdn.oaistatic.com gemini.google.com aistudio.google.com generativelanguage.googleapis.com alkalimakersuite-pa.clients6.google.com aitestkitchen.withgoogle.com aisandbox-pa.googleapis.com webchannel-alkalimakersuite-pa.clients6.google.com proactivebackend-pa.googleapis.com o.pki.goog labs.google notebooklm.google notebooklm.google.com copilot.microsoft.com www.bing.com sydney.bing.com edgeservices.bing.com xsts.auth.xboxlive.com api.spotify.com xpui.app.spotify.com appresolve.spotify.com login5.spotify.com gew1-spclient.spotify.com gew1-dealer.spotify.com spclient.wg.spotify.com api-partner.spotify.com aet.spotify.com www.spotify.com accounts.spotify.com spotifycdn.com open-exp.spotifycdn.com www-growth.scdn.co accounts.scdn.co ap-gew1.spotify.com www.notion.so notion.so calendar.notion.so www.canva.com www.intel.com www.dell.com developer.nvidia.com codeium.com inference.codeium.com www.tiktok.com api.individual.githubcopilot.com proxy.individual.githubcopilot.com datalore.jetbrains.com plugins.jetbrains.com elevenlabs.io api.us.elevenlabs.io elevenreader.io truthsocial.com static-assets-1.truthsocial.com grok.com assets.grok.com accounts.x.ai autodesk.com accounts.autodesk.com claude.ai www.netflix.com netflix.com www.hulu.com hulu.com soundcloud.com style.sndcdn.com a-v2.sndcdn.com secure.sndcdn.com anilib.me usher.ttvnw.net ntc.party sora.com sora.chatgpt.com videos.openai.com pump.fun frontend-api-v3.pump.fun images.pump.fun swap-api.pump.fun www.elgato.com deepl.com www.deepl.com s.deepl.com ita-free.www.deepl.com experimentation.deepl.com w.deepl.com login-wall.deepl.com gtm.deepl.com checkout.www.deepl.com
+50.7.85.221 rewards.bing.com datalore.jetbrains.com
+50.7.87.84 login.app.spotify.com
+138.201.204.218 encore.scdn.co ap-gew1.spotify.com
+185.250.151.49 grok.com assets.grok.com accounts.x.ai
+94.131.119.85 autodesk.com accounts.autodesk.com
+158.255.0.189 www.netflix.com netflix.com
+2.19.183.66 www.hulu.com
+2.22.31.233 hulu.com
+18.238.243.27 soundcloud.com
+13.224.222.71 style.sndcdn.com
+3.164.206.34 a-v2.sndcdn.com
+18.165.140.56 secure.sndcdn.com
+172.67.192.246 anilib.me
+45.95.233.23 usher.ttvnw.net
+104.21.32.39 rutracker.org
+104.21.50.150 static.rutracker.cc

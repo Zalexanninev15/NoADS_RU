@@ -1,3 +1,5 @@
+0.0.0.0 www.aomeitech.com
+0.0.0.0 1xbet.kz 1xbet.com 1xlite-06044.top only-fans.uk only-fans.me only-fans.wtf
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 bdapi-ads.realmemobile.com
