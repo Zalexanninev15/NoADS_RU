@@ -56,6 +56,12 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 - Расширенный блокировщик ([blockerFL](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt))
 - Анлокер сайтов ([bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt)).
 
+#### 📱 NoADS_RU TGCL
+
+[Подробнее](https://github.com/Zalexanninev15/NoADS_RU/tree/main/tgcl)
+
+> Автору просто заняться нечем 😅
+
 ## Особенности списка
 
 * Заблокирована реклама, её упоминания, баннеры и возможность её покупки (*давайте не будем переходить на тёмную сторону*)
