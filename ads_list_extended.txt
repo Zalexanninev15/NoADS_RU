@@ -1,5 +1,5 @@
 ! Title: NoADS_RU Extended
-! Last modified: 4 октября 2025 года
+! Last modified: 8 октября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -10036,6 +10036,7 @@ finance.ozon.*##.paranja:has-text(/Зв(е|ё)зды/i)
 ||ozone.ru/s3/cdn-public/ozon_card_banner$image
 ||ozone.ru/s3/*/card-landing$image
 ||ozone.ru/s3/*/hero-landing$image
+||ozone.ru/assets/*/black-friday/entry.marketing.js
 ozon.*#@#html:not([style*="overflow:"]) [data-widget="skuGrid"]
 ozon.*##[data-widget="banner"]
 ozon.*##a[href^="/travel/info/hotels-cashback/"]
@@ -10173,6 +10174,7 @@ finance.ozon.*###modal-container:has(button:has-text(Получить беспл
 finance.ozon.*##.swiper-banners
 finance.ozon.*##.benefits
 finance.ozon.*##.landing
+finance.ozon.*##.skeleton:has(.wave)
 ozon.*##a[href^="/travel/"]:has(img)
 ozon.*##a[href^="/brand/"]:has(img)
 ozon.ru##a[href^="https://www.ozon.ru/travel/promo/"]
@@ -10212,6 +10214,7 @@ ozon.*##div:has(>div:has-text(/^\s*^(ХИТЫ НЕДЕЛИ|АКЦИЯ НЕДЕЛ
 ozon.*##div:has(>div:has-text(/^Вам ещ(е|ё)/))
 ozon.*##section > div:has(>div>svg[width][height]):has(>div)
 ozon.*##.tile-brand-logo
+ozon.ru##aside div:has(>div>div>div>span:has-text(морковок)):not(:has-text(Категория))
 ozon.*##div[type="annotation"]:has-text(/(Р|р)ассрочк/)
 ozon.*##[data-widget=webInstallmentPurchase]
 ozon.ru##div > a[href="https://www.ozon.ru/section/limit"]
@@ -10322,10 +10325,12 @@ wildberries.ru##.price__wallet-condition-text
 wildberries.ru##.price__wrap del
 wildberries.ru##.product-card__tip-wrap
 wildberries.ru##.product-card__tip
+wildberries.ru##[class*=promoPanel-]
 wildberries.ru##.price-block__credit-payment
 wildberries.ru##.list-item__price-credit
 wildberries.ru##.b-top__bpl-switch:has-text(Оплатить потом)
 wildberries.ru##.installment-commission
+wildberries.ru##button[class*=badgeCredit]
 wildberries.ru##.j-quicknav
 wildberries.ru##.quicknav-v1
 wildberries.ru##.social
@@ -10345,6 +10350,7 @@ wildberries.ru##.also-buy-wrapper
 wildberries.ru##.scrolled-socials
 wildberries.ru##.general-preloader
 wildberries.ru##.same-part-kt__btn-buy
+wildberries.ru##[class*=buyNowButton]
 wildberries.ru##.error500
 wildberries.ru##.footer__nav
 wildberries.ru##.feedback__btn-block:has(.j-show-feedback-answer)
@@ -10354,6 +10360,7 @@ wildberries.ru##.feedback__state
 wildberries.ru##.feedback__sellers-reply
 wildberries.ru##.product-feedbacks::before
 wildberries.ru##.product-feedbacks::after
+wildberries.ru##[class^=feedbackContainer]
 
 ! 🍪
 *##+js(cookie-remover, 6suuid)
@@ -39799,7 +39806,10 @@ yandex.*##.search-business-snippet-view__badge:has-text(Реклама)
 yandex.*##._prioritized.business-verified-badge
 yandex.*##.business-verified-badge
 yandex.*##.search-business-snippet-view__neurosummary
+yandex.*##.map-controls:style(width:auto !important)
 ||yastatic.net/s3/travel-frontend-illustrations/LotteryHeader$image
+||yastatic.net/s3/travel-frontend-illustrations/DesktopIndexLogo$image
+uslugi.yandex.ru##.Loader-Overlay
 ya.ru,yandex.*##.Popup2:has-text(Яндекс Браузер)
 ya.ru,yandex.*###popup-wrapper
 ya.ru,yandex.*###modal
@@ -39841,6 +39851,7 @@ ya.ru##.search3__voice
 ya.ru##.search3__placeholder
 ||yastatic.net/s3/distribution/promo/
 ||avatars.mds.yandex.net/get-market_banners$image
+||avatars.mds.yandex.net/get-vertis-marketing/$image
 ya.ru,yandex.*##.answer-form
 ||yastatic.net/answers/_/assets/desktop/$image
 ||yastatic.net/metrika/$important
@@ -40314,7 +40325,7 @@ turbopages.org##.header_wide-logo
 turbopages.org##.turbo-image_type_logo
 /^https?:\/\/yandex\.(by|kz|ru|ua|uz)\/images\/(?!(search\?)|(touch\/search?))[^\s]{80,}/$xmlhttprequest,1p
 
-! Miners
+! Майнеры
 ||23.83.114.131^$third-party
 ||2miners.com^$third-party
 ||35.194.26.233^$third-party
