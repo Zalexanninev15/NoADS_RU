@@ -2323,10 +2323,6 @@ www.google.com##.dkw61e.sh-sp__btn
 www.mvideo.ru##[href^="/promo/vneplanovaya-chernaya-pyatnica-mark165903130"] > .lazy-loaded.lazy-load-image-holder
 www.mvideo.ru##.no-shadow-block.banner-top
 
-! 19.07.2020 https://twitter.com
-twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1ylenci.r-1tlfku8.r-14lw9ot.css-1dbjc4n:nth-of-type(1) > .css-1dbjc4n
-twitter.com##a.r-qvutc0.r-1qfoi16.r-bcqeeo.r-hrzydr.r-1sf4r6n.r-16dba41.r-n6v787.r-1qd0xha.r-1loqt21.r-1re7ezh.css-901oao.css-18t94o4.css-4rbku5:nth-of-type(4) > .r-qvutc0.r-bcqeeo.r-ad9z0x.r-1qd0xha.css-16my406.css-901oao
-
 ! 21.07.2020 https://security.wildberries.ru
 security.wildberries.ru##.mobile-site
 security.wildberries.ru##.apps.item-footer
@@ -5140,9 +5136,6 @@ www.verbatim.ru###cookie-bar
 ! 2021-04-08 https://www.pearson.com
 www.pearson.com##.visible.section.cookie-notification
 
-! 2021-04-08 https://twitter.com
-twitter.com##.r-1upvrn0.r-urgr8i.css-1dbjc4n
-
 ! 2021-04-08 https://www.securitylab.ru
 www.securitylab.ru###article_509145 > .cpb.container > .row > .d-lg-block.d-none.col-lg-3
 
@@ -5565,9 +5558,6 @@ www.cyotek.com###cookieChoiceInfo
 
 ! 2021-05-07 https://unicode-table.com
 unicode-table.com##.cookie__wrapper
-
-! 2021-05-07 https://twitter.com
-twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n
 
 ! 2021-05-07 https://static.app
 static.app##.dialogContent
