@@ -1,4 +1,5 @@
 Major: https://t.me/s/github
+Major: https://t.me/s/waicore
 https://t.me/s/GamerOldfag
 https://t.me/s/Inter_sh0p
 https://t.me/s/retrogmng
@@ -9,3 +10,4 @@ https://t.me/s/powerdeviceofficial
 https://t.me/s/itsmyday_live
 https://t.me/s/bashdays
 https://t.me/s/bu_intershop
+https://t.me/s/github
