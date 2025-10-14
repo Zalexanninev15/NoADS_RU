@@ -20969,3 +20969,9 @@ www.youtube.com###fulfilled-layout > .ytd-ad-slot-renderer.style-scope
 www.avito.ru##div[class*="Stories"]
 www.avito.ru##div[class*="promoWidget"]
 www.avito.ru##a[href*="ads"]
+
+! Oct 14, 2025 г. https://www.dns-shop.ru
+www.dns-shop.ru##.survey-button-widget_tile.survey-button-widget
+www.dns-shop.ru##.menu-links-desktop__menu-contacts.menu-contacts > .menu-contacts__apps > .apps-icon
+www.dns-shop.ru##.menu-links-desktop__menu-contacts.menu-contacts > .menu-contacts__social_ru.social.menu-contacts__social
+www.dns-shop.ru##.menu-links-desktop__menu-contacts.menu-contacts > .menu-contacts__subscription.subscription
