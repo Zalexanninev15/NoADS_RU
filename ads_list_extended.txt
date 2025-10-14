@@ -1,5 +1,5 @@
 ! Title: NoADS_RU Extended
-! Last modified: 8 октября 2025 года
+! Last modified: 14 октября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -76957,3 +76957,8 @@ market.yandex.ru##article[data-auto="banner"]
 
 ! Oct 4, 2025 https://www.youtube.com
 www.youtube.com###fulfilled-layout > .ytd-ad-slot-renderer.style-scope
+
+! Oct 14, 2025 г. https://www.avito.ru
+www.avito.ru##div[class*="Stories"]
+www.avito.ru##div[class*="promoWidget"]
+www.avito.ru##a[href*="ads"]
