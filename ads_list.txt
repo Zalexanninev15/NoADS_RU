@@ -1,5 +1,5 @@
 ! Title: NoADS_RU
-! Last modified: 15 октября 2025 года
+! Last modified: 17 октября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -20978,3 +20978,10 @@ www.dns-shop.ru##.menu-links-desktop__menu-contacts.menu-contacts > .menu-contac
 
 ! Oct 15, 2025 г. https://habr.com
 habr.com##a[href^="https://effect.habr.com"]
+
+! Oct 17, 2025 https://point.md
+point.md##.desktop.desktopInfinite
+point.md##div[data-banner-name*="Banner"]
+point.md##div[data-banner-name*="Разместить рекламу на сайте"]
+point.md##a[href*="/ad/"]
+point.md##img[alt*=" Logo"]
