@@ -5476,7 +5476,7 @@ yandex.ru##a.xFrQWvQo.link_theme_normal.link:nth-of-type(3)
 m.vk.com##.mmi_fv
 
 ! 2021-05-06 https://m.ok.ru
-m.ok.ru##.staple_inner2)
+m.ok.ru##.staple_inner
 
 ! 2021-05-07 https://www.cyotek.com
 www.cyotek.com###cookieChoiceInfo
