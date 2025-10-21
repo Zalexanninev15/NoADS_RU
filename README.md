@@ -59,7 +59,9 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 
 #### 📱 NoADS_RU TGCL
 
-[Подробнее](https://github.com/Zalexanninev15/NoADS_RU/tree/main/tgcl)
+Списки Telegram каналов по категориям, от которых нужно срочно отписаться ради вашей же безопасности (если это вообще применимо к Telegram), либо, пустить в RSS или парсить, но не подписываться явно в Telegram.
+
+[Перейти в TGCL](https://github.com/Zalexanninev15/NoADS_RU/tree/main/tgcl)
 
 > Автору просто заняться нечем 😅
 
