@@ -1,5 +1,5 @@
 ! Title: NoADS_RU Extended
-! Last modified: 17 октября 2025 года
+! Last modified: 20 октября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -10,6 +10,7 @@
 ! Если на вашем любимом сайте осталась реклама или фильтр создаёт проблемы
 ! в его работе, то свяжитесь со мной, пожалуйста:
 ! https://github.com/Zalexanninev15/NoADS_RU/issues/new
+! Правила создания обращения: https://github.com/Zalexanninev15/NoADS_RU?tab=readme-ov-file#%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C
 
 ! 13.02.2020 https://mail.yandex.ru
 mail.yandex.ru##.svgicon-mail--Footer-Android.svgicon > rect
@@ -76886,7 +76887,7 @@ dzen.ru##div[class^="dzen-with-punch-desktop__main"] + div[class*="feedContent"]
 dzen.ru##div[class^="dzen-with-punch-desktop__container"]:style(display: unset !important)
 dzen.ru##div[class^="dzen-with-punch-desktop__main"] div[class^="geoblock-weather__content"]:style(flex-direction: unset !important; justify-content: space-between !important)
 
-! Aug 22, 2025 Последний фильтр для Я*, продолжение только в расширенном списке
+! Aug 22, 2025 Всякое от Я*
 yandex.ru##div:contains(RKH: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
 yandex.ru##[role="button"]:contains(РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
 yandex.ru##[text*="РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ"]
