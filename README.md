@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 #### 🪄 NoADS_RU Hosts
 
 Для сторонников хостов подготовлен другой тип правил — **[NoADS_RU Hosts](https://github.com/Zalexanninev15/NoADS_RU/tree/main/hosts)**. Включает в себя домены с рекламой, аналитикой, трекерами, сборами информации об ошибках, Android OEM, специфичные для Windows хосты (Microsoft, Adobe) и многие другие, а также сайты, которые по каким-либо причинам недоступны в одной *небольшой* стране с кучей блокировок 🤫. 
-
+>о
 Реализовано 3 типа hosts-файлов с правилами: 
 - Блокировщик ([blocker](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt))
 - Расширенный блокировщик ([blockerFL](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt))

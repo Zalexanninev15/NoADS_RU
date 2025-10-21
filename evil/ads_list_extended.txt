@@ -237,12 +237,6 @@ losst.ru##.footer-carousel-wrap
 losst.ru###execphp-2
 losst.ru###custom_html-2 > .widget-title
 
-! 13.02.2020 https://www.google.com
-www.google.com##.tfB0Bf.FPdoLc > center > .gNO89b
-www.google.com##.b0KoTc
-www.google.com###fsl > a.Fx4vi:nth-of-type(2)
-www.google.com###fsl > a.Fx4vi:nth-of-type(1)
-
 ! 13.02.2020 https://thecommunity.ru
 thecommunity.ru##[href="https://twitter.com/wincommunity"] > .social-button
 thecommunity.ru##[href="https://fb.me/thecommunity.ru"] > .social-button
@@ -703,14 +697,6 @@ mega.nz##.resellerlink.clickurl.link.bottom-menu
 mega.nz##div.col1-of-6.column.bottom-menu:nth-of-type(3) > a.clickurl.link.bottom-menu:nth-of-type(3)
 mega.nz##div.col1-of-6.column.bottom-menu:nth-of-type(3) > a.clickurl.link.bottom-menu:nth-of-type(1)
 
-! 14.02.2020 https://news.google.com
-news.google.com##.gb_na.gb_5c.gb_3c.gb_4c
-news.google.com##div:nth-of-type(18) > .smCdcb.SFllF
-news.google.com##div:nth-of-type(17) > .smCdcb.SFllF
-
-! 14.02.2020 https://www.google.com
-www.google.com##.gb_na.gb_F
-
 ! 14.02.2020 https://math.semestr.ru
 math.semestr.ru##li:nth-of-type(5) > .share
 math.semestr.ru##li:nth-of-type(7) > .share
@@ -719,11 +705,6 @@ math.semestr.ru##ul.nav-pills.nav:nth-of-type(2) > li:nth-of-type(7)
 math.semestr.ru##ul.nav-pills.nav:nth-of-type(2) > li:nth-of-type(4)
 math.semestr.ru##.col-sm-6 > .nav-pills.nav > li:nth-of-type(3)
 math.semestr.ru##.col-sm-6 > .nav-pills.nav > li:nth-of-type(1)
-
-! 14.02.2020 https://myaccount.google.com
-myaccount.google.com##article.GIxHAe:nth-of-type(10) > .XLK0Od > .ahh38c > div.ugt2L:nth-of-type(1) > div > .kJXJmd.N5YmOc
-myaccount.google.com##article.GIxHAe:nth-of-type(10) > .XLK0Od > .ahh38c > .iDdZmf.ugt2L > div > .kJXJmd.N5YmOc
-myaccount.google.com##.VfPpkd-ksKsZd-mWPk3d.VfPpkd-ksKsZd-XxIAqe > .kJXJmd.N5YmOc.I6g62c.Wvetm.VZLjze
 
 ! 14.02.2020 https://mail.ru
 mail.ru##a.i-link-no-deco.i-color-black.footer__dropdown-item:nth-of-type(3)
@@ -1219,12 +1200,6 @@ progbox.ru##.socicon-facebook.meks_ess-item
 ! 05.03.2020 https://www.svyaznoy.ru
 ||cdn.svyaznoy.ru/upload/web/svyaznoy/img/footer/akit_big.png$image
 
-! 05.03.2020 https://www.google.com
-www.google.com###fineprint-copyrights
-www.google.com##button.link-like.noprint.fineprint-padded.fineprint-item:nth-of-type(3)
-www.google.com###fineprint-terms
-www.google.com###fineprint-rap-link
-
 ! 05.03.2020 https://lenta.ru
 lenta.ru##.js-topic__sidebars.dejfz.b-topic-layout__right
 lenta.ru##.exii.zfoa
@@ -1648,9 +1623,6 @@ yandex.ru##div.cl-masonry__column_4.cl-masonry__column:nth-of-type(2) > div.cl-c
 ! 10.04.2020 https://docviewer.yandex.ru
 docviewer.yandex.ru##.chejpyjfh.qkypcrxz.xgsbxbhm > lfmvsg-ovbqjdutze
 docviewer.yandex.ru##.mllljc.zvfwae.xgsbxbhm > lfmvsg-ovbqjdutze
-
-! 10.04.2020 https://www.google.com
-www.google.com##.gb_F
 
 ! 11.04.2020 https://uploadrar.com
 uploadrar.com##[href="javascript:share_facebook(document.location)"]
@@ -2304,18 +2276,11 @@ pikabu.ru##.sidebar-block-links__apps > [href="https://redirect.appmetrica.yande
 pikabu.ru##[href="https://redirect.appmetrica.yandex.com/serve/386535754232273159"]
 pikabu.ru##.sidebar-block-links__social > a.social-icon_square.social-icon:nth-of-type(2)
 
-! 16.07.2020 https://www.google.com
-www.google.com##.BIB1wf.tvh9oe > .Y6heUd > .OUZ5W > .QnfS4e > div.ZUo4Ze:nth-of-type(1) > .fwCBrd > .L43GYb > a.OFxjge:nth-of-type(1)
-www.google.com##.jklcHd
-
 ! 17.07.2020 https://stackoverflow.com
 stackoverflow.com###js-gdpr-consent-banner
 
 ! 17.07.2020 https://account.xiaomi.com
 account.xiaomi.com###cookie-usage-notify
-
-! 18.07.2020 https://e.mail.ru
-e.mail.ru##.c0117.c0115
 
 ! 18.07.2020 https://www.google.com
 www.google.com##.dkw61e.sh-sp__btn
@@ -3323,9 +3288,6 @@ yandex.ru##mule-dfcunaqke
 yandex.ru##wgbewkov-znvsef
 yandex.ru##div.divjson2-block_visible_yes.divjson2-block_js_inited.i-bem.block.mix-tabber_size_narrow.mix-tabber_theme_lightgray.i-delayed-bem.divjson2-block:nth-of-type(18) > .divjson2_js_inited.i-bem.divjson2 > .divjson2__block_halign-self_default.divjson2__block_valign-self_default.divjson2__block_height_content.divjson2__block_width_parent.divjson2__block > .divjson2-container_has-height-content_yes.divjson2-container_orientation_vertical.divjson2-container_halign_left.divjson2-container_valign_top.divjson2-container.divjson2__block-inner
 
-! 2020-08-29 https://www.google.com
-www.google.com##.hww53CMqxtL__visible.hww53CMqxtL__mobile-promo
-
 ! 2020-08-29 https://zen.yandex.ru
 zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N > .lBkLJgx0rYyo5lL93a0o
 zen.yandex.ru##div._mode_card.feed-item:nth-of-type(10) > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_g > .lCUnOkyZlfCgri4VpI0e4AZjInsVC_jgAYBIP_tA > .lLFbFnCMsIiI5yo1ibE27Cg.lCUnOkyZlbCo4g81_ekY > .lCUnOkyZlbCo4g81_ekaIMI3N
@@ -3537,9 +3499,6 @@ yandex.ru##a.orgpage-social-links-view__icon:nth-of-type(1)
 yandex.ru##.maillist-form-view
 yandex.ru##div.dbp__eebbfffedad:nth-of-type(16) > .dydp__aceedcdffc
 yandex.ru##div.dbp__eebbfffedad:nth-of-type(1) > .dydp__aceedcdffc
-
-! 2020-09-09 https://www.google.com
-www.google.com##.szppmdbYutt__middle-slot-promo
 
 ! 2020-09-09 https://yandex.ru
 yandex.ru##.edCVFumDH8NNdaEM.efTlKqnP27eh6Vhd0.card
@@ -4225,18 +4184,11 @@ yandex.ru##.t_LYBwsc.yaplus_available_yes.yaplus
 ! 2020-12-22 https://www.rockstargames.com
 www.rockstargames.com##._1Czd
 
-! 2020-12-22 https://www.google.com
-www.google.com##.wwYr3.aID8W.bErdLd
-www.google.com##.aID8W.m114nf.t7xA6
-
 ! 2020-12-22 https://hackertarget.com
 hackertarget.com##.cookie-notice-container
 
 ! 2020-12-23 https://www.questionstar.ru
 www.questionstar.ru###catapult-cookie-bar
-
-! 2020-12-23 https://www.google.com
-www.google.com##.gb_Zf.gb_Hg.gb_Eg.gb_i.gb_Fg.gb_Ta > div:nth-of-type(3)
 
 ! 2020-12-23 https://www.blast.hk
 www.blast.hk##.js-enablePushContainer.notice--enablePush.notice--primary.js-notice.notice
@@ -4529,9 +4481,6 @@ yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.gy8aj8Jw.
 ! 2021-01-26 https://zetflix.to
 zetflix.to##[href="/reklama"]
 
-! 2021-01-28 https://www.google.com
-www.google.com###footer
-
 ! 2021-01-29 https://mail.yandex.ru
 mail.yandex.ru###lzTcoAB1ibaefRa8 > div
 mail.yandex.ru##div.lxWlnDBJlZvg:nth-of-type(2)
@@ -4622,9 +4571,6 @@ yandex.ru##.mg-grid__col_xs_4.mg-grid__col:nth-of-type(8)
 
 ! 2021-02-11 https://www.usbdev.ru
 www.usbdev.ru##a.button15:nth-of-type(6)
-
-! 2021-02-11 https://www.google.com
-www.google.com##a.pHiOh:nth-of-type(2)
 
 ! 2021-02-11 https://taxi.yandex.ru
 taxi.yandex.ru##.SignBoardSlider__img.BannerFKPro__image_country_ru.BannerFKPro__image_type_signboard.BannerFKPro__image > div
@@ -4776,18 +4722,6 @@ music.yandex.ru##.paused-slider_left.lada.paused-slider
 ! 2021-03-04 https://www.kinopoisk.ru
 www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footerailuujb0bb5clsx1sx6__content-item:nth-of-type(2)
 
-! 2021-03-04 https://www.google.com
-www.google.com##.ssOUyb.KxwPGc > .pHiOh
-www.google.com##a.pHiOh:nth-of-type(3)
-yandex.ru##.wpbfPZYg.yaplus_text.yaplus_old-icon.yaplus_available_yes.yaplus
-yandex.ru###fu-1614875388000-100 > div
-yandex.ru##div.wov_ac8isojw__heading.news-top-rubric-heading:nth-of-type(8)
-yandex.ru##div.wov_ac8isojw__heading.news-top-rubric-heading:nth-of-type(28)
-yandex.ru###fu-1614875388000-330 > div
-yandex.ru##div.mg-footer__column:nth-of-type(2) > div.mg-footer__item:nth-of-type(2)
-yandex.ru###fu-1614875436000-119 > div
-yandex.ru##.mg-grid__item.wov_ac8isojw__wrf7bZZe5-banger.news-wrf7bZZe5__banger_without-style.news-wrf7bZZe5__banger.wov_C-wrf7bZZe5
-
 ! 2021-03-05 https://habr.com
 habr.com###vk-group > .default-block__header
 habr.com###vk-group > .sidebar-block.default-block__content
@@ -4914,9 +4848,6 @@ win10tweaker.pro###rev_slider_4_6_wrapper > .rev_redraw_on_blurfocus.revslider-i
 win10tweaker.pro###rev_slider_4_6_wrapper
 win10tweaker.pro###rev_slider_4_6_forcefullwidth
 
-! 2021-03-11 https://www.google.com
-www.google.com###gws-output-pages-elements-homepage_additional_languages__als
-
 ! 2021-03-12 https://unboxhow.com
 unboxhow.com##.cookie-notice-container
 
@@ -4946,10 +4877,6 @@ www.kinopoisk.ru##li.styles_contentMenuItem__2bycf.footer__content-item:nth-of-t
 ! 2021-03-14 https://mail.yandex.ru
 mail.yandex.ru##.smartBanner-container_grey.smartBanner-container
 mail.yandex.ru##.ptr-message
-
-! 2021-03-14 https://www.google.com
-www.google.com##div:nth-of-type(2) > a.Fx4vi.JWaTvb:nth-of-type(1)
-www.google.com##a.Fx4vi.JWaTvb:nth-of-type(2)
 
 ! 2021-03-14 https://4pda.to
 ||s.4pda.to/dry7Nl1fz08bB4y0cz12xx5sXjFOo.jpg?_=1615558005$image
@@ -5551,9 +5478,6 @@ m.vk.com##.mmi_fv
 ! 2021-05-06 https://m.ok.ru
 m.ok.ru##.staple_inner
 
-! 2021-05-06 https://www.google.com
-www.google.com##div.cLjAic.TzHB6b:nth-of-type(2)
-
 ! 2021-05-07 https://www.cyotek.com
 www.cyotek.com###cookieChoiceInfo
 
@@ -5900,9 +5824,6 @@ old.exponenta.ru##[href^="https://hub.exponenta.ru/"]
 
 ! 2021-06-07 https://vk.com
 vk.com##.Tooltip__in
-
-! 2021-06-07 https://www.google.com
-||ogs.google.com/u/0/widget/callout/sid$subdocument
 
 ! 2021-06-07 https://to-do.live.com
 to-do.live.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert > div
@@ -6267,14 +6188,6 @@ linuxmint.com.ru##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-t
 www.hostinger.ru##.gdpr-bottom-banner--new.w-100.z-index-1001.bottom-0.position-fixed.gdpr-bottom-banner
 www.hostinger.ru##a.text-light-black:nth-of-type(2)
 www.hostinger.ru##a.text-light-black:nth-of-type(3)
-
-! 2021-09-05 https://yandex.ru
-yandex.ru##._2CCn8gIK0s._30CmDTNtu1
-yandex.ru###SRctLALrVr > div
-yandex.ru##.BcI2USAkRg.k8a5qXaF9l._1ieVhHeXAw._1tWXpsfxUI
-yandex.ru##.vQEUIb4I-D
-yandex.ru##._2PiE1k8ZTk.k8a5qXaF9l._1ieVhHeXAw._1tWXpsfxUI
-yandex.ru##._3VXqjQLQZ2.k8a5qXaF9l._1ieVhHeXAw._1tWXpsfxUI
 
 ! 2021-09-05 https://www.paypal.com
 www.paypal.com##.auto-rotate.hero-engagement.cw_tile-promo-widget > div > .ppvx_elevation--level1.ppvx_link.cw_tile-promo-main-container
@@ -6991,7 +6904,6 @@ www.fourthbottle.com##.singleton-element.cookie-choices-info
 
 ! 2022-02-12 https://fonts.google.com
 fonts.google.com##.cookie-bar
-fonts.google.com##.gf-header > .ng-star-inserted
 
 ! 2022-02-12 https://www.teamdev.com
 www.teamdev.com###cookieChoiceInfo
@@ -8388,9 +8300,6 @@ vk.com##div.LeftMenuAppPromo:nth-of-type(5)
 
 ! 2024-01-10 https://4pda.to
 4pda.to##.z2cLn50h1U35Mvz2t9fVZs.bz1XB
-
-! 2024-01-24 https://drive.google.com
-drive.google.com##.g-Yd-Na.g-Yd-Ya.a-Ff-B.a-la-B.g-Yd
 
 ! 2024-02-01 https://2gis.ru
 2gis.ru##._nlniiu
