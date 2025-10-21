@@ -1,5 +1,5 @@
 ! Title: NoADS_RU Extended Evil
-! Last modified: 17 октября 2025 года
+! Last modified: 21 октября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -76877,3 +76877,15 @@ point.md##div[data-banner-name*="Banner"]
 point.md##div[data-banner-name*="Разместить рекламу на сайте"]
 point.md##a[href*="/ad/"]
 point.md##img[alt*=" Logo"]
+
+! Oct 17, 2025 https://duckduckgo.com
+duckduckgo.com##div[data-testid="mobile-app-banner"]
+
+! Oct 21, 2025 https://www.chipdip.ru
+www.chipdip.ru##.cookie-notification-inner
+||static.chipdip.ru/images/notifications/fav-cat_bg.png$image
+www.chipdip.ru##.notification-fc.notification-pretty.notification-w
+www.chipdip.ru##.footer__info-apps
+www.chipdip.ru##.footer__info-social
+www.chipdip.ru##.top-bnr_wrapper
+www.chipdip.ru##.ibanner2
