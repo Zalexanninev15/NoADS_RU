@@ -1,5 +1,5 @@
 ! Title: NoADS_RU Evil
-! Last modified: 21 октября 2025 года
+! Last modified: 22 октября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -20896,3 +20896,10 @@ www.chipdip.ru##.footer__info-apps
 www.chipdip.ru##.footer__info-social
 www.chipdip.ru##.top-bnr_wrapper
 www.chipdip.ru##.ibanner2
+
+! Oct 22, 2025 https://disk.yandex.com
+disk.yandex.com##.InfoSpace_expanded.InfoSpace_notanimation
+disk.yandex.com##.AppLink
+disk.yandex.com##a[href*="premium-plans"]
+disk.yandex.com##div[class="top-direct-line"]
+disk.yandex.com##.root__bottom-ad.direct
