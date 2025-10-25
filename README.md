@@ -137,6 +137,8 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 - 👍 Подписка на список **NoADS_RU** активирована!
 - 👍 Доступны для активации списки **NoADS_RU Extended** и **NoADS_RU Extended Plus**!
 
+![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/All_in_uBlock_Origin.png?raw=true)
+
 Просто скачай, импортируй и пользуйся! Никакой мороки с настройками, без СМС и регистрации.
 
 Лежит здесь: https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/refs/heads/main/my-ublock-origin-settings-backup.txt (Сохранить как / Save as)
