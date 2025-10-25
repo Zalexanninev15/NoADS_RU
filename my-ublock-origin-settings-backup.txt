@@ -1,18 +1,21 @@
 {
-  "timeStamp": 1756276492545,
-  "version": "1.65.0",
+  "timeStamp": 1761393226930,
+  "version": "1.67.0",
   "userSettings": {
     "advancedUserEnabled": true,
     "cnameUncloakEnabled": false,
     "uiAccentCustom": true,
     "uiAccentCustom0": "#57e389",
     "uiTheme": "dark",
-    "externalLists": "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt",
+    "externalLists": "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/evil/ads_list.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/evil/ads_list_extended.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/evil/ads_list_extended_plus.txt",
     "ignoreGenericCosmeticFilters": true,
     "importedLists": [
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt",
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt",
-      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt"
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/evil/ads_list.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/evil/ads_list_extended.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/evil/ads_list_extended_plus.txt"
     ],
     "popupPanelSections": 15
   },
