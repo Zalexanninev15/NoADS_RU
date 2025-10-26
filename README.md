@@ -135,7 +135,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 
 - 👍 Лучшие настройки!
 - 👍 Подписка на список **NoADS_RU** активирована!
-- 👍 Доступны для активации списки **NoADS_RU Extended** и **NoADS_RU Extended Plus**!
+- 👍 Доступны для активации списки **NoADS_RU Extended** и **NoADS_RU Extended Plus**! А также их *Evil-версии*.
 
 ![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/All_in_uBlock_Origin.png?raw=true)
 
