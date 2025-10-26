@@ -1,5 +1,5 @@
 ! Title: NoADS_RU Extended
-! Last modified: 22 октября 2025 года
+! Last modified: 26 октября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -76907,3 +76907,8 @@ disk.yandex.com##.AppLink
 disk.yandex.com##a[href*="premium-plans"]
 disk.yandex.com##div[class="top-direct-line"]
 disk.yandex.com##.root__bottom-ad.direct
+
+! Oct 26, 2025 https://www.nexusmods.com
+www.nexusmods.com##a[href*="billing/premium"]
+www.nexusmods.com##div[class*="premium"]
+www.nexusmods.com##.feedback-survey-card
