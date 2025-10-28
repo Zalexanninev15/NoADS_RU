@@ -1,5 +1,5 @@
 ! Title: NoADS_RU
-! Last modified: 26 октября 2025 года
+! Last modified: 28 октября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -20781,6 +20781,7 @@ askdev.ru###ishame
 ||dev.max.ru
 ||help.max.ru
 ||download.max.ru
+
 ! Super Black List
 ||direct.yandex.ru
 ||yandex.ru/adv/
@@ -20791,6 +20792,7 @@ askdev.ru###ishame
 ||mc.yandex.ru/metrika^
 ||avatars.mds.yandex.net/get-direct-picture$image
 ! Если нужен Я*, ищите инстант 4get или другой поисковик уже используйте.
+
 ! Google Black List
 ||doubleclick.net
 ||googleadservices.com
