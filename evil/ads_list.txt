@@ -1,5 +1,5 @@
 ! Title: NoADS_RU Evil
-! Last modified: 28 октября 2025 года
+! Last modified: 30 октября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -8874,6 +8874,7 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 google.*##div[aria-modal="true"]:has-text(cookies)
 ||cse.google.com/cse.js?cx=partner-pub$important
 meet.google.com#@#div[aria-live]
+myaccount.google.com##div[jsslot]:style(position:static !important)
 
 ! Мелкомягкие
 ||microsoft.com/event
@@ -10705,6 +10706,7 @@ ebay.*$removeparam=mkrid
 ||www.ebay.$removeparam=ssuid
 ||ebay.*/itm$removeparam=toolid
 ebay.*$removeparam=var
+edadeal.ru$removeparam=baseOfferUuid
 elgato.com$removeparam=attribution_window
 elgato.com$removeparam=contact_id
 elgato.com$removeparam=platform
