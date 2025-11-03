@@ -1,5 +1,5 @@
 ! Title: NoADS_RU Evil
-! Last modified: 30 октября 2025 года
+! Last modified: 3 ноября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -84,7 +84,6 @@ aliexpress.ru##[href^="//sale.aliexpress.ru/download_app_guide.htm"]
 
 ! 13.02.2020 https://home.aliexpress.ru
 home.aliexpress.ru##.mobile-app.me-ui-box
-||ae01.alicdn.com/kf/Hb2e9994f66b34614bb4c795a9da9a503r.png$image
 home.aliexpress.ru##.ng-mobile.ng-item
 
 ! 13.02.2020 https://www.dns-shop.ru
@@ -1156,7 +1155,6 @@ romhacking.ru##div.uscl-item:nth-of-type(2)
 
 ! 05.03.2020 https://aliexpress.ru
 aliexpress.ru###ae-ru-privacy-banner__container
-||ae01.alicdn.com/kf/H55b048bae7844819a014cd8f4ca60997N.png$image
 aliexpress.ru##.ams-region
 
 ! 05.03.2020 https://www.dns-shop.ru
@@ -2703,7 +2701,6 @@ m.aliexpress.ru##.smb-dialog-btn__ok.smb-dialog-btn--fullfil.smb-dialog-btn
 m.aliexpress.ru##.smb-dialog-btn__no.smb-dialog-btn
 m.aliexpress.ru##.smb-dialog-content
 m.aliexpress.ru##.smb-dialog-title
-||ae01.alicdn.com/kf/H1289a68594544dfd8c9c87811c49b93c8.png_.webp$image
 m.aliexpress.ru##.smb-banner__content
 m.aliexpress.ru##.smb-banner__main
 
@@ -3130,7 +3127,6 @@ www.fosshub.com##.cc-color-override--1985164196.cc-bottom.cc-theme-block.cc-type
 ||s.4pda.to/dry7Nd1W4Ta3Ik6ZKQ9Q49Vz1Y0M8.jpg?_=1598474839$image
 
 ! 2020-08-28 https://aliexpress.ru
-||ae01.alicdn.com/kf/Hd7f7e319ecf349849caa3538f3b1f118v.jpg$image
 aliexpress.ru##.store-header-bg
 
 ! 2020-08-28 https://meduza.io
