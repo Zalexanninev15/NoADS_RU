@@ -57,6 +57,8 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 - Анлокер сайтов ([bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt)) или [альтернативный bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass2.txt) (пока в тестовом режиме).
 - Также доступен остаточный микс из разных хостов ([mix_trash.zip](https://github.com/Zalexanninev15/NoADS_RU/raw/refs/heads/main/hosts/mix_trash.zip)) (блокировщик)
 
+> Для устройств Xiaomi рекомендуется данный проект: https://github.com/Kittyskj/FreeFromMi
+
 #### 📱 NoADS_RU TGCL
 
 Списки Telegram каналов по категориям, от которых нужно срочно отписаться ради вашей же безопасности (если это вообще применимо к Telegram), либо, пустить в RSS или парсить, но не подписываться явно в Telegram.
