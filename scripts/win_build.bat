@@ -1,3 +1,3 @@
 @echo off
-wsl -e python ./1.py
+wsl -e python ./rules_collector.py
 pause
