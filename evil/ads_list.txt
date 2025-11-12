@@ -1,5 +1,5 @@
 ! Title: NoADS_RU Evil
-! Last modified: 10 ноября 2025 года
+! Last modified: 12 ноября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
