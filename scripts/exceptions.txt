@@ -1,0 +1,2 @@
+aliexpress.*##a:has-text(/^$/)
+/pwa-$script
