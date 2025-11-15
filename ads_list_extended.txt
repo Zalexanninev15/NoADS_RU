@@ -77089,3 +77089,15 @@ disk.yandex.com##.root__bottom-ad.direct
 www.nexusmods.com##a[href*="billing/premium"]
 www.nexusmods.com##div[class*="premium"]
 www.nexusmods.com##.feedback-survey-card
+
+! Nov 15, 2025 https://www.youtube.com
+www.youtube.com##.ytwPanelAdHeaderImageLockupViewModelHostHeaderMetadata
+www.youtube.com##.ytwAdImageViewModelHostIsClickableAdComponent
+www.youtube.com##.ytwAdGridCardCollectionViewModelHost
+www.youtube.com##.ytd-ads-engagement-panel-content-renderer.style-scope
+www.youtube.com##.ytp-ad-component--clickable.ytp-ad-avatar-lockup-card
+
+! Nov 15, 2025 https://mail.proton.me
+mail.proton.me##.modal-two-dialog--large.offer-modal--one-deal
+mail.proton.me##.modal-two
+mail.proton.me##.modal-two-backdrop--in.modal-two-backdrop
