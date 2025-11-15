@@ -4,12 +4,12 @@
 
 [![](https://img.shields.io/badge/platform-AdBlocking_Extensions-F40D12.svg?logo=adblock)](https://github.com/Zalexanninev15/NoADS_RU)
 [![](https://img.shields.io/badge/Скрипты-Python-%233776AB.svg?logo=python)](https://github.com/Zalexanninev15/NoADS_RU/tree/main/scripts)
-[![](https://img.shields.io/github/last-commit/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/commits/main)
-[![](https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/stargazers)
-[![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/network/members)
-[![](https://img.shields.io/github/issues/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aopen+is%3Aissue)
-[![](https://img.shields.io/github/issues-closed/Zalexanninev15/NoADS_RU.svg)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aissue+is%3Aclosed)
-[![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![](https://img.shields.io/github/last-commit/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/commits/main)
+[![](https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/stargazers)
+[![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/network/members)
+[![](https://img.shields.io/github/issues/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aopen+is%3Aissue)
+[![](https://img.shields.io/github/issues-closed/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/issues?q=is%3Aissue+is%3Aclosed)
+[![](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![](https://img.shields.io/badge/Donate-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://z15.neocities.org/donate)
 
 ## Описание
