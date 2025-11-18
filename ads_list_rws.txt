@@ -2698,28 +2698,9 @@ m.aliexpress.ru##.smb-banner__main
 ! 24.07.2020 https://cloud.mail.ru
 cloud.mail.ru##div.b-nav__group:nth-of-type(4) > .b-nav__group__name > .js-href.b-nav__item_group-name.b-nav__item
 
-! 24.07.2020 https://4pda.to
-||s.4pda.to/dry7Ndn2mF9V3629LvVz0OVu2aFk4.jpg?_=1595010564$image
-
 ! 24.07.2020 https://sourceforge.net
 ||www.google.com/recaptcha/api2/anchor?ar=1&k=6LeVgCEUAAAAACtawUTrPTBy0mTrGtjpPn_Xh-ZW&co=aHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQ6NDQz&hl=ru&v=r8WWNwsCvXtk22_oRSVCCZx9&size=invisible&badge=bottomleft&cb=1mrwny6c5wqq$subdocument
 sourceforge.net##.grecaptcha-badge
-
-! 24.07.2020 https://docviewer.yandex.ru
-docviewer.yandex.ru##.wtzxx.jhgzabdww.ofelmy > vvqcl-furxwwzas
-docviewer.yandex.ru##.jkmojhzsa.daydi.ofelmy > vvqcl-furxwwzas
-docviewer.yandex.ru##.njeqgrwmo.tjentze.fpirtz > riq-feaveyxvv
-docviewer.yandex.ru##.eabef.wewdioy.fpirtz > riq-feaveyxvv
-docviewer.yandex.ru##.qfejc.vchxsyawb.xdurgbv > nh-ielfgdvnc
-docviewer.yandex.ru##.oejtcyd.ywnioho.xdurgbv > nh-ielfgdvnc
-docviewer.yandex.ru##.xuvthbea.pbulyudxl.iddeqy > kxmh-kegzip
-docviewer.yandex.ru##.cjlyuqfuv.dhzczssv.iddeqy > kxmh-kegzip
-docviewer.yandex.ru##.tpkkiwrt.asvzbkouu.tqpnfq > qwssvkne-ujhljsqm
-docviewer.yandex.ru##.yjgwuypzi.lpeihf.tqpnfq > qwssvkne-ujhljsqm
-docviewer.yandex.ru##.cqbwnc.arxics.bkbsqphst > wslfdksawr-pvtajwgg
-docviewer.yandex.ru##.tcouflmgu.rxxezrk.bkbsqphst > wslfdksawr-pvtajwgg
-docviewer.yandex.ru##.anrhjssuw.pwkjit.kazwzvq > ebsxdca-xfrk
-docviewer.yandex.ru##.baavxk.fvzcnp.kazwzvq > ebsxdca-xfrk
 
 ! 24.07.2020 https://www.canon.ru
 www.canon.ru##.cookie-bar--active.canon-bg--grey-light.cookie-bar--bottom.cookie-bar.flex-global-style__old-template
@@ -2780,9 +2761,6 @@ exelab.ru###kurs_txt > center
 exelab.ru###kurs_txt
 exelab.ru###kurs_container
 
-! 03.08.2020 https://4pda.to
-||s.4pda.to/dry7Ndn2mFvz1mOHdUBYuHei0X6vW.jpg?_=1596441073$image
-
 ! 04.08.2020 https://rutor.info
 rutor.info##[href="/advertise.php"]
 
@@ -2790,10 +2768,6 @@ rutor.info##[href="/advertise.php"]
 hack-port.ru##td > center:nth-of-type(2) > table
 hack-port.ru##.contentdiv
 hack-port.ru##table:nth-of-type(2) > tbody > tr > td:nth-of-type(4)
-
-! 04.08.2020 https://fex.net
-||www.google.com/recaptcha/api2/anchor?ar=1&k=6LfNLaMUAAAAACEgm8exvkblfmTn4Tpwr2lOB8cz&co=aHR0cHM6Ly9mZXgubmV0OjQ0Mw..&hl=ru&v=IU7gZ7o6RDdDE6U4Y1YJJWnN&size=invisible&cb=7y2hzn1wqq76$subdocument
-fex.net##.grecaptcha-badge
 
 ! 04.08.2020 https://zen.yandex.ru
 zen.yandex.ru##.article-right-suggested-publications-wrapper__margin-block
@@ -2815,18 +2789,6 @@ zen.yandex.ru##div.feed__row:nth-of-type(37) > div._size_small.feed__item-wrap:n
 ! 06.08.2020 https://www.flaticon.com
 ||media.flaticon.com/dist/assets/dccc814adf3f1267219e0ffddba97cdb.jpg$image
 www.flaticon.com###notification-cart
-
-! 07.08.2020 https://yandex.ru
-yandex.ru##.obZRj15VaH2m2iEv3jPM
-yandex.ru##.oZIhsx4ZrAlKRpRI.obZRj15VaH2m2m0bm.card
-yandex.ru##.r9f7b1fea.mda57b1a.q190b1270.s428cfe30.ia25f00ab
-yandex.ru##a.link_js_inited.oZ9Zvxp0.links-section__link.link_theme_normal.link:nth-of-type(1)
-yandex.ru###aqkaagg
-yandex.ru###zrehpy
-yandex.ru##div.links-section:nth-of-type(2) > .links-section__list > a.oZ9Zvxp0.links-section__link.link_theme_normal.link:nth-of-type(1)
-yandex.ru###rbupnfi
-yandex.ru##.obZdkzpFADhuKm071iuMtXBXtkWpKcWIfIpFH_9AObkw0rEZV
-yandex.ru##.ob597_IRNG1O2nkvigeQ4.ob597_IBbGGmElUzkjKouQUz6kWk.ob597
 
 ! 10.08.2020 https://www.softportal.com
 www.softportal.com###cookie_wrapper
@@ -2946,16 +2908,6 @@ docviewer.yandex.ru##.exyid.wuqrvaxw.kfngrky > uqdbcleza-ut
 4pda.to##div.post:nth-of-type(13) > .BI3E5cnB
 
 ! 2020-08-23 https://market.yandex.ru
-market.yandex.ru##._32MQPGi7g3 > div > div > div:nth-of-type(1) > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
-market.yandex.ru##div:nth-of-type(2) > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
-market.yandex.ru##div:nth-of-type(3) > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
-market.yandex.ru##div:nth-of-type(4) > div > div > div > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
-market.yandex.ru##div:nth-of-type(2) > div > .eDeStLBs54 > .rLYRaRF5Wu > ._32MQPGi7g3
-market.yandex.ru##.kAi97Ptx1o._1ymdq-y0eR
-market.yandex.ru##div:nth-of-type(5) > div > .eDeStLBs54 > .rLYRaRF5Wu > ._32MQPGi7g3 > div > div > div > div > div > div > div > .theme_light > ._3TgKYgt0rc > .uVxPQP6pdS._2pc-e5GHOv._3bo97ldS0I._32PriwSr5B.section
-market.yandex.ru##div:nth-of-type(5) > div > .eDeStLBs54 > .rLYRaRF5Wu > ._32MQPGi7g3
-market.yandex.ru##._2wiG-mm8qc
-market.yandex.ru##._1uYDgxImqp
 market.yandex.ru##div:nth-of-type(5) > div > div:nth-of-type(3) > div > div > div > div > div > div > div
 
 ! 2020-08-23 https://www.paypal.com
@@ -2977,9 +2929,6 @@ userstyles.org##div.us-stylecard--short:nth-of-type(12) > .fallbackDiv
 
 ! 2020-08-25 https://www.gog.com
 www.gog.com##.ng-scope._floating-banner
-
-! 2020-08-26 https://4pda.to
-||s.4pda.to/dry7Ndn2mF9U13BUnZ62Oz2egW5VV.jpg?_=1598428092$image
 
 ! 2020-08-27 https://htmlweb.ru
 htmlweb.ru###d-top
