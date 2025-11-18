@@ -10706,6 +10706,7 @@ $removeparam=ysclid
 ?*r_audience=$document,removeparam=|,domain=ria.com
 ?commercial=$document,removeparam=|,domain=ria.com
 ?e=lfm$document,removeparam=|,domain=sports.ru
+$removeparam=from,from=~alfabank.ru|~jlcpcb.com|~account.mail.ru|~id.mail.ru|~auth.mail.ru|~e.mail.ru|~nextdns.io|~ozon.ru|~ozone.ru|~sberbank.ru|~tradingview.com|~uds.app|~yandex.*
 ?from=$document,removeparam=|from,domain=3dnews.ru|7days.ru|~auth.mail.ru|auto.ru|autonews.ru|habr.com|igromania.ru|kommersant.ru|mail.ru|ntv.ru|quote.ru|rbc.ru|ridus.ru|sportrbc.ru|sports.ru
 ?from=shapka$document,xmlhttprequest,removeparam=|,domain=auto.ru
 ?from=yanews$document,removeparam=|
