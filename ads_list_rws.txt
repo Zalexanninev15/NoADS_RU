@@ -1,9 +1,9 @@
-! Title: NoADS_RU
+! Title: NoADS_RU RWS
 ! Last modified: 22 ноября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
-! Donate: https://z15.neocities.org/donate
+!! Donate: https://z15.neocities.org/donate
 
 ! Автор выражает респект Faust.
 
@@ -20766,25 +20766,10 @@ askdev.ru###ishame
 ! "Фикс" нерабочих функций гугла по причине блокировки параметров
 @@||google.com^$removeparam
 
-! Говнишко :D
-||max.ru
-||web.max.ru
-||max.ru
-||legal.max.ru
-||st.max.ru
-||link.max.ru
-||www.max.ru
-||api.max.ru
-||dev.max.ru
-||help.max.ru
-||download.max.ru
-
 ! Super Black List
 ||direct.yandex.ru
 ||yandex.ru/adv/
 ||runtime.strm.yandex.ru
-||vk.com/js/api^
-||ya.ru/js^
 ||yandex.ru/ads^
 ||mc.yandex.ru/metrika^
 ||avatars.mds.yandex.net/get-direct-picture$image
