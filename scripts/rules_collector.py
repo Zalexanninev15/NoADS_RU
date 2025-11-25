@@ -367,9 +367,7 @@ def main():
         "../ads_list.txt",
         "../ads_list_extended.txt",
         "../ads_list_extended_plus.txt",
-        "../evil/ads_list.txt",
-        "../evil/ads_list_extended.txt",
-        "../evil/ads_list_extended_plus.txt"
+        "../ads_list_rws.txt"
     ]
     
     for target_file in target_files:
