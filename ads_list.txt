@@ -1,9 +1,9 @@
 ! Title: NoADS_RU
-! Last modified: 12 ноября 2025 года
+! Last modified: 22 ноября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
-!! Donate: https://z15.neocities.org/donate
+! Donate: https://z15.neocities.org/donate
 
 ! Автор выражает респект Faust.
 
@@ -21082,3 +21082,30 @@ www.youtube.com##.ytwAdImageViewModelHostIsClickableAdComponent
 www.youtube.com##.ytwAdGridCardCollectionViewModelHost
 www.youtube.com##.ytd-ads-engagement-panel-content-renderer.style-scope
 www.youtube.com##.ytp-ad-component--clickable.ytp-ad-avatar-lockup-card
+
+! Nov 15, 2025 https://www.techpowerup.com
+www.techpowerup.com###boards > div
+www.techpowerup.com##.page-header > div
+www.techpowerup.com##.page > .s- > div.s--item:nth-of-type(4) > div
+www.techpowerup.com##div.s--item:nth-of-type(4)
+www.techpowerup.com##.page > .s- > div.s--item > div
+www.techpowerup.com##div.s--item:nth-of-type(5)
+
+! Nov 15, 2025 https://www.pcgamingwiki.com
+www.pcgamingwiki.com##[avp-player-ui]
+www.pcgamingwiki.com##div[id="instream"]
+www.pcgamingwiki.com##div[class="ad-header-container"]
+www.pcgamingwiki.com##div[class="ad-footer-container"]
+
+! Nov 15, 2025 https://www.avito.ru
+www.avito.ru##div[class*="items-itemsCarouselWidget"]
+www.avito.ru##i[class*="style-vas-icon_type-promoted"]
+www.avito.ru##div[class^="queries-root_marginTop"]
+
+! Nov 15, 2025 https://2io.*
+2ip.io##div[class^="add-"]
+2ip.io##div[class="sidebar"]
+2ip.io##[class^="ads"]
+2ip.ru##div[class^="add-"]
+2ip.ru##div[class="sidebar"]
+2ip.ru##[class^="ads"]
