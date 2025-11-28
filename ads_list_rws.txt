@@ -1,5 +1,5 @@
 ! Title: NoADS_RU RWS
-! Last modified: 22 ноября 2025 года
+! Last modified: 28 ноября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -417,17 +417,8 @@ translate.yandex.ru##.button_icon_collections.button_icon.button
 ! 13.02.2020 https://music.yandex.ru
 music.yandex.ru##.bar-below__subscription
 music.yandex.ru##.bar-below__circles
-music.yandex.ru##.sqcvHHg29i3Q9gJRvapU.su8LVXwOwgGE.sqcvHHg29i3Q9 > .sqcvHHg29i3Q9gLhv6pXy
 music.yandex.ru##.d-select_size_S.d-select_type_links.deco-button.d-select > .deco-button-stylable.d-select__inner
-music.yandex.ru##.ya-share2__list_direction_horizontal.ya-share2__list > .d-share__item.ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
-music.yandex.ru##.ya-share2__list_direction_horizontal.ya-share2__list > .d-share__item.ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge
-music.yandex.ru##.ya-share2__list_direction_horizontal.ya-share2__list > .d-share__item.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
-music.yandex.ru##.ya-share2__list_direction_horizontal.ya-share2__list > .d-share__item.ya-share2__item_service_twitter.ya-share2__item > .ya-share2__link > .ya-share2__badge
-music.yandex.ru##.ieozjoq
-music.yandex.ru##.kvtmp
-music.yandex.ru##.su8bQVg2wlkgJqolia4I
 music.yandex.ru##.deco-pane.sidebar
-||music.yandex.ru/i/rML7GHYXaxfFiy_RC5y2cxIFxGA.svg$image
 music.yandex.ru##.multi-auth__plus
 music.yandex.ru##.d-link_no-hover.deco-link_no-hover-color.d-link_no-hover-color.deco-popup-menu__item.multi-auth__diag.typo-main.multi-auth__item.deco-link.d-link
 
@@ -1064,9 +1055,6 @@ yandex.ru##.b-line__center.b-line__services-main.b-line > .services-big__row > t
 yandex.ru##.b-line__center.b-line__services-main.b-line > .services-big__row > tbody > tr:nth-of-type(3) > td.services-big__item:nth-of-type(3)
 yandex.ru##a.cl-header-under-tab:nth-of-type(2)
 yandex.ru##.ext_views.ext_type_border.ext_state_visible.ext > .ext__wrap
-
-! 04.03.2020 https://music.yandex.ru
-music.yandex.ru##li.deco-popup-menu__item.d-links__link:nth-of-type(1) > .deco-link_no-hover-color.d-link_no-hover-color.d-links__link_text.footer__subscribe-link.deco-link.d-link
 
 ! 04.03.2020 https://mobile.yandex.ru
 mobile.yandex.ru##.header__submenu > a.menu__item:nth-of-type(2)
@@ -3806,8 +3794,6 @@ music.yandex.ru##.payment-plus__content
 music.yandex.ru##.typo.payment-plus__wrapper
 music.yandex.ru##.full-height.payment-plus
 music.yandex.ru##.popup_modal.deco-pane-popup.popup.payment-plus-popup
-music.yandex.ru##.overlay_shown.deco-pane-overlay.overlay
-music.yandex.ru##.bar-below-configurable
 
 ! 2020-10-03 https://pokupki.market.yandex.ru
 pokupki.market.yandex.ru##._11ZmuAyi66
@@ -3901,9 +3887,6 @@ mail.yandex.ru##.mail-HeaderServicesPopup.popup2_target_anchor.popup2_visible_ye
 ! 2020-10-06 https://www.youtube.com
 www.youtube.com###buttons > ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
 www.youtube.com###sections > ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-
-! 2020-10-06 https://music.yandex.ru
-music.yandex.ru##.bar-below_plus.bar-below
 
 ! 2020-10-06 https://pokupki.market.yandex.ru
 pokupki.market.yandex.ru##body > div:nth-of-type(1) > .skuPage > div:nth-of-type(1) > ._2JU13fzXEa > ._1SEkJje5GJ > div:nth-of-type(1) > div
@@ -4710,7 +4693,6 @@ yandex.ru##.vqE1yvuqqLae0nAxt.card.vqE14r9mhKQ
 
 ! 2021-03-04 https://music.yandex.ru
 music.yandex.ru##.bar__branding_picture
-music.yandex.ru##.paused-slider_left.lada.paused-slider
 
 ! 2021-03-04 https://www.kinopoisk.ru
 www.kinopoisk.ru##li._1uKF6gO9SFlZC3TpfXHoNO.footerailuujb0bb5clsx1sx6__content-item:nth-of-type(2)
@@ -5506,10 +5488,6 @@ yandex.ru###uniq1620807411930-4559715 > .health-advert.mg-page-layout-item__card
 yandex.ru###uniq1620807411938-21454190 > .health-advert.mg-page-layout-item__card.sport-advert
 yandex.ru##div.mg-grid__col_xs_4.mg-grid__col:nth-of-type(12)
 yandex.ru##div.mg-grid__col_xs_4.mg-grid__col:nth-of-type(34)
-
-! 2021-05-12 https://music.yandex.ru
-music.yandex.ru##.typo-secondary.footer__age-disclaimer
-
 ! 2021-05-12 https://www.kinopoisk.ru
 www.kinopoisk.ru##.footerkvuvoxf938pzf0bicz0__content-item:nth-of-type(5) > ._3Rkutv2b09UBzWZI15ckk9.footerkvuvoxf938pzf0bicz0__content-link
 www.kinopoisk.ru##.footerkvuvoxf938pzf0bicz0__content-item:nth-of-type(2) > .footerkvuvoxf938pzf0bicz0__content-link
@@ -6557,12 +6535,6 @@ emojipedia.org##.ot-sdk-container > .ot-sdk-row
 forum.rudtp.ru##.notice-content
 forum.rudtp.ru##.uix_noticeInner
 
-! 2021-12-02 https://music.yandex.ru
-music.yandex.ru##.head-kids__station-button
-music.yandex.ru##.head-kids__plus-points.plus-points
-music.yandex.ru##.lego-button
-music.yandex.ru##.paused-slider_left.lego.paused-slider
-
 ! 2021-12-02 https://market.yandex.ru
 market.yandex.ru##.main._111XI > div > div > div > ._2WIHb
 market.yandex.ru##.CM2I2._1yiCs.jvEMW._2yjtq
@@ -7247,9 +7219,6 @@ auto.ru##.IndexSelectorNewCarsBanner
 auto.ru##.Index__col.IndexSocialLinks
 auto.ru##div.y0xKhvs4pHLXQqQ.Index__block:nth-of-type(11)
 auto.ru##.FooterSocialLinks
-
-! 2022-03-25 https://music.yandex.ru
-music.yandex.ru##.d-links
 
 ! 2022-03-25 https://tv.yandex.ru
 tv.yandex.ru##.nkMHiK0rvFLS3vQ__nltf9YhDlGKQ.grid__pNKYyRw > .nltf9YgrtEqCaszk__wrapper > .nltf9YgrtEqCaszk
@@ -12656,12 +12625,9 @@ _pagespeed_beacon?
 @@||yandex.ru/metrika/watch_visor.js$domain=sports.ru
 ||bs.yandex.$~script
 ||button.blogs.yandex.
-||clck.yandex.ru^$~other
 ||mc.yandex.ru^
 ||metrika.yandex.$third-party
 ||yabs.yandex.ru/count/
-||yandex.*/clck/
-||yandex.ru/click/
 ||yandex.ru/metrika/
 sports.ru###top-ad
 sports.ru###top-banner-place
@@ -13164,8 +13130,6 @@ utm_$document,removeparam=ig_rid,domain=instagram.com
 ||imdb.com/*pf_rd_$document,removeparam=|pf_rd_,domain=imdb.com
 ||imdb.com/*ref_=$document,removeparam=|ref,domain=imdb.com
 ||livejournal.com/*.html?media|$removeparam=|media,domain=livejournal.com
-||mail.ru^*exp_id=$document,removeparam=|,domain=mail.ru
-||my.mail.ru/apps$document,removeparam=ref,domain=my.mail.ru
 ||sportmail.ru^*exp_id=$document,xmlhttprequest,removeparam=|,domain=sportmail.ru
 ||www.google.*/search?$removeparam=aqs
 ||www.google.*/search?$removeparam=authuser
