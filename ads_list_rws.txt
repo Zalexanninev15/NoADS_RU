@@ -1,5 +1,5 @@
 ! Title: NoADS_RU RWS
-! Last modified: 28 ноября 2025 года
+! Last modified: 30 ноября 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -20729,15 +20729,15 @@ askdev.ru###ishame
 
 ! "Фикс" нерабочих функций гугла по причине блокировки параметров
 @@||google.com^$removeparam
+! "Фикс" невозможности воспроизведения музыки на ЯшкоMu
+@@||music.yandex.ru
 
 ! Super Black List
-||direct.yandex.ru
 ||yandex.ru/adv/
 ||runtime.strm.yandex.ru
 ||yandex.ru/ads^
 ||mc.yandex.ru/metrika^
 ||avatars.mds.yandex.net/get-direct-picture$image
-! Если нужен Я*, ищите инстант 4get или другой поисковик уже используйте.
 
 ! Google Black List
 ||doubleclick.net
