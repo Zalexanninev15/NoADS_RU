@@ -1,5 +1,5 @@
 ! Title: NoADS_RU RWS
-! Last modified: 30 ноября 2025 года
+! Last modified: 1 января 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -3755,7 +3755,6 @@ windowsnotes.ru##.facebook.color-dark.social
 losst.ru##[href^="https://otus.ru/lessons/linux-professional/"]
 
 ! 2020-09-30 https://www.dns-shop.ru
-||c.dns-shop.ru/original/st1/9989312d6431fd84a83b29729eb4c18f/b1b62374456371b80502770ee32bb4274203dec1c09a740fc2f268356ec39ed5.jpg$image
 www.dns-shop.ru##.items-group__banner
 
 ! 2020-09-30 https://yandex.ru
@@ -3883,10 +3882,6 @@ docviewer.yandex.ru###app > .with-bottom-native-direct.with-native-direct-after-
 
 ! 2020-10-06 https://mail.yandex.ru
 mail.yandex.ru##.mail-HeaderServicesPopup.popup2_target_anchor.popup2_visible_yes.popup2_direction_bottom-center.popup2_theme_normal.popup2_view_default.popup2 > .mail-HeaderServicesPopup__container > div.mail-HeaderServicesPopup__list-item:nth-of-type(1) > a.mail-HeaderServicesPopup__item:nth-of-type(1) > .mail-HeaderServicesPopup__item__inner
-
-! 2020-10-06 https://www.youtube.com
-www.youtube.com###buttons > ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
-www.youtube.com###sections > ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 
 ! 2020-10-06 https://pokupki.market.yandex.ru
 pokupki.market.yandex.ru##body > div:nth-of-type(1) > .skuPage > div:nth-of-type(1) > ._2JU13fzXEa > ._1SEkJje5GJ > div:nth-of-type(1) > div
