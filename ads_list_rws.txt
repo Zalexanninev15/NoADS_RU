@@ -1,5 +1,5 @@
 ! Title: NoADS_RU RWS
-! Last modified: 1 января 2025 года
+! Last modified: 1 декабря 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
