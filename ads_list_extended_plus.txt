@@ -1,4 +1,4 @@
-! Title: NoADS_RU Extended Plus
+! Title: ⚠️ NoADS_RU Extended Plus
 ! Last modified: 2 декабря 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
