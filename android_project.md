@@ -60,7 +60,7 @@
 
 > Значения в данный момент ещё дополняются, автор в поисках.
 
-Строкой: `rustore io.appmetrica vk. .Vk ya. yandex huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.measurement. com.google.android.gms.ads. .AdService`
+Строкой: `rustore io.appmetrica vk. .Vk ya. yandex. huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.measurement. com.google.android.gms.ads. AdService .ads.`
 
 Списком:
 - `rustore`
@@ -68,11 +68,12 @@
 - `vk.`
 - `.Vk`
 - `ya.`
-- `yandex`
+- `yandex.`
 - `huawei` (если у вас Google Play)
 - `HMSPushAppService` (если у вас Google Play)
 - `io.sentry.`
 - `com.alibaba.analytics`
 - `com.google.android.gms.measurement.`
 - `com.google.android.gms.ads.`
-- `.AdService `
+- `AdService`
+- `.ads.`
