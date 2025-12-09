@@ -1,8 +1,8 @@
 # NoADS_RU Android Project
 
-Блокировка или скрытие рекламы на Android и в приложениях.
+Блокировка или скрытие рекламы на Android и в приложениях. В первую очередь данный проект нацелен на устройства с Root правами.
 
-## 🔥 Модули от Blue cat (LSPosed)
+## 🏆 Модули от Blue cat (LSPosed)
 
 > Вместо модификаций для приложений. Можно обновлять приложения независимо от модуля.
 
@@ -10,6 +10,15 @@
 * [Alfa Bank Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.alfabankpatcher) - Альфа Банк
 * [Yandex Maps Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher) - Яндекс Карты
 * [Sberbank Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.sberbankpatcher) - Сбербанк (рекомендую обратить вниманием на проект [GreenBank / SberQML](https://4pda.to/forum/index.php?showtopic=1097657) - неофициальный клиент для банка от Computershik для старых устройств и без рекламы, имеется также версия для [Windows Phone](https://4pda.to/forum/index.php?showtopic=1098057))
+
+## 🔥 ReVanced Xposed
+
+* [Основной проект](https://github.com/chsbuffer/ReVancedXposed) - Youtube, Google Photos, Youtube Music, Instagram, Threads, Strava, Photomath
+* [Spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify) - Spotify
+
+## Другие проекты
+
+* [RedditRV от 21Modz](https://t.me/ytrvel/219) - Reddit
 
 ## Личная настройка приложений через AppManager
 
