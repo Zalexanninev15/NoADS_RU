@@ -1,5 +1,5 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 2 декабря 2025 года
+! Last modified: 9 декабря 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -1634,9 +1634,6 @@ m.vk.com##.Popup_open.Popup.ContextMenu.ModalMenu > .Popup__wrap > .Popup__conte
 ! 16.04.2020 https://yandex.ru
 yandex.ru##.cl-card-side-controls__button_share.cl-card-side-controls__button.button_type_action.button_size_M.button_ei.button
 yandex.ru##.distr-popup_js_inited.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-dbn-cookie_js_inited.i-bem.card__colorize.colorize-xb4ah1.i-dbn-cookie.distr-popup_animation_fall-show-bounce.distr-popup_shadow_yes.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
-
-! 16.04.2020 https://docviewer.yandex.ru
-docviewer.yandex.ru##.folvdyc.ggzwb.rtpgwlbo > avfr-dij
 
 ! 17.04.2020 https://yandex.ru
 yandex.ru##.distr-popup_js_inited.popup2_visible_yes.popup2_direction_bottom-right.popup2_js_inited.i-dbn-cookie_js_inited.i-bem.card__colorize.colorize-xb4ah1.i-dbn-cookie.distr-popup_animation_fall-show.distr-popup_shadow_yes.distr-popup_type_landing.distr-popup_layout_simple.distr-popup_location_right-bottom.distr-popup.popup2_view_classic.popup2_theme_clear.popup2_target_position.popup2
@@ -21053,3 +21050,17 @@ www.avito.ru##div[class^="queries-root_marginTop"]
 2ip.ru##div[class^="add-"]
 2ip.ru##div[class="sidebar"]
 2ip.ru##[class^="ads"]
+
+! Dec 9, 2025 https://www.dns-shop.ru
+www.dns-shop.ru##.product-buy-together-slider.product-card__buy-together
+
+! Dec 9, 2025 https://habr.com
+habr.com##.sponsor-block
+
+! Dec 9, 2025 https://avito.ru
+avito.ru##div[data-marker="installments-promoblock"]
+avito.ru##div[class^="style__item-view-ads"]
+
+! Dec 9, 2025 https://chatgpt.com
+chatgpt.com##.hover\:cursor-pointer.cursor-default.me-0.my-0.btn-small.btn.btn-secondary
+chatgpt.com##.motion-safe\:delay-\[175ms\].opacity-100.motion-safe\:ease-out.motion-safe\:duration-200.motion-safe\:transition-opacity.gap-1\.5.hoverable.__menu-item.group
