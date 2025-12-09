@@ -47,6 +47,8 @@
 
 ### Для множества приложений
 
+> ⚠️ Используйте с осторожностью!
+
 1. Выбираем через 3 точки пункт **Операции в один клик**
 2. **Заблокировать/разблокировать трекеры**
 3. Выбираем приложения из списка и блокируем все трекеры (оранжевая плашка)
@@ -58,13 +60,19 @@
 
 > Значения в данный момент ещё дополняются, автор в поисках.
 
-Строкой: `rustore io.appmetrica vk. ya. yandex huawei io.sentry.`
+Строкой: `rustore io.appmetrica vk. .Vk ya. yandex huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.measurement. com.google.android.gms.ads. .AdService`
 
 Списком:
 - `rustore`
 - `io.appmetrica`
 - `vk.`
+- `.Vk`
 - `ya.`
 - `yandex`
 - `huawei` (если у вас Google Play)
+- `HMSPushAppService` (если у вас Google Play)
 - `io.sentry.`
+- `com.alibaba.analytics`
+- `com.google.android.gms.measurement.`
+- `com.google.android.gms.ads.`
+- `.AdService `
