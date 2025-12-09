@@ -58,7 +58,7 @@
 
 > Значения в данный момент ещё дополняются, автор в поисках.
 
-Строкой: `rustore io.appmetrica vk. ya. yandex huawei`
+Строкой: `rustore io.appmetrica vk. ya. yandex huawei io.sentry.`
 
 Списком:
 - `rustore`
@@ -67,3 +67,4 @@
 - `ya.`
 - `yandex`
 - `huawei` (если у вас Google Play)
+- `io.sentry.`
