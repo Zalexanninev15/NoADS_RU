@@ -21210,3 +21210,6 @@ www.apkmirror.com##.ains-apkm_apk_page_top
 www.apkmirror.com##.ains-apkm_billboard_top
 www.apkmirror.com##div[class*="ains-apkm"]
 www.apkmirror.com##div[class*="ai-track.ains"]
+
+! Dec 11, 2025 https://pizzafabrika.ru
+pizzafabrika.ru##div[class*="download-app-drawer_sheet_"]
