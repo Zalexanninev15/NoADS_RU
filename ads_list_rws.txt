@@ -1,9 +1,9 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 9 декабря 2025 года
+! Last modified: 11 декабря 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
-!! Donate: https://z15.neocities.org/donate
+! Donate: https://z15.neocities.org/donate
 
 ! Автор выражает респект Faust.
 
@@ -11671,48 +11671,6 @@ $removeparam=urrad,domain=u-s-s.jp|belta.co.jp
 /landing.$removeparam=pixelid
 
 ! [Extended Content]
-@@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|tjournal.ru|vc.ru
-@@||alcogolizm.com/addons/counter/$script,stylesheet,domain=alcogolizm.com
-@@||api.chat.olx.*/api/conversations/counters$xmlhttprequest,domain=olx.kz|olx.ua|olx.uz
-@@||aprtx.com/code/decathlonRU/$script,domain=decathlon.ru
-@@||auto.ru/js/counters/google_conversion_async.js|$domain=auto.ru
-@@||business-gazeta.ru/stat/logo$image,domain=business-gazeta.ru
-@@||chat.goodgame.ru/counter/|$websocket
-@@||cloudfront.net/metrika/watch_ua.js|$script,domain=novayagazeta.ru
-@@||e1.ru/images^*1x1.gif|$image,domain=e1.ru
-@@||gamexp.ru^*/img/counter/$image,domain=gamexp.ru
-@@||gaua.hit.gemius.pl/gplayer.js$script,domain=ovva.tv
-@@||gelbooru.com/counter/$domain=gelbooru.com
-@@||gosuslugi.ru^*/counters?$domain=gosuslugi.ru
-@@||help.viber.com^*/counters?lang=$xmlhttprequest,domain=help.viber.com
-@@||kufar.by/cc_proxy/api/users/*/counter?withPollingTime=true$xmlhttprequest,domain=kufar.by
-@@||mail.ru/js/cpf/tools/jquery/counters/$domain=mail.ru
-@@||mc.yandex.ru/metrika/tag.js|$script,domain=auto.yandex|iz.ru
-@@||mc.yandex.ru/metrika/watch.js$domain=amurmedia.ru|carambatv.ru|cashalot.su|chelyabinsk.74.ru|damprodam.ru|eaomedia.ru|irkutskmedia.ru|iz.ru|krasnodarmedia.su|krasnoyarskmedia.ru|lk.boxberry.ru|magadanmedia.ru|muzofond.org|news.rambler.ru|player.1tv.com|primamedia.ru|sakhalinmedia.ru|samozapis-spb.ru|sevastopolmedia.ru|sherlock.store|sovsport.ru|sprinthost.ru|stylenews.ru|tvrain.ru|ulanmedia.ru|ussurmedia.ru|yakutiamedia.ru|yap.ru|yaplakal.com
-@@||mc.yandex.ru/metrika/watch_visor.js$script,domain=zebratelecom.ru
-@@||mc.yandex.ru/webvisor^$domain=overclockers.ru
-@@||megafon.ru/static/?files=*/piwik.$domain=megafon.ru
-@@||notifications.onliner.by/counters?_=$xmlhttprequest,domain=onliner.by
-@@||oblenergo.odessa.ua/wp-content/plugins/oblenergo/assets/js/plugins/counter/$script,domain=oblenergo.odessa.ua
-@@||pics.wikireality.ru/upload/
-@@||polemika.com.ua/content/counter|$xmlhttprequest,domain=polemika.com.ua
-@@||s.imgur.com/min/px.js?ch=$script,domain=imgur.com
-@@||s.youtube.com/api/stats/playback?$image,domain=youtube.com
-@@||scorecardresearch.com/*/streamingtag_plugin_jwplayer.js|$third-party,script
-@@||sephora.ru/assets/js/counter_gtm.js$domain=sephora.ru
-@@||stat.allsport-live.ru/images/$image,domain=allsport-live.net
-@@||stat.eagleplatform.com^$subdocument,domain=360tv.ru|news.rambler.ru
-@@||stat.radar.imgsmail.ru/*=honeypot_fake_$image,domain=e.mail.ru
-@@||stat.yummyanime.com/img/avatars/$image,domain=yummyanime.club
-@@||static.criteo.net/js/ld/publishertag.js|$script,domain=life.ru
-@@||swa.mail.ru/cgi-bin/counters?$domain=mail.ru
-@@||tele-sport.ru/api/front/counter/hit/$xmlhttprequest,domain=tele-sport.ru
-@@||tns-counter.ru/tcounter.js|$script,domain=motor.ru
-@@||tns-counter.ru^*/tmsec=yandex_videoplayershow/$object
-@@||top-fwz1.mail.ru/js/code.js$domain=account.mail.ru
-@@||top.mail.ru/counter?*;rand=$domain=kp.ru
-@@||yastatic.net/metrika/*/counters/$domain=metrika.yandex.ru
-@@||youtube.com/api/stats/watchtime?$image,domain=youtube.com
 .com/a.gif?
 .top100.$third-party
 /1x1.gif$domain=~idaprikol.ru|~thg.ru
@@ -20719,10 +20677,174 @@ ubuntugeeks.com##.navbar-brand
 askdev.ru###logo
 askdev.ru###ishame
 
+! Low Effort Articles (AI spam, copy-pasting other articles, etc)
+||*solveyourtech.com^
+||*mefmobile.org^
+||*supportyourtech.com^
+||*live2tech.com^
+||*i5apps.com^
+||*masteryourtech.com^
+||*umatechnology.org^
+||*robots.net^
+||*itechhacks.com^
+||*gbtimes.com^
+||*1v9.gg/blog^
+||*toxigon.com^
+||*thecoderpedia.com^
+||*howtoapps.com^
+||*techlivo.com^
+||*bizknowledges.com^
+||*earthweb.com/blog^
+||*appletoo.us^
+||*chargerblog.com^
+||*batteryspotlight.com^
+||*ofzenandcomputing.com^
+||*techwithtech.com^
+||*steambase.io^
+||*androiddata-recovery.com^
+||*mediupdates.com^
+||*itigic.com^
+||*researchsnipers.com^
+||*amilma.digital/blog^
+||*madpenguin.org^
+||*techecholabs.com^
+||*teabrands.org^
+||*iliputer.com^
+||*copyprogramming.com^
+||*chatgpt.org^
+||*devsne.vn/public/solution^
+||*socketloop.com/tutorials^
+||*windowsbulletin.com^
+||*technogenz.com^
+||*techpluto.com^
+||*befitnatic.com^
+||*findthisbest.com^
+||*eeasy4u.com^
+||*dockuniverse.com^
+||*9meters.com^
+||*weetechsolution.com/blog^
+||*driveshero.com^
+||*makb183.com^
+||*linuxcapable.com^
+||*outsourceit.today^
+||*codeparrot.ai/blogs^
+||*trycatchdebug.net^
+||*onexception.dev^
+||*dinosaur.org^
+||*espn24.co.uk^
+||*nbcsportz.com^
+||*nbcsport.co.uk^
+||*cbsnewz.com^
+||*cbsnews2.com^
+||*bbcsportss.co.uk^
+||*247bbcnews.com^
+||*foxnigeria.com.ng^
+||*notionrealm.com^
+||*guides.ai^
+||*songtell.com^
+||*cybersecuritynews.com^
+||*gbhackers.com^
+||*electropages.com^
+||*grepper.com^
+||*nextoai.com^
+||*clrn.org^
+||*mejoress.com^
+||*lifeincoding.com^
+||*webdevtutor.net^
+||*commandmasters.com^
+||*commandexamples.com^
+||*shell-tips.com^
+||*thelinuxcode.com^
+||*hddfaqs.com^
+||*privateproxyguide.com^
+||*dev2qa.com^
+||*mazer.dev^
+||*shiftychevre.com^
+||*therandomvibez.com^
+||*virtualizare.net^
+||*nerdburglars.net^
+||*linoxide.com^
+||*opensourceforu.com^
+||*linuxmadesimple.info^
+||*cruiseship.cloud^
+||*stepofweb.com^
+||*physics-network.org^
+||*olaf-hecker.de^
+||*grande-famille.de^
+||*mycplus.com^
+||*worldhistoryedu.com^
+||*flowercitycolor.com/blog^
+||*devasking.com^
+||*kitchendemy.com^
+||*istocks.club^
+||*top5best.com^
+||*optimalproducts.com^
+||*farmingdale-observer.com^
+||*hatchjs.com^
+||*10for10.uk^
+||*splicedonline.com^
+||*bettertechtips.com^
+||*thetechedvocate.org^
+||*exchangetuts.com^
+||*techbloat.com^
+||*betanet.net^
+||*softhandtech.com^
+||*soundproofgeek.com^
+||*audiolgy.com^
+||*zeitburg.de^
+||*gameslearningsociety.org^
+||*pupuweb.com^
+||*codefinity.com/blog^
+||*sqldocs.org^
+||*ithy.com/article^
+
 ! "Фикс" нерабочих функций гугла по причине блокировки параметров
 @@||google.com^$removeparam
 ! "Фикс" невозможности воспроизведения музыки на ЯшкоMu
 @@||music.yandex.ru
+! Другие исключения для предотвращения ложных срабатываний
+@@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|vc.ru
+@@||alcogolizm.com/addons/counter/$script,stylesheet,domain=alcogolizm.com
+@@||api.av.by/offers/*/counter|$xmlhttprequest,domain=av.by
+@@||api.chat.olx.*/api/conversations/counters$xmlhttprequest,domain=olx.kz|olx.ua|olx.uz
+@@||aprtx.com/code/decathlonRU/$script,domain=decathlon.ru
+@@||business-gazeta.ru/stat/logo$image,domain=business-gazeta.ru
+@@||chat.goodgame.ru/counter/|$websocket
+@@||cloudfront.net/metrika/watch_ua.js|$script,domain=novayagazeta.ru
+@@||e1.ru/images^*1x1.gif|$image,domain=e1.ru
+@@||gamexp.ru^*/img/counter/$image,domain=gamexp.ru
+@@||gaua.hit.gemius.pl/gplayer.js$script,domain=ovva.tv
+@@||gelbooru.com/counter/$domain=gelbooru.com
+@@||gosuslugi.ru^*/counters?$domain=gosuslugi.ru
+@@||help.viber.com^*/counters?lang=$xmlhttprequest,domain=help.viber.com
+@@||kufar.by/cc_proxy/api/users/*/counter?withPollingTime=true$xmlhttprequest,domain=kufar.by
+@@||mail.ru/js/cpf/tools/jquery/counters/$domain=mail.ru
+@@||mc.yandex.ru/metrika/tag.js|$script,domain=auto.yandex|iz.ru
+@@||mc.yandex.ru/metrika/watch.js$domain=carambatv.ru|cashalot.su|chelyabinsk.74.ru|damprodam.ru|iz.ru|lk.boxberry.ru|magadanmedia.ru|muzofond.org|news.rambler.ru|player.1tv.com|samozapis-spb.ru|sherlock.store|sprinthost.ru|stylenews.ru|tvrain.ru
+@@||mc.yandex.ru/metrika/watch_visor.js$script,domain=zebratelecom.ru
+@@||mc.yandex.ru/webvisor^$domain=overclockers.ru
+@@||megafon.ru/static/?files=*/piwik.$domain=megafon.ru
+@@||notifications.onliner.by/counters?_=$xmlhttprequest,domain=onliner.by
+@@||oblenergo.odessa.ua/wp-content/plugins/oblenergo/assets/js/plugins/counter/$script,domain=oblenergo.odessa.ua
+@@||pics.wikireality.ru/upload/
+@@||polemika.com.ua/content/counter|$xmlhttprequest,domain=polemika.com.ua
+@@||s.imgur.com/min/px.js?ch=$script,domain=imgur.com
+@@||s.youtube.com/api/stats/playback?$image,domain=youtube.com
+@@||scorecardresearch.com/*/streamingtag_plugin_jwplayer.js|$third-party,script
+@@||sephora.ru/assets/js/counter_gtm.js$domain=sephora.ru
+@@||st.top100.ru/top100/top100.js|$script,domain=comments.rambler.ru|ferra.ru|gazeta.press|gazeta.ru|indicator.ru|letidor.ru|moslenta.ru|motor.ru|passion.ru|quto.ru|secretmag.ru|wmj.ru
+@@||stat.allsport-live.ru/images/$image,domain=allsport-live.net
+@@||stat.eagleplatform.com^$subdocument,domain=360tv.ru|news.rambler.ru
+@@||stat.radar.imgsmail.ru/*=honeypot_fake_$image,domain=e.mail.ru
+@@||stat.yummyanime.com/img/avatars/$image,domain=yummyanime.club
+@@||static.criteo.net/js/ld/publishertag.js|$script,domain=life.ru
+@@||swa.mail.ru/cgi-bin/counters?$domain=mail.ru
+@@||tele-sport.ru/api/front/counter/hit/$xmlhttprequest,domain=tele-sport.ru
+@@||tns-counter.ru/tcounter.js|$script,domain=motor.ru
+@@||tns-counter.ru^*/tmsec=yandex_videoplayershow/$object
+@@||top.mail.ru/counter?*;rand=$domain=kp.ru
+@@||yastatic.net/metrika/*/counters/$domain=metrika.yandex.ru
+@@||youtube.com/api/stats/watchtime?$image,domain=youtube.com
 
 ! Super Black List
 ||yandex.ru/adv/
