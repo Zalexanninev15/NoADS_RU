@@ -21102,3 +21102,41 @@ www.avito.ru##div[class^="queries-root_marginTop"]
 2ip.ru##div[class^="add-"]
 2ip.ru##div[class="sidebar"]
 2ip.ru##[class^="ads"]
+
+! Dec 9, 2025 https://www.dns-shop.ru
+www.dns-shop.ru##.product-buy-together-slider.product-card__buy-together
+
+! Dec 9, 2025 https://habr.com
+habr.com##.sponsor-block
+
+! Dec 9, 2025 https://avito.ru
+avito.ru##div[data-marker="installments-promoblock"]
+avito.ru##div[class^="style__item-view-ads"]
+
+! Dec 9, 2025 https://chatgpt.com
+chatgpt.com##.hover\:cursor-pointer.cursor-default.me-0.my-0.btn-small.btn.btn-secondary
+chatgpt.com##.motion-safe\:delay-\[175ms\].opacity-100.motion-safe\:ease-out.motion-safe\:duration-200.motion-safe\:transition-opacity.gap-1\.5.hoverable.__menu-item.group
+
+! Dec 11, 2025 https://www.apkmirror.com
+||googleads.g.doubleclick.net/pagead/ads$subdocument
+www.apkmirror.com##[class*="advert"]
+www.apkmirror.com##.adsbygoogle
+www.apkmirror.com###div-gpt-ad-mm_am_release_page_above_downloads_box
+www.apkmirror.com##.google-ad-billboard.gooWidget > .adslot
+www.apkmirror.com###div-gpt-ad-mm_am_right_sidebar_top
+www.apkmirror.com##.google-ad-square-sidebar.gooWidget > .adslot
+www.apkmirror.com##a[href*="/premium"]
+www.apkmirror.com##.ains-apkm_release_page_below_description_above_downloads
+www.apkmirror.com##.ains-apkm_release_page_top
+www.apkmirror.com##.ai-track.ains-apkm_app_page_top
+www.apkmirror.com##.ains-apkm_release_page_middle
+www.apkmirror.com##.ains-apkm_dev_page_top
+www.apkmirror.com##.ains-apkm_sidebar_top
+www.apkmirror.com###div-gpt-ad-mm_am_developer_page_top
+www.apkmirror.com##.google-ad-leaderboard.gooWidget > .adslot
+www.apkmirror.com##[class*="ains-"]:matches-css(class: /ains-[0-9]+/)
+www.apkmirror.com##.ains-apkm_app_page_bottom
+www.apkmirror.com##.ains-apkm_apk_page_top
+www.apkmirror.com##.ains-apkm_billboard_top
+www.apkmirror.com##div[class*="ains-apkm"]
+www.apkmirror.com##div[class*="ai-track.ains"]
