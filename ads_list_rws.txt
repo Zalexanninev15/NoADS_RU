@@ -1,5 +1,5 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 11 декабря 2025 года
+! Last modified: 12 декабря 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -777,9 +777,6 @@ ru.wikipedia.org##[href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5
 m.yandex.ru##a.link_js_inited.i-bem.competitors__link.link_theme_none.link:nth-of-type(3)
 m.yandex.ru##.service_name_collections.service > .link_theme_normal.link.service__url > .service__name
 
-! 17.02.2020 https://passport.yandex.ru
-passport.yandex.ru##.registration__social-btn_short.registration__fb-btn
-
 ! 17.02.2020 https://yandex.ru
 yandex.ru##.link_js_inited.i-bem.promo-popup__social-icon_bg_fb-white.promo-popup__social-icon_type_fb.promo-popup__social-icon.link_theme_normal.link
 yandex.ru##.link_js_inited.i-bem.competitors__link.link_theme_none.link
@@ -1417,13 +1414,6 @@ pingvinus.ru##.ya-share2__item_service_whatsapp.ya-share2__item > .ya-share2__li
 pingvinus.ru##.ya-share2__item_service_viber.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
 pingvinus.ru##ul:nth-of-type(4) > li:nth-of-type(3)
 
-! 13.03.2020 https://passport.yandex.ru
-passport.yandex.ru##.passp-social-block__list-item-secondary.passp-social-block__list-item-tw.passp-social-block__list-item
-passport.yandex.ru##.passp-social-block__title
-passport.yandex.ru##.passp-social-block__list-item-secondary.passp-social-block__list-item-mr.passp-social-block__list-item
-passport.yandex.ru##.passp-social-block__list-item-fb.passp-social-block__list-item
-passport.yandex.ru##.passp-social-block__list-item-gg.passp-social-block__list-item
-
 ! 13.03.2020 https://mail.yandex.ru
 mail.yandex.ru##.f1964f361
 mail.yandex.ru##.s862be75a.wa95c94c1.fa0cb5ac5.t130d8a2c.mb049309b.c90b483e8
@@ -1437,9 +1427,6 @@ flarrowfilms.com##.ya-share2__item_service_moimir.ya-share2__item > .ya-share2__
 
 ! 13.03.2020 https://docviewer.yandex.ru
 docviewer.yandex.ru##tubzqu-mhwl
-
-! 14.03.2020 https://passport.yandex.ru
-passport.yandex.ru##.registration__social-btn_short.registration__gg-btn
 
 ! 14.03.2020 https://tlgrm.ru
 tlgrm.ru##[href="https://tlgrm.ru/info/promo/channels"]
@@ -5633,12 +5620,6 @@ disk.yandex.ru##a.public-footer__link.footer__link.Link_theme_ghost.Link:nth-of-
 disk.yandex.ru##.js-prevent-mouse-selection.app-promo-banner
 disk.yandex.ru##.menu__item_type_link.user2__menu-item_action_plus.user2__menu-item_type_link.user2__menu-item.menu__item.control
 
-! 2021-05-25 https://passport.yandex.ru
-passport.yandex.ru##div.FamilyMainLayout-card:nth-of-type(1)
-passport.yandex.ru##.FamilyMainLayout-card_empty.FamilyMainLayout-card
-passport.yandex.ru##.p-subscriptions.Section
-passport.yandex.ru##div.ProfileTile_v2.ProfileTile:nth-of-type(2)
-
 ! 2021-05-25 https://docviewer.yandex.ru
 docviewer.yandex.ru##.bqldtllm.tyjqbde.dkkdud
 docviewer.yandex.ru##.wqmvaxqie.jymkop.axhqlyl > div
@@ -7139,11 +7120,6 @@ www.asrock.com###AcceptCookies > p
 ! 2022-03-13 https://yandex.ru
 yandex.ru##.link_icon_plus.link_theme_normal.link
 yandex.ru##.i-bem.distr-smartbanner_type_blue-button.distr-smartbanner_size_m.distr-smartbanner
-
-! 2022-03-13 https://passport.yandex.ru
-passport.yandex.ru##.AuthSocialBlock-provider_code_vk.AuthSocialBlock-provider
-passport.yandex.ru##.AuthSocialBlock-provider_code_fb.AuthSocialBlock-provider
-passport.yandex.ru##button.AuthSocialBlock-provider:nth-of-type(5)
 
 ! 2022-03-14 https://rsload.net
 rsload.net##[href="/tutvce.html"]
@@ -20913,9 +20889,6 @@ www.deepl.com##.\[\.is-home_\&\]\:hidden > .mobile\:hidden
 
 ! 11 июл. 2025 г. https://360.yandex.com
 360.yandex.com##div[data-promo-name]
-
-! 11 июл. 2025 г. https://passport.yandex.com
-passport.yandex.com##button[id^="passp:webauthn-auth-btn"]
 
 ! Jul 13, 2025 https://www.nexusmods.com
 www.nexusmods.com##.rj-supporter-wrapper

@@ -87,7 +87,7 @@ def clean_rule(line):
     line = line.encode('utf-8').decode('utf-8-sig').lstrip().rstrip()
     if not line:
         return None
-    if line.lower().startswith('[adblock plus 2.0]'):  # убираем заголовок
+    if line.lower().startswith('[adblock plus '):  # убираем заголовок
         return None
     if is_comment(line):
         return None
