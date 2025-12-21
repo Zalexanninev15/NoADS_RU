@@ -144,6 +144,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 - [Censor Tracker](https://censortracker.org) (только для выявления сайтов, которые следят за вами)
 - [LocalCDN](https://www.localcdn.org/)
 - [FoxyProxy](https://github.com/foxyproxy/browser-extension) (я использую "по работе", но вариантов использования много 🤫)
+- [JustDeleteMe](https://justdeleteme.xyz/ru#extension_browser)
 
 ## Инструкция по настройке некоторых расширений и браузеров для работы со списком
 
