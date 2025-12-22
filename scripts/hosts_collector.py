@@ -144,7 +144,9 @@ def process_hosts_from_list(file_list, exceptions=None):
                 continue
        
         print(f"🔪 Блокировки: {len(blocker_hosts)}\n🦙 Обходы: {len(bypass_hosts)}")
-   
+        all_blocker.update(blocker_hosts)
+        all_bypass.update(bypass_hosts)
+        
     return all_blocker, all_bypass
 
 def save_hosts_file(output_file, hosts, default_ip=None):
@@ -221,10 +223,10 @@ def main():
     print("-" * 60)
    
     # Сохраняем blocker.txt
-    save_hosts_file("blocker.txt", blocker_hosts, "0.0.0.0")
+    save_hosts_file("../hosts/blocker.txt", blocker_hosts, "0.0.0.0")
    
     # Сохраняем bypass.txt
-    save_hosts_file("bypass.txt", bypass_hosts)
+    save_hosts_file("../hosts/bypass.txt", bypass_hosts)
    
     # Обработка bypass2.txt
     if two_list:
@@ -234,7 +236,7 @@ def main():
         two_blocker, two_bypass = process_hosts_from_list(two_list, exceptions=exceptions)
         bypass2_hosts = bypass_hosts.copy()
         bypass2_hosts.update(two_bypass)
-        save_hosts_file("bypass2.txt", bypass2_hosts)
+        save_hosts_file("../hosts/bypass2.txt", bypass2_hosts)
    
     # Обработка blockerFL.txt
     if fl_list:
@@ -244,7 +246,7 @@ def main():
         fl_blocker, fl_bypass = process_hosts_from_list(fl_list, exceptions=exceptions)
         blockerFL_hosts = blocker_hosts.copy()
         blockerFL_hosts.update(fl_blocker)
-        save_hosts_file("blockerFL.txt", blockerFL_hosts, "0.0.0.0")
+        save_hosts_file("../hosts/blockerFL.txt", blockerFL_hosts, "0.0.0.0")
    
     print("\n" + "=" * 60)
     print("🥳 Готово!")
