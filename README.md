@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 - Блокировщик ([blocker](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt))
 - Расширенный блокировщик ([blockerFL](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt))
 - Анлокер сайтов ([bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt)) или [альтернативный bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass2.txt) (пока в тестовом режиме).
-- Также доступен остаточный микс из разных хостов ([mix_trash.zip](https://github.com/Zalexanninev15/NoADS_RU/raw/refs/heads/main/hosts/mix_trash.zip)) (блокировщик)
+- Также доступен сильно устаревший остаточный микс из разных хостов ([mix_trash.zip](https://github.com/Zalexanninev15/NoADS_RU/raw/refs/heads/main/hosts/mix_trash.zip)) (блокировщик)
 
 #### 📱 NoADS_RU Android Project
 
@@ -75,7 +75,18 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 
 🩷 Также буду признателен, если воспользуйтесь: философией [r/DeGoogle](https://www.reddit.com/r/degoogle/), Self-hosted и, конечно же, Fediverse 🥳 (передаю 👋 sol4r1s: [Децентрализованная Сеть](https://4pda.to/forum/index.php?showtopic=1021622))
 
-> Возможно уже скоро! А пока подкину парочку **интересных** проектов, но не говорите товарищу 👮🤫: [тык 1](https://github.com/igareck/vpn-configs-for-russia), [тык 2](https://github.com/AvenCores/goida-vpn-configs). Обход ограничений мобильного интернета на 100% — [@oversecure](https://t.me/oversecure)
+🧨 Подкину парочку **интересных** проектов, но не говорите товарищу 👮🤫: [тык 1](https://github.com/igareck/vpn-configs-for-russia), [тык 2](https://github.com/AvenCores/goida-vpn-configs). 
+
+🎁 Обход ограничений мобильного интернета на 100% — [@oversecure](https://t.me/oversecure) и [полезная информация для понимания ситуации и возможностей обхода ограничений](https://github.com/hxehex/russia-mobile-internet-whitelist). 
+
+🧠 А также [обширная база для понимания устройства работы и настройка своей VPS с нуля](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) для... этого самого 👮🤫 (информация по обходу немного устарела, но сама база всегда будет актуальной, для новичков, да и прошаренным будет интересно)
+
+Касаемо же self-hosted решений, мои инстанты:
+- [Сервер Matrix](https://web.cloyder.mooo.com) (клиент - Element Web, сам сервер `chat.cloyder.mooo.com`, шифрование отключено **только для публичных чатов**)
+- [Клиент Phanpy](https://apps.cloyder.mooo.com/phanpy) (очень классный веб-клиент для Mastodon)
+- [IT-Tools](https://apps.cloyder.mooo.com/tools) ("404" - это норма, после входа используйте инструменты через меню или через клик на логотип)
+- [CyberChef](https://apps.cloyder.mooo.com/kit) ("цепочки из инструментов")
+- [AniX](https://anixart.netlify.app/) (удобно смотрим аниме вне приложения Anixart)
 
 #### 📟 NoADS_RU TGCL
 
@@ -116,7 +127,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 * Mozilla Firefox (и браузеры на его основе, рекомендую опробовать Zen Browser и Floorp)
 * Brave 🦖
 * Vivaldi 🦖
-* Браузеры, которые имеют встроенный AdBlock с поддержкой пользовательских списков (проверено в Brave, Vivaldi, Opera)
+* Браузеры, которые имеют встроенный AdBlock с поддержкой пользовательских списков (проверено в Brave, Vivaldi)
 
 > Для Chromium подобных браузеров рекомендуется ставить расширение через файл, а не через Магазин расширений, т.к. это позволит сохранить доступ к расширению в случае его удаления в будущем (что точно произойдёт). Использование uBlock Origin **Lite** автор не одобряет, да и режет рекламу он хуже, но если альтернатив нет - можете использовать.
 
@@ -227,7 +238,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt
 
 **Такими браузерами являются**
 
-[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru) [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/ru/) [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com/ru)
+[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru) [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/ru/)
 
 #### Как настроить?
 
