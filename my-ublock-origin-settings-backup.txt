@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1763469489354,
-  "version": "1.67.0",
+  "timeStamp": 1766392823740,
+  "version": "1.68.0",
   "userSettings": {
     "advancedUserEnabled": true,
     "cnameUncloakEnabled": false,
