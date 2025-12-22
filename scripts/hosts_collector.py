@@ -1,0 +1,261 @@
+import os
+import re
+import subprocess
+import tempfile
+from urllib.parse import urlparse
+
+def load_exceptions(exc_file="exceptions_hosts.txt"):
+    """Загружает исключения для хостов."""
+    exceptions = {"exact": set(), "regex": []}
+    if not os.path.exists(exc_file):
+        return exceptions
+    try:
+        with open(exc_file, 'r', encoding='utf-8-sig') as f:
+            for raw in f:
+                line = raw.strip()
+                if not line or line.startswith('#'):
+                    continue
+                # regex style: r/.../
+                if line.startswith('r/') and line.endswith('/'):
+                    try:
+                        pattern = re.compile(line[2:-1])
+                        exceptions["regex"].append(pattern)
+                    except re.error:
+                        continue
+                else:
+                    exceptions["exact"].add(line)
+    except Exception:
+        return exceptions
+    return exceptions
+
+def is_exception(host, exceptions):
+    """Проверяет хост на попадание в исключения."""
+    if not host or not exceptions:
+        return False
+    if host in exceptions.get("exact", ()):
+        return True
+    for pat in exceptions.get("regex", ()):
+        if pat.search(host):
+            return True
+    return False
+
+def is_valid_domain(domain):
+    """Проверяет, является ли строка валидным доменом."""
+    if not domain or len(domain) > 253:
+        return False
+    # Базовая проверка домена
+    domain_pattern = re.compile(
+        r'^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)*[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?$'
+    )
+    return bool(domain_pattern.match(domain))
+
+def parse_hosts_line(line):
+    """Парсит строку hosts файла и возвращает кортеж (ip, [domains]).
+    Формат: IP domain [domain2 domain3 ...]
+    """
+    line = line.strip()
+   
+    # Пропускаем комментарии и пустые строки
+    if not line or line.startswith('#'):
+        return None, []
+   
+    # Убираем комментарии в конце строки
+    if '#' in line:
+        line = line.split('#', 1)[0].strip()
+   
+    # Разбиваем строку на части
+    parts = line.split()
+    if len(parts) < 2:
+        return None, []
+   
+    # Первая часть — IP адрес
+    ip = parts[0]
+   
+    # Проверяем, что первая часть похожа на IP
+    if not re.match(r'^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$', ip):
+        return None, []
+   
+    # Остальные части — домены
+    domains = []
+    for domain in parts[1:]:
+        domain = domain.strip().lower()
+        if domain and is_valid_domain(domain):
+            domains.append(domain)
+   
+    return ip, domains
+
+def process_hosts_from_list(file_list, exceptions=None):
+    """Обрабатывает список источников и возвращает два списка хостов: blocker и bypass."""
+    exceptions = exceptions or {"exact": set(), "regex": []}
+   
+    all_blocker = set()
+    all_bypass = {}
+   
+    for file_source in file_list:
+        file_source = file_source.strip()
+       
+        print(f"📥 Обработка: {file_source}")
+       
+        blocker_hosts = set()
+        bypass_hosts = {}
+       
+        if file_source.startswith(('http://', 'https://')):
+            temp_path = tempfile.mktemp()
+            try:
+                subprocess.run(['wget', '-q', '--timeout=30', '--tries=3', '-O', temp_path, file_source], check=True)
+                with open(temp_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
+                    for line in f:
+                        ip, domains = parse_hosts_line(line.strip())
+                        if ip is None:
+                            continue
+                        for domain in domains:
+                            if is_exception(domain, exceptions):
+                                continue
+                            if ip in ('0.0.0.0', '127.0.0.1'):
+                                blocker_hosts.add(domain)
+                            else:
+                                bypass_hosts[domain] = ip
+            except subprocess.CalledProcessError as e:
+                print(f"Ошибка при скачивании wget {file_source}: {e}")
+                blocker_hosts = set()
+                bypass_hosts = {}
+            finally:
+                if os.path.exists(temp_path):
+                    os.remove(temp_path)
+        else:
+            try:
+                with open(file_source, 'r', encoding='utf-8-sig') as f:
+                    for line in f:
+                        ip, domains = parse_hosts_line(line.strip())
+                        if ip is None:
+                            continue
+                        for domain in domains:
+                            if is_exception(domain, exceptions):
+                                continue
+                            if ip in ('0.0.0.0', '127.0.0.1'):
+                                blocker_hosts.add(domain)
+                            else:
+                                bypass_hosts[domain] = ip
+            except FileNotFoundError:
+                print(f"⚠️  Файл не найден: {file_source}")
+                continue
+            except Exception as e:
+                print(f"⚠️  Ошибка при чтении {file_source}: {e}")
+                continue
+       
+        print(f"🔪 Блокировки: {len(blocker_hosts)}\n🦙 Обходы: {len(bypass_hosts)}")
+   
+    return all_blocker, all_bypass
+
+def save_hosts_file(output_file, hosts, default_ip=None):
+    """Сохраняет хосты в файл."""
+    try:
+        with open(output_file, 'w', encoding='utf-8') as out:
+            # Записываем заголовок
+            out.write(f"# Total hosts: {len(hosts)}\n")
+           
+            if default_ip is not None:
+                # Для blocker: set хостов
+                sorted_hosts = sorted(hosts)
+                for host in sorted_hosts:
+                    out.write(f"{default_ip} {host}\n")
+            else:
+                # Для bypass: dict domain -> ip
+                sorted_hosts = sorted(hosts.keys())
+                for host in sorted_hosts:
+                    ip = hosts[host]
+                    out.write(f"{ip} {host}\n")
+       
+        print(f"💾 Сохранено {len(hosts)} уникальных хостов в {output_file}")
+    except Exception as e:
+        print(f"Ошибка при записи {output_file}: {e}")
+
+def main():
+    print("=" * 60)
+    print("HOSTS FILES GENERATOR")
+    print("=" * 60)
+   
+    exceptions_file = "exceptions_hosts.txt"
+    exceptions = load_exceptions(exceptions_file)
+    print(f"\n⏳ Шаг 1: Загрузка исключений...")
+    print(f"👍 Загружено исключений: {len(exceptions.get('exact', ()))} доменов, {len(exceptions.get('regex', ()))} regex\n")
+   
+    # Список всех источников
+    input_file = "hosts_sources.txt"
+   
+    standard_list = []
+    two_list = []
+    fl_list = []
+   
+    try:
+        with open(input_file, 'r', encoding='utf-8-sig') as f:
+            for raw_line in f:
+                line = raw_line.strip()
+                if not line or line.startswith('#'):
+                    continue
+                prefix_match = re.match(r'^\[(\w+)\]\s*(.+)$', line)
+                if prefix_match:
+                    prefix = prefix_match.group(1)
+                    source = prefix_match.group(2).strip()
+                    if prefix == '2':
+                        two_list.append(source)
+                    elif prefix == 'FL':
+                        fl_list.append(source)
+                    else:
+                        standard_list.append(line)  # unknown prefix, treat as standard
+                else:
+                    standard_list.append(line)
+    except FileNotFoundError:
+        print(f"Файл {input_file} не найден")
+        return
+    except Exception as e:
+        print(f"Ошибка при чтении {input_file}: {e}")
+        return
+   
+    print("⏳ Шаг 2: Обработка стандартных источников...")
+    print("-" * 60)
+    blocker_hosts, bypass_hosts = process_hosts_from_list(standard_list, exceptions=exceptions)
+   
+    print("\n" + "=" * 60)
+    print("⏳ Шаг 3: Сохранение стандартных результатов...")
+    print("-" * 60)
+   
+    # Сохраняем blocker.txt
+    save_hosts_file("blocker.txt", blocker_hosts, "0.0.0.0")
+   
+    # Сохраняем bypass.txt
+    save_hosts_file("bypass.txt", bypass_hosts)
+   
+    # Обработка bypass2.txt
+    if two_list:
+        print("\n" + "=" * 60)
+        print("⏳ Шаг 4: Обработка источников с [2]...")
+        print("-" * 60)
+        two_blocker, two_bypass = process_hosts_from_list(two_list, exceptions=exceptions)
+        bypass2_hosts = bypass_hosts.copy()
+        bypass2_hosts.update(two_bypass)
+        save_hosts_file("bypass2.txt", bypass2_hosts)
+   
+    # Обработка blockerFL.txt
+    if fl_list:
+        print("\n" + "=" * 60)
+        print("⏳ Шаг 4: Обработка источников с [FL]...")
+        print("-" * 60)
+        fl_blocker, fl_bypass = process_hosts_from_list(fl_list, exceptions=exceptions)
+        blockerFL_hosts = blocker_hosts.copy()
+        blockerFL_hosts.update(fl_blocker)
+        save_hosts_file("blockerFL.txt", blockerFL_hosts, "0.0.0.0")
+   
+    print("\n" + "=" * 60)
+    print("🥳 Готово!")
+    print(f"📊 Статистика:")
+    print(f"🔪 Blocker: {len(blocker_hosts)} хостов")
+    print(f"🦙 Bypass: {len(bypass_hosts)} хостов")
+    if two_list:
+        print(f"🦙2️⃣ Bypass2: {len(bypass2_hosts)} хостов")
+    if fl_list:
+        print(f"🔪FL BlockerFL: {len(blockerFL_hosts)} хостов")
+    print("=" * 60)
+
+if __name__ == "__main__":
+    main()
