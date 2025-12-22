@@ -161,6 +161,8 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 - [LocalCDN](https://www.localcdn.org/)
 - [FoxyProxy](https://github.com/foxyproxy/browser-extension) (я использую "по работе", но вариантов использования много 🤫)
 - [JustDeleteMe](https://justdeleteme.xyz/ru#extension_browser)
+- [DuckDuckGo Search & Tracker Protection](https://addons.mozilla.org/ru/firefox/addon/duckduckgo-for-firefox/)
+- [User Agent Switcher and Manager](https://webextension.org/listing/useragent-switcher.html)
 
 ## Инструкция по настройке некоторых расширений и браузеров для работы со списком
 
