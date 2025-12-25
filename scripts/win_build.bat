@@ -1,3 +1,3 @@
 @echo off
-wsl -e python ./rules_collector.py
+wsl -e bash -c "python3 ./rules_collector.py; python3 ./hosts_collector.py"
 pause

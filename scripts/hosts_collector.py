@@ -111,7 +111,7 @@ def process_hosts_from_list(file_list, exceptions=None):
                         for domain in domains:
                             if is_exception(domain, exceptions):
                                 continue
-                            if ip in ('0.0.0.0', '127.0.0.1'):
+                            if ip in ('0.0.0.0', '127.0.0.1', '0.0.0.1'):
                                 blocker_hosts.add(domain)
                             else:
                                 bypass_hosts[domain] = ip
