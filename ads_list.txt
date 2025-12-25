@@ -1,5 +1,5 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 20 декабря 2025 года
+! Last modified: 25 декабря 2025 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -10386,10 +10386,13 @@ americanas.com.br$removeparam=pfm_index
 americanas.com.br$removeparam=pfm_pos
 americanas.com.br$removeparam=pfm_page
 americanas.com.br$removeparam=pfm_type
+apple.com$removeparam=at
 apple.com$removeparam=cid
+apple.com$removeparam=cId
 apple.com$removeparam=ct
 apple.com$removeparam=itscg
 apple.com$removeparam=itsct
+apple.com$removeparam=lId
 apple.com$removeparam=pt
 app.link$removeparam=adblock
 app.link$removeparam=compact_view
@@ -10509,6 +10512,7 @@ booking.com$removeparam=label
 booking.com$removeparam=sid
 booking.com$removeparam=ssne
 booking.com$removeparam=ssne_untouched
+boom.ru$removeparam=share_auth
 boosty.to$removeparam=_1ld
 boosty.to$removeparam=_1lp
 bolshayastrana.com$removeparam=sub_id

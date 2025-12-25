@@ -61,9 +61,9 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 Для сторонников хостов подготовлен другой тип правил — **[NoADS_RU Hosts](https://github.com/Zalexanninev15/NoADS_RU/tree/main/hosts)**. Включает в себя домены с рекламой, аналитикой, трекерами, сборами информации об ошибках, Android OEM, специфичные для Windows хосты (Microsoft, Adobe) и многие другие, а также сайты, которые по каким-либо причинам недоступны в одной *небольшой* стране с кучей блокировок 🤫.
 
 Типы host-файлов: 
-- Блокировщик ([blocker](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt))
-- Расширенный блокировщик ([blockerFL](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt))
-- Анлокер сайтов ([bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt)) или [альтернативный bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass2.txt) (пока в тестовом режиме).
+- Блокировщик ([Blocker](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt))
+- Расширенный блокировщик ([BlockerFL](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt))
+- Анлокер сайтов ([Bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt)) или [Bypass2](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass2.txt) (пока в тестовом режиме).
 - Также доступен сильно устаревший остаточный микс из разных хостов ([mix_trash.zip](https://github.com/Zalexanninev15/NoADS_RU/raw/refs/heads/main/hosts/mix_trash.zip)) (блокировщик)
 
 #### 📱 NoADS_RU Android Project
