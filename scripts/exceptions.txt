@@ -1,2 +1,3 @@
 aliexpress.*##a:has-text(/^$/)
 /pwa-$script
+||s.click.aliexpress.com^
