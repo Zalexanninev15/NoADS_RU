@@ -1,5 +1,5 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 25 декабря 2025 года
+! Last modified: 1 января 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -20717,8 +20717,11 @@ ubuntugeeks.com##.navbar-brand
 askdev.ru###logo
 askdev.ru###ishame
 
-! "Фикс" нерабочих функций гугла по причине блокировки параметров
+! "Фикс" нерабочих функций по причине блокировки параметров
 @@||google.com^$removeparam
+@@||accounts.spotify.com^$removeparam
+@@||open.spotify.com^$removeparam
+
 ! Другие исключения для предотвращения ложных срабатываний
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|vc.ru
 @@||alcogolizm.com/addons/counter/$script,stylesheet,domain=alcogolizm.com
@@ -21138,3 +21141,14 @@ www.apkmirror.com##div[class*="ai-track.ains"]
 
 ! Dec 11, 2025 https://pizzafabrika.ru
 pizzafabrika.ru##div[class*="download-app-drawer_sheet_"]
+
+! Jan 1, 2026 https://open.spotify.com
+@@||cdn.cookielaw.org/scripttemplates/$script,domain=open.spotify.com
+@@||www.googletagmanager.com/gtm.js$script,domain=open.spotify.com
+@@||www.googletagmanager.com^$script,domain=open.spotify.com
+@@||www.googleoptimize.com^$script,domain=open.spotify.com
+@@||accounts.spotify.com/login/$document,domain=accounts.spotify.com
+open.spotify.com##div[data-testid="signup-bar"]
+@@||/?sentry_key=^$domain=spotify.com
+@@||geolocation.onetrust.com^$xhr,domain=open.spotify.com
+@@||www.googletagmanager.com^$domain=open.spotify.com
