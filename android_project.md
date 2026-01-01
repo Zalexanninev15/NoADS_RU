@@ -4,6 +4,7 @@
 
 ## 🏆 Модули от Blue cat
 
+> [!TIP]
 > Вместо модификаций для приложений. Можно обновлять приложения независимо от модуля.
 
 * [Marketplace AdAway](https://github.com/Xposed-Modules-Repo/ru.bluecat.marketplaceadaway) - Wildberries, Ozon, Яндекс Маркет, Магнит Маркет (в составе магазинного приложения)
@@ -47,6 +48,7 @@
 
 ### Для множества приложений
 
+> [!IMPORTANT]  
 > ⚠️ Используйте с осторожностью!
 
 1. Выбираем через 3 точки пункт **Операции в один клик**
@@ -60,7 +62,7 @@
 
 > Значения в данный момент ещё дополняются, автор в поисках.
 
-Строкой: `rustore io.appmetrica vk. .Vk ya. yandex. huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.measurement. com.google.android.gms.ads. AdService .ads.`
+Строкой: `rustore io.appmetrica vk. .Vk ya. yandex. huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.ads. .ads.`
 
 Списком:
 - `rustore`
@@ -73,7 +75,5 @@
 - `HMSPushAppService` (если у вас Google Play)
 - `io.sentry.`
 - `com.alibaba.analytics`
-- `com.google.android.gms.measurement.`
 - `com.google.android.gms.ads.`
-- `AdService`
 - `.ads.`
