@@ -168,15 +168,19 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 > [!TIP]
 > Для дополнительной защиты будет не лишним установить... (особенно, если пользуетесь Firefox)
 
-- [LibRedirect](https://libredirect.github.io/)
 - [Port Authority](https://github.com/ACK-J/Port_Authority)
-- [ClearURLs](https://github.com/ClearURLs/Addon)
 - [Censor Tracker](https://censortracker.org) (только для выявления сайтов, которые следят за вами)
-- [LocalCDN](https://www.localcdn.org/)
-- [FoxyProxy](https://github.com/foxyproxy/browser-extension) (я использую "по работе", но вариантов использования много 🤫)
 - [JustDeleteMe](https://justdeleteme.xyz/ru#extension_browser)
 - [DuckDuckGo Search & Tracker Protection](https://addons.mozilla.org/ru/firefox/addon/duckduckgo-for-firefox/)
+- [LocalCDN](https://www.localcdn.org/)
 - [User Agent Switcher and Manager](https://webextension.org/listing/useragent-switcher.html)
+- [LibRedirect](https://libredirect.github.io/)
+- [FoxyProxy](https://github.com/foxyproxy/browser-extension) (я использую "по работе", но вариантов использования много 🤫)
+- [ClearURLs](https://github.com/ClearURLs/Addon)
+
+> [!WARNING]
+> - Расширение **LocalCDN** может поломать отображение изображений на некоторых сайтах, такие сайты нужно добавить в исключения.
+> - Включение "Фильтра" в расширении **ClearURLs** может сломать работу некоторых функций на сайтов. В частности, перестаёт работать "AI Mode" в поиске Google.
 
 ## Инструкция по настройке некоторых расширений и браузеров для работы со списком
 
