@@ -10510,6 +10510,7 @@ zoom.us##+js(cookie-remover, _zm_visitor_guid)
 
 ! Слежка
 $removeparam=via,domain=~yandex.ru|~yandex.com
+$removeparam=origin,domain=~yandex.ru|~yandex.com|~searchfloor.org|~floorbook.ru
 
 $removeparam=/^abtest/i
 $removeparam=action_object_map
@@ -10765,7 +10766,6 @@ $removeparam=_ope
 $removeparam=_openstat,important
 $removeparam=oprtrack
 $removeparam=oref
-$removeparam=origin,domain=~yandex.ru|~yandex.com
 @@$removeparam=origin,domain=vk.com,to=id.vk.com
 $removeparam=Origin
 ||plus.yandex.*^$removeparam=origin
@@ -12867,6 +12867,7 @@ musescore.com##+js(set-local-storage-item, /^rt_/, $remove$)
 ||f.gdeslon.ru/cf/*^goto=http$doc,urlskip=?goto
 ||sourceforge.net/software/link?*__oadest=http$doc,urlskip=/__oadest=(http[^#&]+)/ -uricomponent
 ||5ch.net/jump/to?url=http$doc,urlskip=?url
+||jump5.ch/?$doc,urlskip=/\/\?(https?.+)/
 ||adj.st/*^url=http$doc,urlskip=?url
 ||lit.link/redirects/link-ad?redirectUrl=aHR0c$doc,urlskip=?redirectUrl -base64
 lit.link##+js(href-sanitizer, a[href^="/redirects/link-ad?redirectUrl=aHR0c"], ?redirectUrl -base64)
@@ -21247,6 +21248,7 @@ omni.soundestlink.com$image
 ||monthlyhat.com^
 ||mooncrustpizza.com^
 ||moorshoes.com^
+||morefolks.com^
 ||morefriendly.com^
 ||motionflowers.com^
 ||motionlessbelief.com^
@@ -21283,6 +21285,7 @@ omni.soundestlink.com$image
 ||networklast.com^
 ||newarkdriving.com^
 ||newartreview.com^
+||nicefollows.com^
 ||niftygraphs.com^
 ||niftyhospital.com^
 ||niftyjelly.com^
