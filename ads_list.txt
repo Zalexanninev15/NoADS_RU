@@ -1,5 +1,5 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 1 января 2026 года
+! Last modified: 3 января 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -10201,7 +10201,6 @@ $removeparam=vc_lpp,important
 $removeparam=vero_conv
 $removeparam=vero_id
 $removeparam=vgo_ee
-$removeparam=via
 $removeparam=visit_id
 $removeparam=visitorId
 $removeparam=vs
@@ -18328,7 +18327,6 @@ $removeparam=utm_referer
 $removeparam=utm_source,domain=~link.softoroom.org
 $removeparam=utm_sourece
 $removeparam=utm_space
-$removeparam=via,domain=ya.ru
 $removeparam=weid,domain=sibnet.ru
 $removeparam=xtor
 $removeparam=yredirect
@@ -20721,6 +20719,9 @@ askdev.ru###ishame
 @@||google.com^$removeparam
 @@||accounts.spotify.com^$removeparam
 @@||open.spotify.com^$removeparam
+
+! "Фикс" невозможности воспроизведения музыки на ЯшкоMu
+@@||music.yandex.ru
 
 ! Другие исключения для предотвращения ложных срабатываний
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|vc.ru

@@ -1,5 +1,5 @@
 ! Title: ⚠️ NoADS_RU Extended Plus
-! Last modified: 1 января 2026 года
+! Last modified: 3 января 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -10957,7 +10957,6 @@ $removeparam=vc_lpp,important
 $removeparam=vero_conv
 $removeparam=vero_id
 $removeparam=vgo_ee
-$removeparam=via
 $removeparam=visit_id
 $removeparam=visitorId
 $removeparam=vs
@@ -98179,7 +98178,6 @@ $removeparam=utm_space
 $removeparam=utm_term
 $removeparam=utm_test
 $removeparam=utmterm
-$removeparam=via,domain=ya.ru
 $removeparam=weid,domain=sibnet.ru
 $removeparam=xtor
 $removeparam=yaclid
@@ -103473,7 +103471,6 @@ $removeparam=utm_referer
 $removeparam=utm_source,domain=~link.softoroom.org
 $removeparam=utm_sourece
 $removeparam=utm_space
-$removeparam=via,domain=ya.ru
 $removeparam=weid,domain=sibnet.ru
 $~third-party,removeparam=/cdom/i,domain=3dnews.kz|3dnews.ru
 /*=tabbar$document,removeparam=from,domain=ya.ru|yandex.*
