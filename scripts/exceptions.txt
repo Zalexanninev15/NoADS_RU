@@ -4,3 +4,4 @@ aliexpress.*##a:has-text(/^$/)
 ||ogs.google.com$subdocument
 $removeparam=via
 $removeparam=via,domain=ya.ru
+$removeparam=origin,domain=~yandex.ru|~yandex.com

@@ -9754,6 +9754,7 @@ zoomby.ru
 
 ! Слежка
 $removeparam=via,domain=~yandex.ru|~yandex.com
+$removeparam=origin,domain=~yandex.ru|~yandex.com|~searchfloor.org|~floorbook.ru
 
 $removeparam=/^abtest/i
 $removeparam=action_object_map
@@ -10009,7 +10010,6 @@ $removeparam=_ope
 $removeparam=_openstat,important
 $removeparam=oprtrack
 $removeparam=oref
-$removeparam=origin,domain=~yandex.ru|~yandex.com
 @@$removeparam=origin,domain=vk.com,to=id.vk.com
 $removeparam=Origin
 ||plus.yandex.*^$removeparam=origin
