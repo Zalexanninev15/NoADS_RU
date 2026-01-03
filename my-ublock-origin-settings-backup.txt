@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1766392823740,
+  "timeStamp": 1767443066848,
   "version": "1.68.0",
   "userSettings": {
     "advancedUserEnabled": true,
@@ -22,19 +22,20 @@
     "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt"
   ],
   "hiddenSettings": {
-    "updateAssetBypassBrowserCache": true,
     "autoUpdateDelayAfterLaunch": 80,
     "popupFontSize": "13px",
     "popupPanelOrientation": "landscape",
     "autoUpdatePeriod": 1,
     "consoleLogLevel": "info",
+    "updateAssetBypassBrowserCache": true,
     "userResourcesLocation": "https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/video-swap-new/video-swap-new-ublock-origin.js"
   },
   "whitelist": [
     "about-scheme",
     "chrome-extension-scheme",
     "moz-extension-scheme",
-    "vivaldi-scheme"
+    "vivaldi-scheme",
+    "vsthemes.org"
   ],
   "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
   "urlFilteringString": "",
