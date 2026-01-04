@@ -10,7 +10,7 @@
 * [Marketplace AdAway](https://github.com/Xposed-Modules-Repo/ru.bluecat.marketplaceadaway) - Wildberries, Ozon, Яндекс Маркет, Магнит Маркет (в составе магазинного приложения)
 * [Alfa Bank Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.alfabankpatcher) - Альфа Банк
 > [!IMPORTANT]
-> Специализированная версия для работы Alfa Pay и ригинальные apk по [ссылке](https://mega.nz/folder/uiwk3I5Z#O-hjONQDwC4WkchlB7ikng).
+> Специализированная версия для работы Alfa Pay и оригинальные apk по [ссылке](https://mega.nz/folder/uiwk3I5Z#O-hjONQDwC4WkchlB7ikng).
 > Не используйте специализированную версию без модуля! Работать отдельно не будет!
 * [Yandex Maps Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher) - Яндекс Карты
 * [Sberbank Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.sberbankpatcher) - Сбербанк (рекомендую обратить вниманием на проект [GreenBank / SberQML](https://4pda.to/forum/index.php?showtopic=1097657) - неофициальный клиент для банка от Computershik для старых устройств и без рекламы, имеется также версия для [Windows Phone](https://4pda.to/forum/index.php?showtopic=1098057))
