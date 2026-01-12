@@ -9698,7 +9698,6 @@ zloekino.ru
 zoomby.ru
 
 ! Слежка
-! Исправление: 
 $removeparam=via,domain=~yandex.ru|~yandex.com
 $removeparam=origin,domain=~yandex.ru|~yandex.com|~searchfloor.org|~floorbook.ru
 
