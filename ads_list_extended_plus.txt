@@ -1,5 +1,5 @@
 ! Title: ⚠️ NoADS_RU Extended Plus
-! Last modified: 12 января 2026 года
+! Last modified: 22 января 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -178550,8 +178550,6 @@ www.nexusmods.com##.donation-form
 ||pixel.quora.com
 ||px.srvcs.tumblr.com
 ||ads.vk.com
-||vk.com
-||mail.ru
 ||ad.mail.ru
 ||top-fwz1.mail.ru
 ||iadsdk.apple.com
