@@ -1,0 +1,44 @@
+{
+  "timeStamp": 1770905795778,
+  "version": "1.69.0",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "cnameUncloakEnabled": false,
+    "uiAccentCustom": true,
+    "uiAccentCustom0": "#57e389",
+    "uiTheme": "dark",
+    "externalLists": "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt",
+    "ignoreGenericCosmeticFilters": true,
+    "importedLists": [
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt"
+    ],
+    "popupPanelSections": 15
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt"
+  ],
+  "hiddenSettings": {
+    "autoUpdateDelayAfterLaunch": 80,
+    "popupFontSize": "13px",
+    "popupPanelOrientation": "landscape",
+    "autoUpdatePeriod": 1,
+    "consoleLogLevel": "info",
+    "updateAssetBypassBrowserCache": true,
+    "userResourcesLocation": "https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/video-swap-new/video-swap-new-ublock-origin.js"
+  },
+  "whitelist": [
+    "about-scheme",
+    "chrome-extension-scheme",
+    "moz-extension-scheme",
+    "vivaldi-scheme",
+    "vsthemes.org"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": ""
+}
