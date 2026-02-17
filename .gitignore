@@ -1,8 +1,2 @@
 scripts/1.py
-scripts/cleaned_rules.txt
-scripts/file_list.txt
-scripts/hosts_sources.txt
-scripts/blocker.txt
-scripts/blockerFL.txt
-scripts/bypass.txt
-scripts/bypass2.txt
+scripts/*.txt
