@@ -122,7 +122,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 
 🔗 Ссылка для подключения:
 ```
-https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filtres/ai_slop_killer.txt
+https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt
 ```
 
 #### 🪄 NoADS_RU Hosts
