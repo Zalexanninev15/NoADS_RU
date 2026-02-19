@@ -1,5 +1,5 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 17 февраля 2026 года
+! Last modified: 19 февраля 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://github.com/Zalexanninev15/NoADS_RU
 ! License: https://github.com/Zalexanninev15/NoADS_RU/blob/main/LICENSE
@@ -211363,7 +211363,6 @@ kinopoisk.ru##div:has-text(ровщик)
 ||localedgemedia.com
 ||localglobaldates.com
 ||localh0st.info
-||localhost
 ||localiqtracking.com
 ||localizationservice.chickgoddess.com
 ||localjnail.shop
