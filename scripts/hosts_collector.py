@@ -50,7 +50,7 @@ def is_valid_domain(domain):
     domain_pattern = re.compile(
         r"^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)*[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?$"
     )
-    if domain == "0.0.0.0":
+    if domain == "0.0.0.0" or domain == "localhost":
         return False
     return bool(domain_pattern.match(domain))
 
