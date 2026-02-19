@@ -1,4 +1,4 @@
-# Total hosts: 330582
+# Total hosts: 330581
 0.0.0.0 0-01.trafficjunky.com
 0.0.0.0 0-02.net
 0.0.0.0 0-1-718-c801cb1e-85a6-4451-bd09-4634c181cf54.analytics.mobilegamestats.com
@@ -163881,7 +163881,6 @@
 0.0.0.0 localedgemedia.com
 0.0.0.0 localglobaldates.com
 0.0.0.0 localh0st.info
-0.0.0.0 localhost
 0.0.0.0 localiqtracking.com
 0.0.0.0 localizationservice.chickgoddess.com
 0.0.0.0 localjnail.shop
