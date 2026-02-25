@@ -173,6 +173,9 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 > [!NOTE]
 > Блокировка рекламных доменов, сбора данных о вас, аналитика и многое другое. Bypass - обход ограничений различных сервисов, если вы находитесь в недружественных странах.
 
+> [!TIP]
+> [Использование Blocker и BlockerFL на устройствах с OpenWRT](https://github.com/Zalexanninev15/NoADS_RU/discussions/22).
+
 Типы host-файлов: 
 - Блокировщик ([Blocker](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt))
 - Расширенный блокировщик ([BlockerFL](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt))
