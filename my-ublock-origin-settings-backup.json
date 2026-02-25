@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1770905795778,
+  "timeStamp": 1772026446346,
   "version": "1.69.0",
   "userSettings": {
     "advancedUserEnabled": true,
@@ -13,13 +13,19 @@
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt",
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt",
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt",
-      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt"
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt"
     ],
     "popupPanelSections": 15
   },
   "selectedFilterLists": [
     "user-filters",
-    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt"
+    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt",
+    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt",
+    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt"
   ],
   "hiddenSettings": {
     "autoUpdateDelayAfterLaunch": 80,
