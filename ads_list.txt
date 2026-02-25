@@ -20694,6 +20694,16 @@ askdev.ru###ishame
 ||mc.yandex.ru/metrika^
 ||avatars.mds.yandex.net/get-direct-picture$image
 ! Если нужен Я*, ищите инстант 4get или другой поисковик уже используйте.
+||mail.ru^
+||widget.uxfeedback.ru
+||www.googleadservices.com
+||googleads.g.doubleclick.net
+||ogads-pa.clients6.google.com
+||improving.duckduckgo.com
+||an.yandex.ru
+##a[href*="/ads"]
+||play.google.com/log?*
+||grok.com/api/log_metric*
 
 ! Google Black List
 ||doubleclick.net
@@ -21490,17 +21500,6 @@ avito.ru##[span="Показать  на карте"]
 avito.ru##.buyer-pages-mfe-location
 avito.ru##div[data-marker="social-auth"]
 avito.ru##p:has-text(Или продолжить через)
-
-! Всякое, разное, остальное
-||widget.uxfeedback.ru
-||www.googleadservices.com
-||googleads.g.doubleclick.net
-||ogads-pa.clients6.google.com
-||improving.duckduckgo.com
-||an.yandex.ru
-##a[href*="/ads"]
-||play.google.com/log?*
-||grok.com/api/log_metric*
 
 ! Я.РекламаБесит и кооперация с РуКомПизд@
 market.yandex.ru##div:has-text(*Adv)
