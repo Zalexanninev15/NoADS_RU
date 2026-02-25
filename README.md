@@ -180,7 +180,6 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 - Блокировщик ([Blocker](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt))
 - Расширенный блокировщик ([BlockerFL](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt))
 - Анлокер сайтов ([Bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt)) или [Bypass2](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass2.txt) (альтернативный).
-- Также доступен сильно устаревший остаточный микс из разных хостов ([mix_trash.zip](https://github.com/Zalexanninev15/NoADS_RU/raw/refs/heads/main/hosts/mix_trash.zip)) (блокировщик, скоро будет удалён)
 
 #### 📱 NoADS_RU Android Project
 
