@@ -21428,6 +21428,19 @@ alexhost.com##.promo-banner__content
 alexhost.com##.promo-banner__top
 alexhost.com##.black-friday-banner__container.container
 
+! 2 мар. 2026 г. https://dzen.ru
+dzen.ru##span[class*="-ad-"]
+dzen.ru##span[data-testid*="ad-"]
+
+! Mar 2, 2026 https://auto.ru
+auto.ru##.Header__badgePlusWrapper
+
+! Mar 2, 2026 https://ya.ru
+ya.ru##.plus-link_inactive.plus-link
+
+! Mar 2, 2026 https://yandex.ru
+yandex.ru##.PostAdCard-Skeleton
+
 ! Я.РекламаБесит и кооперация с РуКомПизд@
 market.yandex.ru##div:has-text(*Adv)
 market.yandex.ru##article[id^="BANNER"]
