@@ -1,5 +1,5 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 25 февраля 2026 года
+! Last modified: 2 марта 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -10030,7 +10030,7 @@ $removeparam=soc_src
 $removeparam=soc_trk
 $removeparam=source,denyallow=googlevideo.com,domain=~4pda.to|~alfabank.ru|~search.brave.com|~search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion|~ft.com|~youtube.com|~kavin.rocks|~tokhmi.xyz|~moomoo.me|~syncpundit.io|~mha.fi|~whatever.social|~garudalinux.org|~rivo.lol|~aeong.one|~daviteusz.eu|~jae.fi|~mint.lgbt|~il.ax|~privacy.com.de|~esmailelbob.xyz|~projectsegfau.lt|~privacydev.net|~palveluntarjoaja.eu|~plibre.com|~smnz.de|~adminforge.de|~qdi.fi|~hostux.net
 $removeparam=Source,denyallow=googlevideo.com,domain=~4pda.to|~alfabank.ru|~search.brave.com|~search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion|~ft.com|~youtube.com|~kavin.rocks|~tokhmi.xyz|~moomoo.me|~syncpundit.io|~mha.fi|~whatever.social|~garudalinux.org|~rivo.lol|~aeong.one|~daviteusz.eu|~jae.fi|~mint.lgbt|~il.ax|~privacy.com.de|~esmailelbob.xyz|~projectsegfau.lt|~privacydev.net|~palveluntarjoaja.eu|~plibre.com|~smnz.de|~adminforge.de|~qdi.fi|~hostux.net
-$removeparam=/^sourceid=/i
+~aliexpress.*$removeparam=/^sourceid=/i
 $removeparam=sPartner
 $removeparam=special-offer
 $removeparam=spJobID
@@ -21500,6 +21500,27 @@ avito.ru##[span="Показать  на карте"]
 avito.ru##.buyer-pages-mfe-location
 avito.ru##div[data-marker="social-auth"]
 avito.ru##p:has-text(Или продолжить через)
+
+! Mar 2, 2026 https://alexhost.com
+alexhost.com##.promo-banner
+alexhost.com##.navbar-hot__oranged.navbar-hot.navbar-top__left
+||alexhost.com/wp-content/themes/alexhost_new/img/post/background-telegram-premium.png$image
+alexhost.com##.promo-banner__content
+alexhost.com##.promo-banner__top
+alexhost.com##.black-friday-banner__container.container
+
+! 2 мар. 2026 г. https://dzen.ru
+dzen.ru##span[class*="-ad-"]
+dzen.ru##span[data-testid*="ad-"]
+
+! Mar 2, 2026 https://auto.ru
+auto.ru##.Header__badgePlusWrapper
+
+! Mar 2, 2026 https://ya.ru
+ya.ru##.plus-link_inactive.plus-link
+
+! Mar 2, 2026 https://yandex.ru
+yandex.ru##.PostAdCard-Skeleton
 
 ! Я.РекламаБесит и кооперация с РуКомПизд@
 market.yandex.ru##div:has-text(*Adv)
