@@ -21411,7 +21411,7 @@ avito.ru##.js-apps-banner
 ||cs.avito.ru/clickstream
 ||cdn.uxfeedback.ru
 ||tube.buzzoola.com
-*enterprise.api-*.yandex.ru
+*enterprise.api-*.yandex.ru,domain=~enterprise.api-maps.yandex.ru
 m.avito.ru##[span="Показать  на карте"]
 avito.ru##[span="Показать  на карте"]
 ||vk.com/js/api/openapi.js
@@ -21434,12 +21434,23 @@ dzen.ru##span[data-testid*="ad-"]
 
 ! Mar 2, 2026 https://auto.ru
 auto.ru##.Header__badgePlusWrapper
+auto.ru##div[data-testid*="ListingItemPromoGoToApp"]
+auto.ru##div[class*="ListingAiChatBanner"]
+auto.ru##div[class="Footer__services-links__links"]
 
 ! Mar 2, 2026 https://ya.ru
 ya.ru##.plus-link_inactive.plus-link
 
 ! Mar 2, 2026 https://yandex.ru
 yandex.ru##.PostAdCard-Skeleton
+
+! Mar 2, 2026 https://www.avito.ru
+www.avito.ru##div[class*="avito-ads"]
+www.avito.ru##a[href="https://vk.com/avito"]
+www.avito.ru##a[href="https://ok.ru/avito"]
+www.avito.ru##a[href^="https://t.me/"]
+www.avito.ru##a[href^="https://rutube.ru/"]
+www.avito.ru##a[href^="https://max.ru/avito"]
 
 ! Я.РекламаБесит и кооперация с РуКомПизд@
 market.yandex.ru##div:has-text(*Adv)
