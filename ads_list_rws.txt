@@ -1,5 +1,5 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 2 марта 2026 года
+! Last modified: 3 марта 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -21013,6 +21013,56 @@ www.nexusmods.com##.donation-form
 ||ad.doubleclick.net
 ||pubads.g.doubleclick.net
 ||securepubads.g.doubleclick.net
+||regmarkets.ru
+||blizko.ru
+||tiu.ru
+||pulscen.ru
+||phonenum.info
+||xn----dtbofgvdd5ah.xn--p1ai
+||statinform.ru
+||zneg.ru
+||znep.ru
+||numerotelefono.ru
+||apertonet.ru
+||znec.ru
+||fms66.ru
+||znei.ru
+||znex.ru
+||znee.ru
+||znej.ru
+||znef.ru
+||zney.ru
+||63pokupki.ru
+||sitepokupok.ru
+||superpuper.ru
+||kokos.ru
+||100sp.ru
+||supermamki.ru
+||mikai.org
+||planetasp.ru
+||myrznsp.ru
+||smolclub.ru
+||fedsp.com
+||kupivsp.ru
+||s-complekt.ru
+||neopod.ru
+||gooz.ru
+||compumir.ru
+||propartner.ru
+||goodster.ru
+||satom.ru
+||yavitrina.ru
+||yamart.ru
+||tdsportal.ru
+||qiosk.ru
+||promportal.su
+||regtorg.ru
+||yemin.ru
+||vkway.ru
+||vikitiki.ru
+||1didi.ru
+||clip-share.net
+||mksegment.ru
 ||media.net
 ||static.media.net
 ||contextual.media.net
