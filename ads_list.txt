@@ -21609,3 +21609,6 @@ grok.com##div[class*="hidden sm:block"]
 grok.com##.overflow-hidden.top-0.justify-center.flex.inset-0.absolute
 grok.com##.w-full.h-full.inset-0.absolute
 grok.com##.will-change-transform
+
+! Mar 4, 2026 https://www.deepl.com
+www.deepl.com##header[class="sticky top-0 z-[999]"]
