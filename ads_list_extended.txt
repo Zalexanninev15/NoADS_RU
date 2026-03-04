@@ -1,5 +1,5 @@
 ! Title: 😎 NoADS_RU Extended
-! Last modified: 3 марта 2026 года
+! Last modified: 4 марта 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -31923,6 +31923,7 @@ web.dev##web-snackbar
 wirexapp.com##wx-cookie-policy-notification
 history.com,yunexpress.com##.p11s5o4
 history.com##[data-sentry-component="Box"]:has-text(Legal Terms and Privacy)
+wildberries.*##.fixed-block__cookies
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.es,amazon.fr,amazon.ie,amazon.pl###sp-cc-wrapper
 redtube.com,redtube.com.br,tube8.com,you-porn.com,youporn.com###cookie_banner_overlay
 redtube.com,redtube.com.br,tube8.com,you-porn.com,youporn.com###cookie_consent_min_wrapper
@@ -32432,7 +32433,7 @@ cun.edu.co,join.chat,milkinkstudio.com,worklouder.cc##.dialog-lightbox-message:h
 payermax.com##.dialog:has-text(Cookies on PayerMax Website)
 elle.com,elledecor.com,esquire.com,goodhousekeeping.com,harpersbazaar.com,housebeautiful.com,menshealth.com,popularmechanics.com,prevention.com,redbookmag.com,roadandtrack.com,runnersworld.com,seventeen.com,townandcountrymag.com,veranda.com,womansday.com,womenshealthmag.com##.e91i7z92.css-c9oklo:has-text(We use technologies that provide information)
 eda.ru##.ejn6mx64.emotion-8zds09:has-text(cookies)
-spectracities.com##.elementor-popup-modal:has-text(This website uses cookies)
+netfiber.net.il,spectracities.com##.elementor-popup-modal:has-text(cookies)
 sonarhome.pl##.fixed:has(.cookies-scrollbar)
 bc.co,blog.smithsecurity.biz,diatribe.org##.fixed:has-text(cookies)
 sniffies.com##.footer:has-text(By using our platform)
@@ -35198,6 +35199,7 @@ lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
 1cbit.ru##.cookie-panel
 sponsr.ru##.cookie-site-alert
+fc-baltika.ru##.cookie-wrap
 korusconsulting.ru##.cookieConfirm
 rusnano.com##.cookie__in
 gostest.com##.cookie__open
@@ -35359,6 +35361,7 @@ fastvps.ru##app-cookies-accept
 authedu.mosreg.ru,myschool.mos.ru,school.mos.ru,uchebnik.mos.ru##body > div[style^="position: fixed; overflow: visible; top: 0px; left: 0px; transform: translate("]
 vmeste.mosreg.ru##dd-cookie-accept-banner
 rabota.sber.ru##div[class*="styled__CookieWrapper-"]
+meta-ratings.kz,metarating.com.ua,metaratings.by,metaratings.ru,metaratings.tj##div[class^="CookieAllowance-module-"]
 sberbank.com,sberbank.ru##div[class^="CookieWarning-"]
 life.by##div[class^="Cookie_modalRoot_"]
 novayagazeta.eu##div[class^="CookiesInformer_"]
@@ -36508,10 +36511,10 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||cloudflare.com^*/cookieconsent.min.js$domain=cards.thm.de|ehftv.com|pixelexperience.org|pixieset.com|rijbewijskeuringennederland.nl|sammobile.com|xnview.com
 @@||cloudfront.net^*/lib.f-cookie-banner.$script,domain=just-eat.co.uk|just-eat.es|just-eat.ie|justeat.it|menulog.com.au
 @@||cmp.datasign.co^$script,domain=info.yomiuri.co.jp
-@@||cmp.inmobi.com/geoip$domain=ilgiornale.it
-@@||cmp.inmobi.com/GVL-v3/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|flash.gr|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|protothema.gr|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
-@@||cmp.inmobi.com/tcfv2/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|flash.gr|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|protothema.gr|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
-@@||cmp.inmobi.com^*/choice.js$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|flash.gr|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|protothema.gr|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
+@@||cmp.inmobi.com/geoip$domain=ilgiornale.it|open.online
+@@||cmp.inmobi.com/GVL-v3/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|flash.gr|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|open.online|protothema.gr|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
+@@||cmp.inmobi.com/tcfv2/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|flash.gr|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|open.online|protothema.gr|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
+@@||cmp.inmobi.com^*/choice.js$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|flash.gr|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|open.online|protothema.gr|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
 @@||cmp.osano.com^$script,domain=account.bhvr.com|everand.com|guidepoint.com|lucidchart.com|midnight.gd|scribd.com|sonesta.com
 @@||cmp.osano.com^*/osano.js$domain=stltoday.com
 @@||cmp.sibbo.net^$domain=tivify.tv
@@ -36681,7 +36684,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||santepubliquefrance.fr/rgpd/smarttag.js$script,~third-party
 @@||schibsted.io^*/gdpr-bundle.js
 @@||scr.expert.cz/script/cookieconsent.js$~third-party
-@@||sdk.privacy-center.org^$script,domain=20minutos.es|24sata.hr|abc.es|allocine.fr|as.com|atresplayer.com|aukro.cz|auto.it|autopista.es|beinsports.com|belfasttelegraph.co.uk|bfmtv.com|bonduelle.it|cas.sk|ciclismoafondo.es|cnews.fr|corrieredellosport.it|decathlon.pl|dnevnik.hr|dumpert.nl|dziennikwschodni.pl|dziennikzachodni.pl|ebuyclub.com|edreams.de|edreams.net|elcomercio.es|elconfidencial.com|elespanol.com|eltiempo.es|euronews.com|europe1.fr|filmweb.pl|fip.fr|flair.be|france24.com|franceculture.fr|franceinfo.fr|franceinter.fr|francetvinfo.fr|frandroid.com|funradio.fr|fyndiq.dk|fyndiq.fi|fyndiq.no|fyndiq.se|gamepro.de|gamestar.de|giphy.com|gloswielkopolski.pl|gofeminin.de|goplay.be|gva.be|hablandoenplata.es|hbvl.be|idealista.it|ivoox.com|jeanmarcmorandini.com|jeuxvideo.com|jofogas.hu|kotimikro.fi|krone.at|kurier.at|ladepeche.fr|lalibre.be|lasexta.com|lasprovincias.es|lavanguardia.com|leboncoin.fr|leparisien.fr|lequipe.fr|letelegramme.fr|marca.com|marianne.net|mein-mmo.de|melty.fr|metronieuws.nl|mitula.pt|motociclismo.es|mountainbike.es|movilzona.es|mundo-geo.es|mundodeportivo.com|mundogravel.es|na.se|naszemiasto.pl|nicematin.com|nieuwsblad.be|numerama.com|ondacero.es|onmeda.de|opodo.ch|opodo.co.uk|opodo.com|opodo.com.au|opodo.de|opodo.dk|opodo.es|opodo.fi|opodo.fr|opodo.it|opodo.nl|opodo.no|opodo.pl|opodo.se|opto.sic.pt|orpi.com|otempo.pt|podcasts.leparisien.fr|profil.at|publicsenat.fr|rainberrytv.com|recup.paylib.fr|revistaoxigeno.es|rfi.fr|rmcbfmplay.com|rtbf.be|rtl.be|rtl.fr|science-et-vie.com|sensacine.com|serially.it|sfgame.net|sncf-connect.com|softonic.com|softonic.ru|soycorredor.es|sportlife.es|standaard.be|strefabiznesu.pl|telegraaf.nl|theweathernetwork.com|tportal.hr|trailrun.es|triatlonweb.es|tuttosport.com|vecernji.hr|video-streaming.orange.fr|xataka.com
+@@||sdk.privacy-center.org^$script,domain=20minutos.es|24sata.hr|abc.es|allocine.fr|as.com|atresplayer.com|aukro.cz|auto.it|autopista.es|beinsports.com|belfasttelegraph.co.uk|bfmtv.com|bonduelle.it|cas.sk|ciclismoafondo.es|cnews.fr|corrieredellosport.it|decathlon.pl|dnevnik.hr|dumpert.nl|dziennikwschodni.pl|dziennikzachodni.pl|ebuyclub.com|edreams.de|edreams.net|elcomercio.es|elconfidencial.com|elespanol.com|eltiempo.es|euronews.com|europe1.fr|filmweb.pl|fip.fr|flair.be|france24.com|franceculture.fr|franceinfo.fr|franceinter.fr|francetvinfo.fr|frandroid.com|funradio.fr|fyndiq.dk|fyndiq.fi|fyndiq.no|fyndiq.se|gamepro.de|gamestar.de|giphy.com|gloswielkopolski.pl|gofeminin.de|goplay.be|gva.be|hablandoenplata.es|hbvl.be|idealista.it|ivoox.com|jeanmarcmorandini.com|jeuxvideo.com|jofogas.hu|kotimikro.fi|krone.at|kurier.at|ladepeche.fr|lalibre.be|lasexta.com|lasprovincias.es|lavanguardia.com|leboncoin.fr|leparisien.fr|lequipe.fr|letelegramme.fr|marca.com|marianne.net|maxjeune-tgvinoui.sncf|mein-mmo.de|melty.fr|metronieuws.nl|mitula.pt|motociclismo.es|mountainbike.es|movilzona.es|mundo-geo.es|mundodeportivo.com|mundogravel.es|na.se|naszemiasto.pl|nicematin.com|nieuwsblad.be|numerama.com|ondacero.es|onmeda.de|opodo.ch|opodo.co.uk|opodo.com|opodo.com.au|opodo.de|opodo.dk|opodo.es|opodo.fi|opodo.fr|opodo.it|opodo.nl|opodo.no|opodo.pl|opodo.se|opto.sic.pt|orpi.com|otempo.pt|podcasts.leparisien.fr|profil.at|publicsenat.fr|rainberrytv.com|recup.paylib.fr|revistaoxigeno.es|rfi.fr|rmcbfmplay.com|rtbf.be|rtl.be|rtl.fr|science-et-vie.com|sensacine.com|serially.it|sfgame.net|sncf-connect.com|softonic.com|softonic.ru|soycorredor.es|sportlife.es|standaard.be|strefabiznesu.pl|telegraaf.nl|theweathernetwork.com|tportal.hr|trailrun.es|triatlonweb.es|tuttosport.com|vecernji.hr|video-streaming.orange.fr|xataka.com
 @@||se.com/myschneider/assets/onetrust.$~third-party
 @@||securiti.ai^$script,domain=alaskaair.com|hertz.at|hertz.co.uk|hertz.de|hertz.es|hertz.fi|hertz.fr|hertz.ie|hertz.it|hertz.no|hertz.pt|hertz.se|michaels.com
 @@||shop.bora-sauna.de/components/cookieconsent2/build/cookieconsent.min.js
@@ -39407,6 +39410,7 @@ aliexpress.*##[class^=ShipToHeaderItem_GeoTooltip]
 aliexpress.*##[class^=ShipToHeaderItem_Tootlip]
 aliexpress.*##[class^=RedSearchBar_Dropdown__backdrop]
 aliexpress.*##[class*=SnowOnboardingWidget]
+||aestatic.net/mixer/widgets/bx/SnowOnboardingWidget/$script
 aliexpress.*##body:style(overflow: auto !important; padding: 0 !important;)
 aliexpress.*##.use-coupons-info-lang-limit:style(font-size:15px !important)
 aliexpress.*##.mobile-discount-trigger
@@ -77874,3 +77878,14 @@ kinopoisk.ru##a[href*="adblock"]
 ||api.acquisition-gwe.plus.kinopoisk.ru
 kinopoisk.ru##button[class*="buttonPlus"]
 kinopoisk.ru##div:has-text(ровщик)
+
+! Mar 4, 2026 https://grok.com
+grok.com##button[class*="banner"]
+grok.com##div[class*="banner"]
+grok.com##button[class*="upsell-small"]
+grok.com##div[class*="upsell-small"]
+grok.com##div[class*="upsell"]
+grok.com##div[class*="hidden sm:block"]
+grok.com##.overflow-hidden.top-0.justify-center.flex.inset-0.absolute
+grok.com##.w-full.h-full.inset-0.absolute
+grok.com##.will-change-transform
