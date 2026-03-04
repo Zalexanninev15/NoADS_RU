@@ -1,5 +1,5 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 3 марта 2026 года
+! Last modified: 4 марта 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -21517,3 +21517,14 @@ kinopoisk.ru##a[href*="adblock"]
 ||api.acquisition-gwe.plus.kinopoisk.ru
 kinopoisk.ru##button[class*="buttonPlus"]
 kinopoisk.ru##div:has-text(ровщик)
+
+! Mar 4, 2026 https://grok.com
+grok.com##button[class*="banner"]
+grok.com##div[class*="banner"]
+grok.com##button[class*="upsell-small"]
+grok.com##div[class*="upsell-small"]
+grok.com##div[class*="upsell"]
+grok.com##div[class*="hidden sm:block"]
+grok.com##.overflow-hidden.top-0.justify-center.flex.inset-0.absolute
+grok.com##.w-full.h-full.inset-0.absolute
+grok.com##.will-change-transform
