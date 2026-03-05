@@ -1,5 +1,5 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 4 марта 2026 года
+! Last modified: 5 марта 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -21612,3 +21612,23 @@ grok.com##.will-change-transform
 
 ! Mar 4, 2026 https://www.deepl.com
 www.deepl.com##header[class="sticky top-0 z-[999]"]
+
+! Mar 5, 2026 https://qna.habr.com
+qna.habr.com##.education-courses-list
+qna.habr.com##.section_education-courses.section > .section-header
+qna.habr.com##.column_sidebar-stick-top
+
+! Mar 5, 2026 https://m.avito.ru
+||avito.st/static/ims/*banner*.png
+m.avito.ru##div[data-marker*="banner"]
+m.avito.ru##div[data-marker*="Banner"]
+avito.ru##div[data-marker*="banner"]
+avito.ru##div[data-marker*="Banner"]
+avito.ru##div[data-code*="promo"]
+m.avito.ru##div[data-code*="promo"]
+m.avito.ru##div[data-type*="ads"]
+m.avito.ru##div[data-marker*="ads"]
+avito.ru##div[data-type*="ads"]
+avito.ru##div[data-marker*="ads"]
+avito.ru##div[data-marker*="teaser"]
+m.avito.ru##div[data-marker*="teaser"]
