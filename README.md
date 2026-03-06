@@ -117,30 +117,6 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended
 https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt
 ```
 
-#### 🌳🐥 NoADS_RU WebHosts Lite
-
-> [!NOTE]
-> ⚠️ Важно! Это не Full список фильтров, как остальные, которые развиваются в рамках NoADS_RU. Данный список фильтров как-бы "наслаивается" на другие списки. Такой подход позволяет не выбирать какой-то один список фильтров в качестве основы и планируется использовать для всех списков фильтров, чтобы вас было удобнее кастомизировать списки фильтров под свои нужды.
-
-Список фильтров для браузера на базе **NoADS_RU Hosts Blocker**.
-
-🔗 Ссылка для подключения:
-```
-https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts_lite.txt
-```
-
-#### 🌳 NoADS_RU WebHosts
-
-> [!NOTE]
-> ⚠️ Важно! Это не Full список фильтров, как остальные, которые развиваются в рамках NoADS_RU. Данный список фильтров как-бы "наслаивается" на другие списки. Такой подход позволяет не выбирать какой-то один список фильтров в качестве основы и планируется использовать для всех списков фильтров, чтобы вас было удобнее кастомизировать списки фильтров под свои нужды.
-
-Список фильтров для браузера на базе **NoADS_RU Hosts BlockerFL**.
-
-🔗 Ссылка для подключения:
-```
-https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts.txt
-```
-
 #### 📹 NoADS_RU YouTube
 
 > [!NOTE]
@@ -163,6 +139,30 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.t
 🔗 Ссылка для подключения:
 ```
 https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt
+```
+
+#### 🌳🐥 NoADS_RU WebHosts Lite
+
+> [!NOTE]
+> ⚠️ Важно! Это не Full список фильтров, как остальные, которые развиваются в рамках NoADS_RU. Данный список фильтров как-бы "наслаивается" на другие списки. Такой подход позволяет не выбирать какой-то один список фильтров в качестве основы и планируется использовать для всех списков фильтров, чтобы вас было удобнее кастомизировать списки фильтров под свои нужды.
+
+Список фильтров для браузера на базе **NoADS_RU Hosts Blocker**.
+
+🔗 Ссылка для подключения:
+```
+https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts_lite.txt
+```
+
+#### 🌳 NoADS_RU WebHosts
+
+> [!NOTE]
+> ⚠️ Важно! Это не Full список фильтров, как остальные, которые развиваются в рамках NoADS_RU. Данный список фильтров как-бы "наслаивается" на другие списки. Такой подход позволяет не выбирать какой-то один список фильтров в качестве основы и планируется использовать для всех списков фильтров, чтобы вас было удобнее кастомизировать списки фильтров под свои нужды.
+
+Список фильтров для браузера на базе **NoADS_RU Hosts BlockerFL**.
+
+🔗 Ссылка для подключения:
+```
+https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts.txt
 ```
 
 #### 👨‍💻 NoADS_RU Faust's Lists
