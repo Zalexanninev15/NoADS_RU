@@ -1,5 +1,5 @@
 ! Title: 😎 NoADS_RU Extended
-! Last modified: 5 марта 2026 года
+! Last modified: 6 марта 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -34192,7 +34192,6 @@ coccinella.bz.it###privacy-win
 cinquantamila.it###privacy_advisor
 faxiflora.it###privacydiv
 hotelmarini.it###pscookielaw
-la7.it###puthere
 rds.it###rds-cookie-preferences
 samaritansonlus.org###sB_injected
 netbet.it###sec-banner-div
@@ -36472,7 +36471,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||arbetsgivarverket.se/js/cookieconsent.js$script,~third-party
 @@||assets.travix.com/client/cookie-banner-$script
 @@||astrogaming.com/etc.clientlibs/logitech-common/clientlibs/onetrust.$script,~third-party
-@@||ats-wrapper.privacymanager.io/ats-modules/*/ats.js$script,domain=iodonna.it|video.corriere.it|video.gazzetta.it
+@@||ats-wrapper.privacymanager.io/ats-modules/*/ats.js$script,domain=iodonna.it|la7.it|video.corriere.it|video.gazzetta.it
 @@||badgeland.*/cookie-consent.js$~third-party
 @@||banking.fyrst.de/translations/*-cookiedisclaimer$~third-party,xmlhttprequest
 @@||barclays.co.uk^*/cookiepolicy.js$~third-party
