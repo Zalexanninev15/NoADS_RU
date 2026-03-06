@@ -26,6 +26,14 @@ def get_last_modified_line():
     return f"! Last modified: {today.day} {months[today.month]} {today.year} года\n"
 
 
+def count_rules(lines):
+    return sum(
+        1
+        for ln in lines
+        if ln.strip() and not ln.strip().startswith("!") and not ln.startswith(" ")
+    )
+
+
 def load_exceptions(exc_file="filters_exceptions.dat"):
     exceptions = {"exact": set(), "regex": []}
     if not os.path.exists(exc_file):
@@ -161,10 +169,14 @@ def update_target_file(target_file, cleaned_filters, exceptions):
             i += 1
             continue
 
+        if s.startswith("! Total:"):
+            updated_lines.append("! Total: PLACEHOLDER\n")
+            i += 1
+            continue
+
         if s.startswith("!") and not s.startswith("!!"):
             name = s[1:].strip()
             if name in cleaned_filters:
-                print(f"👍 Категория обновляется: {name}")
                 updated_lines.append(line)
                 i += 1
 
@@ -186,6 +198,7 @@ def update_target_file(target_file, cleaned_filters, exceptions):
                 for rule in cleaned_filters[name]:
                     updated_lines.append(f"{rule}\n")
 
+                print(f"👍 Категория обновлена: {name}")
                 while i < len(lines) and lines[i].strip():
                     i += 1
                 continue
@@ -212,10 +225,23 @@ def update_target_file(target_file, cleaned_filters, exceptions):
             compact_lines.append(ln)
             prev_empty = False
 
+    total = count_rules(compact_lines)
+    total_line = f"! Total: {total}\n"
+
+    placeholder_idx = next(
+        (idx for idx, ln in enumerate(compact_lines) if "! Total: PLACEHOLDER" in ln),
+        None,
+    )
+    if placeholder_idx is not None:
+        compact_lines[placeholder_idx] = total_line
+    else:
+        insert_pos = min(2, len(compact_lines))
+        compact_lines.insert(insert_pos, total_line)
+
     try:
         with open(target_file, "w", encoding="utf-8") as f:
             f.writelines(compact_lines)
-        print(f"🔌 Файл {os.path.basename(target_file)} обновился!\n")
+        print(f"🔌 Файл {os.path.basename(target_file)} обновился! ({total})\n")
     except Exception as e:
         print(f"❌ Ошибка записи {target_file}: {e}")
 
@@ -242,7 +268,7 @@ def main():
         print("⚠️ Нет фильтров для обновления.")
         return
 
-    print(f"\n[2/2] Обновление списков фильтров {len(cleaned_filters)}")
+    print("\n[2/2] Обновление списков фильтров")
     target_files = [
         "ads_list.txt",
         "ads_list_extended.txt",
@@ -259,7 +285,9 @@ def main():
             exceptions,
         )
 
-    print("\n🥳 Готово!")
+    if os.path.exists("cleaned_filters.txt"):
+        os.remove("cleaned_filters.txt")
+    print("🥳 Готово!")
 
 
 if __name__ == "__main__":
