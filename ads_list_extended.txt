@@ -1,5 +1,5 @@
 ! Title: 😎 NoADS_RU Extended
-! Last modified: 4 марта 2026 года
+! Last modified: 5 марта 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -28861,6 +28861,7 @@ $removeparam=urrad,domain=u-s-s.jp|belta.co.jp
 ||7plus.com.au/js/CookieNotice
 ||agicssecurity.com/Header/ajax/cookie.php
 ||arfeconsultors.com/static/js/vendor/cookies-text-ca.js
+||assets.bonanza.com/assets/accept_cookies_banner_
 ||asus.com/js/*/alert-info.js
 ||atlpresscollective.com/wp-content/plugins/pressidium-cookie-consent/$script,~third-party
 ||banner.cookiescan.com^
@@ -29592,7 +29593,7 @@ pollylingu.al###opt-form
 atlantic.money###opt-in
 accenture.com###optanon-minimize-wrapper
 harvester.co.uk###optin-optout
-gouvernement.lu,merics.org###orejime
+gouvernement.lu,merics.org,service-public.gouv.fr###orejime
 baltimoresun.com,chicagotribune.com,nydailynews.com###osanoCustomDialogDiv
 omegatheme.com###ot-cookie__banner
 b1tv.ro,harveynorman.ie,zdnet.com###ot-sdk-btn
@@ -29824,7 +29825,7 @@ wyze.com###wyze-cookie-banner
 xhorsetool.com###xri_GoogConsent
 hydramatics.co.za###zcb-banner
 spiceworks.com###zdprivacy-content-new
-avaloniaui.net,buildship.com,bunq.com,coworker.ai,enhanced.com,fitanalytics.com,framer.com,gitbook.com,iverify.io,localculture.org,neon-free.ch,netcraft.com,podspace.com,site.trasti.pl,snoutcover.com,stirling.com,strongcloud.online,syncly.app,walllet.com##.--framer-cookie-banner-container
+avaloniaui.net,brside.com,buildship.com,bunq.com,coworker.ai,enhanced.com,fitanalytics.com,framer.com,gitbook.com,iverify.io,localculture.org,neon-free.ch,netcraft.com,podspace.com,site.trasti.pl,snoutcover.com,stirling.com,strongcloud.online,syncly.app,walllet.com##.--framer-cookie-banner-container
 dublininquirer.com##.-alert.-fixed.notice
 alpari.com,alpariforex.org##.-footer__notice
 nhl.com##.-left.nhl-c-toast
@@ -30748,6 +30749,7 @@ cognizantee.tekstac.com##.eupopup-container
 kromgaming.com##.eupouY
 bojoko.com##.evt-notification-bottom
 ezil.me##.ew776696
+matrixify.app##.ex-cookies
 exidegroup.com##.exide-gtm-scripts-modal-wrapper
 exitlag.com##.exl-cookie-banner
 parcelsonline.postoffice.co.uk##.explicit-cookie-banner-wrapper
@@ -32298,7 +32300,7 @@ afribaba.com,afribobo.com,agroterra.com,aicom.pl,akvis.com,allsmo.com,americanai
 arbys.com,buffalowildwings.com,dashboard-deutschland.de,neoplants.com,oresundstag.se,quince.com##[class^="cookieBanner"]
 ##.wrap > .consent-widget
 generatedata.com,matchbook.com,pck.pl,profim.eu,profim.fr,profim.pl,traffic.productions,vyos.io##div[class^="Cookies_"]
-abc.net.au,amie.so,app.daily.dev,axial.acs.org,bbfc.co.uk,billhop.com,cars.co.za,channel5.com,consoles.radioplayer.cloud,deluxemusic.de,desiindian-brighton.co.uk,drbuho.com,fingerprint.com,foodcorner.dk,forum.effectivealtruism.org,hackney.gov.uk,harrys.com,itesco.cz,itzipitzipizza.dk,jetty.com,kilobaser.com,klientboost.com,lendo.se,letsenhance.io,lindahall.org,luminpdf.com,make.com,monzo.com,mrpizzahastings.co.uk,my.plaid.com,oddschecker.com,onceupon.photo,qured.us,skyvegas.com,socratesdergi.com,start.ru,strava.com,sweatco.in,tesco.hu,tesco.ie,thebarbary.co.uk,theculturetrip.com,trelson.com,tri.global,unum.co.uk,westerracu.com##div[class*="CookieBanner"]
+abc.net.au,amie.so,app.daily.dev,axial.acs.org,bbfc.co.uk,billhop.com,cars.co.za,channel5.com,consoles.radioplayer.cloud,deluxemusic.de,desiindian-brighton.co.uk,drbuho.com,dropboxforum.com,fingerprint.com,foodcorner.dk,forum.effectivealtruism.org,hackney.gov.uk,harrys.com,itesco.cz,itzipitzipizza.dk,jetty.com,kilobaser.com,klientboost.com,lendo.se,letsenhance.io,lindahall.org,luminpdf.com,make.com,monzo.com,mrpizzahastings.co.uk,my.plaid.com,oddschecker.com,onceupon.photo,qured.us,skyvegas.com,socratesdergi.com,start.ru,strava.com,sweatco.in,tesco.hu,tesco.ie,thebarbary.co.uk,theculturetrip.com,trelson.com,tri.global,unum.co.uk,westerracu.com##div[class*="CookieBanner"]
 acffiorentina.com,breastcancer.org,gieffektivt.no,latribet.ec,spline.design,svoi.ru,unitedconsumers.com,urbanarmorgear.com##div[class^="CookieBanner_"]
 gomibo.at,gomibo.be,gomibo.ch,gomibo.co.uk,gomibo.cy,gomibo.cz,gomibo.de,gomibo.dk,gomibo.ee,gomibo.es,gomibo.fi,gomibo.fr,gomibo.gr,gomibo.hr,gomibo.ie,gomibo.it,gomibo.lt,gomibo.lu,gomibo.mt,gomibo.no,gomibo.pl,gomibo.pt,gomibo.ro,gomibo.se,gomibo.si,gomibo.sk##div[class^="CookieBannerstyle_"]
 batida.de,kuemmerling.de,lutter-und-wegner.de,menger-krug.de##.active.legacy
@@ -35112,7 +35114,6 @@ nord-news.ru###ym-cookie-notification
 bcs.ru##.Cbh_c
 prosv.ru##.CookieAccept_root__7K7ap
 tass.ru##.CookieAcceptance_container__DbL1S
-metaratings.ru##.CookieAllowance_cookiesAllowance__78hAO
 ati.su##.CookieBanner__cookie-banner___CVp_2
 sberdisk.ru##.CookieContainer_CookieContainer__1xqA-
 petshop.ru##.CookieInformer_wrapper__DUrv9
@@ -36221,6 +36222,7 @@ elrow.com#@##cookies-banner
 mikolow.geoportal-krajowy.pl,setasdesevilla.com#@##cookies-bar
 asda-photo.co.uk#@##cookies-nag
 marcopanconesi.com#@##cookies-popup
+hitdiscount.by#@##cookiesAgreementNotice
 arbeiterkammer.at#@##cookiesContainer
 happybaby.ru,muzeum.miejskie.wroclaw.pl#@##cookiesPopup
 pneutiefpreis.ch#@##cookies_accept
@@ -36462,7 +36464,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||api.consentframework.com/api/$xmlhttprequest,domain=01net.com|gizmodo.com
 @@||api.mercari.jp/experiments/get_running_experiments_by_name$xmlhttprequest,domain=jp.mercari.com
 @@||api.transcend.io/privacy/graphql$xmlhttprequest
-@@||apikeys.civiccomputing.com^$xmlhttprequest,domain=insights.com|videogameschronicle.com
+@@||apikeys.civiccomputing.com^$xmlhttprequest,domain=gold.ac.uk|insights.com|videogameschronicle.com
 @@||app.erevie.pl/assets/CookieConsent-$~third-party
 @@||app.termly.io/embed-policy.min.js$domain=help.sanctions.io|jobscan.co|trinityschool.org
 @@||app.weathercloud.net/assets/*/CookieMonster.min.js$~third-party
@@ -36505,7 +36507,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||ceramtec-group.com^*/cookieconsent.min.js
 @@||chasecdn.com^*/cookie.js$script,domain=chase.com
 @@||choices.consentframework.com^$domain=01net.com|frandroid.com|numerama.com
-@@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|kit.co|marylebonevillage.com|msi.com|pilates.com|ram.ac.uk|romania-insider.com|shop.ordnancesurvey.co.uk|stagecoachbus.com|videogameschronicle.com
+@@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|gold.ac.uk|kit.co|marylebonevillage.com|msi.com|pilates.com|ram.ac.uk|romania-insider.com|shop.ordnancesurvey.co.uk|stagecoachbus.com|videogameschronicle.com
 @@||clickskeks.at^$domain=wittmann-group.com
 @@||client.axept.io^$domain=welcometothejungle.com
 @@||cloudflare.com^*/cookieconsent.min.js$domain=cards.thm.de|ehftv.com|pixelexperience.org|pixieset.com|rijbewijskeuringennederland.nl|sammobile.com|xnview.com
@@ -38489,6 +38491,7 @@ aliexpress.*##[class^=red-snippet_RedSnippet__promoTags]
 aliexpress.*##[data-type="PartWrap-Image"]
 aliexpress.*##[class^=SnowProductGallery_SnowProductGallery__tags]
 ||aliexpress.ru/resources/pdpv3/combo_choice_tag
+||alicdn.com/kf/Sf5580f12cd9c4f63b75d8811390c36d5S$redirect=1x1.gif
 aliexpress.*##.ask-buyers
 aliexpress.*##.left-menu-container:style(max-height:none !important)
 ||alicdn.com/kf/*.gif
@@ -39454,6 +39457,7 @@ aliexpress.*##[class*=HeaderPDP_Logo]
 aliexpress.*##[class^=RedHeader_Logo]
 aliexpress.*##.site-logo:style(padding:0px !important)
 aliexpress.*##[class^=pc-header--logo]
+aliexpress.*##[class*=AliExpressLogo]
 aliexpress.*##[class^=styles_campaignWrapper]
 aliexpress.*##[class^=IntroductionCarousel]
 aliexpress.*##[class*=styles_appsIcon]
@@ -39737,6 +39741,7 @@ ya.ru##.HeaderDesktop-Logo
 ya.ru,yandex.*##noindex:has(a[href="//ya.ru/"])
 ya.ru###logotip-tekst
 ya.ru###primery-otvetov-poiska-s-alisoj
+yandex.*##[class*=LogoLink]
 go.yandex##.lc-header-lpc__fixed-wrapper:style(position:static !important)
 yandex.*##.lc-header-lpc__fixed-wrapper:style(position:static !important)
 ya.ru##.market-feed
@@ -40232,6 +40237,12 @@ ya.ru,yandex.*##.button_primary:has-text(в избранное)
 ||yandex.ru/push?
 ||yandex.ru/ick/
 ||yastatic.net/forgetmenot/
+||yandex.ru/web-api/models/liza1?_m=promo
+||yandex.ru/web-api/shared/models?_models=promo
+||yandex.ru/web-api/journal/
+||yastatic.net/s3/liza/_/promo
+||yastatic.net/s3/psf/mail-liza-react-client/react-tracing
+||yastatic.net/s3/psf/mail-liza-react-client/react-tracing$redirect-rule=noop.js
 ||yandex.net/*/weboffer/
 ||yandex.net/yandex-tag/
 ||avatars.mds.yandex.net/get-adfox-content/$image
@@ -77892,3 +77903,23 @@ grok.com##.will-change-transform
 
 ! Mar 4, 2026 https://www.deepl.com
 www.deepl.com##header[class="sticky top-0 z-[999]"]
+
+! Mar 5, 2026 https://qna.habr.com
+qna.habr.com##.education-courses-list
+qna.habr.com##.section_education-courses.section > .section-header
+qna.habr.com##.column_sidebar-stick-top
+
+! Mar 5, 2026 https://m.avito.ru
+||avito.st/static/ims/*banner*.png
+m.avito.ru##div[data-marker*="banner"]
+m.avito.ru##div[data-marker*="Banner"]
+avito.ru##div[data-marker*="banner"]
+avito.ru##div[data-marker*="Banner"]
+avito.ru##div[data-code*="promo"]
+m.avito.ru##div[data-code*="promo"]
+m.avito.ru##div[data-type*="ads"]
+m.avito.ru##div[data-marker*="ads"]
+avito.ru##div[data-type*="ads"]
+avito.ru##div[data-marker*="ads"]
+avito.ru##div[data-marker*="teaser"]
+m.avito.ru##div[data-marker*="teaser"]
