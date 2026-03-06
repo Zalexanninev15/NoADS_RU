@@ -2,34 +2,31 @@ import os
 import re
 from datetime import datetime
 from urllib.parse import urlparse
-from weakref import ProxyTypes
 
 import requests
 
 
-def last_modified_line():
-    months = {
-        1: "января",
-        2: "февраля",
-        3: "марта",
-        4: "апреля",
-        5: "мая",
-        6: "июня",
-        7: "июля",
-        8: "августа",
-        9: "сентября",
-        10: "октября",
-        11: "ноября",
-        12: "декабря",
-    }
+def get_last_modified_line():
+    months = [
+        "",
+        "января",
+        "февраля",
+        "марта",
+        "апреля",
+        "мая",
+        "июня",
+        "июля",
+        "августа",
+        "сентября",
+        "октября",
+        "ноября",
+        "декабря",
+    ]
     today = datetime.today()
     return f"! Last modified: {today.day} {months[today.month]} {today.year} года\n"
 
 
 def load_exceptions(exc_file="filters_exceptions.dat"):
-    """Загружает исключения: каждая строка — точный фильтр или регулярное выражение.
-    Формат: строка начинается с r/.../ или строка с фильтром.
-    """
     exceptions = {"exact": set(), "regex": []}
     if not os.path.exists(exc_file):
         return exceptions
@@ -39,23 +36,20 @@ def load_exceptions(exc_file="filters_exceptions.dat"):
                 line = raw.strip()
                 if not line or line.startswith("#") or line.startswith("!"):
                     continue
-                # regex style: r/.../  (пример: r/ads\.\w+\.com/)
                 if line.startswith("r/") and line.endswith("/"):
                     try:
                         pattern = re.compile(line[2:-1])
                         exceptions["regex"].append(pattern)
                     except re.error:
-                        # пропустить некорректный шаблон
                         continue
                 else:
                     exceptions["exact"].add(line)
     except Exception:
-        return exceptions
+        pass
     return exceptions
 
 
 def is_exception(rule, exceptions):
-    """Проверяет фильтр на попадание в исключения: строка с фильтром или regex."""
     if not rule or not exceptions:
         return False
     if rule in exceptions.get("exact", ()):
@@ -66,300 +60,151 @@ def is_exception(rule, exceptions):
     return False
 
 
-def download_file(url, proxies=None):
-    """Загружает содержимое файла по URL."""
-    try:
-        response = requests.get(url, proxies=proxies)
-        response.raise_for_status()
-        return response.text.splitlines()
-    except requests.RequestException as e:
-        print(f"Ошибка при загрузке {url}: {e}")
-        return []
-
-
-def read_file(file_path):
-    """Читает содержимое локального файла."""
-    try:
-        with open(file_path, "r", encoding="utf-8-sig") as f:
-            return f.read().splitlines()
-    except FileNotFoundError:
-        print(f"⚠️  {file_path}")
-        return []
-    except Exception as e:
-        print(f"Ошибка при чтении {file_path}: {e}")
-        return []
-
-
-def is_comment(line):
-    """Проверяет, является ли строка комментарием (начинается с !, !! или #, но не фильтром)."""
-    line = line.strip()
-    if not line:
-        return True
-    return (
-        line.startswith("!")
-        or line.startswith("!!")
-        or (
-            line.startswith("#")
-            and not line.startswith("##")
-            and not line.startswith("#?")
-        )
-    )
-
-
-def clean_rule(line):
-    """Очищает строку от комментариев и лишних пробелов/табов."""
-    line = line.encode("utf-8").decode("utf-8-sig").lstrip().rstrip()
-    if not line:
-        return None
-    if line.lower().startswith("[adblock plus "):  # убираем заголовок
-        return None
-    if is_comment(line):
-        return None
-    if "  # " in line:  # удаляем комментарии вида "  # ..."
-        return line.split("  # ", 1)[0].rstrip()
-    return line
-
-
-def clean_filters(lines, exceptions=None):
-    """Удаляет комментарии из списка строк и очищает фильтры. Пропускает исключения."""
-    exceptions = exceptions or {"exact": set(), "regex": []}
-    cleaned = []
-    for line in lines:
-        rule = clean_rule(line)
-        if not rule:
-            continue
-        if is_exception(rule, exceptions):
-            # пропускаем фильтры, попавшее в исключения
-            continue
-        cleaned.append(rule)
-    return cleaned
-
-
-def parse_cleaned_filters(cleaned_file):
-    """Парсит файл с очищенными фильтрами и возвращает словарь."""
-    filters = {}
-    try:
-        with open(cleaned_file, "r", encoding="utf-8-sig") as f:
-            lines = f.readlines()
-    except FileNotFoundError:
-        print(f"Файл {cleaned_file} не найден")
-        return filters
-
-    current_filter = None
-    current_filters = []
-
-    for line in lines:
-        line_stripped = line.strip()
-
-        # Проверяем, является ли строка названием фильтра
-        if line_stripped.startswith("!") and not line_stripped.startswith("!!"):
-            # Сохраняем предыдущий фильтр
-            if current_filter and current_filters:
-                filters[current_filter] = current_filters
-
-            # Начинаем новый фильтр
-            current_filter = line_stripped[1:].strip()
-            current_filters = []
-        elif line_stripped and current_filter:
-            # Добавляем фильтр к текущему фильтру
-            current_filters.append(line_stripped)
-
-    # Сохраняем последний фильтр
-    if current_filter and current_filters:
-        filters[current_filter] = current_filters
-
-    return filters
-
-
-def update_target_file(target_file, cleaned_filters, exceptions=None):
-    """Обновляет целевой файл, заменяя фильтры на очищенные, с учётом исключений.
-    Всегда объявляет updated_lines, корректно обрабатывает ранние выходы и вставляет/обновляет
-    строку '! Last modified: ...'.
-    """
-    exceptions = exceptions or {"exact": set(), "regex": []}
-
-    if not os.path.exists(target_file):
-        print(f"Файл {target_file} не найден, пропускаем")
-        return
-
-    updated_lines = []
-
-    try:
-        with open(target_file, "r", encoding="utf-8-sig") as f:
-            lines = f.readlines()
-    except Exception as e:
-        print(f"Ошибка при чтении {target_file}: {e}")
-        return
-
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        line_stripped = line.strip()
-
-        # Проверяем, является ли строка названием фильтра
-        if line_stripped.startswith("!") and not line_stripped.startswith("!!"):
-            filter_name = line_stripped[1:].strip()
-
-            # Проверяем, есть ли этот фильтр в очищенных фильтрах
-            if filter_name in cleaned_filters:
-                print(f"🔃 Обновляем фильтр '{filter_name}'")
-
-                # Добавляем строку с названием фильтра
-                updated_lines.append(line)
-                i += 1
-
-                # Подсчитываем строки до первой пустой (1-3 строки заголовка)
-                header_lines = []
-                found_empty = False
-                header_count = 0
-
-                while i < len(lines) and header_count < 3:
-                    if lines[i].strip() == "":
-                        found_empty = True
-                        header_lines.append(lines[i])
-                        i += 1
-                        break
-                    header_lines.append(lines[i])
-                    header_count += 1
-                    i += 1
-
-                # Вариант 1: Если нашли пустую строку после заголовка
-                if found_empty and header_count > 0:
-                    # Добавляем строки заголовка
-                    updated_lines.extend(header_lines)
-
-                    # Пропускаем старые фильтра до следующей пустой строки
-                    while i < len(lines) and lines[i].strip() != "":
-                        i += 1
-
-                    # Добавляем новые очищенные фильтры (пропуская исключения)
-                    for rule in cleaned_filters[filter_name]:
-                        if is_exception(rule, exceptions):
-                            continue
-                        updated_lines.append(f"{rule}\n")
-
-                    # Добавляем пустую строку в конце
-                    if i < len(lines) and lines[i].strip() == "":
-                        updated_lines.append(lines[i])
-                        i += 1
-                    else:
-                        updated_lines.append("\n")
-                else:
-                    # Вариант 2: нет заголовка, фильтры сразу после названия
-                    # Возвращаем индекс назад, если читали не-пустые строки
-                    i -= len(header_lines)
-
-                    while i < len(lines) and lines[i].strip() != "":
-                        i += 1
-
-                    # Добавляем новые очищенные фильтры (пропуская исключения)
-                    for rule in cleaned_filters[filter_name]:
-                        if is_exception(rule, exceptions):
-                            continue
-                        updated_lines.append(f"{rule}\n")
-
-                    # Добавляем пустую строку в конце
-                    if i < len(lines) and lines[i].strip() == "":
-                        updated_lines.append(lines[i])
-                        i += 1
-                    else:
-                        updated_lines.append("\n")
-            else:
-                updated_lines.append(line)
-                i += 1
-        else:
-            # Обычная строка, не название фильтра
-            updated_lines.append(line)
-            i += 1
-
-    # Вставляем/обновляем строку Last modified
-    lm = last_modified_line()
-    found = False
-    for idx, l in enumerate(updated_lines):
-        if l.startswith("! Last modified:"):
-            updated_lines[idx] = lm
-            found = True
-            break
-    if not found:
-        # Вставляем в начало файла
-        updated_lines.insert(0, lm)
-
-    # Записываем обновлённый файл
-    try:
-        with open(target_file, "w", encoding="utf-8") as f:
-            f.writelines(updated_lines)
-        print(f"💾 Файл {target_file} успешно обновлён!\n===+++===")
-    except Exception as e:
-        print(f"Ошибка при записи {target_file}: {e}")
-
-
-def process_files(input_file, output_file, exceptions=None, proxies=None):
-    """Обрабатывает файлы из списка и сохраняет очищенные фильтры в output_file."""
-    exceptions = exceptions or {"exact": set(), "regex": []}
+def fetch_and_clean_filters(input_file, output_file, exceptions, proxies):
+    cleaned_filters = {}
     try:
         with open(input_file, "r", encoding="utf-8-sig") as f:
             file_list = [line.strip() for line in f if line.strip()]
     except FileNotFoundError:
-        print(f"Файл {input_file} не найден")
-        return
-    except Exception as e:
-        print(f"Ошибка при чтении {input_file}: {e}")
-        return
+        print(f"❌ Файл {input_file} не найден")
+        return cleaned_filters
 
-    with open(output_file, "w", encoding="utf-8") as out:
-        for file_source in file_list:
-            if "=" in file_source:
-                file_source, filter_name = file_source.split("=", 1)
+    for src in file_list:
+        if "=" in src:
+            url, name = src.split("=", 1)
+        else:
+            url = src
+            name = os.path.basename(urlparse(url).path)
+
+        url = url.strip()
+        name = name.strip()
+        print(f"⏳ Получаю источник: {name}")
+
+        lines = []
+        if url.startswith(("http://", "https://")):
+            try:
+                headers = {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+                resp = requests.get(url, headers=headers, proxies=proxies, timeout=60)
+                resp.raise_for_status()
+                lines = resp.text.splitlines()
+            except Exception as e:
+                print(f"❌ Ошибка скачивания {url}: {e}")
+        else:
+            if os.path.exists(url):
+                try:
+                    with open(url, "r", encoding="utf-8-sig") as f:
+                        lines = f.read().splitlines()
+                except Exception as e:
+                    print(f"⚠️ Ошибка чтения {url}: {e}")
             else:
-                file_source = file_source.strip()
-                filter_name = os.path.basename(urlparse(file_source).path)
+                print(f"⚠️ Источник не найден: {url}")
 
-            if file_source.startswith(("http://", "https://")):
-                lines = download_file(file_source, proxies=proxies)
-            else:
-                lines = read_file(file_source)
+        rules = []
+        for line in lines:
+            rule = line.encode("utf-8").decode("utf-8-sig").strip()
+            if not rule or rule.lower().startswith("[adblock plus"):
+                continue
+            if rule.startswith("!") or rule.startswith("!!"):
+                continue
+            if (
+                rule.startswith("#")
+                and not rule.startswith("##")
+                and not rule.startswith("#?")
+            ):
+                continue
+            if "  # " in rule:
+                rule = rule.split("  # ", 1)[0].rstrip()
 
-            cleaned_filters = clean_filters(lines, exceptions=exceptions)
-            if cleaned_filters:
-                out.write(f"! {filter_name.strip()}\n")
-                for rule in cleaned_filters:
+            if rule and not is_exception(rule, exceptions):
+                rules.append(rule)
+
+        if rules:
+            cleaned_filters[name] = rules
+
+    try:
+        with open(output_file, "w", encoding="utf-8") as out:
+            for name, rules in cleaned_filters.items():
+                out.write(f"! {name}\n")
+                for rule in rules:
                     out.write(f"{rule}\n")
                 out.write("\n")
+        print(f"✅ Очищенные фильтры сохранены: {output_file}")
+    except Exception as e:
+        print(f"❌ Ошибка записи {output_file}: {e}")
+
+    return cleaned_filters
 
 
-def remove_exception_lines_after_update(target_file, exceptions=None):
-    """После обновления файла удаляет строки, соответствующие исключениям, полностью (без пустых строк)."""
-    exceptions = exceptions or {"exact": set(), "regex": []}
+def update_target_file(target_file, cleaned_filters, exceptions):
+    if not os.path.exists(target_file):
+        print(f"⚠️ Пропуск {target_file} (не найден)")
+        return
+
     try:
         with open(target_file, "r", encoding="utf-8-sig") as f:
             lines = f.readlines()
     except Exception as e:
-        print(f"Ошибка при чтении {target_file}: {e}")
+        print(f"❌ Ошибка чтения {target_file}: {e}")
         return
 
-    new_lines = []
-    for line in lines:
+    updated_lines = []
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
         s = line.strip()
-        if not s:
-            new_lines.append(line)
+
+        if s.startswith("! Last modified:"):
+            updated_lines.append(get_last_modified_line())
+            i += 1
             continue
 
-        # Пропускаем строчки-комментарии и заголовки
-        if s.startswith("!") and not (s.startswith("!!")):
-            new_lines.append(line)
-            continue
+        if s.startswith("!") and not s.startswith("!!"):
+            name = s[1:].strip()
+            if name in cleaned_filters:
+                print(f"👍 Категория обновляется: {name}")
+                updated_lines.append(line)
+                i += 1
 
-        # Если строка совпадает с исключением — пропускаем её (не добавляем)
-        if is_exception(s, exceptions):
-            continue
+                header_buffer = []
+                found_empty = False
+                for offset in range(3):
+                    if i + offset >= len(lines):
+                        break
+                    hl = lines[i + offset]
+                    header_buffer.append(hl)
+                    if not hl.strip():
+                        found_empty = True
+                        break
 
-        new_lines.append(line)
+                if found_empty:
+                    updated_lines.extend(header_buffer)
+                    i += len(header_buffer)
 
-    # Удаляем подряд идущие пустые строки (сохраняем максимум одну подряд)
+                for rule in cleaned_filters[name]:
+                    updated_lines.append(f"{rule}\n")
+
+                while i < len(lines) and lines[i].strip():
+                    i += 1
+                continue
+
+        if s and not s.startswith("!") and not s.startswith("!!"):
+            if is_exception(s, exceptions):
+                i += 1
+                continue
+
+        updated_lines.append(line)
+        i += 1
+
+    if not any(l.startswith("! Last modified:") for l in updated_lines):
+        updated_lines.insert(0, get_last_modified_line())
+
     compact_lines = []
     prev_empty = False
-    for ln in new_lines:
-        if ln.strip() == "":
+    for ln in updated_lines:
+        if not ln.strip():
             if not prev_empty:
                 compact_lines.append(ln)
             prev_empty = True
@@ -370,52 +215,49 @@ def remove_exception_lines_after_update(target_file, exceptions=None):
     try:
         with open(target_file, "w", encoding="utf-8") as f:
             f.writelines(compact_lines)
+        print(f"🔌 Файл {os.path.basename(target_file)} обновился!\n")
     except Exception as e:
-        print(f"Ошибка при записи {target_file}: {e}")
+        print(f"❌ Ошибка записи {target_file}: {e}")
 
 
 def main():
-    input_file = "file_list.txt"
-    output_file = "cleaned_filters.txt"
-    exceptions_file = "filters_exceptions.dat"
-
-    exceptions = load_exceptions(exceptions_file)
-    print("⏳ Шаг 1: Загрузка исключений...")
+    exceptions = load_exceptions("filters_exceptions.dat")
     print(
-        f"👍 Загружено исключений: {len(exceptions.get('exact', ()))} строк(и) с фильтрами, {len(exceptions.get('regex', ()))} regex\n"
+        f"⏳ Загружено исключений: {len(exceptions['exact'])} точных, {len(exceptions['regex'])} regex"
     )
 
-    print("⏳ Шаг 2: Получение и очистка фильтров...")
-    use_proxy = input("🌐 Использовать прокси SOCKS5? (y/n): ")
-    if use_proxy.lower() == "y":
-        proxy_address = input(
-            "⚙️ Введите адрес прокси-сервера SOCKS5 (например, 127.0.0.1:3401): "
-        )
-        proxies = {
-            "http": f"socks5://{proxy_address}",
-            "https": f"socks5://{proxy_address}",
-        }
-        print("🌐5 Использую SOCKS5-прокси!")
-        process_files(input_file, output_file, exceptions=exceptions, proxies=proxies)
-    else:
-        process_files(input_file, output_file, exceptions=exceptions)
-    print(f"💾 Очищенные фильтры сохранены в {output_file}\n")
+    proxies = None
+    if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y":
+        addr = input("⚙️  Адрес (например: 127.0.0.1:3401): ").strip()
+        if not addr:
+            addr = "127.0.0.1:3401"
+        proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
 
-    print("⏳ Шаг 3: Парсинг очищенных фильтров...")
-    cleaned_filters = parse_cleaned_filters(output_file)
-    print(f"👍 Найдено {len(cleaned_filters)} фильтров для обновления\n")
+    print("\n[1/2] Получение и очистка фильтров...")
+    cleaned_filters = fetch_and_clean_filters(
+        "file_list.txt", "cleaned_filters.txt", exceptions, proxies
+    )
 
-    print("⏳ Шаг 4: Обновление файлов NoADS_RU...")
+    if not cleaned_filters:
+        print("⚠️ Нет фильтров для обновления.")
+        return
+
+    print(f"\n[2/2] Обновление списков фильтров {len(cleaned_filters)}")
     target_files = [
-        "../ads_list.txt",
-        "../ads_list_extended.txt",
-        "../ads_list_extended_plus.txt",
-        "../ads_list_rws.txt",
+        "ads_list.txt",
+        "ads_list_extended.txt",
+        "ads_list_extended_plus.txt",
+        "ads_list_rws.txt",
     ]
 
     for target_file in target_files:
-        update_target_file(target_file, cleaned_filters, exceptions=exceptions)
-        remove_exception_lines_after_update(target_file, exceptions=exceptions)
+        update_target_file(
+            os.path.join(
+                os.path.dirname(os.path.abspath(__file__)), f"../{target_file}"
+            ),
+            cleaned_filters,
+            exceptions,
+        )
 
     print("\n🥳 Готово!")
 

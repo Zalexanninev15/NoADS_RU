@@ -1,5 +1,5 @@
 ! Title: ⚠️ NoADS_RU Extended Plus
-! Last modified: 5 марта 2026 года
+! Last modified: 6 марта 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -13428,6 +13428,12 @@ r.mail.wowvegas.com%2Ftr%2Fop%2F*$image
 *%2Fsendy.clyp.it%2Ft%2F$image
 .buyandship.com.sg/opn/$image
 .buyandship.com.sg%2Fopn%2F$image
+.convertkit-mail.com/o/$image
+.convertkit-mail.com%2Fo%2F$image
+/qs.topuniversities.com/e2t/o/*$image
+/t.news.dufry-communication.com/r/*$image
+/sptrack.mailer.humblebundle.com/q/*$image
+/hub.outsideinc.com/e3t/Cto/*$image
 static.adsugar.ch/img?ord=$image
 static.adsugar.ch%2Fimg%3Ford%3D*$image
 ecmweb.com/images/shim.png$image
@@ -13493,6 +13499,28 @@ newsletter.adnz.co%2F*$image
 /mail.*/ostat.php?$image
 *%2Fmail.*%2Fostat.php%3F*$image
 /email.*/opn/*$image
+/ae.edm.edm_open?$image
+*%2Fae.edm.edm_open%3F$image
+/gm.mmstat.com/*$image
+*%2Fgm.mmstat.com%2F*$image
+/MessageTrackLog.aspx?$image
+*%2FMessageTrackLog.aspx%3F$image
+/e2t/o/*$image
+*%2Fe2t%2Fo%2F$image
+/tr/impression?$image
+*%2Ftr%2Fimpression%3F$image
+.tracker.bannerflow.com/api/tr/impression?$image
+.rs6.net/on.jsp?$image
+.rs6.net%2Fon.jsp%3F*$image
+/sptrack.mailer.*/q/*$image
+*%2Fsptrack.mailer.*%2Fq%2F$image
+/o/p/*$image
+*%2Fo%2Fp%2F$image
+/e.mailer.*/o/p/*$image
+/pixel.jpg?campaign_id=$image
+*%2Fpixel.jpg%3Fcampaign_id%3D*$image
+/link-mf.*/CI0/*$image
+*%2Flink-mf.*%2FCI0%2F$image
 ||googleusercontent.com/*/wf/open?upn=$image
 .salesforce.com%2Fservlet%2Fservlet.ImageServer%3F$image
 ||beacons.ai/api/rtanalytics/
@@ -20444,6 +20472,7 @@ omni.soundestlink.com$image
 ||boilingmadsoup.com^
 ||boldbars.com^
 ||bonuscomplex.com^
+||bookbeef.com^
 ||bookprobe.com^
 ||boomboomcloud.com^
 ||boostbehavior.com^
@@ -25687,6 +25716,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sftrack.searchforce.net^
 ||sgali-mcs.byteoversea.com^
 ||sgm-w.jd.com^
+||shallspark.com/athena/tracking/
 ||share-online.biz/affiliate/$third-party
 ||shareaholic.com/analytics_
 ||shareaholic.com/partners.js
@@ -66124,6 +66154,8 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||pixel.ionos.de^
 ||plausible.motorpresse.de^
 ||playox.de/analytics/
+||pons.com/pons-site-website-assets/lib/analytics.min.js
+||pons.com/pons-site-website-int/_astro/website-analytics.$script
 ||potsdamer-stadtplan.com/t.gif
 ||pstt.mtb-news.de^
 ||px.derstandard.at^
@@ -90647,7 +90679,6 @@ coccinella.bz.it###privacy-win
 cinquantamila.it###privacy_advisor
 faxiflora.it###privacydiv
 hotelmarini.it###pscookielaw
-la7.it###puthere
 rds.it###rds-cookie-preferences
 samaritansonlus.org###sB_injected
 netbet.it###sec-banner-div
@@ -92927,7 +92958,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||arbetsgivarverket.se/js/cookieconsent.js$script,~third-party
 @@||assets.travix.com/client/cookie-banner-$script
 @@||astrogaming.com/etc.clientlibs/logitech-common/clientlibs/onetrust.$script,~third-party
-@@||ats-wrapper.privacymanager.io/ats-modules/*/ats.js$script,domain=iodonna.it|video.corriere.it|video.gazzetta.it
+@@||ats-wrapper.privacymanager.io/ats-modules/*/ats.js$script,domain=iodonna.it|la7.it|video.corriere.it|video.gazzetta.it
 @@||badgeland.*/cookie-consent.js$~third-party
 @@||banking.fyrst.de/translations/*-cookiedisclaimer$~third-party,xmlhttprequest
 @@||barclays.co.uk^*/cookiepolicy.js$~third-party
