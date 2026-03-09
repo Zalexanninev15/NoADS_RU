@@ -40,6 +40,13 @@
 * [Re:Telegram](https://github.com/Sakion-Team/Re-Telegram) - проект аналогичен TeleVip и TMoe,  имеет свои особенности, но давно не обновлялся, последние версии Telegram не поддерживает
 * [TGɾαɱHσσƙʂ](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks) - такой же как и все остальные, модуль староват, сам не пользовался
 
+## 🥷 Скрытие
+
+* [NoVPNDetect](https://github.com/Xposed-Modules-Repo/me.hoshino.novpndetect) - скрытие статуса работы других помещений в режиме VPN для остальных приложений (нужно выбрать каких). Можно скрыть, чтобы Ozon, AliExpress (Россия), Avito, DNS, T2 и прочие не писали, что у вас замечен активированный VPN.
+* [Bypass Root Check Pro](https://github.com/Xposed-Modules-Repo/com.gauravssnl.bypassrootcheck.pro) - в теории скрывает Root при проверках в приложениях.
+* [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - модуль аналогичен Bypass Root Check Pro, но пытается сделать скрытие намного лучше и глобальнее.
+* [noplayserviceswarning](https://github.com/garbb/noplayserviceswarning) - помогает запустить приложения, которые требуют включения или обновления Сервисов Google Play, но прекрасно работают и без них.
+
 ## Другие проекты
 
 * [RedditRV от 21Modz](https://t.me/ytrvel/227) - Reddit
