@@ -1,1 +1,1718 @@
-СКОРО!
+<!doctype html>
+<html lang="ru" data-theme="auto">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>NoADS_RU Generator</title>
+        <link
+            href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Onest:wght@400;500;600;700&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            *,
+            *::before,
+            *::after {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+
+            /* ── THEMES ── */
+            :root {
+                --bg: #0d0f14;
+                --surf: #13161e;
+                --surf2: #1a1e28;
+                --border: #232736;
+                --accent: #f04f23;
+                --text: #d8dbe5;
+                --sub: #9aa0b8;
+                --muted: #525870;
+                --dim: #3a3f52;
+                --green: #3ecf8e;
+                --purple: #9d87ff;
+                --yellow: #f0c040;
+                --mono: "JetBrains Mono", monospace;
+                --sans: "Onest", sans-serif;
+            }
+
+            @media (prefers-color-scheme: light) {
+                html[data-theme="auto"] {
+                    --bg: #f4f3ef;
+                    --surf: #ffffff;
+                    --surf2: #f0eeea;
+                    --border: #dddbd6;
+                    --accent: #e04010;
+                    --text: #1a1c24;
+                    --sub: #4a4f66;
+                    --muted: #888da8;
+                    --dim: #c8c5be;
+                    --green: #1a9e6a;
+                    --purple: #7055e0;
+                    --yellow: #b08800;
+                }
+            }
+
+            html[data-theme="light"] {
+                --bg: #f4f3ef;
+                --surf: #ffffff;
+                --surf2: #f0eeea;
+                --border: #dddbd6;
+                --accent: #e04010;
+                --text: #1a1c24;
+                --sub: #4a4f66;
+                --muted: #888da8;
+                --dim: #c8c5be;
+                --green: #1a9e6a;
+                --purple: #7055e0;
+                --yellow: #b08800;
+            }
+
+            html[data-theme="dark"] {
+                --bg: #0d0f14;
+                --surf: #13161e;
+                --surf2: #1a1e28;
+                --border: #232736;
+                --accent: #f04f23;
+                --text: #d8dbe5;
+                --sub: #9aa0b8;
+                --muted: #525870;
+                --dim: #3a3f52;
+                --green: #3ecf8e;
+                --purple: #9d87ff;
+                --yellow: #f0c040;
+            }
+
+            body {
+                background: var(--bg);
+                color: var(--text);
+                font-family: var(--sans);
+                font-size: 14px;
+                min-height: 100vh;
+                transition:
+                    background 0.2s,
+                    color 0.2s;
+            }
+
+            /* ── HEADER ── */
+            header {
+                border-bottom: 1px solid var(--border);
+                padding: 0 32px;
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                height: 56px;
+                background: var(--surf);
+                position: sticky;
+                top: 0;
+                z-index: 20;
+            }
+            .logo {
+                display: flex;
+                align-items: center;
+                gap: 9px;
+                text-decoration: none;
+                color: var(--text);
+                font-family: var(--mono);
+                font-size: 14px;
+                font-weight: 600;
+            }
+            .logo img {
+                width: 26px;
+                height: 26px;
+                border-radius: 5px;
+                object-fit: contain;
+                background: var(--surf2);
+            }
+            .logo-fb {
+                display: none;
+                width: 26px;
+                height: 26px;
+                background: var(--accent);
+                border-radius: 5px;
+                align-items: center;
+                justify-content: center;
+                font-size: 13px;
+            }
+            .hsep {
+                width: 1px;
+                height: 16px;
+                background: var(--border);
+                margin: 0 2px;
+            }
+            .hsub {
+                font-family: var(--sans);
+                font-size: 12px;
+                font-weight: 400;
+                color: var(--muted);
+            }
+            header nav {
+                margin-left: auto;
+                display: flex;
+                align-items: center;
+                gap: 4px;
+            }
+            header nav a {
+                font-size: 12.5px;
+                color: var(--muted);
+                text-decoration: none;
+                padding: 5px 11px;
+                border-radius: 6px;
+                transition: 0.15s;
+            }
+            header nav a:hover {
+                color: var(--text);
+                background: var(--surf2);
+            }
+
+            /* Theme toggle */
+            .theme-btn {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 32px;
+                height: 32px;
+                background: none;
+                border: 1px solid var(--border);
+                border-radius: 7px;
+                cursor: pointer;
+                color: var(--muted);
+                transition: 0.15s;
+                flex-shrink: 0;
+            }
+            .theme-btn:hover {
+                color: var(--text);
+                border-color: var(--dim);
+            }
+            .theme-btn svg {
+                width: 15px;
+                height: 15px;
+            }
+            .icon-sun {
+                display: none;
+            }
+            .icon-moon {
+                display: block;
+            }
+            html[data-theme="light"] .icon-sun {
+                display: block;
+            }
+            html[data-theme="light"] .icon-moon {
+                display: none;
+            }
+            @media (prefers-color-scheme: light) {
+                html[data-theme="auto"] .icon-sun {
+                    display: block;
+                }
+                html[data-theme="auto"] .icon-moon {
+                    display: none;
+                }
+            }
+
+            /* ── HERO ── */
+            .hero {
+                padding: 36px 32px 28px;
+                max-width: 1100px;
+                margin: 0 auto;
+            }
+            .hero h1 {
+                font-size: clamp(22px, 3vw, 34px);
+                font-weight: 700;
+                letter-spacing: -0.8px;
+                line-height: 1.2;
+                margin-bottom: 8px;
+            }
+            .hero h1 em {
+                color: var(--accent);
+                font-style: normal;
+            }
+            .hero p {
+                color: var(--sub);
+                font-size: 13.5px;
+                max-width: 480px;
+                line-height: 1.7;
+            }
+
+            /* ── LAYOUT ── */
+            .layout {
+                max-width: 1100px;
+                margin: 0 auto;
+                padding: 0 32px 60px;
+                display: grid;
+                grid-template-columns: 400px 1fr;
+                gap: 20px;
+                align-items: start;
+            }
+
+            /* ── CARD ── */
+            .card {
+                background: var(--surf);
+                border: 1px solid var(--border);
+                border-radius: 12px;
+                overflow: hidden;
+            }
+
+            /* ── TABS ── */
+            .tabs {
+                display: flex;
+                border-bottom: 1px solid var(--border);
+            }
+            .tab {
+                padding: 12px 20px;
+                font-family: var(--sans);
+                font-size: 13px;
+                font-weight: 500;
+                color: var(--muted);
+                background: none;
+                border: none;
+                border-bottom: 2px solid transparent;
+                margin-bottom: -1px;
+                cursor: pointer;
+                transition: 0.15s;
+                user-select: none;
+            }
+            .tab:hover {
+                color: var(--text);
+            }
+            .tab.active {
+                color: var(--text);
+                border-bottom-color: var(--accent);
+            }
+            .tab-panel {
+                display: none;
+                padding: 20px;
+            }
+            .tab-panel.active {
+                display: block;
+            }
+
+            /* ── SECTION ── */
+            .sec {
+                margin-bottom: 20px;
+            }
+            .sec:last-child {
+                margin-bottom: 0;
+            }
+            .sec-lbl {
+                font-size: 10px;
+                font-weight: 700;
+                letter-spacing: 1.2px;
+                text-transform: uppercase;
+                color: var(--muted);
+                margin-bottom: 8px;
+            }
+
+            /* ── OPTION (radio/check) ── */
+            .opts {
+                display: flex;
+                flex-direction: column;
+                gap: 5px;
+            }
+            .opt {
+                display: flex;
+                align-items: flex-start;
+                gap: 10px;
+                padding: 10px 12px;
+                border: 1px solid var(--border);
+                border-radius: 8px;
+                cursor: pointer;
+                transition: 0.15s;
+                user-select: none;
+                background: var(--surf);
+            }
+            .opt:hover {
+                border-color: var(--dim);
+                background: var(--surf2);
+            }
+            .opt.sel {
+                border-color: var(--accent);
+                background: rgba(240, 79, 35, 0.06);
+            }
+            .opt.on {
+                border-color: rgba(240, 79, 35, 0.45);
+                background: rgba(240, 79, 35, 0.04);
+            }
+
+            html[data-theme="light"] .opt.sel {
+                background: rgba(224, 64, 16, 0.07);
+            }
+            html[data-theme="light"] .opt.on {
+                background: rgba(224, 64, 16, 0.05);
+            }
+            @media (prefers-color-scheme: light) {
+                html[data-theme="auto"] .opt.sel {
+                    background: rgba(224, 64, 16, 0.07);
+                }
+                html[data-theme="auto"] .opt.on {
+                    background: rgba(224, 64, 16, 0.05);
+                }
+            }
+
+            .radio {
+                width: 15px;
+                height: 15px;
+                border: 2px solid var(--border);
+                border-radius: 50%;
+                flex-shrink: 0;
+                margin-top: 2px;
+                display: grid;
+                place-items: center;
+                transition: 0.15s;
+            }
+            .opt.sel .radio {
+                border-color: var(--accent);
+            }
+            .rdot {
+                width: 6px;
+                height: 6px;
+                border-radius: 50%;
+                background: var(--accent);
+                opacity: 0;
+                transform: scale(0);
+                transition: 0.12s;
+            }
+            .opt.sel .rdot {
+                opacity: 1;
+                transform: scale(1);
+            }
+
+            .cbox {
+                width: 15px;
+                height: 15px;
+                border: 2px solid var(--border);
+                border-radius: 4px;
+                flex-shrink: 0;
+                margin-top: 2px;
+                display: grid;
+                place-items: center;
+                transition: 0.15s;
+            }
+            .opt.on .cbox {
+                background: var(--accent);
+                border-color: var(--accent);
+            }
+            .cbox svg {
+                opacity: 0;
+                transform: scale(0);
+                transition: 0.12s;
+            }
+            .opt.on .cbox svg {
+                opacity: 1;
+                transform: scale(1);
+            }
+
+            .opt-name {
+                font-size: 13.5px;
+                font-weight: 500;
+                line-height: 1.3;
+                display: flex;
+                align-items: center;
+                gap: 6px;
+                flex-wrap: wrap;
+            }
+            .opt-desc {
+                font-size: 12px;
+                color: var(--sub);
+                margin-top: 3px;
+                line-height: 1.5;
+            }
+
+            /* live count badge */
+            .cnt {
+                font-family: var(--mono);
+                font-size: 10px;
+                font-weight: 600;
+                padding: 1px 6px;
+                border-radius: 4px;
+                background: var(--surf2);
+                border: 1px solid var(--border);
+                color: var(--muted);
+                white-space: nowrap;
+                transition: 0.2s;
+            }
+            .cnt.loaded {
+                color: var(--sub);
+                border-color: var(--dim);
+            }
+
+            /* ── RWS SUB ── */
+            .rws-wrap {
+                margin: 4px 0 0 25px;
+                display: none;
+            }
+            .rws-wrap.vis {
+                display: block;
+            }
+            .rws-opt {
+                display: flex;
+                align-items: flex-start;
+                gap: 10px;
+                padding: 9px 12px;
+                border: 1px dashed var(--dim);
+                border-radius: 7px;
+                cursor: pointer;
+                transition: 0.15s;
+                user-select: none;
+                background: var(--surf);
+            }
+            .rws-opt:hover {
+                background: var(--surf2);
+            }
+            .rws-opt.on {
+                border-color: var(--accent);
+                border-style: solid;
+                background: rgba(240, 79, 35, 0.06);
+            }
+            .rws-opt.on .radio {
+                border-color: var(--accent);
+            }
+            .rws-opt.on .rdot {
+                opacity: 1;
+                transform: scale(1);
+            }
+
+            /* ── TAG ── */
+            .tag {
+                display: inline-block;
+                font-size: 9px;
+                font-weight: 700;
+                letter-spacing: 0.5px;
+                text-transform: uppercase;
+                padding: 1px 6px;
+                border-radius: 3px;
+                white-space: nowrap;
+            }
+            .t-rws {
+                background: rgba(62, 207, 142, 0.12);
+                color: var(--green);
+            }
+            .t-x {
+                background: rgba(240, 79, 35, 0.14);
+                color: #ff7a52;
+            }
+            .t-xx {
+                background: rgba(240, 79, 35, 0.22);
+                color: #ff5030;
+            }
+            .t-a {
+                background: rgba(157, 135, 255, 0.13);
+                color: var(--purple);
+            }
+            .t-b {
+                background: rgba(240, 192, 64, 0.12);
+                color: var(--yellow);
+            }
+
+            /* ── GENERATE ── */
+            .btn-gen {
+                width: 100%;
+                margin-top: 20px;
+                padding: 12px;
+                background: var(--accent);
+                color: #fff;
+                font-family: var(--sans);
+                font-size: 14px;
+                font-weight: 600;
+                border: none;
+                border-radius: 9px;
+                cursor: pointer;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 7px;
+                transition: 0.15s;
+                box-shadow: 0 3px 16px rgba(240, 79, 35, 0.2);
+            }
+            .btn-gen:hover {
+                background: #cf3a0e;
+                transform: translateY(-1px);
+                box-shadow: 0 5px 22px rgba(240, 79, 35, 0.35);
+            }
+            .btn-gen:active {
+                transform: none;
+            }
+
+            /* ── OUTPUT ── */
+            .out {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+            }
+            .res-card {
+                background: var(--surf);
+                border: 1px solid var(--border);
+                border-radius: 12px;
+                overflow: hidden;
+                transition: border-color 0.3s;
+            }
+            .res-card.has {
+                border-color: rgba(240, 79, 35, 0.22);
+            }
+            .res-tabs {
+                display: flex;
+                border-bottom: 1px solid var(--border);
+            }
+            .res-tab {
+                padding: 12px 18px;
+                font-family: var(--sans);
+                font-size: 12.5px;
+                font-weight: 500;
+                color: var(--muted);
+                background: none;
+                border: none;
+                border-bottom: 2px solid transparent;
+                margin-bottom: -1px;
+                cursor: pointer;
+                transition: 0.15s;
+                display: flex;
+                align-items: center;
+                gap: 6px;
+                user-select: none;
+            }
+            .res-tab:hover {
+                color: var(--text);
+            }
+            .res-tab.active {
+                color: var(--text);
+                border-bottom-color: var(--accent);
+            }
+            .rbadge {
+                font-size: 10px;
+                font-weight: 700;
+                padding: 1px 6px;
+                border-radius: 8px;
+            }
+            .rbf {
+                background: rgba(240, 79, 35, 0.15);
+                color: #ff7a52;
+            }
+            .rbh {
+                background: rgba(157, 135, 255, 0.14);
+                color: var(--purple);
+            }
+            .res-panel {
+                display: none;
+            }
+            .res-panel.active {
+                display: block;
+            }
+            .urlbox {
+                padding: 16px 18px;
+                min-height: 100px;
+            }
+            .ph {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                min-height: 90px;
+                font-size: 13px;
+                color: var(--muted);
+                text-align: center;
+                line-height: 1.7;
+            }
+            .urow {
+                display: flex;
+                align-items: flex-start;
+                gap: 9px;
+                padding: 7px 0;
+                border-bottom: 1px solid var(--border);
+                animation: fu 0.2s ease both;
+            }
+            .urow:last-child {
+                border-bottom: none;
+                padding-bottom: 0;
+            }
+            @keyframes fu {
+                from {
+                    opacity: 0;
+                    transform: translateY(4px);
+                }
+                to {
+                    opacity: 1;
+                    transform: none;
+                }
+            }
+            .ubadge {
+                font-size: 9px;
+                font-weight: 700;
+                letter-spacing: 0.5px;
+                text-transform: uppercase;
+                padding: 3px 7px;
+                border-radius: 4px;
+                flex-shrink: 0;
+                margin-top: 2px;
+                white-space: nowrap;
+            }
+            .ub-base {
+                background: rgba(240, 79, 35, 0.14);
+                color: #ff7a52;
+            }
+            .ub-add {
+                background: rgba(157, 135, 255, 0.13);
+                color: var(--purple);
+            }
+            .ub-bl {
+                background: rgba(62, 207, 142, 0.11);
+                color: var(--green);
+            }
+            .ub-bp {
+                background: rgba(157, 135, 255, 0.14);
+                color: var(--purple);
+            }
+            .uname {
+                font-size: 13px;
+                font-weight: 500;
+                margin-bottom: 2px;
+            }
+            .ulink {
+                font-family: var(--mono);
+                font-size: 10.5px;
+                color: var(--muted);
+                word-break: break-all;
+                line-height: 1.6;
+            }
+            .copybar {
+                padding: 11px 16px;
+                border-top: 1px solid var(--border);
+                display: none;
+                align-items: center;
+                justify-content: flex-end;
+            }
+            .copybar.vis {
+                display: flex;
+            }
+            .btn-copy {
+                display: flex;
+                align-items: center;
+                gap: 6px;
+                padding: 7px 16px;
+                background: transparent;
+                color: var(--text);
+                font-family: var(--sans);
+                font-size: 12.5px;
+                font-weight: 500;
+                border: 1px solid var(--border);
+                border-radius: 7px;
+                cursor: pointer;
+                transition: 0.15s;
+                white-space: nowrap;
+            }
+            .btn-copy:hover {
+                border-color: var(--accent);
+                color: var(--accent);
+            }
+            .btn-copy.ok {
+                border-color: var(--green);
+                color: var(--green);
+            }
+
+            @media (max-width: 860px) {
+                .layout {
+                    grid-template-columns: 1fr;
+                }
+            }
+            @media (max-width: 560px) {
+                .hero,
+                .layout {
+                    padding-left: 16px;
+                    padding-right: 16px;
+                }
+                header {
+                    padding: 0 16px;
+                }
+                .hsep,
+                .hsub {
+                    display: none;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <a
+                href="https://github.com/Zalexanninev15/NoADS_RU"
+                target="_blank"
+                class="logo"
+            >
+                <img
+                    src="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/assets/Logo.png"
+                    alt=""
+                    onerror="
+                        this.style.display = 'none';
+                        document.querySelector('.logo-fb').style.display =
+                            'flex';
+                    "
+                />
+                <span class="logo-fb">🚫</span>
+                NoADS_RU
+            </a>
+            <div class="hsep"></div>
+            <span class="hsub">Filter Generator</span>
+            <nav>
+                <a
+                    href="https://github.com/Zalexanninev15/NoADS_RU"
+                    target="_blank"
+                    >GitHub</a
+                >
+                <a
+                    href="https://github.com/Zalexanninev15/NoADS_RU/issues/new"
+                    target="_blank"
+                    >Проблема</a
+                >
+                <button
+                    class="theme-btn"
+                    onclick="toggleTheme()"
+                    title="Переключить тему"
+                >
+                    <svg class="icon-moon" viewBox="0 0 15 15" fill="none">
+                        <path
+                            d="M2.9 8.5A5.5 5.5 0 0 0 12 6.1a5.5 5.5 0 0 1-6.6-6.6A5.5 5.5 0 0 0 2.9 8.5z"
+                            stroke="currentColor"
+                            stroke-width="1.3"
+                            stroke-linejoin="round"
+                        />
+                    </svg>
+                    <svg class="icon-sun" viewBox="0 0 15 15" fill="none">
+                        <circle
+                            cx="7.5"
+                            cy="7.5"
+                            r="2.5"
+                            stroke="currentColor"
+                            stroke-width="1.3"
+                        />
+                        <path
+                            d="M7.5 1v1.5M7.5 12.5V14M1 7.5h1.5M12.5 7.5H14M3.2 3.2l1 1M10.8 10.8l1 1M10.8 3.2l-1 1M3.2 10.8l1-1"
+                            stroke="currentColor"
+                            stroke-width="1.3"
+                            stroke-linecap="round"
+                        />
+                    </svg>
+                </button>
+            </nav>
+        </header>
+
+        <section class="hero">
+            <h1>Генератор<br /><em>списков фильтров</em></h1>
+            <p>
+                Выберите нужные параметры и получите ссылки для подключения в
+                uBlock Origin, AdGuard и других блокировщиках.
+            </p>
+        </section>
+
+        <main class="layout">
+            <div>
+                <div class="card">
+                    <div class="tabs">
+                        <button class="tab active" data-tab="filters">
+                            Фильтры
+                        </button>
+                        <button class="tab" data-tab="hosts">Хосты</button>
+                    </div>
+
+                    <!-- FILTERS TAB -->
+                    <div class="tab-panel active" id="tab-filters">
+                        <div class="sec">
+                            <div class="sec-lbl">Базовый список</div>
+                            <div class="opts" id="base-group">
+                                <div
+                                    class="opt sel"
+                                    data-val="standard"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt"
+                                    data-count-type="filter"
+                                >
+                                    <div class="radio">
+                                        <div class="rdot"></div>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            NoADS_RU
+                                            <span class="cnt" id="cnt-standard"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Основной список. Реклама, куки,
+                                            трекеры.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="rws-wrap vis" id="rws-wrap">
+                                    <div class="rws-opt" id="rws-opt">
+                                        <div class="radio">
+                                            <div class="rdot"></div>
+                                        </div>
+                                        <div>
+                                            <div class="opt-name">
+                                                Яндекс / ВК / MAX / Mail.ru
+                                                <span class="cnt" id="cnt-rws"
+                                                    >…</span
+                                                >
+                                                <!--<span class="tag t-rws"
+                                                    >RWS</span
+                                                >-->
+                                            </div>
+                                            <div class="opt-desc">
+                                                Переключает на NoADS_RU RWS.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div
+                                    class="opt"
+                                    data-val="extended"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt"
+                                    data-count-type="filter"
+                                >
+                                    <div class="radio">
+                                        <div class="rdot"></div>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            NoADS_RU Extended
+                                            <!--<span class="tag t-x"
+                                                >Extended</span
+                                            >-->
+                                            <span class="cnt" id="cnt-extended"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Расширенный список. Часть
+                                            RU-сервисов может быть нестабильна.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div
+                                    class="opt"
+                                    data-val="extended_plus"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt"
+                                    data-count-type="filter"
+                                >
+                                    <div class="radio">
+                                        <div class="rdot"></div>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            NoADS_RU Extended Plus
+                                            <!--<span class="tag t-xx">Plus</span>-->
+                                            <span
+                                                class="cnt"
+                                                id="cnt-extended_plus"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Максимальная блокировка на базе
+                                            Extended.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="sec">
+                            <div class="sec-lbl">
+                                Дополнения
+                                <span
+                                    class="tag t-a"
+                                    style="vertical-align: middle"
+                                    >Add-on</span
+                                >
+                            </div>
+                            <div class="opts" id="addon-group">
+                                <div
+                                    class="opt"
+                                    data-val="webhosts_lite"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts_lite.txt"
+                                    data-count-type="filter"
+                                >
+                                    <div class="cbox">
+                                        <svg
+                                            width="9"
+                                            height="7"
+                                            viewBox="0 0 9 7"
+                                            fill="none"
+                                        >
+                                            <path
+                                                d="M1 3.5L3 5.5L8 1"
+                                                stroke="white"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            WebHosts Lite
+                                            <span
+                                                class="cnt"
+                                                id="cnt-webhosts_lite"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Фильтры на базе Hosts Blocker.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div
+                                    class="opt"
+                                    data-val="webhosts"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts.txt"
+                                    data-count-type="filter"
+                                >
+                                    <div class="cbox">
+                                        <svg
+                                            width="9"
+                                            height="7"
+                                            viewBox="0 0 9 7"
+                                            fill="none"
+                                        >
+                                            <path
+                                                d="M1 3.5L3 5.5L8 1"
+                                                stroke="white"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            WebHosts
+                                            <span class="cnt" id="cnt-webhosts"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Фильтры на базе Hosts BlockerFL.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div
+                                    class="opt"
+                                    data-val="youtube"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt"
+                                    data-count-type="filter"
+                                >
+                                    <div class="cbox">
+                                        <svg
+                                            width="9"
+                                            height="7"
+                                            viewBox="0 0 9 7"
+                                            fill="none"
+                                        >
+                                            <path
+                                                d="M1 3.5L3 5.5L8 1"
+                                                stroke="white"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            YouTube
+                                            <span class="cnt" id="cnt-youtube"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Фильтры для YouTube и
+                                            видеохостингов.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div
+                                    class="opt"
+                                    data-val="ai_slop"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt"
+                                    data-count-type="filter"
+                                >
+                                    <div class="cbox">
+                                        <svg
+                                            width="9"
+                                            height="7"
+                                            viewBox="0 0 9 7"
+                                            fill="none"
+                                        >
+                                            <path
+                                                d="M1 3.5L3 5.5L8 1"
+                                                stroke="white"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            AI Slop Killer
+                                            <span class="cnt" id="cnt-ai_slop"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Блокировка низкокачественного
+                                            ИИ-контента.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div
+                                    class="opt"
+                                    data-val="faust"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt"
+                                    data-count-type="filter"
+                                >
+                                    <div class="cbox">
+                                        <svg
+                                            width="9"
+                                            height="7"
+                                            viewBox="0 0 9 7"
+                                            fill="none"
+                                        >
+                                            <path
+                                                d="M1 3.5L3 5.5L8 1"
+                                                stroke="white"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            Faust
+                                            <span class="cnt" id="cnt-faust"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Дополнительные правила от Faust'а.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- HOSTS TAB -->
+                    <div class="tab-panel" id="tab-hosts">
+                        <div class="sec">
+                            <div class="sec-lbl">Блокировка</div>
+                            <div class="opts" id="hosts-block">
+                                <div
+                                    class="opt"
+                                    data-val="blocker"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt"
+                                    data-count-type="hosts"
+                                >
+                                    <div class="cbox">
+                                        <svg
+                                            width="9"
+                                            height="7"
+                                            viewBox="0 0 9 7"
+                                            fill="none"
+                                        >
+                                            <path
+                                                d="M1 3.5L3 5.5L8 1"
+                                                stroke="white"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            Hosts Blocker
+                                            <span class="cnt" id="cnt-blocker"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Реклама, трекеры, аналитика, Android
+                                            OEM, Windows.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div
+                                    class="opt"
+                                    data-val="blockerFL"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt"
+                                    data-count-type="hosts"
+                                >
+                                    <div class="cbox">
+                                        <svg
+                                            width="9"
+                                            height="7"
+                                            viewBox="0 0 9 7"
+                                            fill="none"
+                                        >
+                                            <path
+                                                d="M1 3.5L3 5.5L8 1"
+                                                stroke="white"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            Hosts BlockerFL
+                                            <span class="cnt" id="cnt-blockerFL"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Расширенная версия Blocker.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="sec">
+                            <div class="sec-lbl">Разблокировка</div>
+                            <div class="opts" id="hosts-bypass">
+                                <div
+                                    class="opt"
+                                    data-val="bypass"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt"
+                                    data-count-type="hosts"
+                                >
+                                    <div class="cbox">
+                                        <svg
+                                            width="9"
+                                            height="7"
+                                            viewBox="0 0 9 7"
+                                            fill="none"
+                                        >
+                                            <path
+                                                d="M1 3.5L3 5.5L8 1"
+                                                stroke="white"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            Hosts Bypass
+                                            <span class="cnt" id="cnt-bypass"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Обход региональных ограничений РФ.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div
+                                    class="opt"
+                                    data-val="bypass2"
+                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass2.txt"
+                                    data-count-type="hosts"
+                                >
+                                    <div class="cbox">
+                                        <svg
+                                            width="9"
+                                            height="7"
+                                            viewBox="0 0 9 7"
+                                            fill="none"
+                                        >
+                                            <path
+                                                d="M1 3.5L3 5.5L8 1"
+                                                stroke="white"
+                                                stroke-width="1.6"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <div class="opt-name">
+                                            Hosts Bypass2
+                                            <span class="tag t-b">β</span>
+                                            <span class="cnt" id="cnt-bypass2"
+                                                >…</span
+                                            >
+                                        </div>
+                                        <div class="opt-desc">
+                                            Альтернативный обход, тестовый.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div style="padding: 0 20px 20px">
+                        <button class="btn-gen" onclick="generate()">
+                            <svg
+                                width="14"
+                                height="14"
+                                viewBox="0 0 14 14"
+                                fill="none"
+                            >
+                                <path
+                                    d="M2 7C2 4.24 4.24 2 7 2s5 2.24 5 5-2.24 5-5 5"
+                                    stroke="white"
+                                    stroke-width="1.5"
+                                    stroke-linecap="round"
+                                />
+                                <path
+                                    d="M5 10l2 3 2-3"
+                                    stroke="white"
+                                    stroke-width="1.5"
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                />
+                            </svg>
+                            Сгенерировать конфигурацию
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- OUTPUT -->
+            <div class="out">
+                <div class="res-card" id="res-card">
+                    <div class="res-tabs">
+                        <button class="res-tab active" data-rtab="rf">
+                            Фильтры <span class="rbadge rbf" id="rbf">—</span>
+                        </button>
+                        <button class="res-tab" data-rtab="rh">
+                            Хосты <span class="rbadge rbh" id="rbh">—</span>
+                        </button>
+                    </div>
+
+                    <div class="res-panel active" id="rf">
+                        <div class="urlbox" id="fbox">
+                            <div class="ph">
+                                Настройте параметры и нажмите «Сгенерировать»
+                            </div>
+                        </div>
+                        <div class="copybar" id="cbar-f">
+                            <button
+                                class="btn-copy"
+                                id="cbtn-f"
+                                onclick="copyUrls('f')"
+                            >
+                                <svg
+                                    width="11"
+                                    height="11"
+                                    viewBox="0 0 11 11"
+                                    fill="none"
+                                >
+                                    <rect
+                                        x="3.5"
+                                        y="3.5"
+                                        width="6.5"
+                                        height="6.5"
+                                        rx="1.3"
+                                        stroke="currentColor"
+                                        stroke-width="1.2"
+                                    />
+                                    <path
+                                        d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5"
+                                        stroke="currentColor"
+                                        stroke-width="1.2"
+                                        stroke-linecap="round"
+                                    />
+                                </svg>
+                                <span id="clbl-f">Copy configuration</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="res-panel" id="rh">
+                        <div class="urlbox" id="hbox">
+                            <div class="ph">
+                                Выберите хосты на вкладке «Хосты»
+                            </div>
+                        </div>
+                        <div class="copybar" id="cbar-h">
+                            <button
+                                class="btn-copy"
+                                id="cbtn-h"
+                                onclick="copyUrls('h')"
+                            >
+                                <svg
+                                    width="11"
+                                    height="11"
+                                    viewBox="0 0 11 11"
+                                    fill="none"
+                                >
+                                    <rect
+                                        x="3.5"
+                                        y="3.5"
+                                        width="6.5"
+                                        height="6.5"
+                                        rx="1.3"
+                                        stroke="currentColor"
+                                        stroke-width="1.2"
+                                    />
+                                    <path
+                                        d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5"
+                                        stroke="currentColor"
+                                        stroke-width="1.2"
+                                        stroke-linecap="round"
+                                    />
+                                </svg>
+                                <span id="clbl-h">Copy configuration</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <script>
+            const B =
+                "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/";
+            const FL = {
+                standard: {
+                    url: B + "ads_list.txt",
+                    name: "NoADS_RU",
+                    badge: "ub-base",
+                    lbl: "base",
+                },
+                rws: {
+                    url: B + "ads_list_rws.txt",
+                    name: "NoADS_RU RWS",
+                    badge: "ub-base",
+                    lbl: "base",
+                },
+                extended: {
+                    url: B + "ads_list_extended.txt",
+                    name: "NoADS_RU Extended",
+                    badge: "ub-base",
+                    lbl: "base",
+                },
+                extended_plus: {
+                    url: B + "ads_list_extended_plus.txt",
+                    name: "NoADS_RU Ext. Plus",
+                    badge: "ub-base",
+                    lbl: "base",
+                },
+                webhosts_lite: {
+                    url: B + "filters/webhosts_lite.txt",
+                    name: "WebHosts Lite",
+                    badge: "ub-add",
+                    lbl: "add-on",
+                },
+                webhosts: {
+                    url: B + "filters/webhosts.txt",
+                    name: "WebHosts",
+                    badge: "ub-add",
+                    lbl: "add-on",
+                },
+                youtube: {
+                    url: B + "filters/youtube.txt",
+                    name: "YouTube",
+                    badge: "ub-add",
+                    lbl: "add-on",
+                },
+                ai_slop: {
+                    url: B + "filters/ai_slop_killer.txt",
+                    name: "AI Slop Killer",
+                    badge: "ub-add",
+                    lbl: "add-on",
+                },
+                faust: {
+                    url: B + "filters/faust.txt",
+                    name: "Faust",
+                    badge: "ub-add",
+                    lbl: "add-on",
+                },
+            };
+            const HL = {
+                blocker: {
+                    url: B + "hosts/blocker.txt",
+                    name: "Hosts Blocker",
+                    badge: "ub-bl",
+                },
+                blockerFL: {
+                    url: B + "hosts/blockerFL.txt",
+                    name: "Hosts BlockerFL",
+                    badge: "ub-bl",
+                },
+                bypass: {
+                    url: B + "hosts/bypass.txt",
+                    name: "Hosts Bypass",
+                    badge: "ub-bp",
+                },
+                bypass2: {
+                    url: B + "hosts/bypass2.txt",
+                    name: "Hosts Bypass2",
+                    badge: "ub-bp",
+                },
+            };
+
+            let fUrls = [],
+                hUrls = [];
+
+            // ── Theme ──
+            function getTheme() {
+                return localStorage.getItem("theme") || "auto";
+            }
+            function applyTheme(t) {
+                document.documentElement.dataset.theme = t;
+                localStorage.setItem("theme", t);
+            }
+            function toggleTheme() {
+                const cur = getTheme();
+                const sys = window.matchMedia("(prefers-color-scheme: light)")
+                    .matches
+                    ? "light"
+                    : "dark";
+                if (cur === "auto") {
+                    applyTheme(sys === "light" ? "dark" : "light");
+                } else if (cur === "dark") {
+                    applyTheme("light");
+                } else {
+                    applyTheme("dark");
+                }
+            }
+            applyTheme(getTheme());
+
+            // ── Live counts ──
+            function fmt(n) {
+                return n >= 1000 ? (n / 1000).toFixed(1) + "k" : String(n);
+            }
+
+            async function fetchCount(url, type, id) {
+                const el = document.getElementById(id);
+                if (!el) return;
+                try {
+                    const res = await fetch(url);
+                    if (!res.ok) throw new Error("fail");
+                    const text = await res.text();
+                    const lines = text.split("\n");
+                    let count = 0;
+                    if (type === "hosts") {
+                        // First line: # Total hosts: N
+                        const m = lines[0].match(/Total hosts:\s*(\d+)/i);
+                        count = m
+                            ? parseInt(m[1])
+                            : lines.filter(
+                                  (l) =>
+                                      l.trim() &&
+                                      !l.startsWith("#") &&
+                                      !l.startsWith(" "),
+                              ).length;
+                    } else {
+                        // Filter: look for ! Total: N on first few lines
+                        let found = false;
+                        for (let i = 0; i < Math.min(5, lines.length); i++) {
+                            const m = lines[i].match(/^!\s*Total:\s*(\d+)/i);
+                            if (m) {
+                                count = parseInt(m[1]);
+                                found = true;
+                                break;
+                            }
+                        }
+                        if (!found) {
+                            count = lines.filter(
+                                (l) =>
+                                    l.trim() &&
+                                    !l.startsWith("!") &&
+                                    !l.startsWith("#") &&
+                                    !l.startsWith(" "),
+                            ).length;
+                        }
+                    }
+                    el.textContent = fmt(count);
+                    el.classList.add("loaded");
+                } catch (e) {
+                    el.textContent = "—";
+                }
+            }
+
+            // Fetch all counts on load
+            document.addEventListener("DOMContentLoaded", () => {
+                document
+                    .querySelectorAll("[data-url][data-count-type]")
+                    .forEach((opt) => {
+                        const id = "cnt-" + opt.dataset.val;
+                        fetchCount(opt.dataset.url, opt.dataset.countType, id);
+                    });
+            });
+
+            // ── Form tabs ──
+            document.querySelectorAll(".tab").forEach((t) => {
+                t.addEventListener("click", () => {
+                    document
+                        .querySelectorAll(".tab")
+                        .forEach((x) => x.classList.remove("active"));
+                    document
+                        .querySelectorAll(".tab-panel")
+                        .forEach((x) => x.classList.remove("active"));
+                    t.classList.add("active");
+                    document
+                        .getElementById("tab-" + t.dataset.tab)
+                        .classList.add("active");
+                });
+            });
+
+            // ── Result tabs ──
+            document.querySelectorAll(".res-tab").forEach((t) => {
+                t.addEventListener("click", () => {
+                    document
+                        .querySelectorAll(".res-tab")
+                        .forEach((x) => x.classList.remove("active"));
+                    document
+                        .querySelectorAll(".res-panel")
+                        .forEach((x) => x.classList.remove("active"));
+                    t.classList.add("active");
+                    document
+                        .getElementById(t.dataset.rtab)
+                        .classList.add("active");
+                });
+            });
+
+            // ── Base radio ──
+            document.querySelectorAll("#base-group > .opt").forEach((opt) => {
+                opt.addEventListener("click", () => {
+                    document
+                        .querySelectorAll("#base-group > .opt")
+                        .forEach((o) => o.classList.remove("sel"));
+                    opt.classList.add("sel");
+                    const isStd = opt.dataset.val === "standard";
+                    document
+                        .getElementById("rws-wrap")
+                        .classList.toggle("vis", isStd);
+                    if (!isStd) {
+                        rwsOpt._on = false;
+                        rwsOpt.classList.remove("on");
+                    }
+                });
+            });
+
+            // ── RWS ──
+            const rwsOpt = document.getElementById("rws-opt");
+            rwsOpt._on = false;
+            rwsOpt.addEventListener("click", () => {
+                rwsOpt._on = !rwsOpt._on;
+                rwsOpt.classList.toggle("on", rwsOpt._on);
+            });
+
+            // ── Checkboxes ──
+            document
+                .querySelectorAll(
+                    "#addon-group .opt,#hosts-block .opt,#hosts-bypass .opt",
+                )
+                .forEach((opt) => {
+                    opt.addEventListener("click", () =>
+                        opt.classList.toggle("on"),
+                    );
+                });
+
+            // ── Generate ──
+            function generate() {
+                fUrls = [];
+                hUrls = [];
+                const bv = document.querySelector("#base-group .opt.sel")
+                    .dataset.val;
+                const bk = bv === "standard" && rwsOpt._on ? "rws" : bv;
+                fUrls.push(FL[bk]);
+                document
+                    .querySelectorAll("#addon-group .opt.on")
+                    .forEach((o) => {
+                        if (FL[o.dataset.val]) fUrls.push(FL[o.dataset.val]);
+                    });
+                document
+                    .querySelectorAll(
+                        "#hosts-block .opt.on,#hosts-bypass .opt.on",
+                    )
+                    .forEach((o) => {
+                        if (HL[o.dataset.val]) hUrls.push(HL[o.dataset.val]);
+                    });
+                renderF();
+                renderH();
+                document.getElementById("res-card").classList.add("has");
+            }
+
+            function mkRow(item, i, lbl) {
+                const d = document.createElement("div");
+                d.className = "urow";
+                d.style.animationDelay = i * 30 + "ms";
+                d.innerHTML =
+                    '<span class="ubadge ' +
+                    item.badge +
+                    '">' +
+                    lbl +
+                    '</span><div><div class="uname">' +
+                    item.name +
+                    '</div><div class="ulink">' +
+                    item.url +
+                    "</div></div>";
+                return d;
+            }
+
+            function renderF() {
+                const box = document.getElementById("fbox");
+                document.getElementById("rbf").textContent = fUrls.length;
+                box.innerHTML = "";
+                fUrls.forEach((item, i) =>
+                    box.appendChild(mkRow(item, i, item.lbl)),
+                );
+                document.getElementById("cbar-f").classList.add("vis");
+                resetBtn("f");
+            }
+
+            function renderH() {
+                const box = document.getElementById("hbox");
+                document.getElementById("rbh").textContent =
+                    hUrls.length || "0";
+                box.innerHTML = "";
+                if (!hUrls.length) {
+                    box.innerHTML = '<div class="ph">Хосты не выбраны</div>';
+                    document.getElementById("cbar-h").classList.remove("vis");
+                    return;
+                }
+                hUrls.forEach((item, i) => {
+                    const lbl = item.badge === "ub-bp" ? "bypass" : "hosts";
+                    box.appendChild(mkRow(item, i, lbl));
+                });
+                document.getElementById("cbar-h").classList.add("vis");
+                resetBtn("h");
+            }
+
+            function copyUrls(k) {
+                const list = k === "f" ? fUrls : hUrls;
+                navigator.clipboard
+                    .writeText(list.map((i) => i.url).join("\n"))
+                    .then(() => {
+                        const btn = document.getElementById("cbtn-" + k),
+                            lbl = document.getElementById("clbl-" + k);
+                        btn.classList.add("ok");
+                        lbl.textContent = "Скопировано!";
+                        setTimeout(() => {
+                            btn.classList.remove("ok");
+                            lbl.textContent = "Copy configuration";
+                        }, 2200);
+                    });
+            }
+
+            function resetBtn(k) {
+                document.getElementById("clbl-" + k).textContent =
+                    "Copy configuration";
+                document.getElementById("cbtn-" + k).classList.remove("ok");
+            }
+        </script>
+    </body>
+</html>
