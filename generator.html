@@ -501,6 +501,18 @@
                 background: rgba(240, 192, 64, 0.12);
                 color: var(--yellow);
             }
+            .t-base {
+                background: rgba(240, 79, 35, 0.14);
+                color: #ff7a52;
+            }
+            .t-bl {
+                background: rgba(62, 207, 142, 0.11);
+                color: var(--green);
+            }
+            .t-bp {
+                background: rgba(157, 135, 255, 0.14);
+                color: var(--purple);
+            }
 
             /* ── GENERATE ── */
             .btn-gen {
@@ -742,21 +754,21 @@
                             'flex';
                     "
                 />
-                <span class="logo-fb">🚫</span>
+                <span class="logo-fb">✋</span>
                 NoADS_RU
             </a>
             <div class="hsep"></div>
-            <span class="hsub">Filter Generator</span>
+            <span class="hsub">NoADS_RU Generator (v1)</span>
             <nav>
                 <a
-                    href="https://github.com/Zalexanninev15/NoADS_RU"
+                    href="https://codeberg.com/Zalexanninev15/NoADS_RU"
                     target="_blank"
-                    >GitHub</a
+                    >Репозиторий</a
                 >
                 <a
-                    href="https://github.com/Zalexanninev15/NoADS_RU/issues/new"
+                    href="https://codeberg.org/Zalexanninev15/NoADS_RU/issues/new"
                     target="_blank"
-                    >Проблема</a
+                    >Я нашёл проблему</a
                 >
                 <button
                     class="theme-btn"
@@ -791,10 +803,11 @@
         </header>
 
         <section class="hero">
-            <h1>Генератор<br /><em>списков фильтров</em></h1>
+            <h1>Генератор ссылок<br /><em>на списки фильтров и хосты</em></h1>
             <p>
                 Выберите нужные параметры и получите ссылки для подключения в
-                uBlock Origin, AdGuard и других блокировщиках.
+                uBlock Origin, AdGuard и других блокировщиках, а также ссылки на
+                хосты для быстрого использования на роутерах и в приложениях.
             </p>
         </section>
 
@@ -811,7 +824,14 @@
                     <!-- FILTERS TAB -->
                     <div class="tab-panel active" id="tab-filters">
                         <div class="sec">
-                            <div class="sec-lbl">Базовый список</div>
+                            <div class="sec-lbl">
+                                Базовый список
+                                <span
+                                    class="tag t-base"
+                                    style="vertical-align: middle"
+                                    >base</span
+                                >
+                            </div>
                             <div class="opts" id="base-group">
                                 <div
                                     class="opt sel"
@@ -837,22 +857,30 @@
                                 </div>
 
                                 <div class="rws-wrap vis" id="rws-wrap">
-                                    <div class="rws-opt" id="rws-opt">
+                                    <div
+                                        class="rws-opt"
+                                        id="rws-opt"
+                                        data-val="rws"
+                                        data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt"
+                                        data-count-type="filter"
+                                    >
                                         <div class="radio">
                                             <div class="rdot"></div>
                                         </div>
                                         <div>
                                             <div class="opt-name">
                                                 Яндекс / ВК / MAX / Mail.ru
-                                                <span class="cnt" id="cnt-rws"
-                                                    >…</span
-                                                >
                                                 <!--<span class="tag t-rws"
                                                     >RWS</span
                                                 >-->
+                                                <span class="cnt" id="cnt-rws"
+                                                    >…</span
+                                                >
                                             </div>
                                             <div class="opt-desc">
-                                                Переключает на NoADS_RU RWS.
+                                                Специальная версия NoADS_RU
+                                                адаптированная под "вредные"
+                                                ру-сервисы.
                                             </div>
                                         </div>
                                     </div>
@@ -1107,7 +1135,14 @@
                     <!-- HOSTS TAB -->
                     <div class="tab-panel" id="tab-hosts">
                         <div class="sec">
-                            <div class="sec-lbl">Блокировка</div>
+                            <div class="sec-lbl">
+                                Блокировка
+                                <span
+                                    class="tag t-bl"
+                                    style="vertical-align: middle"
+                                    >hosts</span
+                                >
+                            </div>
                             <div class="opts" id="hosts-block">
                                 <div
                                     class="opt"
@@ -1183,7 +1218,14 @@
                         </div>
 
                         <div class="sec">
-                            <div class="sec-lbl">Разблокировка</div>
+                            <div class="sec-lbl">
+                                Разблокировка
+                                <span
+                                    class="tag t-bp"
+                                    style="vertical-align: middle"
+                                    >bypass</span
+                                >
+                            </div>
                             <div class="opts" id="hosts-bypass">
                                 <div
                                     class="opt"
@@ -1245,7 +1287,6 @@
                                     <div>
                                         <div class="opt-name">
                                             Hosts Bypass2
-                                            <span class="tag t-b">β</span>
                                             <span class="cnt" id="cnt-bypass2"
                                                 >…</span
                                             >
@@ -1281,7 +1322,7 @@
                                     stroke-linejoin="round"
                                 />
                             </svg>
-                            Сгенерировать конфигурацию
+                            Сгенерировать конфигураци
                         </button>
                     </div>
                 </div>
@@ -1333,7 +1374,7 @@
                                         stroke-linecap="round"
                                     />
                                 </svg>
-                                <span id="clbl-f">Copy configuration</span>
+                                <span id="clbl-f">Скопировать ссылки</span>
                             </button>
                         </div>
                     </div>
@@ -1372,7 +1413,7 @@
                                         stroke-linecap="round"
                                     />
                                 </svg>
-                                <span id="clbl-h">Copy configuration</span>
+                                <span id="clbl-h">Скопировать ссылки</span>
                             </button>
                         </div>
                     </div>
@@ -1504,7 +1545,7 @@
                     const lines = text.split("\n");
                     let count = 0;
                     if (type === "hosts") {
-                        // First line: # Total hosts: N
+                        // Total hosts
                         const m = lines[0].match(/Total hosts:\s*(\d+)/i);
                         count = m
                             ? parseInt(m[1])
@@ -1515,7 +1556,7 @@
                                       !l.startsWith(" "),
                               ).length;
                     } else {
-                        // Filter: look for ! Total: N on first few lines
+                        // Total filters
                         let found = false;
                         for (let i = 0; i < Math.min(5, lines.length); i++) {
                             const m = lines[i].match(/^!\s*Total:\s*(\d+)/i);
@@ -1703,14 +1744,14 @@
                         lbl.textContent = "Скопировано!";
                         setTimeout(() => {
                             btn.classList.remove("ok");
-                            lbl.textContent = "Copy configuration";
+                            lbl.textContent = "Скопировать ссылки";
                         }, 2200);
                     });
             }
 
             function resetBtn(k) {
                 document.getElementById("clbl-" + k).textContent =
-                    "Copy configuration";
+                    "Скопировать ссылки";
                 document.getElementById("cbtn-" + k).classList.remove("ok");
             }
         </script>
