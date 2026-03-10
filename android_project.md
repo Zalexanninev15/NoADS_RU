@@ -8,30 +8,49 @@
 > [!NOTE]
 > Само-собой, всякие соборы информации гуглом, реклама, геолокация, программы улучшения пользовательского опыта и прочее, что находится непосредственно в настройках смартфона, должно быть уже отключено. Как и сбор информации о вас в аккаунте Google (не собо поможет, но всё же, это кранце важно). Все это легко сделать самостоятельно потратив 2-3 часа на изучение и поиск нужных настроек и пунктов. Расписывать не буду, сами найдёте, благо гайдов по этой теме очень много. Когда новиком был в Android 13-14 — искал по очень старым гайдам от [Power Device](https://youtube.com/@powerdevice) по устройствам Realme. Способов много, выбирайте удобный для себя.
 
+> [!WARNING]
+> После установки любого из модулей, он не станет самостоятельно работать с нужными приложением автоматически. Сначала модуль нужно активировать и выбрать приложение, к которому у модуля  будет доступ на модификацию. Для этого зайдите в LSPosed, активируйте модуль и выберите нужное приложение из списка (обычно рекомендуемое). Дальше модуль начнёт творить свою магию, а если нет — можно остановить приложение или сделать оптимизацию (все делается прямо в списке приложений для модуля).
+
 ## 🏆 Модули от Blue cat
 
 > [!TIP]
 > Вместо модификаций для приложений. Можно обновлять приложения независимо от модуля.
 
-* [Marketplace AdAway](https://github.com/Xposed-Modules-Repo/ru.bluecat.marketplaceadaway) - Wildberries, Ozon, Яндекс Маркет, Магнит Маркет (в составе магазинного приложения)
-* [Alfa Bank Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.alfabankpatcher) - Альфа Банк
+* [Marketplace AdAway](https://github.com/Xposed-Modules-Repo/ru.bluecat.marketplaceadaway) - убирает рекламу и скрывает лишнее в Wildberries, Ozon, Яндекс Маркет, Магнит Маркет (в составе магазинного приложения)
+* [Alfa Bank Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.alfabankpatcher) - убирает рекламу и скрывает лишнее в Альфа Банке (из-за деятельности "умников" в компании, теперь не работает Alfa Pay)
 > [!IMPORTANT]
 > Специализированная версия для работы Alfa Pay и оригинальные apk по [ссылке](https://mega.nz/folder/uiwk3I5Z#O-hjONQDwC4WkchlB7ikng).
 > Не используйте специализированную версию без модуля! Работать отдельно не будет!
-* [Yandex Maps Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher) - Яндекс Карты
-* [Sberbank Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.sberbankpatcher) - Сбербанк (рекомендую обратить вниманием на проект [GreenBank / SberQML](https://4pda.to/forum/index.php?showtopic=1097657) - неофициальный клиент для банка от Computershik для старых устройств и без рекламы, имеется также версия для [Windows Phone](https://4pda.to/forum/index.php?showtopic=1098057))
+* [Yandex Maps Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher) - кастомизация и убирает рекламу в Яндекс Картах
+* [Sberbank Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.sberbankpatcher) - кастомизация, убирает рекламу и много чего лишнего в Сбербанке (рекомендую обратить вниманием на проект [GreenBank / SberQML](https://4pda.to/forum/index.php?showtopic=1097657) - неофициальный клиент для банка от Computershik для старых устройств и без рекламы, имеется также версия для [Windows Phone](https://4pda.to/forum/index.php?showtopic=1098057))
 
 ## 🔥 ReVanced Xposed
 
 * [Основной проект](https://github.com/chsbuffer/ReVancedXposed) - Youtube, Google Photos, Youtube Music, Instagram, Threads, Strava, Photomath
 * [Spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify) - Spotify
 
+## 💬 Telegram
+
+> [!TIP]
+> В 99.9% случаев приведённые ниже модули, которые имеют версии хотя бы от 2025 года, заработают на ЛЮБОМ клиенте Telegram, главное не забыть выбрать нужный в LSPosed, однако автор рекомендует использовать TeleVip, т.к. он поддерживает даже самую новую версию Telegram с редизайном.
+
+* [TeleVip](https://github.com/Xposed-Modules-Repo/com.my.televip) - множество дополнительных настроек, модификаций, установите загрузки (аналог функции из TeleSpeed), локальный премиум, поддерживает последние версии клиентов Telegram
+* [TMoe](https://github.com/cinit/TMoe) - проект крайне схож с TeleVip, имеет также свои модификации. Найти APK бывает затруднительно (некоторые версии имеются в чате Telegram, ссылка на "мост" в репозитории проекта), всегда можно самому собрать модуль. Можно использовать APK из [форка от rushiranpise](https://github.com/rushiranpise/TMoe), но он не обновляется с 2024 года.
+* [TeleSpeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) - ускорение загрузки файлов и медиа в Telegram. Модуль давно не обновляется (APK), но его функционал встроен в [Nekogram](https://github.com/Nekogram/Nekogram).
+* [Re:Telegram](https://github.com/Sakion-Team/Re-Telegram) - проект аналогичен TeleVip и TMoe,  имеет свои особенности, но давно не обновлялся, последние версии Telegram не поддерживает
+* [TGɾαɱHσσƙʂ](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks) - такой же как и все остальные, модуль староват, сам не пользовался
+
+## 🥷 Скрытие
+
+* [NoVPNDetect](https://github.com/Xposed-Modules-Repo/me.hoshino.novpndetect) - скрытие статуса работы других помещений в режиме VPN для остальных приложений (нужно выбрать каких). Можно скрыть, чтобы Ozon, AliExpress (Россия), Avito, DNS, T2 и прочие не писали, что у вас замечен активированный VPN.
+* [Bypass Root Check Pro](https://github.com/Xposed-Modules-Repo/com.gauravssnl.bypassrootcheck.pro) - в теории скрывает Root при проверках в приложениях.
+* [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - модуль аналогичен Bypass Root Check Pro, но пытается сделать скрытие намного лучше и глобальнее.
+* [noplayserviceswarning](https://github.com/garbb/noplayserviceswarning) - помогает запустить приложения, которые требуют включения или обновления Сервисов Google Play, но прекрасно работают и без них.
+
 ## Другие проекты
 
 * [RedditRV от 21Modz](https://t.me/ytrvel/227) - Reddit
 * Для устройств Xiaomi рекомендуется данный проект: https://github.com/Kittyskj/FreeFromMi
-
-> Я бы посоветовал ещё парочку проектов от жадности Telegram, но их часто убирают (вы не представляете насколько хороши), поэтому не буду пожалуй. Насчитал 4 штуки. Все ставятся через LSPosed на почти любой клиент Telegram. Сам клиент можно обновлять независимо от модулей. Могу отправить отдельно вам через другой канал связи.
 
 ## Личная настройка приложений через App Manager
 
