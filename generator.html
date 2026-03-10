@@ -673,14 +673,61 @@
             .uname {
                 font-size: 13px;
                 font-weight: 500;
-                margin-bottom: 2px;
+                margin-bottom: 6px;
             }
-            .ulink {
+            .ucode-wrap {
+                display: flex;
+                align-items: center;
+                gap: 0;
+                background: var(--surf2);
+                border: 1px solid var(--border);
+                border-radius: 6px;
+                overflow: hidden;
+            }
+            .ucode {
                 font-family: var(--mono);
-                font-size: 10.5px;
+                font-size: 11px;
+                color: var(--sub);
+                white-space: nowrap;
+                overflow-x: auto;
+                padding: 6px 10px;
+                flex: 1;
+                line-height: 1.4;
+                scrollbar-width: thin;
+                scrollbar-color: var(--dim) transparent;
+            }
+            .ucode::-webkit-scrollbar {
+                height: 3px;
+            }
+            .ucode::-webkit-scrollbar-thumb {
+                background: var(--dim);
+                border-radius: 2px;
+            }
+            .ucopy {
+                flex-shrink: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 30px;
+                height: 30px;
+                background: none;
+                border: none;
+                border-left: 1px solid var(--border);
                 color: var(--muted);
-                word-break: break-all;
-                line-height: 1.6;
+                cursor: pointer;
+                transition: 0.15s;
+            }
+            .ucopy:hover {
+                color: var(--accent);
+                background: rgba(240, 79, 35, 0.07);
+            }
+            .ucopy.ok {
+                color: var(--green);
+            }
+            .ucopy svg {
+                width: 11px;
+                height: 11px;
+                pointer-events: none;
             }
             .copybar {
                 padding: 11px 16px;
@@ -746,7 +793,7 @@
                 class="logo"
             >
                 <img
-                    src="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/assets/Logo.png"
+                    id="logo-img"
                     alt=""
                     onerror="
                         this.style.display = 'none';
@@ -758,7 +805,7 @@
                 NoADS_RU
             </a>
             <div class="hsep"></div>
-            <span class="hsub">NoADS_RU Generator (v1)</span>
+            <span class="hsub">NoADS_RU Generator (v1.5)</span>
             <nav>
                 <a
                     href="https://codeberg.com/Zalexanninev15/NoADS_RU"
@@ -954,7 +1001,7 @@
                                     class="opt"
                                     data-val="webhosts_lite"
                                     data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts_lite.txt"
-                                    data-count-type="filter"
+                                    data-count-type="filter-count"
                                 >
                                     <div class="cbox">
                                         <svg
@@ -991,7 +1038,7 @@
                                     class="opt"
                                     data-val="webhosts"
                                     data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts.txt"
-                                    data-count-type="filter"
+                                    data-count-type="filter-count"
                                 >
                                     <div class="cbox">
                                         <svg
@@ -1026,7 +1073,7 @@
                                     class="opt"
                                     data-val="youtube"
                                     data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt"
-                                    data-count-type="filter"
+                                    data-count-type="filter-count"
                                 >
                                     <div class="cbox">
                                         <svg
@@ -1062,7 +1109,7 @@
                                     class="opt"
                                     data-val="ai_slop"
                                     data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt"
-                                    data-count-type="filter"
+                                    data-count-type="filter-count"
                                 >
                                     <div class="cbox">
                                         <svg
@@ -1098,7 +1145,7 @@
                                     class="opt"
                                     data-val="faust"
                                     data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt"
-                                    data-count-type="filter"
+                                    data-count-type="filter-count"
                                 >
                                     <div class="cbox">
                                         <svg
@@ -1422,58 +1469,120 @@
         </main>
 
         <script>
+            // ── Logo: compress & cache ──
+            (function () {
+                const LOGO_URL =
+                    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/assets/Logo.png";
+                const CACHE_KEY = "noads_logo_v1";
+                const img = document.getElementById("logo-img");
+                if (!img) return;
+
+                function applyLogo(dataUrl) {
+                    img.src = dataUrl;
+                }
+
+                function compressAndCache(src) {
+                    const raw = new Image();
+                    raw.crossOrigin = "anonymous";
+                    raw.onload = function () {
+                        try {
+                            // Draw at 2× the display size (52px) for crisp retina screens
+                            const SIZE = 52;
+                            const c = document.createElement("canvas");
+                            c.width = c.height = SIZE;
+                            c.getContext("2d").drawImage(raw, 0, 0, SIZE, SIZE);
+                            // WebP at 0.75 quality — tiny file, sharp enough at 26px
+                            const compressed = c.toDataURL("image/webp", 0.75);
+                            try {
+                                localStorage.setItem(CACHE_KEY, compressed);
+                            } catch (_) {}
+                            applyLogo(compressed);
+                        } catch (_) {
+                            // Canvas tainted (CORS) — just use the original
+                            applyLogo(src);
+                        }
+                    };
+                    raw.onerror = function () {
+                        img.dispatchEvent(new Event("error"));
+                    };
+                    raw.src = src;
+                }
+
+                // Try cache first — zero network cost
+                try {
+                    const cached = localStorage.getItem(CACHE_KEY);
+                    if (cached) {
+                        applyLogo(cached);
+                        return;
+                    }
+                } catch (_) {}
+
+                // First visit — fetch, compress, store
+                compressAndCache(LOGO_URL);
+            })();
+
             const B =
                 "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/";
+            const countCache = {};
             const FL = {
                 standard: {
+                    val: "standard",
                     url: B + "ads_list.txt",
                     name: "NoADS_RU",
                     badge: "ub-base",
                     lbl: "base",
                 },
                 rws: {
+                    val: "rws",
                     url: B + "ads_list_rws.txt",
                     name: "NoADS_RU RWS",
                     badge: "ub-base",
                     lbl: "base",
                 },
                 extended: {
+                    val: "extended",
                     url: B + "ads_list_extended.txt",
                     name: "NoADS_RU Extended",
                     badge: "ub-base",
                     lbl: "base",
                 },
                 extended_plus: {
+                    val: "extended_plus",
                     url: B + "ads_list_extended_plus.txt",
                     name: "NoADS_RU Ext. Plus",
                     badge: "ub-base",
                     lbl: "base",
                 },
                 webhosts_lite: {
+                    val: "webhosts_lite",
                     url: B + "filters/webhosts_lite.txt",
                     name: "WebHosts Lite",
                     badge: "ub-add",
                     lbl: "add-on",
                 },
                 webhosts: {
+                    val: "webhosts",
                     url: B + "filters/webhosts.txt",
                     name: "WebHosts",
                     badge: "ub-add",
                     lbl: "add-on",
                 },
                 youtube: {
+                    val: "youtube",
                     url: B + "filters/youtube.txt",
                     name: "YouTube",
                     badge: "ub-add",
                     lbl: "add-on",
                 },
                 ai_slop: {
+                    val: "ai_slop",
                     url: B + "filters/ai_slop_killer.txt",
                     name: "AI Slop Killer",
                     badge: "ub-add",
                     lbl: "add-on",
                 },
                 faust: {
+                    val: "faust",
                     url: B + "filters/faust.txt",
                     name: "Faust",
                     badge: "ub-add",
@@ -1482,21 +1591,25 @@
             };
             const HL = {
                 blocker: {
+                    val: "blocker",
                     url: B + "hosts/blocker.txt",
                     name: "Hosts Blocker",
                     badge: "ub-bl",
                 },
                 blockerFL: {
+                    val: "blockerFL",
                     url: B + "hosts/blockerFL.txt",
                     name: "Hosts BlockerFL",
                     badge: "ub-bl",
                 },
                 bypass: {
+                    val: "bypass",
                     url: B + "hosts/bypass.txt",
                     name: "Hosts Bypass",
                     badge: "ub-bp",
                 },
                 bypass2: {
+                    val: "bypass2",
                     url: B + "hosts/bypass2.txt",
                     name: "Hosts Bypass2",
                     badge: "ub-bp",
@@ -1535,28 +1648,32 @@
                 return n >= 1000 ? (n / 1000).toFixed(1) + "k" : String(n);
             }
 
-            async function fetchCount(url, type, id) {
+            async function fetchCount(url, type, id, val) {
                 const el = document.getElementById(id);
                 if (!el) return;
+                if (type === "filter-count") {
+                }
+                const RANGE = "bytes=0-511";
+                async function fetchHead() {
+                    const r = await fetch(url, { headers: { Range: RANGE } });
+                    if (r.status !== 206 && r.status !== 200)
+                        throw new Error("fail");
+                    return r.text();
+                }
                 try {
-                    const res = await fetch(url);
-                    if (!res.ok) throw new Error("fail");
-                    const text = await res.text();
+                    const text =
+                        type !== "filter-count" ? await fetchHead() : "";
                     const lines = text.split("\n");
                     let count = 0;
                     if (type === "hosts") {
-                        // Total hosts
                         const m = lines[0].match(/Total hosts:\s*(\d+)/i);
-                        count = m
-                            ? parseInt(m[1])
-                            : lines.filter(
-                                  (l) =>
-                                      l.trim() &&
-                                      !l.startsWith("#") &&
-                                      !l.startsWith(" "),
-                              ).length;
-                    } else {
-                        // Total filters
+                        if (m) {
+                            count = parseInt(m[1]);
+                        } else {
+                            el.textContent = "—";
+                            return;
+                        }
+                    } else if (type === "filter") {
                         let found = false;
                         for (let i = 0; i < Math.min(5, lines.length); i++) {
                             const m = lines[i].match(/^!\s*Total:\s*(\d+)/i);
@@ -1567,15 +1684,25 @@
                             }
                         }
                         if (!found) {
-                            count = lines.filter(
+                            el.textContent = "—";
+                            return;
+                        }
+                    } else {
+                        el.textContent = "…";
+                        const fullRes = await fetch(url);
+                        if (!fullRes.ok) throw new Error("fail");
+                        const fullText = await fullRes.text();
+                        count = fullText
+                            .split("\n")
+                            .filter(
                                 (l) =>
                                     l.trim() &&
                                     !l.startsWith("!") &&
                                     !l.startsWith("#") &&
                                     !l.startsWith(" "),
                             ).length;
-                        }
                     }
+                    if (val) countCache[val] = count;
                     el.textContent = fmt(count);
                     el.classList.add("loaded");
                 } catch (e) {
@@ -1589,7 +1716,12 @@
                     .querySelectorAll("[data-url][data-count-type]")
                     .forEach((opt) => {
                         const id = "cnt-" + opt.dataset.val;
-                        fetchCount(opt.dataset.url, opt.dataset.countType, id);
+                        fetchCount(
+                            opt.dataset.url,
+                            opt.dataset.countType,
+                            id,
+                            opt.dataset.val,
+                        );
                     });
             });
 
@@ -1687,26 +1819,70 @@
                 document.getElementById("res-card").classList.add("has");
             }
 
+            const COPY_SVG = `<svg viewBox="0 0 11 11" fill="none"><rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1.3" stroke="currentColor" stroke-width="1.2"/><path d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg>`;
+            const CHECK_SVG = `<svg viewBox="0 0 11 11" fill="none"><path d="M2 5.5L4.5 8L9 3" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
             function mkRow(item, i, lbl) {
                 const d = document.createElement("div");
                 d.className = "urow";
                 d.style.animationDelay = i * 30 + "ms";
+
+                const copyBtn = document.createElement("button");
+                copyBtn.className = "ucopy";
+                copyBtn.title = "Копировать ссылку";
+                copyBtn.innerHTML = COPY_SVG;
+                copyBtn.addEventListener("click", () => {
+                    navigator.clipboard.writeText(item.url).then(() => {
+                        copyBtn.classList.add("ok");
+                        copyBtn.innerHTML = CHECK_SVG;
+                        setTimeout(() => {
+                            copyBtn.classList.remove("ok");
+                            copyBtn.innerHTML = COPY_SVG;
+                        }, 1800);
+                    });
+                });
+
                 d.innerHTML =
                     '<span class="ubadge ' +
                     item.badge +
                     '">' +
                     lbl +
-                    '</span><div><div class="uname">' +
+                    "</span>" +
+                    '<div style="flex:1;min-width:0">' +
+                    '<div class="uname">' +
                     item.name +
-                    '</div><div class="ulink">' +
+                    "</div>" +
+                    '<div class="ucode-wrap">' +
+                    '<div class="ucode">' +
                     item.url +
-                    "</div></div>";
+                    "</div>" +
+                    "</div>" +
+                    "</div>";
+
+                d.querySelector(".ucode-wrap").appendChild(copyBtn);
                 return d;
+            }
+
+            function sumCounts(list) {
+                let total = 0,
+                    allLoaded = true;
+                list.forEach((item) => {
+                    if (countCache[item.val] !== undefined) {
+                        total += countCache[item.val];
+                    } else {
+                        allLoaded = false;
+                    }
+                });
+                return allLoaded
+                    ? fmt(total)
+                    : total > 0
+                      ? "~" + fmt(total)
+                      : list.length + " шт.";
             }
 
             function renderF() {
                 const box = document.getElementById("fbox");
-                document.getElementById("rbf").textContent = fUrls.length;
+                document.getElementById("rbf").textContent = sumCounts(fUrls);
                 box.innerHTML = "";
                 fUrls.forEach((item, i) =>
                     box.appendChild(mkRow(item, i, item.lbl)),
@@ -1717,14 +1893,14 @@
 
             function renderH() {
                 const box = document.getElementById("hbox");
-                document.getElementById("rbh").textContent =
-                    hUrls.length || "0";
                 box.innerHTML = "";
                 if (!hUrls.length) {
                     box.innerHTML = '<div class="ph">Хосты не выбраны</div>';
+                    document.getElementById("rbh").textContent = "0";
                     document.getElementById("cbar-h").classList.remove("vis");
                     return;
                 }
+                document.getElementById("rbh").textContent = sumCounts(hUrls);
                 hUrls.forEach((item, i) => {
                     const lbl = item.badge === "ub-bp" ? "bypass" : "hosts";
                     box.appendChild(mkRow(item, i, lbl));
