@@ -1,5 +1,5 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 11 марта 2026 года
+! Last modified: 12 апреля 2026 года
 ! Total: 18066
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
@@ -10076,6 +10076,7 @@ $removeparam=tracking_source
 $removeparam=tracking_type
 $removeparam=tracking_user
 $removeparam=traffic_id
+$removeparam=traffic_source
 $removeparam=traffic_type
 $removeparam=trflg
 $removeparam=/^trk/i
@@ -10170,7 +10171,6 @@ adressa.no$removeparam=/^rs[0-9]/i
 ||pixel.adsafeprotected.com/services/pub?$removeparam=wr
 adshares.net$removeparam=cid
 adsninja.ca$removeparam=url
-adweek.com$removeparam=traffic_source
 adthrive.com$removeparam
 afreecatv.com$removeparam=szFrom
 ||airbnb.*$removeparam=federated_search_id
@@ -20673,17 +20673,17 @@ askdev.ru###ishame
 @@||youtube.com/api/stats/watchtime?$image,domain=youtube.com
 
 ! Подконтрольный органам государственный мессенджер, который лишь притворяется нужным
-||max.ru
-||web.max.ru
-||max.ru
-||legal.max.ru
-||st.max.ru
-||link.max.ru
-||www.max.ru
-||api.max.ru
-||dev.max.ru
-||help.max.ru
-||download.max.ru
+||max.ru^
+||web.max.ru^
+||max.ru^
+||legal.max.ru^
+||st.max.ru^
+||link.max.ru^
+||www.max.ru^
+||api.max.ru^
+||dev.max.ru^
+||help.max.ru^
+||download.max.ru^
 
 ! Super Black List
 ||direct.yandex.ru
