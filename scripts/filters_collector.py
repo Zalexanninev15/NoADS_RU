@@ -8,7 +8,6 @@ import requests
 
 def get_last_modified_line():
     months = [
-        "",
         "января",
         "февраля",
         "марта",
