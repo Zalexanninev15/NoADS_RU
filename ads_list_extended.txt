@@ -1,6 +1,6 @@
 ! Title: 😎 NoADS_RU Extended
-! Last modified: 12 апреля 2026 года
-! Total: 77798
+! Last modified: 13 апреля 2026 года
+! Total: 77799
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -28924,6 +28924,7 @@ $removeparam=urrad,domain=u-s-s.jp|belta.co.jp
 ||credit-suisse.com/media/assets/aep/ot-cmp/
 ||cscript-cdn-irl.abb.com^
 ||dam.bbcchannels.com^*/outside-iframe.js
+||default.beam-emea.prd.api.hbomax.com/legal/*/consentexperience?
 ||dropboxstatic.com/static/atlas/privacy_consent/
 ||duotonesports.com^*/public/ccm
 ||emerse.com/consent.js
