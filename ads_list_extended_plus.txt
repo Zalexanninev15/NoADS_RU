@@ -1,6 +1,6 @@
 ! Title: ⚠️ NoADS_RU Extended Plus
-! Last modified: 12 апреля 2026 года
-! Total: 179232
+! Last modified: 13 апреля 2026 года
+! Total: 179235
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -13081,7 +13081,6 @@ $removeparam=adjust_campaign
 $removeparam=ir_campaignid
 $removeparam=ir_adid
 $removeparam=ir_partnerid
-$removeparam=_kx
 $removeparam=at_campaign
 $removeparam=at_campaign_type
 $removeparam=at_creation
@@ -20761,6 +20760,7 @@ omni.soundestlink.com$image
 ||cryptvalue.com^
 ||crystalboulevard.com^
 ||cubchannel.com^
+||cubeglobal.net^
 ||cubepins.com^
 ||cuddlycake.com^
 ||cuddlylab.com^
@@ -20984,6 +20984,7 @@ omni.soundestlink.com$image
 ||feedandpurr.com^
 ||feedten.com^
 ||feignedfaucet.com^
+||femalecook.com^
 ||fencesync.com^
 ||fewjuice.com^
 ||fewkittens.com^
@@ -30452,7 +30453,7 @@ phileweb.com##+js(set-attr, span[class] img.lazyload[width], src, [data-src])
 e-begin.jp##.inviewSection:not(.is-show):style(transform: translateY(0) !important; opacity: 1 !important;)
 mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||googletagmanager.com/gtm.js$important,domain=mustar.meitetsu.co.jp
-coomer.st,kemono.cr##+js(set-local-storage-item, plausible_ignore, true)
+coomer.st,kemono.cr,official.coomer.com.co##+js(set-local-storage-item, plausible_ignore, true)
 ncbi.nlm.nih.gov##+js(set, ncbi.sg, {})
 ncbi.nlm.nih.gov##+js(set, ncbi.sg.ping, noopFunc)
 ||ncbi.nlm.nih.gov/core/pinger/pinger.js
@@ -68408,6 +68409,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||portal.cityspark.com/v1/event$domain=dailycamera.com
 @@||postex.com/api/ping?$~third-party
 @@||powerquality.eaton.com/include/js/elqScr.js$~third-party
+@@||prod-backend.jls-sto1.elastx.net/graphql$domain=webcamcollections.com
 @@||ps.w.org/wp-slimstat/$domain=wordpress.org
 @@||pub.pixels.ai/prebid_standard.js$script,domain=standard.co.uk
 @@||public.fbot.me/events/$domain=casper.com
@@ -85473,6 +85475,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||credit-suisse.com/media/assets/aep/ot-cmp/
 ||cscript-cdn-irl.abb.com^
 ||dam.bbcchannels.com^*/outside-iframe.js
+||default.beam-emea.prd.api.hbomax.com/legal/*/consentexperience?
 ||dropboxstatic.com/static/atlas/privacy_consent/
 ||duotonesports.com^*/public/ccm
 ||emerse.com/consent.js
