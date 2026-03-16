@@ -1,4 +1,4 @@
-# Total hosts: 579453
+# Total hosts: 579452
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com
 0.0.0.0 0--d.com
@@ -571368,7 +571368,6 @@
 0.0.0.0 youtubee.top
 0.0.0.0 youtubeemailscrapperpro.info
 0.0.0.0 youtubegorillasyoutubegorillas.com
-0.0.0.0 youtubei.googleapis.com
 0.0.0.0 youtubei.youtube.com
 0.0.0.0 youtuberevanced.app
 0.0.0.0 youtuberevanced.net

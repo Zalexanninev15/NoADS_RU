@@ -138,7 +138,6 @@
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 s.youtube.com
 0.0.0.0 redirector.googlevideo.com
-0.0.0.0 youtubei.googleapis.com
 0.0.0.0 adsrvr.org
 0.0.0.0 smartyads.com
 0.0.0.0 ad.gt
