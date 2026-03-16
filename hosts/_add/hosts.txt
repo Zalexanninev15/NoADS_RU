@@ -1,3 +1,4 @@
+0.0.0.0 ads.steaminventoryhelper.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 cdn.Isyndicate.com
 0.0.0.0 tsyndicate.com
@@ -138536,7 +138537,6 @@
 0.0.0.0 sdk.irdatabase.com
 0.0.0.0 bankcard.nfcpay.ru.intl.mipay.com
 0.0.0.0 bankcard.nfcpay.eu.intl.mipay.com
-#Adobe Ver 26.8
 0.0.0.0 adobe.io
 0.0.0.0 x0850n5e.1q9cz.adobestats.io
 0.0.0.0 0ojupfm51u.adobe.io

@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 13 апреля 2026 года
-! Total: 21448
+! Last modified: 16 апреля 2026 года
+! Total: 21446
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -10081,6 +10081,7 @@ $removeparam=ymid
 $removeparam=yredirect
 $removeparam=zmg_code
 $removeparam=_zucks_suid
+13tv.co.il$removeparam=refc
 1688.com$removeparam=__removesafearea__
 1688.com$removeparam=src_cna
 3dnews.ru$removeparam=topblock
@@ -20627,6 +20628,7 @@ askdev.ru###ishame
 ##a[href*="/ads"]
 ||play.google.com/log?*
 ||grok.com/api/log_metric*
+@@||/?sentry_key=^$domain=spotify.com
 
 ! Google Black List
 ||doubleclick.net
@@ -20979,17 +20981,6 @@ www.apkmirror.com##div[class*="ai-track.ains"]
 
 ! Dec 11, 2025 https://pizzafabrika.ru
 pizzafabrika.ru##div[class*="download-app-drawer_sheet_"]
-
-! Jan 1, 2026 https://open.spotify.com
-@@||cdn.cookielaw.org/scripttemplates/$script,domain=open.spotify.com
-@@||www.googletagmanager.com/gtm.js$script,domain=open.spotify.com
-@@||www.googletagmanager.com^$script,domain=open.spotify.com
-@@||www.googleoptimize.com^$script,domain=open.spotify.com
-@@||accounts.spotify.com/login/$document,domain=accounts.spotify.com
-open.spotify.com##div[data-testid="signup-bar"]
-@@||/?sentry_key=^$domain=spotify.com
-@@||geolocation.onetrust.com^$xhr,domain=open.spotify.com
-@@||www.googletagmanager.com^$domain=open.spotify.com
 
 ! Jan 5, 2026 https://www.deepl.com
 www.deepl.com##.md\:block.hidden > .bg-redesign-sapphire-blue-500
@@ -25000,9 +24991,3 @@ auto.ru##div[class*="AdminsMarketing"]
 auto.ru##div[class^="RecommendationsItem__ad"]
 auto.ru##a[class*="Telegram"]
 auto.ru##a[href*="https://t.me/+"]
-
-! Mar 13, 2026 https://open.spotify.com
-open.spotify.com##div[data-testid="signup-bar"]
-open.spotify.com##div[data-testid*="premium"]
-open.spotify.com##a[href*="download"]
-open.spotify.com##button:has-text(/^Premium$/)
