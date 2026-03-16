@@ -665,15 +665,34 @@
         }
 
         /* full → orange */
-        .rb-full { background: rgba(240,79,35,0.15); color: #ff7a52; }
+        .rb-full {
+            background: rgba(240, 79, 35, 0.15);
+            color: #ff7a52;
+        }
+
         /* add-on → purple */
-        .rb-add  { background: rgba(157,135,255,0.13); color: var(--purple); }
+        .rb-add {
+            background: rgba(157, 135, 255, 0.13);
+            color: var(--purple);
+        }
+
         /* hosts blocker → green */
-        .rb-bl   { background: rgba(62,207,142,0.13); color: var(--green); }
+        .rb-bl {
+            background: rgba(62, 207, 142, 0.13);
+            color: var(--green);
+        }
+
         /* bypass → purple-muted */
-        .rb-bp   { background: rgba(157,135,255,0.14); color: var(--purple); }
+        .rb-bp {
+            background: rgba(157, 135, 255, 0.14);
+            color: var(--purple);
+        }
+
         /* empty fallback */
-        .rb-none { background: var(--surf2); color: var(--muted); }
+        .rb-none {
+            background: var(--surf2);
+            color: var(--muted);
+        }
 
         .res-panel {
             display: none;
@@ -869,11 +888,13 @@
         @media (max-width: 860px) {
             .layout {
                 grid-template-columns: 1fr;
-                gap: 16px; /* visible gap between card-col and out on mobile */
+                gap: 16px;
+                /* visible gap between card-col and out on mobile */
             }
         }
 
         @media (max-width: 560px) {
+
             .hero,
             .layout {
                 padding-left: 16px;
@@ -892,20 +913,21 @@
 
         /* Prevent URL code blocks from blowing layout */
         .layout,
-        .layout > *,
+        .layout>*,
         .out,
         .res-card,
         .res-panel,
         .urlbox,
         .urow,
-        .urow > div {
+        .urow>div {
             min-width: 0;
         }
 
         /* Code block: scroll the URL, pin the copy button */
         .ucode-wrap {
             max-width: 100%;
-            overflow: hidden; /* clip, not expand */
+            overflow: hidden;
+            /* clip, not expand */
         }
 
         .ucode {
@@ -917,43 +939,116 @@
 
         /* ── SCROLL TO TOP ── */
         .scroll-top {
-            position: fixed; bottom: 28px; right: 28px; z-index: 100;
-            width: 40px; height: 40px; border-radius: 50%;
-            background: var(--accent); border: none; cursor: pointer;
-            display: flex; align-items: center; justify-content: center;
-            box-shadow: 0 4px 18px rgba(240,79,35,0.35);
-            opacity: 0; transform: translateY(12px) scale(0.85);
-            pointer-events: none; transition: opacity 0.25s, transform 0.25s;
+            position: fixed;
+            bottom: 28px;
+            right: 28px;
+            z-index: 100;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 18px rgba(240, 79, 35, 0.35);
+            opacity: 0;
+            transform: translateY(12px) scale(0.85);
+            pointer-events: none;
+            transition: opacity 0.25s, transform 0.25s;
         }
-        .scroll-top.vis { opacity: 1; transform: none; pointer-events: auto; }
-        .scroll-top:hover { background: #cf3a0e; transform: translateY(-2px); box-shadow: 0 6px 22px rgba(240,79,35,0.5); }
-        .scroll-top:active { transform: none; }
-        .scroll-top svg { width: 16px; height: 16px; color: #fff; }
+
+        .scroll-top.vis {
+            opacity: 1;
+            transform: none;
+            pointer-events: auto;
+        }
+
+        .scroll-top:hover {
+            background: #cf3a0e;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 22px rgba(240, 79, 35, 0.5);
+        }
+
+        .scroll-top:active {
+            transform: none;
+        }
+
+        .scroll-top svg {
+            width: 16px;
+            height: 16px;
+            color: #fff;
+        }
+
         @media (max-width: 560px) {
-            .scroll-top { bottom: 18px; right: 18px; width: 36px; height: 36px; }
+            .scroll-top {
+                bottom: 18px;
+                right: 18px;
+                width: 36px;
+                height: 36px;
+            }
         }
 
         /* ── SUBSCRIBE TOOLTIP ── */
-        .sub-wrap { position: relative; display: inline-block; }
+        .sub-wrap {
+            position: relative;
+            display: inline-block;
+        }
+
         .sub-tip {
-            position: absolute; left: 0; top: calc(100% + 8px); z-index: 50;
-            background: var(--surf); border: 1px solid var(--border);
-            border-radius: 9px; padding: 10px 12px; width: 260px;
-            box-shadow: 0 6px 24px rgba(0,0,0,0.18);
-            font-size: 11.5px; color: var(--sub); line-height: 1.55;
+            position: absolute;
+            left: 0;
+            top: calc(100% + 8px);
+            z-index: 50;
+            background: var(--surf);
+            border: 1px solid var(--border);
+            border-radius: 9px;
+            padding: 10px 12px;
+            width: 260px;
+            box-shadow: 0 6px 24px rgba(0, 0, 0, 0.18);
+            font-size: 11.5px;
+            color: var(--sub);
+            line-height: 1.55;
             display: none;
         }
-        .sub-tip.open { display: block; }
-        .sub-tip p { margin-bottom: 7px; }
-        .sub-tip .sub-copy {
-            display: flex; align-items: center; gap: 5px; width: 100%;
-            padding: 5px 8px; background: var(--surf2);
-            border: 1px solid var(--border); border-radius: 6px;
-            font-family: var(--mono); font-size: 10px; color: var(--sub);
-            cursor: pointer; transition: 0.15s; text-align: left;
+
+        .sub-tip.open {
+            display: block;
         }
-        .sub-tip .sub-copy:hover { border-color: var(--accent); color: var(--accent); }
-        .sub-tip .sub-url { flex:1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+        .sub-tip p {
+            margin-bottom: 7px;
+        }
+
+        .sub-tip .sub-copy {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            width: 100%;
+            padding: 5px 8px;
+            background: var(--surf2);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            font-family: var(--mono);
+            font-size: 10px;
+            color: var(--sub);
+            cursor: pointer;
+            transition: 0.15s;
+            text-align: left;
+        }
+
+        .sub-tip .sub-copy:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .sub-tip .sub-url {
+            flex: 1;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
 
         .opt-sub {
             display: inline-flex;
@@ -1060,7 +1155,7 @@
             NoADS_RU
         </a>
         <div class="hsep"></div>
-        <span class="hsub">NoADS_RU Generator (v1.9c)</span>
+        <span class="hsub">NoADS_RU Generator</span>
         <nav>
             <a href="https://codeberg.com/Zalexanninev15/NoADS_RU" target="_blank">Репозиторий</a>
             <a href="https://codeberg.org/Zalexanninev15/NoADS_RU/issues/new" target="_blank">Я нашёл проблему</a>
@@ -1257,7 +1352,8 @@
                                     </div>
                                     <div class="opt-desc">
                                         Фильтры для YouTube и
-                                        видеохостингов.
+                                        видеохостингов, а также для
+                                        других медиа-сервисов.
                                     </div>
                                 </div>
                             </div>
@@ -1420,82 +1516,81 @@
                 </div>
             </div>
 
-            </div>
+        </div>
 
-            <!-- OUTPUT -->
-            <div class="out">
-                <div class="res-card" id="res-card">
-                    <div class="res-tabs">
-                        <button class="res-tab active" data-rtab="rf">
-                            Фильтры <span class="rbadges" id="rbf"><span class="rbadge rb-none">—</span></span>
-                        </button>
-                        <button class="res-tab" data-rtab="rh">
-                            Хосты <span class="rbadges" id="rbh"><span class="rbadge rb-none">—</span></span>
-                        </button>
-                    </div>
+        <!-- OUTPUT -->
+        <div class="out">
+            <div class="res-card" id="res-card">
+                <div class="res-tabs">
+                    <button class="res-tab active" data-rtab="rf">
+                        Фильтры <span class="rbadges" id="rbf"><span class="rbadge rb-none">—</span></span>
+                    </button>
+                    <button class="res-tab" data-rtab="rh">
+                        Хосты <span class="rbadges" id="rbh"><span class="rbadge rb-none">—</span></span>
+                    </button>
+                </div>
 
-                    <div class="res-panel active" id="rf">
-                        <div class="urlbox" id="fbox">
-                            <div class="ph">
-                                Настройте параметры
-                            </div>
-                        </div>
-                        <div class="copybar-ext" id="cbar-f">
-                            <a class="btn-link"
-                                href="https://codeberg.org/Zalexanninev15/NoADS_RU#%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B5-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B8-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81%D0%BE-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BC"
-                                target="_blank" rel="noopener"><svg width="11" height="11" viewBox="0 0 11 11"
-                                    fill="none">
-                                    <path d="M2 1.5h6a.5.5 0 0 1 .5.5v7.5H2.5A1 1 0 0 1 1.5 8.5v-7A.5.5 0 0 1 2 1z"
-                                        stroke="currentColor" stroke-width="1.1" stroke-linejoin="round" />
-                                    <path d="M8.5 9.5a1 1 0 0 1-1 1H2.5" stroke="currentColor" stroke-width="1.1"
-                                        stroke-linecap="round" />
-                                    <path d="M3.5 3.5h3M3.5 5.5h2" stroke="currentColor" stroke-width="1.1"
-                                        stroke-linecap="round" />
-                                </svg> Инструкция</a>
-                            <button class="btn-copy" id="cbtn-f" onclick="copyUrls('f')"><svg width="11" height="11"
-                                    viewBox="0 0 11 11" fill="none">
-                                    <rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1.3" stroke="currentColor"
-                                        stroke-width="1.2" />
-                                    <path
-                                        d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5"
-                                        stroke="currentColor" stroke-width="1.2" stroke-linecap="round" />
-                                </svg> <span id="clbl-f">Скопировать ссылки</span></button>
+                <div class="res-panel active" id="rf">
+                    <div class="urlbox" id="fbox">
+                        <div class="ph">
+                            Настройте параметры
                         </div>
                     </div>
-
-                    <div class="res-panel" id="rh">
-                        <div class="urlbox" id="hbox">
-                            <div class="ph">
-                                Выберите хосты на вкладке «Хосты»
-                            </div>
-                        </div>
-                        <div class="copybar-ext" id="cbar-h">
-                            <a class="btn-link" href="https://github.com/Zalexanninev15/NoADS_RU/discussions/22"
-                                target="_blank" rel="noopener"><svg width="11" height="11" viewBox="0 0 11 11"
-                                    fill="none">
-                                    <rect x="1" y="4" width="9" height="4.5" rx="1" stroke="currentColor"
-                                        stroke-width="1.1" />
-                                    <path d="M3.5 6.2h.01M5.5 6.2h.01M7.5 6.2h.01" stroke="currentColor"
-                                        stroke-width="1.4" stroke-linecap="round" />
-                                    <path d="M3.5 4V3M5.5 4V2M7.5 4V3" stroke="currentColor" stroke-width="1.1"
-                                        stroke-linecap="round" />
-                                </svg> OpenWRT</a>
-                            <button class="btn-copy" id="cbtn-h" onclick="copyUrls('h')"><svg width="11" height="11"
-                                    viewBox="0 0 11 11" fill="none">
-                                    <rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1.3" stroke="currentColor"
-                                        stroke-width="1.2" />
-                                    <path
-                                        d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5"
-                                        stroke="currentColor" stroke-width="1.2" stroke-linecap="round" />
-                                </svg> <span id="clbl-h">Скопировать ссылки</span></button>
-                        </div>
+                    <div class="copybar-ext" id="cbar-f">
+                        <a class="btn-link"
+                            href="https://codeberg.org/Zalexanninev15/NoADS_RU#%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B5-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B8-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81%D0%BE-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BC"
+                            target="_blank" rel="noopener"><svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+                                <path d="M2 1.5h6a.5.5 0 0 1 .5.5v7.5H2.5A1 1 0 0 1 1.5 8.5v-7A.5.5 0 0 1 2 1z"
+                                    stroke="currentColor" stroke-width="1.1" stroke-linejoin="round" />
+                                <path d="M8.5 9.5a1 1 0 0 1-1 1H2.5" stroke="currentColor" stroke-width="1.1"
+                                    stroke-linecap="round" />
+                                <path d="M3.5 3.5h3M3.5 5.5h2" stroke="currentColor" stroke-width="1.1"
+                                    stroke-linecap="round" />
+                            </svg> Инструкция</a>
+                        <button class="btn-copy" id="cbtn-f" onclick="copyUrls('f')"><svg width="11" height="11"
+                                viewBox="0 0 11 11" fill="none">
+                                <rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1.3" stroke="currentColor"
+                                    stroke-width="1.2" />
+                                <path
+                                    d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5"
+                                    stroke="currentColor" stroke-width="1.2" stroke-linecap="round" />
+                            </svg> <span id="clbl-f">Скопировать ссылки</span></button>
                     </div>
                 </div>
+
+                <div class="res-panel" id="rh">
+                    <div class="urlbox" id="hbox">
+                        <div class="ph">
+                            Выберите хосты на вкладке «Хосты»
+                        </div>
+                    </div>
+                    <div class="copybar-ext" id="cbar-h">
+                        <a class="btn-link" href="https://github.com/Zalexanninev15/NoADS_RU/discussions/22"
+                            target="_blank" rel="noopener"><svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+                                <rect x="1" y="4" width="9" height="4.5" rx="1" stroke="currentColor"
+                                    stroke-width="1.1" />
+                                <path d="M3.5 6.2h.01M5.5 6.2h.01M7.5 6.2h.01" stroke="currentColor" stroke-width="1.4"
+                                    stroke-linecap="round" />
+                                <path d="M3.5 4V3M5.5 4V2M7.5 4V3" stroke="currentColor" stroke-width="1.1"
+                                    stroke-linecap="round" />
+                            </svg> OpenWRT</a>
+                        <button class="btn-copy" id="cbtn-h" onclick="copyUrls('h')"><svg width="11" height="11"
+                                viewBox="0 0 11 11" fill="none">
+                                <rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1.3" stroke="currentColor"
+                                    stroke-width="1.2" />
+                                <path
+                                    d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5"
+                                    stroke="currentColor" stroke-width="1.2" stroke-linecap="round" />
+                            </svg> <span id="clbl-h">Скопировать ссылки</span></button>
+                    </div>
+                </div>
+            </div>
     </main>
 
     <button class="scroll-top" id="scroll-top" title="Наверх" onclick="window.scrollTo({top:0,behavior:'smooth'})">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M8 13V3M4 7l4-4 4 4"/>
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"
+            stroke-linejoin="round">
+            <path d="M8 13V3M4 7l4-4 4 4" />
         </svg>
     </button>
 
@@ -1881,7 +1976,7 @@
             el.innerHTML = parts.map(p => {
                 const txt = p.loading && p.total === 0 ? '…'
                     : p.loading ? '~' + fmt(p.total)
-                    : fmt(p.total);
+                        : fmt(p.total);
                 return `<span class="rbadge ${p.cls}">${txt}</span>`;
             }).join('');
         }
@@ -1889,7 +1984,7 @@
         function refreshFBadge() {
             renderBadges("rbf", [
                 { cls: "rb-full", badgeType: "ub-full", list: fUrls },
-                { cls: "rb-add",  badgeType: "ub-add",  list: fUrls },
+                { cls: "rb-add", badgeType: "ub-add", list: fUrls },
             ]);
         }
         function refreshHBadge() {
@@ -1994,7 +2089,7 @@
             const isApproved = /^https?:\/\/(github\.com|[^/]+\.github\.io|filterlists\.com|forums\.lanik\.us|[^/]+\.letsblock\.it)/.test(location.href);
 
             // Close all tooltips when clicking elsewhere
-            document.addEventListener('click', function(e) {
+            document.addEventListener('click', function (e) {
                 if (!e.target.closest('.sub-wrap')) {
                     document.querySelectorAll('.sub-tip.open').forEach(t => t.classList.remove('open'));
                 }
@@ -2018,12 +2113,12 @@
                     // On approved domain → direct abp: link, works natively
                     btn.target = '_self';
                     btn.rel = 'noopener';
-                    btn.addEventListener('click', function(e) { e.stopPropagation(); });
+                    btn.addEventListener('click', function (e) { e.stopPropagation(); });
                 } else {
                     // Not approved → show tooltip with copy fallback
                     btn.removeAttribute('href');
                     btn.style.cursor = 'pointer';
-                    btn.addEventListener('click', function(e) {
+                    btn.addEventListener('click', function (e) {
                         e.preventDefault(); e.stopPropagation();
                         const tip = wrap.querySelector('.sub-tip');
                         const wasOpen = tip.classList.contains('open');
@@ -2040,7 +2135,7 @@
                     copyRow.className = 'sub-copy';
                     copyRow.title = 'Скопировать ссылку';
                     copyRow.innerHTML = CPICO + '<span class="sub-url">' + item.url + '</span>';
-                    copyRow.addEventListener('click', function(e) {
+                    copyRow.addEventListener('click', function (e) {
                         e.stopPropagation();
                         navigator.clipboard.writeText(item.url).then(() => {
                             copyRow.innerHTML = CHICO + '<span class="sub-url">Скопировано!</span>';
@@ -2061,4 +2156,5 @@
         })();
     </script>
 </body>
+
 </html>

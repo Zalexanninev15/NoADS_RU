@@ -1,5 +1,5 @@
-! Title: 📹 NoADS_RU YouTube
-! Last modified: 25 февраля 2026 года
+! Title: 📹🎧 NoADS_RU YouTube
+! Last modified: 16 марта 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -12,7 +12,7 @@
 ! https://codeberg.org/Zalexanninev15/NoADS_RU/issues/new
 ! Правила создания обращения: https://codeberg.org/Zalexanninev15/NoADS_RU#%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C
 
-! Основные фильтры
+! Основные фильтры (YouTube)
 ! Remove empty spaces in grid
 www.youtube.com##ytd-rich-grid-row,#contents.ytd-rich-grid-row:style(display: contents !important)
 ! Hide all videos containing the phrase "#shorts"
@@ -72,7 +72,6 @@ youtube.com##.pivot-shorts.pivot-bar-item-tab
 youtube.com##.yt-simple-endpoint[title="Shorts"]
 ! Updated rules
 youtube.com##.ytGridShelfViewModelHost:has-text(Shorts)
-
 ! Возвращение 5 видео в ряд на YouTube
 youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 5 !important;)
 youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-posts-per-row: 5 !important;)
@@ -82,3 +81,22 @@ youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-slim-items-per-r
 youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-game-cards-per-row: 7 !important;)
 youtube.com##+js(set-attr, ytd-rich-shelf-renderer, is-show-more-hidden)
 youtube.com##+js(ra, hidden, ytd-rich-item-renderer, stay)
+
+! Spotify
+@@||cdn.cookielaw.org/scripttemplates/$script,domain=open.spotify.com
+@@||www.googletagmanager.com/gtm.js$script,domain=open.spotify.com
+@@||www.googletagmanager.com^$script,domain=open.spotify.com
+@@||www.googleoptimize.com^$script,domain=open.spotify.com
+@@||accounts.spotify.com/login/$document,domain=accounts.spotify.com
+open.spotify.com##div[data-testid="signup-bar"]
+@@||geolocation.onetrust.com^$xhr,domain=open.spotify.com
+@@||www.googletagmanager.com^$domain=open.spotify.com
+open.spotify.com##button[title*="Premium"]
+open.spotify.com##span:has-text(/^Premium$/)
+open.spotify.com##span:has-text(/^Download$/)
+open.spotify.com##button[aria-label="Download"]
+open.spotify.com##a[href*="premium"]
+open.spotify.com##div[data-testid="signup-bar"]
+open.spotify.com##div[data-testid*="premium"]
+open.spotify.com##a[href*="download"]
+open.spotify.com##button:has-text(/^Premium$/)
