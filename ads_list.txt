@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 13 апреля 2026 года
-! Total: 21503
+! Last modified: 16 апреля 2026 года
+! Total: 21500
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -10136,6 +10136,7 @@ $removeparam=ymid
 $removeparam=yredirect
 $removeparam=zmg_code
 $removeparam=_zucks_suid
+13tv.co.il$removeparam=refc
 1688.com$removeparam=__removesafearea__
 1688.com$removeparam=src_cna
 3dnews.ru$removeparam=topblock
