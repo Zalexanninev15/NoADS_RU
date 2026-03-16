@@ -23940,6 +23940,7 @@
 0.0.0.0 ads.starzd.com
 0.0.0.0 ads.statesmanjournal.com
 0.0.0.0 ads.static.blip.tv
+0.0.0.0 ads.steaminventoryhelper.com
 0.0.0.0 ads.steelhousemedia.com
 0.0.0.0 ads.stepstone.be
 0.0.0.0 ads.stickyadstv.com
@@ -160907,7 +160908,6 @@
 0.0.0.0 youtrack.ops.connatix.com
 0.0.0.0 youtransfer.net
 0.0.0.0 youtube.112.2o7.net
-0.0.0.0 youtubei.googleapis.com
 0.0.0.0 youtubei.youtube.com
 0.0.0.0 yovoads.com
 0.0.0.0 yowmelhhkeovd.store

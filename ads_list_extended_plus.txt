@@ -179078,7 +179078,6 @@ www.nexusmods.com##.donation-form
 ||outcome-ssp.supersonicads.com
 ||s.youtube.com
 ||redirector.googlevideo.com
-||youtubei.googleapis.com
 ||adsrvr.org
 ||smartyads.com
 ||ad.gt

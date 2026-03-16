@@ -319168,8 +319168,6 @@
 ||youtube-transcript.io^
 ||youtube.112.2o7.net^
 ||youtubee.biz^
-||youtubei.googleapis.com^
-||youtubei.youtube.com^
 ||youtuhe.biz^
 ||youtuhe.com^
 ||youvisit.fr^
