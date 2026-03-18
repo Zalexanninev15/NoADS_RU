@@ -59,13 +59,16 @@
 * [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - помогает сделать скрытие для определённых приложений.
 * [noplayserviceswarning](https://github.com/garbb/noplayserviceswarning) - помогает запустить приложения, которые требуют включения или обновления Сервисов Google Play, но прекрасно работают и без них.
 
-## Другие проекты
+## 🌳 Хосты
 
-* [Яндекс SRow](https://4pda.to/forum/index.php?showtopic=749081&view=findpost&p=88687314) (модификация Яндекс Клавиатуры) — на мой субъективный взгляд лучшая клавиатура из существующих. Именно модификация!
-* [RedditRV от 21Modz](https://t.me/ytrvel/227) - Reddit
+* [bindhosts](https://github.com/bindhosts/) - для использования **NoADS_RU Hosts Blocker** и **NoADS_RU Hosts BlockerFL** на устройствах с root-правами. А также [AdAway](https://4pda.to/forum/index.php?showtopic=275091).
 * Для устройств Xiaomi рекомендуется данный проект: https://github.com/Kittyskj/FreeFromMi
 
-## Личная настройка приложений через App Manager
+## 👺 Другие проекты (модификации)
+* [Яндекс SRow](https://4pda.to/forum/index.php?showtopic=749081&view=findpost&p=88687314) (модификация Яндекс Клавиатуры) — на мой субъективный взгляд лучшая клавиатура из существующих. Именно модификация!
+* [RedditRV от 21Modz](https://t.me/ytrvel/227) - Reddit
+
+## 🥸 Личная настройка приложений через App Manager
 
 😉 Убираем трекеры и метрику с Zalexanninev15! Рекомендую применять как для модификаций (т.к. в них всё равно остаются следы и рабочие *плохие вещи*), так и к оригинальным приложениям.
 
