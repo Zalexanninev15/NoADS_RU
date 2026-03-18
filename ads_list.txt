@@ -1,10 +1,12 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 16 апреля 2026 года
-! Total: 21500
+! Last modified: 18 апреля 2026 года
+! Total: 21087
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
 ! Donate: https://z15.neocities.org/donate
+
+! Автор выражает огромный респект mtxadmin, hoshsadiq и многим другим.
 
 ! Если на вашем любимом сайте осталась реклама или фильтр создаёт проблемы
 ! в его работе, то свяжитесь со мной, пожалуйста:
@@ -24654,3 +24656,6 @@ auto.ru##div[class*="AdminsMarketing"]
 auto.ru##div[class^="RecommendationsItem__ad"]
 auto.ru##a[class*="Telegram"]
 auto.ru##a[href*="https://t.me/+"]
+
+! CP
+##div[class="messages_cookies"]
