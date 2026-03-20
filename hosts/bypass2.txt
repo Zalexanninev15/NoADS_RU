@@ -1,4 +1,6 @@
-# Total hosts: 189
+# Total hosts: 191
+142.54.189.110 generativelanguage.googleapis.com
+142.54.189.109 generativelanguage.googleapis.com
 185.87.51.182 ab.chatgpt.com
 185.87.51.182 account.jetbrains.com
 185.87.51.182 accounts.autodesk.com
