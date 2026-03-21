@@ -238,6 +238,13 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 
 ## Совместимость списка
 
+| Тип | Поддерживает |
+| --- | --- |
+| Списки фильтров (для браузера) | <img src="https://z15.neocities.org/images/ad/ubo.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/vivaldi.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/brave.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/adblock.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/adblock_plus.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/adblock_based.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/adguard.png" width="20" height="20"/> |
+| Списки хостов | <img src="https://z15.neocities.org/images/ad/android_hosts.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/hosts_os.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/openwrt.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/pi-hole.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/adguard_os.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/adguard_android.png" width="20" height="20"/> <img src="https://z15.neocities.org/images/ad/adguard_home.png" width="20" height="20"/> |
+
+---
+
 !! **СПИСОКИ ФИЛЬТРОВ НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ НА МАРШРУТИЗАТОРАХ (РОУТЕРАХ) И В HOST(S)-ФАЙЛАХ** !!
 
 > [!NOTE]
