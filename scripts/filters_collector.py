@@ -22,7 +22,7 @@ def get_last_modified_line():
         "декабря",
     ]
     today = datetime.today()
-    return f"! Last modified: {today.day} {months[today.month]} {today.year} года\n"
+    return f"! Last modified: {today.day} {months[today.month-1]} {today.year} года\n"
 
 
 def count_rules(lines):
