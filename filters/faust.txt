@@ -1,0 +1,36 @@
+! Title: 👨‍💻 NoADS_RU Faust's Lists
+! Author: Faust
+! Homepage: https://gist.github.com/dymitr-ua
+
+! Список фильтров
+parcelsapp.com##body > div
+pass.proton.me##.text-sm.md\:block.hidden.anime-reveal
+web.telegram.org##.is-group-first.is-group-last.is-similar-channels.service.bubble
+web.telegram.org##.sponsored-media-preview.open.Message.SponsoredMessage
+www.atbmarket.com##article.banner-item:nth-of-type(n)
+web.telegram.org##.pinned-sponsored.pinned-container.is-floating
+pass.proton.me##.button.button-medium.button-outline-weak.button-pill.button-solid-norm.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient.flex-nowrap.shrink-0
+
+! Старый список фильтров
+gotoshop.ua##.hidden-print.ads-item-,.ads-item.item
+gotoshop.ua##.product-ads,.ads-item
+hotline.ua##.catalog-promo-products
+hotline.ua##.promo-list-item--row.promo-list-item
+tabletki.ua###HeaderPanel_AppsPanel
+tabletki.ua##.com__panel
+tabletki.ua##.banner__install
+tabletki.ua##.btn-small-upper.btn-sm.btn-outline-orange.btn
+www.eway.in.ua##.android.application-banner
+rozetka.com.ua##rz-widget-goods.ng-star-inserted
+www.terabox.com##.seo-banner-box
+www.terabox.com##.bottom-tip-wrap
+web.telegram.org##.open.Message.SponsoredMessage
+||igg-games.com/wp-content/uploads/*/*/netfl*.jpg$image
+||igg-games.com/wp-content/uploads/*/*/hh*.gif$image
+||www.startpage.com/*/*/ads/*$subdocument
+web.telegram.org##.avoid-selection.is-group-first.is-group-last.can-have-tail.is-in.bubble
+||igg-games.com/wp-content/uploads/*/*/netf*.jpg$image
+gamecopyworld.com###sk
+gamecopyworld.com###bt
+gamecopyworld.com##[src="/ddd/ii/tc/is_lb_1.gif"]
+||gamecopyworld.com/ddd/ii/tc/is_*$image
