@@ -475,46 +475,23 @@
             border-color: var(--dim);
         }
 
-        /* ── RWS SUB ── */
-        .rws-wrap {
-            margin: 4px 0 0 25px;
-            display: none;
-        }
-
-        .rws-wrap.vis {
-            display: block;
-        }
-
-        .rws-opt {
-            display: flex;
-            align-items: flex-start;
-            gap: 10px;
-            padding: 9px 12px;
-            border: 1px dashed var(--dim);
-            border-radius: 7px;
-            cursor: pointer;
-            transition: 0.15s;
-            user-select: none;
-            background: var(--surf);
-        }
-
-        .rws-opt:hover {
+        /* date badge on option cards, next to count */
+        .date-cnt {
+            font-family: var(--mono);
+            font-size: 10px;
+            font-weight: 600;
+            padding: 1px 6px;
+            border-radius: 4px;
             background: var(--surf2);
+            border: 1px solid var(--border);
+            color: var(--muted);
+            white-space: nowrap;
+            transition: color 0.2s, border-color 0.2s;
         }
 
-        .rws-opt.on {
-            border-color: var(--accent);
-            border-style: solid;
-            background: rgba(240, 79, 35, 0.06);
-        }
-
-        .rws-opt.on .radio {
-            border-color: var(--accent);
-        }
-
-        .rws-opt.on .rdot {
-            opacity: 1;
-            transform: scale(1);
+        .date-cnt.loaded {
+            color: var(--yellow);
+            border-color: rgba(240, 192, 64, 0.3);
         }
 
         /* ── TAG ── */
@@ -1221,28 +1198,26 @@
                                 </div>
                             </div>
 
-                            <div class="rws-wrap" id="rws-wrap">
-                                <div class="rws-opt" id="rws-opt" data-val="rws"
-                                    data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt"
-                                    data-count-type="filter">
-                                    <div class="radio">
-                                        <div class="rdot"></div>
+                                <div class="opt" data-val="rws"
+                                data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt"
+                                data-count-type="filter">
+                                <div class="radio">
+                                    <div class="rdot"></div>
+                                </div>
+                                <div>
+                                    <div class="opt-name">
+                                        Стандартный RWS
+                                        <!--<span class="tag t-rws"
+                                                        >RWS</span
+                                                    >-->
+                                        <span class="cnt" id="cnt-rws">…</span>
                                     </div>
-                                    <div>
-                                        <div class="opt-name">
-                                            Стандартный RWS
-                                            <!--<span class="tag t-rws"
-                                                    >RWS</span
-                                                >-->
-                                            <span class="cnt" id="cnt-rws">…</span>
-                                        </div>
-                                        <div class="opt-desc">
-                                            Специальная версия NoADS_RU
-                                            адаптированная конкретно под
-                                            гарантированную работоспособность
-                                            сервисов Яндекс, ВК, MAX, Mail.ru.
-                                            Использовать на своё усмотрение.
-                                        </div>
+                                    <div class="opt-desc">
+                                        Специальная версия NoADS_RU
+                                        адаптированная конкретно под
+                                        гарантированную работоспособность
+                                        сервисов Яндекс, ВК, MAX, Mail.ru.
+                                        Использовать на своё усмотрение.
                                     </div>
                                 </div>
                             </div>
@@ -1650,6 +1625,7 @@
         const B =
             "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/";
         const countCache = {};
+        const dateCache = {};
         const FL = {
             standard: {
                 val: "standard",
@@ -1818,8 +1794,8 @@
                     const fullRes = await fetch(url);
                     if (!fullRes.ok) throw new Error("fail");
                     const fullText = await fullRes.text();
-                    count = fullText
-                        .split("\n")
+                    const fullLines = fullText.split("\n");
+                    count = fullLines
                         .filter(
                             (l) =>
                                 l.trim() &&
@@ -1827,10 +1803,31 @@
                                 !l.startsWith("#") &&
                                 !l.startsWith(" "),
                         ).length;
+                    // For filter-count, extract date from full fetch
+                    if (val && fullLines.length >= 2) {
+                        const dm = fullLines[1].match(/^[!#]\s*Last modified:\s*(.+)/i);
+                        if (dm) dateCache[val] = dm[1].trim();
+                    }
                 }
                 if (val) countCache[val] = count;
                 el.textContent = fmt(count);
                 el.classList.add("loaded");
+
+                // Update date badge on opt card
+                if (val) {
+                    const dm = lines.length >= 2
+                        ? lines[1].match(/^[!#]\s*Last modified:\s*(.+)/i)
+                        : null;
+                    if (dm) dateCache[val] = dm[1].trim();
+                    const dateEl = document.getElementById('date-cnt-' + val);
+                    if (dateEl && dateCache[val]) {
+                        dateEl.textContent = dateCache[val];
+                        dateEl.classList.add('loaded');
+                    } else if (dateEl) {
+                        dateEl.textContent = "—";
+                    }
+                }
+
                 // Refresh tab badges live as counts arrive
                 refreshFBadge();
                 refreshHBadge();
@@ -1841,6 +1838,19 @@
 
         // Fetch all counts on load
         document.addEventListener("DOMContentLoaded", () => {
+            // Inject date badge span after .cnt in every opt-name
+            document.querySelectorAll("[data-url][data-count-type]").forEach((opt) => {
+                const val = opt.dataset.val;
+                const cntEl = document.getElementById("cnt-" + val);
+                if (cntEl) {
+                    const span = document.createElement("span");
+                    span.className = "date-cnt";
+                    span.id = "date-cnt-" + val;
+                    span.textContent = "…";
+                    cntEl.after(span);
+                }
+            });
+
             document
                 .querySelectorAll("[data-url][data-count-type]")
                 .forEach((opt) => {
@@ -1899,25 +1909,8 @@
                     .querySelectorAll("#full-group > .opt")
                     .forEach((o) => o.classList.remove("sel"));
                 opt.classList.add("sel");
-                const isStd = opt.dataset.val === "standard";
-                document
-                    .getElementById("rws-wrap")
-                    .classList.toggle("vis", isStd);
-                if (!isStd) {
-                    rwsOpt._on = false;
-                    rwsOpt.classList.remove("on");
-                }
                 generate();
             });
-        });
-
-        // ── RWS ──
-        const rwsOpt = document.getElementById("rws-opt");
-        rwsOpt._on = false;
-        rwsOpt.addEventListener("click", () => {
-            rwsOpt._on = !rwsOpt._on;
-            rwsOpt.classList.toggle("on", rwsOpt._on);
-            generate();
         });
 
         // ── Checkboxes ──
@@ -1935,12 +1928,10 @@
         // ── Generate ──
         function generate() {
             fUrls = [];
-            hUrls = [];
+            hUrls =[];
             const selOpt = document.querySelector("#full-group .opt.sel");
             if (selOpt) {
-                const bv = selOpt.dataset.val;
-                const bk = bv === "standard" && rwsOpt._on ? "rws" : bv;
-                fUrls.push(FL[bk]);
+                fUrls.push(FL[selOpt.dataset.val]);
             }
             document.querySelectorAll("#addon-group .opt.on").forEach((o) => {
                 if (FL[o.dataset.val]) fUrls.push(FL[o.dataset.val]);

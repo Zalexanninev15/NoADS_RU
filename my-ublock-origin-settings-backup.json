@@ -1,6 +1,6 @@
 {
   "timeStamp": 1772026446346,
-  "version": "1.69.0",
+  "version": "1.70.0",
   "userSettings": {
     "advancedUserEnabled": true,
     "cnameUncloakEnabled": false,
@@ -25,7 +25,8 @@
   "selectedFilterLists": [
     "user-filters",
     "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt",
-    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt"
+    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt",
+    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt"
   ],
   "hiddenSettings": {
     "autoUpdateDelayAfterLaunch": 80,
