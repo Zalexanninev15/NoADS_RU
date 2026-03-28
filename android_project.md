@@ -66,7 +66,7 @@
 
 ## 👺 Другие проекты (модификации)
 * [Яндекс SRow](https://4pda.to/forum/index.php?showtopic=749081&view=findpost&p=88687314) (модификация Яндекс Клавиатуры) — на мой субъективный взгляд лучшая клавиатура из существующих. Именно модификация!
-* [RedditRV от 21Modz](https://t.me/ytrvel/227) - Reddit
+* [RedditM от 21Modz (новее)](https://t.me/ytrvel/235) / [RedditRV от 21Modz](https://t.me/ytrvel/227) - модификация Reddit, основана на проекте ReVanced
 
 ## 🥸 Личная настройка приложений через App Manager
 
