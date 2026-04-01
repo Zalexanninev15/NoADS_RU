@@ -252,11 +252,23 @@ def main():
     )
 
     proxies = None
-    if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y":
-        addr = input("⚙️  Адрес (например: 127.0.0.1:3401): ").strip()
-        if not addr:
-            addr = "127.0.0.1:3401"
-        proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
+    proxy_file = ".s5proxy"
+    if os.path.exists(proxy_file):
+        try:
+            with open(proxy_file, "r", encoding="utf-8") as pf:
+                addr = pf.readline().strip()
+                if not addr == "":
+                    print(f"🌐 Автовыбор прокси из файла: {addr}")
+                    proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
+        except:
+            pass
+
+    if not proxies:
+        if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y":
+            addr = input("⚙️  Адрес (например: 127.0.0.1:3401): ").strip()
+            if not addr:
+                addr = "127.0.0.1:3401"
+            proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
 
     print("\n[1/2] Получение и очистка фильтров...")
     cleaned_filters = fetch_and_clean_filters(

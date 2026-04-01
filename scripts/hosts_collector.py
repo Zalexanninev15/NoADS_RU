@@ -1,10 +1,30 @@
 import os
 import re
+from datetime import datetime
 
 import requests
 
 
-def load_exceptions(exc_file="exceptions_hosts.txt"):
+def get_last_modified_line():
+    months = [
+        "января",
+        "февраля",
+        "марта",
+        "апреля",
+        "мая",
+        "июня",
+        "июля",
+        "августа",
+        "сентября",
+        "октября",
+        "ноября",
+        "декабря",
+    ]
+    today = datetime.today()
+    return f"# Last modified: {today.day} {months[today.month-1]} {today.year} года\n"
+
+
+def load_exceptions(exc_file="exceptions_hosts.dat"):
     """Загружает исключения для хостов."""
     exceptions = {"exact": set(), "regex": []}
     if not os.path.exists(exc_file):
@@ -144,6 +164,7 @@ def save_hosts_file(output_path, hosts, default_ip=None):
 
         with open(output_path, "w", encoding="utf-8") as out:
             out.write(f"# Total hosts: {len(hosts)}\n")
+            out.write(get_last_modified_line())
             if default_ip is not None:
                 for host in sorted(hosts):
                     out.write(f"{default_ip} {host}\n")
@@ -191,30 +212,43 @@ def main():
         return
 
     proxies = None
-    if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y":
-        addr = input("⚙️  Адрес (например: 127.0.0.1:3401): ")
-        if addr == "":
-            addr = "127.0.0.1:3401"
-        proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
+    proxy_file = ".s5proxy"
+    if os.path.exists(proxy_file):
+        try:
+            with open(proxy_file, "r", encoding="utf-8") as pf:
+                addr = pf.readline().strip()
+                if not addr == "":
+                    print(f"🌐 Автовыбор прокси из файла: {addr}")
+                    proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
+        except:
+            pass
+
+    if not proxies:
+        if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y":
+            addr = input("⚙️  Адрес (например: 127.0.0.1:3401): ")
+            if addr == "":
+                addr = "127.0.0.1:3401"
+            proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
 
     base_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../hosts")
 
-    print("\n[1/3] Обработка стандартных источников...")
+    print("\n[1/2] Обработка стандартных источников...")
     blocker_hosts, bypass_hosts = process_hosts_from_list(
         standard_list, exceptions, proxies
     )
     save_hosts_file(f"{base_dir}/blocker.txt", blocker_hosts, "0.0.0.0")
     save_hosts_file(f"{base_dir}/bypass.txt", bypass_hosts)
 
-    if two_list:
-        print("\n[2/3] Обработка источников [2]...")
-        _, two_bypass = process_hosts_from_list(two_list, exceptions, proxies)
-        bypass2_hosts = bypass_hosts.copy()
-        bypass2_hosts.update(two_bypass)
-        save_hosts_file(f"{base_dir}/bypass2.txt", bypass2_hosts)
+    # На данный момент неактуально, так как список хостов собирается вручную.
+    # if two_list:
+    #     print("\n[2/3] Обработка источников для ByPass2...")
+    #     _, two_bypass = process_hosts_from_list(two_list, exceptions, proxies)
+    #     bypass2_hosts = bypass_hosts.copy()
+    #     bypass2_hosts.update(two_bypass)
+    #     save_hosts_file(f"{base_dir}/bypass2.txt", bypass2_hosts)
 
     if fl_list:
-        print("\n[3/3] Обработка источников [FL]...")
+        print("\n[2/2] Обработка расширенных источников для BlockerFL...")
         fl_blocker, _ = process_hosts_from_list(fl_list, exceptions, proxies)
         blockerFL_hosts = blocker_hosts.copy()
         blockerFL_hosts.update(fl_blocker)
