@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 27 марта 2026 года
-! Total: 21101
+! Last modified: 1 апреля 2026 года
+! Total: 21102
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -11329,6 +11329,7 @@ theplatform.com$removeparam=/^((?!SMIL|formats).)*$/i
 theregister.com$removeparam=td
 theresanaiforthat.com$removeparam=term
 thetimes.co.uk$removeparam=shareToken
+ticketshop.ru$removeparam=r
 tiktok.com$removeparam=app_name
 tiktok.com$removeparam=browser_language
 tiktok.com$removeparam=browser_name
