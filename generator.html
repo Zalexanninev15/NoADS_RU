@@ -1198,7 +1198,7 @@
                                 </div>
                             </div>
 
-                                <div class="opt" data-val="rws"
+                            <div class="opt" data-val="rws"
                                 data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt"
                                 data-count-type="filter">
                                 <div class="radio">
@@ -1753,8 +1753,7 @@
         async function fetchCount(url, type, id, val) {
             const el = document.getElementById(id);
             if (!el) return;
-            if (type === "filter-count") {
-            }
+
             const RANGE = "bytes=0-511";
             async function fetchHead() {
                 const r = await fetch(url, { headers: { Range: RANGE } });
@@ -1762,16 +1761,27 @@
                     throw new Error("fail");
                 return r.text();
             }
+
             try {
-                const text =
-                    type !== "filter-count" ? await fetchHead() : "";
-                const lines = text.split("\n");
+                let lines = [];
                 let count = 0;
+
+                if (type !== "filter-count") {
+                    const text = await fetchHead();
+                    lines = text.split("\n");
+                }
+
                 if (type === "hosts") {
-                    const m = lines[0].match(/Total hosts:\s*(\d+)/i);
-                    if (m) {
-                        count = parseInt(m[1]);
-                    } else {
+                    let found = false;
+                    for (let i = 0; i < Math.min(5, lines.length); i++) {
+                        const m = lines[i].match(/Total hosts:\s*(\d+)/i);
+                        if (m) {
+                            count = parseInt(m[1]);
+                            found = true;
+                            break;
+                        }
+                    }
+                    if (!found) {
                         el.textContent = "—";
                         return;
                     }
@@ -1794,31 +1804,31 @@
                     const fullRes = await fetch(url);
                     if (!fullRes.ok) throw new Error("fail");
                     const fullText = await fullRes.text();
-                    const fullLines = fullText.split("\n");
-                    count = fullLines
-                        .filter(
-                            (l) =>
-                                l.trim() &&
-                                !l.startsWith("!") &&
-                                !l.startsWith("#") &&
-                                !l.startsWith(" "),
-                        ).length;
-                    // For filter-count, extract date from full fetch
-                    if (val && fullLines.length >= 2) {
-                        const dm = fullLines[1].match(/^[!#]\s*Last modified:\s*(.+)/i);
-                        if (dm) dateCache[val] = dm[1].trim();
-                    }
+                    lines = fullText.split("\n");
+                    count = lines.filter(
+                        (l) =>
+                            l.trim() &&
+                            !l.startsWith("!") &&
+                            !l.startsWith("#") &&
+                            !l.startsWith(" ")
+                    ).length;
                 }
+
                 if (val) countCache[val] = count;
                 el.textContent = fmt(count);
                 el.classList.add("loaded");
 
-                // Update date badge on opt card
+                // Update date badge on opt card (searches across both hosts and filters files)
                 if (val) {
-                    const dm = lines.length >= 2
-                        ? lines[1].match(/^[!#]\s*Last modified:\s*(.+)/i)
-                        : null;
-                    if (dm) dateCache[val] = dm[1].trim();
+                    let dm = null;
+                    for (let i = 0; i < Math.min(8, lines.length); i++) {
+                        dm = lines[i].match(/^[!#]\s*Last modified:\s*(.+)/i);
+                        if (dm) break;
+                    }
+                    if (dm) {
+                        dateCache[val] = dm[1].trim();
+                    }
+
                     const dateEl = document.getElementById('date-cnt-' + val);
                     if (dateEl && dateCache[val]) {
                         dateEl.textContent = dateCache[val];
@@ -1833,6 +1843,10 @@
                 refreshHBadge();
             } catch (e) {
                 el.textContent = "—";
+                if (val) {
+                    const dateEl = document.getElementById('date-cnt-' + val);
+                    if (dateEl) dateEl.textContent = "—";
+                }
             }
         }
 
@@ -1928,7 +1942,7 @@
         // ── Generate ──
         function generate() {
             fUrls = [];
-            hUrls =[];
+            hUrls = [];
             const selOpt = document.querySelector("#full-group .opt.sel");
             if (selOpt) {
                 fUrls.push(FL[selOpt.dataset.val]);
