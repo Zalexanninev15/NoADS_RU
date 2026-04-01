@@ -1,4 +1,5 @@
-# Total hosts: 192
+# Total hosts: 193
+# Last modified: 1 апреля 2026 года
 45.155.204.190 ab.chatgpt.com
 45.155.204.190 account.jetbrains.com
 45.155.204.190 accounts.autodesk.com
@@ -39,6 +40,7 @@
 45.155.204.190 auth0.openai.com
 157.240.245.174 b.i.instagram.com
 45.155.204.190 backend.deepl.com
+255.255.255.255 broadcasthost
 45.155.204.190 builds.parsec.app
 45.155.204.190 calendar.notion.so
 45.155.204.190 cdn.auth0.com
