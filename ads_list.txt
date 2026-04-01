@@ -24679,3 +24679,7 @@ re-store.ru##.gf-mini-banner
 re-store.ru##.cookie-agreement
 re-store.ru##.r-footer__info
 re-store.ru##.icons-socials.footer-contacts__social
+
+! Apr 1, 2026 https://www.reddit.com
+www.reddit.com##faceplate-modal[id="blocking-modal"]
+www.reddit.com##div.mt-md > faceplate-tracker
