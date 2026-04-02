@@ -4,9 +4,6 @@
 
 **Ура! Репозиторию NoADS_RU исполнилось 6 лет 🏆 и [![](https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/stargazers) на GitHub**
 
-> [!NOTE]
-> Некоторое время обновлений не будет, сейчас занимаюсь подготовкой третьей задачи из списка и перепроверяю вообще всё на наличие возможных повторных ошибок, которые ранее были обнаружены (через обращения/задачи/Issue) и исправлены, но могли вернуться из-за обновления скриптом или по моей невнимательности. Также я занимаюсь первой задачей, пора немного актуализировать логотип и сразу создать его сжатым, чтобы загрузка репозитория и страницы подключения происходила быстрее.
-
 [![](https://img.shields.io/badge/platform-AdBlocking_Extensions-F40D12.svg?logo=adblock)](https://codeberg.com/Zalexanninev15/NoADS_RU)
 [![](https://img.shields.io/badge/scripts-Python-%233776AB.svg?logo=python)](https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/scripts)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/commits/main)
@@ -31,7 +28,7 @@
 Список фильтров для блокировки элементов на русскоязычных, и не только, сайтах. Список составляю вручную, блокируется и то, что не может заблокировать никакое расширение (upd. под конец 2025 года уже не уверен, особенно если прикрутить крутую нейронку). Автор старается охватить как можно большее число сайтов. При большом желании ВЫ (да, 🫵) можете самостоятельно добавить новые элементы для блокировки и попросить добавить их в основной список. [Правила создания задач (Issue)](https://codeberg.org/Zalexanninev15/NoADS_RU#%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C).
 
 > [!NOTE]
-> Также проектом **NoADS_RU** развивается список для гарантированной работы RU-сервисов (**NoADS_RU RWS**), расширенные списки фильтров (**NoADS_RU Extended** и **NoADS_RU Extended Plus**), Add-on списки фильтров, списки хостов (**NoADS_RU Hosts**), блокировка рекламы на Android (**NoADS_RU Android Project**) и списки "заражённых" Telegram каналов (**NoADS_RU TGCL**).
+> Также проектом **NoADS_RU** развивается список для гарантированной работы RU-сервисов (**NoADS_RU RWS**), расширенные списки фильтров (**NoADS_RU Extended** и **NoADS_RU Extended Plus**), Add-on списки фильтров, списки хостов (**NoADS_RU Hosts**), блокировка рекламы на Android (**NoADS_RU Android Project**) и информация по безопасному чтению Telegram каналов (**NoADS_RU TGCL**).
 
 Имеется небольшой [генератор](https://z15.neocities.org/apps/noads_ru) для удобства и возможности быстро сориентироваться.
 
@@ -76,7 +73,7 @@
 А также:
 - Блокировка аналитики, рекламы, сбора данных на вашем смартфоне - **NoADS_RU Android Project**.
 - Self-hosted альтернативы привычным сервисам и общий уход от централизованных сервисов, а также другие "дополнения" для современного веба - **NoADS_RU My Web**.
-- Информация по "гнилым" каналам - **NoADS_RU TGCL**.
+- Информация по безопасному чтению Telegram каналов - **NoADS_RU TGCL**.
 
 > Более подробно про все представленные выше проекты смотрите чуть ниже в разделе **Альтернативные фильтры, прочие списки и сторонние проекты в рамках NoADS_RU**
 </details>
@@ -208,7 +205,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 
 #### 📱 NoADS_RU Android Project
 
-[Перейти в Android Project](https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/android_project.md)
+[Перейти в Android Project](./android_project.md)
 
 Описание:
 Блокировка рекламы и сбора данных на Android.
@@ -236,10 +233,10 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 
 #### 📟 NoADS_RU TGCL
 
-[Точка входа](https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/tgcl)
+[Точка входа](./TGCL.md)
 
 Описание:
-Списки небезопасных русскоязычных Telegram каналов по категориям, от которых лучше отписаться, либо пустить в RSS (имеются примеры ссылок).
+Мини-проект направленный на безопасное чтение Telegram каналов + примеры использования.
 
 ## Совместимость списка
 
@@ -250,7 +247,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 
 ---
 
-!! **СПИСОКИ ФИЛЬТРОВ НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ НА МАРШРУТИЗАТОРАХ (РОУТЕРАХ) И В HOST(S)-ФАЙЛАХ** !!
+!! **СПИСКИ ФИЛЬТРОВ НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ НА МАРШРУТИЗАТОРАХ (РОУТЕРАХ) И В HOST(S)-ФАЙЛАХ** !!
 
 > [!NOTE]
 > Это связано с тем что список содержит не записи/домены/IP-адреса сайтов, а лишь указывает на элементы на самом сайте, грубо говоря, "косметическая блокировка контента".
