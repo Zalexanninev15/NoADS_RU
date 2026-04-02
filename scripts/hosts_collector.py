@@ -213,18 +213,22 @@ def main():
 
     proxies = None
     proxy_file = ".s5proxy"
+    use_proxy_auto = True
     if os.path.exists(proxy_file):
         try:
             with open(proxy_file, "r", encoding="utf-8") as pf:
                 addr = pf.readline().strip()
                 if not addr == "":
-                    print(f"🌐 Автовыбор прокси из файла: {addr}")
-                    proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
+                    if addr == "0":
+                        use_proxy_auto = False
+                    else:
+                        print(f"🌐 Прокси выбран автоматически: {addr}")
+                        proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
         except:
             pass
 
     if not proxies:
-        if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y":
+        if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y" or use_proxy_auto:
             addr = input("⚙️  Адрес (например: 127.0.0.1:3401): ")
             if addr == "":
                 addr = "127.0.0.1:3401"

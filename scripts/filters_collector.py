@@ -22,7 +22,7 @@ def get_last_modified_line():
         "декабря",
     ]
     today = datetime.today()
-    return f"! Last modified: {today.day} {months[today.month-1]} {today.year} года\n"
+    return f"! Last modified: {today.day} {months[today.month - 1]} {today.year} года\n"
 
 
 def count_rules(lines):
@@ -251,22 +251,28 @@ def main():
         f"⏳ Загружено исключений: {len(exceptions['exact'])} точных, {len(exceptions['regex'])} regex"
     )
 
-    proxies = None
     proxy_file = ".s5proxy"
+    use_proxy_auto = True
     if os.path.exists(proxy_file):
         try:
             with open(proxy_file, "r", encoding="utf-8") as pf:
                 addr = pf.readline().strip()
                 if not addr == "":
-                    print(f"🌐 Автовыбор прокси из файла: {addr}")
-                    proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
+                    if addr == "0":
+                        use_proxy_auto = False
+                    else:
+                        print(f"🌐 Прокси выбран автоматически: {addr}")
+                        proxies = {
+                            "http": f"socks5h://{addr}",
+                            "https": f"socks5h://{addr}",
+                        }
         except:
             pass
 
     if not proxies:
-        if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y":
-            addr = input("⚙️  Адрес (например: 127.0.0.1:3401): ").strip()
-            if not addr:
+        if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y" or use_proxy_auto:
+            addr = input("⚙️  Адрес (например: 127.0.0.1:3401): ")
+            if addr == "":
                 addr = "127.0.0.1:3401"
             proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
 
