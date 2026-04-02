@@ -4,9 +4,6 @@
 
 **Ура! Репозиторию NoADS_RU исполнилось 6 лет 🏆 и [![](https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/stargazers) на GitHub**
 
-> [!NOTE]
-> Некоторое время обновлений не будет, сейчас занимаюсь подготовкой третьей задачи из списка и перепроверяю вообще всё на наличие возможных повторных ошибок, которые ранее были обнаружены (через обращения/задачи/Issue) и исправлены, но могли вернуться из-за обновления скриптом или по моей невнимательности. Также я занимаюсь первой задачей, пора немного актуализировать логотип и сразу создать его сжатым, чтобы загрузка репозитория и страницы подключения происходила быстрее.
-
 [![](https://img.shields.io/badge/platform-AdBlocking_Extensions-F40D12.svg?logo=adblock)](https://codeberg.com/Zalexanninev15/NoADS_RU)
 [![](https://img.shields.io/badge/scripts-Python-%233776AB.svg?logo=python)](https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/scripts)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/commits/main)
@@ -250,7 +247,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 
 ---
 
-!! **СПИСОКИ ФИЛЬТРОВ НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ НА МАРШРУТИЗАТОРАХ (РОУТЕРАХ) И В HOST(S)-ФАЙЛАХ** !!
+!! **СПИСКИ ФИЛЬТРОВ НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ НА МАРШРУТИЗАТОРАХ (РОУТЕРАХ) И В HOST(S)-ФАЙЛАХ** !!
 
 > [!NOTE]
 > Это связано с тем что список содержит не записи/домены/IP-адреса сайтов, а лишь указывает на элементы на самом сайте, грубо говоря, "косметическая блокировка контента".
