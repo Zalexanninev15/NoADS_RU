@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 1 апреля 2026 года
-! Total: 21048
+! Last modified: 2 апреля 2026 года
+! Total: 21050
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -788,10 +788,6 @@ yandex.ru##.distr-default-search_js_inited.i-dbn-cookie_js_inited.i-bem.i-dbn-co
 ! 17.02.2020 https://rabota.yandex.ru
 rabota.yandex.ru##.footer__row_type_app.footer__row
 rabota.yandex.ru##a.footer__link.link:nth-of-type(7)
-
-! 17.02.2020 https://4pda.to
-4pda.to##.icon-tw
-4pda.to##.icon-fb
 
 ! 19.02.2020 https://vk.com
 vk.com##.apps_feedRightAppsBlock_collaborative_recommend_apps.apps_feedRightAppsBlock.page_block
@@ -5961,7 +5957,6 @@ news.google.com##div:nth-of-type(10) > .smCdcb.SFllF
 4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(3) > .i25aHJIz2kAe6yruQ9p0XVjc.V27Pz0q4kjdd
 ||ds-assets.cdn.devapps.ru/dry7Kmz0EyjmB3hyotaz1BI99a7dNYEgKnjZz0FyCZ5kuDdgJBz1XNAz2Xcf8.jpg$image
 4pda.to##article.Bchlgidns0spOsC.LkLKeK60z0k.post:nth-of-type(9) > .i25aHJIz2kAe6yruQ9p0XVjc.V27Pz0q4kjdd
-4pda.to##.icon-FB
 ||ds-assets.cdn.devapps.ru/dry7ImEgJcMKK0Olqv44mv7XV3NtrDAt8kAz2MibRwXRMh1gjlCG6Ekz0g.jpg$image
 4pda.to##.i2Dqz0UVz2iJHfKk1hkWKSl.V27Pz0q4kjdd
 4pda.to##div.V27Pz0q4kjdd:nth-of-type(4)
