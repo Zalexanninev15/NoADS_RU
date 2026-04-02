@@ -1,8 +1,5 @@
 # NoADS_RU TGCL
 
-> [!NOTE]
-> Информация о каналах в данный момент находится на стадии обновления!
-
 Список Telegram каналов по категориям. Рекомендуется получать материалы с данных каналов в обход своего основного аккаунта:
 - через браузер (ссылки уже "подготовлены" для простого открытия без клиента Telegram)
 - через RSS читать
@@ -17,7 +14,7 @@
 Чем мне можно заменить подписку на данные каналы? Короткий ответ - RSS.
 
 Примеры ссылок:
-- RSS напрямую - `https://rsshub.top/telegram/channel/channel_username`
+- RSS напрямую - `https://rsshub.top/telegram/channel/channel_username` или `https://rsshub.app/telegram/channel/channel_username`
 - Генерация RSS - `https://rss-bridge.org/bridge01/?action=display&username=channel_username&bridge=TelegramBridge&format=Html`
 
 * `channel_username` необходимо заменить на username канала.
