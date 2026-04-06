@@ -1,5 +1,3 @@
-# Total hosts: 191
-# Last modified: 1 апреля 2026 года
 #63.141.252.204 generativelanguage.googleapis.com
 142.54.189.110 generativelanguage.googleapis.com
 142.54.189.109 generativelanguage.googleapis.com
