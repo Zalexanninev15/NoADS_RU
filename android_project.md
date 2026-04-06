@@ -51,10 +51,10 @@
 
 ## 🥷 Скрытие
 
-* [NoVPNDetect](https://github.com/Xposed-Modules-Repo/me.hoshino.novpndetect) - скрытие статуса работы других помещений в режиме VPN для остальных приложений (нужно выбрать каких). Можно скрыть, чтобы Ozon, AliExpress (Россия), Avito, DNS, T2 и прочие не писали, что у вас замечен активированный VPN.
+* [NoVPNDetect](https://github.com/Xposed-Modules-Repo/me.hoshino.novpndetect) - скрытие статуса работы в режиме VPN для остальных приложений (нужно выбрать каких). Можно скрыть, чтобы Ozon, AliExpress (Россия), Avito, DNS, T2 и прочие не писали, что у вас замечен активированный VPN! Очень помогает, т.к. раздельное туннелирование всё равно не скрывает статус работы VPN (в системе) от приложений, которые целенаправленно ищут его.
 * [Bypass Root Check Pro](https://github.com/Xposed-Modules-Repo/com.gauravssnl.bypassrootcheck.pro) - скрывает наличие root-прав при проверках в приложениях.
 * [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - помогает сделать скрытие для определённых приложений.
-* [noplayserviceswarning](https://github.com/garbb/noplayserviceswarning) - помогает запустить приложения, которые требуют включения или обновления Сервисов Google Play, но прекрасно работают и без них.
+* [noplayserviceswarning](https://github.com/garbb/noplayserviceswarning) - помогает запустить приложения, которые требуют включения или обновления Сервисов Google Play, но прекрасно работают и без них. Проверить это можно (не для всех приложений, но большинства) через приложение [Plexus](https://f-droid.org/packages/tech.techlore.plexus/).
 
 ## 🌳 Хосты
 
