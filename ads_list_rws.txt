@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 2 апреля 2026 года
-! Total: 21047
+! Last modified: 6 апреля 2026 года
+! Total: 21050
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -10878,8 +10878,11 @@ $removeparam=frommail,domain=mail.ru|sportmail.ru
 $removeparam=fromnews,domain=mail.ru|sportmail.ru
 $removeparam=fromprefix,domain=mail.ru|sportmail.ru
 $removeparam=fromwidget,domain=mail.ru|sportmail.ru
+$removeparam=h,domain=mail.ru,imgsmail.ru
 $removeparam=hasnavig,domain=mail.ru
 $removeparam=mailday,domain=mail.ru
+$removeparam=message_id,domain=mail.ru,imgsmail.ru
+$removeparam=/^email/,domain=mail.ru,imgsmail.ru
 $removeparam=smotri_id,domain=mail.ru|sportmail.ru
 pulse.mail.ru$removeparam=/^(udid|DeviceID|ver|appbuild|vendor|model|device_name|device_type|instanceid|device_year|connection_class|appsflyerid)/i
 $removeparam=sbmt,domain=mail.ru
