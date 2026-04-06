@@ -243,16 +243,15 @@ def main():
     save_hosts_file(f"{base_dir}/blocker.txt", blocker_hosts, "0.0.0.0")
     save_hosts_file(f"{base_dir}/bypass.txt", bypass_hosts)
 
-    # На данный момент неактуально, так как список хостов собирается вручную.
-    # if two_list:
-    #     print("\n[2/3] Обработка источников для ByPass2...")
-    #     _, two_bypass = process_hosts_from_list(two_list, exceptions, proxies)
-    #     bypass2_hosts = bypass_hosts.copy()
-    #     bypass2_hosts.update(two_bypass)
-    #     save_hosts_file(f"{base_dir}/bypass2.txt", bypass2_hosts)
+    if two_list:
+        print("\n[2/2] Обработка источников для ByPass2...")
+        _, two_bypass = process_hosts_from_list(two_list, exceptions, proxies)
+        bypass2_hosts = bypass_hosts.copy()
+        bypass2_hosts.update(two_bypass)
+        save_hosts_file(f"{base_dir}/bypass2.txt", bypass2_hosts)
 
     if fl_list:
-        print("\n[2/2] Обработка расширенных источников для BlockerFL...")
+        print("\n[3/3] Обработка расширенных источников для BlockerFL...")
         fl_blocker, _ = process_hosts_from_list(fl_list, exceptions, proxies)
         blockerFL_hosts = blocker_hosts.copy()
         blockerFL_hosts.update(fl_blocker)
