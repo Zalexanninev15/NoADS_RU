@@ -236,7 +236,7 @@ def main():
 
     base_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../hosts")
 
-    print("\n[1/2] Обработка стандартных источников...")
+    print("\n[1/3] Обработка стандартных источников...")
     blocker_hosts, bypass_hosts = process_hosts_from_list(
         standard_list, exceptions, proxies
     )
@@ -244,7 +244,7 @@ def main():
     save_hosts_file(f"{base_dir}/bypass.txt", bypass_hosts)
 
     if two_list:
-        print("\n[2/2] Обработка источников для ByPass2...")
+        print("\n[2/3] Обработка источников для ByPass2...")
         _, two_bypass = process_hosts_from_list(two_list, exceptions, proxies)
         bypass2_hosts = bypass_hosts.copy()
         bypass2_hosts.update(two_bypass)
