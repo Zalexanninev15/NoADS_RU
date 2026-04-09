@@ -1,5 +1,5 @@
 # Total hosts: 1110
-# Last modified: 6 апреля 2026 года
+# Last modified: 9 апреля 2026 года
 95.182.120.241 a-api.anthropic.com
 95.182.120.241 a-cdn.anthropic.com
 95.182.120.241 a-lemmy.fmhy.net
