@@ -1,6 +1,6 @@
 ! Title: 😎 NoADS_RU Extended
 ! Last modified: 9 апреля 2026 года
-! Total: 77556
+! Total: 77557
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -77183,6 +77183,7 @@ gaara-fr.com###ga-skin-top
 ||play.google.com/log?*
 ||grok.com/api/log_metric*
 @@||/?sentry_key=^$domain=spotify.com
+codeberg.org#@#a[href*="/ads"]
 
 ! Google Black List
 ||doubleclick.net
