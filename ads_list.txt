@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 6 апреля 2026 года
-! Total: 21104
+! Last modified: 9 апреля 2026 года
+! Total: 21103
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -18596,8 +18596,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||wallpoper.com^*/c.js
 ||shush.se/loader/load.js
 ||uptostream.*/assets/$subdocument
-$csp=child-src 'none'; frame-src *; worker-src 'none',domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepiratebay.rocks|thepiratebay10.org|unblocktheship.org
-$script,websocket,domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepiratebay.rocks|thepiratebay10.org|unblocktheship.org
 ||pool.supportxmr.com^
 ||grf.easyhash.io^
 ||minexmr.com^$third-party
@@ -20708,6 +20706,7 @@ askdev.ru###ishame
 ||play.google.com/log?*
 ||grok.com/api/log_metric*
 @@||/?sentry_key=^$domain=spotify.com
+codeberg.org#@#a[href*="/ads"]
 
 ! Google Black List
 ||doubleclick.net

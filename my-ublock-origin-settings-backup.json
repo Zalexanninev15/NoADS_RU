@@ -1,5 +1,5 @@
 {  
-  "timeStamp": 1775038499032,
+  "timeStamp": 1775726634801,
   "version": "1.70.0",
   "userSettings": {
     "advancedUserEnabled": true,
@@ -16,8 +16,6 @@
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt",
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt",
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt",
-      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts_lite.txt",
-      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/webhosts.txt",
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt"
     ],
     "popupPanelSections": 15
