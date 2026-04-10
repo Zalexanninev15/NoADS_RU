@@ -1,6 +1,6 @@
 ! Title: 😎🤘 NoADS_RU Extended Plus
-! Last modified: 9 апреля 2026 года
-! Total: 179762
+! Last modified: 10 апреля 2026 года
+! Total: 179765
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -183372,3 +183372,8 @@ re-store.ru##.icons-socials.footer-contacts__social
 ! Apr 1, 2026 https://www.reddit.com
 www.reddit.com##faceplate-modal[id="blocking-modal"]
 www.reddit.com##div.mt-md > faceplate-tracker
+
+! Apr 10, 2026 https://habr.com
+habr.com##.banner-slider
+habr.com##.article-formatted-body_version-1.article-formatted-body > div > [href^="https://selectel.ru/services/dedicated/"]
+habr.com##[href="https://company.habr.com/ru/advertising/"]
