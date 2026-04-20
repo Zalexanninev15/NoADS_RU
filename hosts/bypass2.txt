@@ -1,4 +1,4 @@
-# Total hosts: 1119
+# Total hosts: 1116
 # Last modified: 20 апреля 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
@@ -124,7 +124,6 @@
 37.230.192.51 bms.naukimg.com
 37.230.192.51 bo-partners.deezer.com
 37.230.192.51 bo-playlist.deezer.com
-255.255.255.255 broadcasthost
 37.230.192.51 builds.parsec.app
 37.230.192.51 business.strava.com
 37.230.192.51 byid.eu-1.jetbrains.space
@@ -586,7 +585,6 @@
 37.230.192.51 interview.strava.com
 37.230.192.51 inward.deezer.com
 37.230.192.51 ios.chat.openai.com
-103.27.157.38 ipv6.msftconnecttest.com
 103.27.157.38 ipv6.msftconnecttest.com.edgesuite.net
 37.230.192.51 ita-free.app.deepl.com
 37.230.192.51 ita-free.www.deepl.com
@@ -1077,7 +1075,6 @@
 37.230.192.51 www.metro.strava.com
 103.27.157.38 www.microsoft.com-c-3.edgekey.net
 103.27.157.38 www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net
-103.27.157.38 www.msftconnecttest.com
 103.27.157.38 www.msftncsi.com.edgesuite.net
 37.230.192.51 www.naukimg.com
 37.230.192.51 www.naukri.com
