@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 10 апреля 2026 года
-! Total: 21052
+! Last modified: 20 апреля 2026 года
+! Total: 21063
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -8670,6 +8670,9 @@ disk.yandex.ru##.AppLink
 drive.google.com##[data-target="status-bar-content"]
 play.google.com##+js(ra,jsdata)
 play.google.com##+js(ra,jslog)
+google.com###lottie-sequence
+google.com##.animated
+google.com##.chr-heading-pill
 google.com##+js(set-local-storage-item, mapslitepromosdismissed, 1)
 ||youtube.com/pixel
 ||contributor.google.com^*/loader.js$third-party
@@ -24607,3 +24610,17 @@ www.reddit.com##div.mt-md > faceplate-tracker
 habr.com##.banner-slider
 habr.com##.article-formatted-body_version-1.article-formatted-body > div > [href^="https://selectel.ru/services/dedicated/"]
 habr.com##[href="https://company.habr.com/ru/advertising/"]
+
+! Apr 13, 2026 https://www.google.com
+www.google.com###google-hats-survey
+
+! Apr 13, 2026 https://www.flaticon.com
+www.flaticon.com##.active.modal-attribution-detail.modal
+www.flaticon.com##.btn-warning.track.bj-button.tooltip__trigger--always.tooltip__trigger.copysvg--button
+www.flaticon.com##.btn-warning.bj-button.mg-none.col.btn.btn-svg
+www.flaticon.com##.btn-warning.full-width.bj-button.btn
+www.flaticon.com##.banner-craft__container
+www.flaticon.com##.alignc.track.fullwidth.btn-warning.btn-download-pack.btn.bj-button
+
+! Block banner OneTrust
+*###onetrust-consent-sdk
