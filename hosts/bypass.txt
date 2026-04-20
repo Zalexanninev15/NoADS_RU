@@ -1,4 +1,4 @@
-# Total hosts: 476
+# Total hosts: 473
 # Last modified: 20 апреля 2026 года
 3.164.206.34 a-v2.sndcdn.com
 103.27.157.38 a1961.g2.akamai.net
@@ -52,7 +52,6 @@
 103.27.157.38 azwindows.ipv6.microsoft.com.akadns.net
 157.240.245.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
-255.255.255.255 broadcasthost
 103.27.157.38 builds.parsec.app
 204.12.192.222 calendar.notion.so
 103.27.157.38 cdn.auth0.com
@@ -326,7 +325,6 @@
 204.12.192.222 inference.codeium.com
 157.240.225.174 instagram.com
 103.27.157.38 ios.chat.openai.com
-103.27.157.38 ipv6.msftconnecttest.com
 103.27.157.38 ipv6.msftconnecttest.com.edgesuite.net
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -457,7 +455,6 @@
 103.27.157.38 www.intel.de
 103.27.157.38 www.microsoft.com-c-3.edgekey.net
 103.27.157.38 www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net
-103.27.157.38 www.msftconnecttest.com
 103.27.157.38 www.msftncsi.com.edgesuite.net
 158.255.0.189 www.netflix.com
 103.27.157.38 www.notion.so
