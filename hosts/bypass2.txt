@@ -1,5 +1,5 @@
-# Total hosts: 1116
-# Last modified: 20 апреля 2026 года
+# Total hosts: 1123
+# Last modified: 21 апреля 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
@@ -46,6 +46,7 @@
 37.230.192.51 api.anthropic.com
 37.230.192.51 api.cdnlibs.org
 37.230.192.51 api.claude.ai
+37.230.192.51 api.claude.com
 37.230.192.51 api.console.anthropic.com
 37.230.192.51 api.deepl.com
 37.230.192.51 api.deezer.com
@@ -161,6 +162,8 @@
 37.230.192.51 chess.com
 31.25.239.132 clashofclans.inbox.supercell.com
 37.230.192.51 claude.ai
+37.230.192.51 claude.com
+37.230.192.51 claudemcpclient.com
 37.230.192.51 clearance.deepl.com
 37.230.192.51 client-api.linear.app
 37.230.192.51 cloudconfig.jetbrains.com
@@ -763,6 +766,8 @@
 37.230.192.51 pkg-cdn.jetbrains.space
 37.230.192.51 pkg.eu-1.jetbrains.space
 37.230.192.51 platform.api.openai.com
+37.230.192.51 platform.claude.ai
+37.230.192.51 platform.claude.com
 37.230.192.51 platform.deezer.com
 37.230.192.51 platform.openai.com
 37.230.192.51 plugins.jetbrains.com
@@ -1044,6 +1049,8 @@
 37.230.192.51 www.chatgpt.com
 37.230.192.51 www.chess.com
 37.230.192.51 www.claude.ai
+37.230.192.51 www.claude.com
+37.230.192.51 www.claudemcpclient.com
 37.230.192.51 www.deepl.com
 37.230.192.51 www.deezer.com
 37.230.192.51 www.dell.com
