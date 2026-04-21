@@ -3572,7 +3572,6 @@
 0.0.0.0 www.msn.com
 0.0.0.0 www.msftncsi.com
 0.0.0.0 www.msdn.com
-0.0.0.0 www.microsoft.com
 0.0.0.0 www.bing.com
 0.0.0.0 wustats.microsoft.com
 0.0.0.0 wns.notify.windows.com.akadns.net
@@ -3629,7 +3628,6 @@
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 msedge.net
-0.0.0.0 msdn.microsoft.com
 0.0.0.0 microsoftupdate.microsoft.com
 0.0.0.0 microsoftupdate.com
 0.0.0.0 m.hotmail.com
@@ -50582,7 +50580,6 @@
 0.0.0.0 conjuremachinery.com
 0.0.0.0 conn-check.icg-in.com
 0.0.0.0 conn-service-eu-03.allawnos.com
-0.0.0.0 conn-service-eu-04.allawnos.com
 0.0.0.0 conn-service-eu-05.allawnos.com
 0.0.0.0 conn-service-eu-07.allawnos.com
 0.0.0.0 conn-service-eu-08.allawnos.com
@@ -61381,7 +61378,6 @@
 0.0.0.0 event.northghost.com
 0.0.0.0 event.onestart.ai
 0.0.0.0 event.platform.tunein.com
-0.0.0.0 event.playground.ru
 0.0.0.0 event.prod.bidr.io
 0.0.0.0 event.secureanalytic.com
 0.0.0.0 event.self.com
@@ -137673,7 +137669,6 @@
 0.0.0.0 zbuvideo.ul.zb.mi.com
 0.0.0.0 zbuvideo.zb.mi.com
 0.0.0.0 zhaoshang.youpin.mi.com
-0.0.0.0 mi.com
 0.0.0.0 nginx.c3.10046.mi.com
 0.0.0.0 nginx.c3.c4.10046.mi.com
 0.0.0.0 nginx.c3.n.10046.mi.com
