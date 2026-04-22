@@ -1,5 +1,5 @@
 # Total hosts: 1123
-# Last modified: 21 апреля 2026 года
+# Last modified: 22 апреля 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
