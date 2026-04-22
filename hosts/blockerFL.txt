@@ -150331,12 +150331,6 @@
 0.0.0.0 conn-service-cn-05.allawntech.com
 0.0.0.0 conn-service-cn-07.allawntech.com
 0.0.0.0 conn-service-cn-08.allawntech.com
-0.0.0.0 conn-service-eu-01.allawnos.com
-0.0.0.0 conn-service-eu-02.allawnos.com
-0.0.0.0 conn-service-eu-03.allawnos.com
-0.0.0.0 conn-service-eu-05.allawnos.com
-0.0.0.0 conn-service-eu-07.allawnos.com
-0.0.0.0 conn-service-eu-08.allawnos.com
 0.0.0.0 conn-service-gl-01.allawntech.com
 0.0.0.0 conn-service-gl-03.allawntech.com
 0.0.0.0 conn-service-gl-04.allawntech.com
@@ -237505,7 +237499,6 @@
 0.0.0.0 i.imwx.com
 0.0.0.0 i.indoleads.com
 0.0.0.0 i.inspi-dsp.com
-0.0.0.0 i.instagram.com
 0.0.0.0 i.int.dpool.sina.com.cn
 0.0.0.0 i.interia.pl
 0.0.0.0 i.ipromote.com

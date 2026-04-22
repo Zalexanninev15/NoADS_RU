@@ -252,7 +252,6 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 tr.facebook.com
 0.0.0.0 graph.instagram.com
-0.0.0.0 i.instagram.com
 0.0.0.0 sc-static.net
 0.0.0.0 tr.snapchat.com
 0.0.0.0 ads.snapchat.com
@@ -50579,10 +50578,6 @@
 0.0.0.0 conjunctionrepresentativepowerless.com
 0.0.0.0 conjuremachinery.com
 0.0.0.0 conn-check.icg-in.com
-0.0.0.0 conn-service-eu-03.allawnos.com
-0.0.0.0 conn-service-eu-05.allawnos.com
-0.0.0.0 conn-service-eu-07.allawnos.com
-0.0.0.0 conn-service-eu-08.allawnos.com
 0.0.0.0 conn-service-gl-01.allawntech.com
 0.0.0.0 conn-service-us-03.allawnos.com
 0.0.0.0 conn-v2.samsung.japps.cn

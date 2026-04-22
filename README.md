@@ -304,7 +304,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 
 Просто скачай, импортируй и пользуйся! Никакой мороки с настройками расширения, без СМС и регистрации.
 
-Лежит здесь → https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/refs/heads/main/my-ublock-origin-settings-backup.json (Сохранить как / Save as)
+Лежит здесь → https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/refs/heads/main/ublock-origin-settings.json (Сохранить как / Save as)
 
 > [!IMPORTANT]
 > Если же вы желаете всё настроить вручную, или у вас уже подключены другие списки, которые не хотелось бы потерять - читайте инструкцию ниже.
