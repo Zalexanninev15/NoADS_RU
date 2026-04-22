@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 21 апреля 2026 года
-! Total: 21063
+! Last modified: 22 апреля 2026 года
+! Total: 21069
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -24610,6 +24610,11 @@ www.reddit.com##div.mt-md > faceplate-tracker
 habr.com##.banner-slider
 habr.com##.article-formatted-body_version-1.article-formatted-body > div > [href^="https://selectel.ru/services/dedicated/"]
 habr.com##[href="https://company.habr.com/ru/advertising/"]
+habr.com##.tm-article-presenter__banner-image
+
+! Apr 10, 2026 https://dev.to
+dev.to##.body-billboard
+dev.to## div > .js-billboard.bb-placement
 
 ! Apr 13, 2026 https://www.google.com
 www.google.com###google-hats-survey
@@ -24622,5 +24627,12 @@ www.flaticon.com##.btn-warning.full-width.bj-button.btn
 www.flaticon.com##.banner-craft__container
 www.flaticon.com##.alignc.track.fullwidth.btn-warning.btn-download-pack.btn.bj-button
 
+! Apr 21, 2026 https://aistudio.google.com
+aistudio.google.com##.upgrade-card
+aistudio.google.com##.upgrade-card-wrapper
+
 ! Block banner OneTrust
 *###onetrust-consent-sdk
+
+! Block Avito detect
+||www.avito.ru/web/1/network/check
