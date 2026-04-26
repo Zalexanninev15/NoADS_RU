@@ -2,6 +2,9 @@
 
 <img src="./assets/Logo.png" width="100" height="100"/>
 
+> [!NOTE]
+> Проект временно заморожен, пока автор не в состоянии его поддерживать. Надеюсь на вас 🙏
+
 **Ура! Репозиторию NoADS_RU исполнилось 6 лет 🏆 и [![](https://img.shields.io/github/stars/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/stargazers) на GitHub**
 
 [![](https://img.shields.io/badge/platform-AdBlocking_Extensions-F40D12.svg?logo=adblock)](https://codeberg.com/Zalexanninev15/NoADS_RU)
