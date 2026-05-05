@@ -1,5 +1,5 @@
-# Total hosts: 1123
-# Last modified: 22 апреля 2026 года
+# Total hosts: 1125
+# Last modified: 5 мая 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
@@ -1123,3 +1123,5 @@
 149.154.167.220 zws2.web.telegram.org
 149.154.167.220 zws4-1.web.telegram.org
 149.154.167.220 zws4.web.telegram.org
+103.27.157.38 www.msftconnecttest.com
+103.27.157.38 ipv6.msftconnecttest.com
