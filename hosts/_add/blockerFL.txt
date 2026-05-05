@@ -3566,10 +3566,6 @@
 0.0.0.0 yardianalytics.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zoomanalytics.com
-0.0.0.0 www.msn.com
-0.0.0.0 www.msftncsi.com
-0.0.0.0 www.msdn.com
-0.0.0.0 www.bing.com
 0.0.0.0 wustats.microsoft.com
 0.0.0.0 wns.notify.windows.com.akadns.net
 0.0.0.0 windowsupdate.microsoft.com

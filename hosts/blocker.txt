@@ -280597,10 +280597,7 @@
 0.0.0.0 www.mpstop.top
 0.0.0.0 www.mrazens.com
 0.0.0.0 www.ms10be.be
-0.0.0.0 www.msdn.com
-0.0.0.0 www.msftncsi.com
 0.0.0.0 www.msg-2.me
-0.0.0.0 www.msn.com
 0.0.0.0 www.msnhome.com
 0.0.0.0 www.msnhomepage.com
 0.0.0.0 www.msnnetwork.com
