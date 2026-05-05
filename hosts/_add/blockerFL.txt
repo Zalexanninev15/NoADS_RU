@@ -3647,8 +3647,6 @@
 0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 0.0.0.0 en-us.appex-rf.msn.com
 0.0.0.0 ec.atdmt.com
-0.0.0.0 download.microsoft.com
-0.0.0.0 dns.msftncsi.com
 0.0.0.0 directory.services.live.com.akadns.net
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 db3aqu.atdmt.com
