@@ -179837,7 +179837,6 @@ www.nexusmods.com##.donation-form
 ||pixel.facebook.com
 ||an.facebook.com
 ||connect.facebook.net
-||graph.facebook.com
 ||tr.facebook.com
 ||graph.instagram.com
 ||sc-static.net

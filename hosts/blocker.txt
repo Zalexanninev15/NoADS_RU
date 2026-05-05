@@ -109602,11 +109602,9 @@
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.atlassolutions.com
 0.0.0.0 graph.bluecava.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fake.bluecava.com
 0.0.0.0 graph.gcloud.bluecava.com
 0.0.0.0 graph.geo.bluecava.com
-0.0.0.0 graph.instagram.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 grapheffect.com
 0.0.0.0 graphics.jst.ai
