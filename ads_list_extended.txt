@@ -1,5 +1,5 @@
 ! Title: 😎 NoADS_RU Extended
-! Last modified: 5 мая 2026 года
+! Last modified: 7 мая 2026 года
 ! Total: 77674
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
@@ -81292,3 +81292,23 @@ www.flaticon.com##.popover--download.popover-bottom.popover.not-mobile.btn-forma
 www.flaticon.com##.popover--download.popover-bottom.popover.not-mobile.btn-formats
 www.flaticon.com##.bj-button--link.bj-button.full-width.overflow-ellipsis.add-to-collection
 www.flaticon.com##.btn-warning.bj-button.btn.btn-svg
+
+! Blocks from DDG
+||static.cloudflareinsights.com^
+||counter.yadro.ru^
+||http-check-headers.yandex.ru^
+||statchecker.yandex.ru^
+||top-fwz1.mall.ru^
+||uaas.yandex.ru^
+||google-analytics.com^
+||googletagmanager.com^
+||analytics.tiktok.com^
+||googleads.g.doubleclick.net^
+||px.ads.linkedin.com^
+||js.hs-banner.com^
+||js.hs-analytics.net^
+||track.adform.net^
+||clarity.ms^
+||st.hybrid.ai^
+||tube.buzzoola.com^
+||pagead2.googlesyndication.com^
