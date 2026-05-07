@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 22 апреля 2026 года
-! Total: 21069
+! Last modified: 5 мая 2026 года
+! Total: 21075
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -9910,7 +9910,7 @@ $removeparam=refCode,important
 $removeparam=refd
 $removeparam=refer
 $removeparam=/^refer_/
-$removeparam=/referer[^=]*=/i
+~ozon.ru$removeparam=/referer[^=]*=/i
 $removeparam=/referrer[^=]*=/i$domain=~twitter.com|~twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion|~x.com
 $removeparam=referid
 $removeparam=/referral[^=]*=/i,domain=~bing.com|~duckduckgo.com|~google.com|~ya.ru|~yahoo.com
@@ -9974,8 +9974,8 @@ $removeparam=sms_source
 $removeparam=sms_uph
 $removeparam=soc_src
 $removeparam=soc_trk
-$removeparam=source,denyallow=googlevideo.com,domain=~4pda.to|~alfabank.ru|~search.brave.com|~search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion|~ft.com|~youtube.com|~kavin.rocks|~tokhmi.xyz|~moomoo.me|~syncpundit.io|~mha.fi|~whatever.social|~garudalinux.org|~rivo.lol|~aeong.one|~daviteusz.eu|~jae.fi|~mint.lgbt|~il.ax|~privacy.com.de|~esmailelbob.xyz|~projectsegfau.lt|~privacydev.net|~palveluntarjoaja.eu|~plibre.com|~smnz.de|~adminforge.de|~qdi.fi|~hostux.net
-$removeparam=Source,denyallow=googlevideo.com,domain=~4pda.to|~alfabank.ru|~search.brave.com|~search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion|~ft.com|~youtube.com|~kavin.rocks|~tokhmi.xyz|~moomoo.me|~syncpundit.io|~mha.fi|~whatever.social|~garudalinux.org|~rivo.lol|~aeong.one|~daviteusz.eu|~jae.fi|~mint.lgbt|~il.ax|~privacy.com.de|~esmailelbob.xyz|~projectsegfau.lt|~privacydev.net|~palveluntarjoaja.eu|~plibre.com|~smnz.de|~adminforge.de|~qdi.fi|~hostux.net
+$removeparam=source,denyallow=googlevideo.com,domain=~4pda.to|~alfabank.ru|~search.brave.com|~search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion|~ft.com|~youtube.com|~kavin.rocks|~tokhmi.xyz|~moomoo.me|~syncpundit.io|~mha.fi|~whatever.social|~garudalinux.org|~rivo.lol|~aeong.one|~daviteusz.eu|~jae.fi|~mint.lgbt|~il.ax|~privacy.com.de|~esmailelbob.xyz|~projectsegfau.lt|~privacydev.net|~palveluntarjoaja.eu|~plibre.com|~smnz.de|~adminforge.de|~qdi.fi|~hostux.net|~invidious.io|~chocolatemoo53.com|~nadeko.net|~nadeko.ygg|~nerdvpn.de|~thepixora.com
+$removeparam=Source,denyallow=googlevideo.com,domain=~4pda.to|~alfabank.ru|~search.brave.com|~search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion|~ft.com|~youtube.com|~kavin.rocks|~tokhmi.xyz|~moomoo.me|~syncpundit.io|~mha.fi|~whatever.social|~garudalinux.org|~rivo.lol|~aeong.one|~daviteusz.eu|~jae.fi|~mint.lgbt|~il.ax|~privacy.com.de|~esmailelbob.xyz|~projectsegfau.lt|~privacydev.net|~palveluntarjoaja.eu|~plibre.com|~smnz.de|~adminforge.de|~qdi.fi|~hostux.net|~invidious.io|~chocolatemoo53.com|~nadeko.net|~nadeko.ygg|~nerdvpn.de|~thepixora.com
 ~aliexpress.*$removeparam=/^sourceid=/i
 $removeparam=sPartner
 $removeparam=special-offer
@@ -10260,6 +10260,8 @@ askubuntu.com$removeparam=lq
 askubuntu.com$removeparam=noredirect
 atlassian.net$removeparam=atlOrigin
 autoteka.ru$removeparam=fromSource
+avito.ru$removeparam=iid
+avito.ru$removeparam=page_from
 awaliwa.com$removeparam=acr
 awaliwa.com$removeparam=bd_vid
 awaliwa.com$removeparam=c
@@ -23712,7 +23714,6 @@ m.avito.ru##div[data-marker*="teaser"]
 ||zbuvideo.ul.zb.mi.com^
 ||zbuvideo.zb.mi.com^
 ||zhaoshang.youpin.mi.com^
-||mi.com^
 ||nginx.c3.10046.mi.com^
 ||nginx.c3.c4.10046.mi.com^
 ||nginx.c3.n.10046.mi.com^
@@ -24636,3 +24637,10 @@ aistudio.google.com##.upgrade-card-wrapper
 
 ! Block Avito detect
 ||www.avito.ru/web/1/network/check
+
+! May 5, https://www.flaticon.com
+www.flaticon.com##.tooltip--bottom.tooltip.detail__copysvg.btn-copy
+www.flaticon.com##.popover--download.popover-bottom.popover.not-mobile.btn-formats > .popover-container > .bj-button--link.bj-button.popover-button
+www.flaticon.com##.popover--download.popover-bottom.popover.not-mobile.btn-formats
+www.flaticon.com##.bj-button--link.bj-button.full-width.overflow-ellipsis.add-to-collection
+www.flaticon.com##.btn-warning.bj-button.btn.btn-svg

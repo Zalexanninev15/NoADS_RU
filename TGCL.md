@@ -11,7 +11,7 @@
 
 Примеры ссылок:
 - RSS напрямую - `https://rsshub.top/telegram/channel/channel_username` или `https://rsshub.app/telegram/channel/channel_username`
-- Генерация RSS - `https://rss-bridge.org/bridge01/?action=display&username=channel_username&bridge=TelegramBridge&format=Html`
+- Генерация RSS - `https://rss-bridge.org/bridge01/?action=display&username=channel_username&bridge=TelegramBridge&format=Html` или `https://rss.catgirls.asia/?action=display&username=channel_username&bridge=TelegramBridge&format=Html`
 
 > [!NOTE]
 > **channel_username** необходимо заменить на **username** канала.

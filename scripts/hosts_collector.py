@@ -227,8 +227,8 @@ def main():
         except:
             pass
 
-    if not proxies:
-        if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y" or use_proxy_auto:
+    if not proxies and use_proxy_auto:
+        if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y":
             addr = input("⚙️  Адрес (например: 127.0.0.1:3401): ")
             if addr == "":
                 addr = "127.0.0.1:3401"

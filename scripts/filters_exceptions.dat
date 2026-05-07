@@ -6,3 +6,4 @@ $removeparam=via
 $removeparam=via,domain=ya.ru
 $removeparam=origin,domain=~yandex.ru|~yandex.com
 ||i.instagram.com
+||mi.com^
