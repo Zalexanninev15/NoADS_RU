@@ -24575,7 +24575,7 @@ aistudio.google.com##.upgrade-card-wrapper
 ! Block Avito detect
 ||www.avito.ru/web/1/network/check
 
-! May 5, https://www.flaticon.com
+! May 5, 2026 https://www.flaticon.com
 www.flaticon.com##.tooltip--bottom.tooltip.detail__copysvg.btn-copy
 www.flaticon.com##.popover--download.popover-bottom.popover.not-mobile.btn-formats > .popover-container > .bj-button--link.bj-button.popover-button
 www.flaticon.com##.popover--download.popover-bottom.popover.not-mobile.btn-formats
@@ -24601,3 +24601,15 @@ www.flaticon.com##.btn-warning.bj-button.btn.btn-svg
 ||st.hybrid.ai^
 ||tube.buzzoola.com^
 ||pagead2.googlesyndication.com^
+
+! May 8, 2026 https://apteka.ru
+apteka.ru##.BannersContent__img.photopicture
+apteka.ru##.HomeMinishops
+apteka.ru##.CookieNotify
+apteka.ru##.MaybeInteresting__list
+apteka.ru##.SiteFooter__apps
+apteka.ru##.SiteFooter__socials
+
+! May 12, 2026 DeepSeek
+chat.deepseek.com##.undefined.cookie_banner-wrap
+www.deepseek.com##.undefined.cookie_banner-wrap
