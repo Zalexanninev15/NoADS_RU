@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 7 мая 2026 года
-! Total: 21085
+! Last modified: 12 мая 2026 года
+! Total: 21095
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -9112,6 +9112,8 @@ fast-torrent.ru##.ic-sport_tv
 fast-torrent.ru##.favorite_controll
 fast-torrent.ru###collection_wrap
 fast-torrent.ru##.widget-header:has-text(в коллекциях)
+fast-torrent.ru##.go_to_bug
+fast-torrent.ru##.eTimer
 film-1080.online/*/kino.png
 film-1080.online/*/logo1.png
 film-1080.online##p
