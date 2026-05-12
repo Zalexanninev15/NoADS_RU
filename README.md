@@ -44,7 +44,7 @@
 | Название | Тип списка фильтров | Описание |
 | --- | --- | --- |
 | 👍 **[NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)** | Full | Основной проект репозитория. |
-| 😎 **[NoADS_RU Extended](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt)** | Full | Расширенный список фильтров на базе NoADS_RU. Рекомендуется к использованию для большинства. |
+| 😎 **[NoADS_RU Extended](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt)** | Full | Расширенный список фильтров на базе NoADS_RU. Рекомендуется к использованию для большинства пользователей. |
 | 😎🤘 **[NoADS_RU Extended Plus](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt)** | Full | Расширенный список фильтров на базе NoADS_RU Extended. |
 | 🇷🇺 **[NoADS_RU RWS](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt)** | Full | Список фильтров для 100% работы Яндекс, MAX, VK, Mail.ru (и, возможно, других русскоязычных сервисов) на базе NoADS_RU. |
 | 📹🎧 **[NoADS_RU YouTube](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt)** | Add-on | Дополнительные фильтры для YouTube и видеохостингов, а также для других медиа-сервисов. |
@@ -78,10 +78,13 @@
 
 **Сделаем сайты чище, а просмотр удобнее и безопаснее!**
 
-👍 Ссылка для подключения основного списка:
+👍 Ссылка для подключения базового списка:
 ```
 https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt
 ```
+
+> [!TIP]
+> Начиная с 2026 года рекомендуется использовать для подключения **NoADS_RU Extended**: `https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt`
 
 👉️ [Подробные инструкции по подключению](https://codeberg.org/Zalexanninev15/NoADS_RU#инструкция-по-настройке-некоторых-расширений-и-браузеров-для-работы-со-списком)
 

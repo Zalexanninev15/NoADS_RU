@@ -1,6 +1,6 @@
 ! Title: 😎🤘 NoADS_RU Extended Plus
 ! Last modified: 12 мая 2026 года
-! Total: 180025
+! Total: 180026
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -183655,6 +183655,7 @@ apteka.ru##.CookieNotify
 apteka.ru##.MaybeInteresting__list
 apteka.ru##.SiteFooter__apps
 apteka.ru##.SiteFooter__socials
+apteka.ru##div[class*="Carousel"]
 
 ! May 12, 2026 DeepSeek
 chat.deepseek.com##.undefined.cookie_banner-wrap
