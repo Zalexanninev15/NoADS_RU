@@ -1,9 +1,10 @@
-# Total hosts: 1125
-# Last modified: 5 мая 2026 года
+# Total hosts: 1143
+# Last modified: 14 мая 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
 3.164.206.34 a-v2.sndcdn.com
+77.239.114.0 a.claude.ai
 103.27.157.38 a1961.g2.akamai.net
 103.27.157.38 a1968.i6g1.akamai.net
 37.230.192.51 aaa.deezer.com
@@ -106,6 +107,7 @@
 37.230.192.51 autodiscover.naukri.com
 37.230.192.51 autodiscover.rms.naukri.com
 37.230.192.51 avasin.naukri.com
+185.199.108.133 avatars.githubusercontent.com
 37.230.192.51 awsproxy.pkg-cdn.jetbrains.space
 103.27.157.38 azwindows.ipv6.microsoft.com.akadns.net
 157.240.245.174 b.i.instagram.com
@@ -125,6 +127,7 @@
 37.230.192.51 bms.naukimg.com
 37.230.192.51 bo-partners.deezer.com
 37.230.192.51 bo-playlist.deezer.com
+255.255.255.255 broadcasthost
 37.230.192.51 builds.parsec.app
 37.230.192.51 business.strava.com
 37.230.192.51 byid.eu-1.jetbrains.space
@@ -152,6 +155,13 @@
 37.230.192.51 cdn.jetbrains.com
 37.230.192.51 cdn.oaistatic.com
 37.230.192.51 cdn.openai.com
+77.239.114.0 cdn.platform.openai.com
+149.154.167.220 cdn.telesco.pe
+149.154.167.220 cdn1.telesco.pe
+149.154.167.220 cdn2.telesco.pe
+149.154.167.220 cdn3.telesco.pe
+149.154.167.220 cdn4.telesco.pe
+149.154.167.220 cdn5.telesco.pe
 37.230.192.51 charts-images.scdn.co
 37.230.192.51 chat.openai.com
 37.230.192.51 chatbot.naukri.com
@@ -200,6 +210,7 @@
 37.230.192.51 contest.openai.com
 37.230.192.51 controlplane.tailscale.com
 37.230.192.51 copilot.microsoft.com
+149.154.167.220 core.telegram.org
 37.230.192.51 corona.jetbrains.space
 37.230.192.51 corp.naukri.com
 37.230.192.51 cps.naukri.com
@@ -242,6 +253,7 @@
 37.230.192.51 developer.nvidia.com
 37.230.192.51 developerprofiles-pa.googleapis.com
 37.230.192.51 developers.deepl.com
+77.239.114.0 developers.openai.com
 37.230.192.51 dict-audio.deepl.com
 37.230.192.51 dict.deepl.com
 37.230.192.51 discovery.deezer.com
@@ -533,6 +545,7 @@
 37.230.192.51 geolocation.onetrust.com
 37.230.192.51 gew1-dealer.spotify.com
 37.230.192.51 gew1-spclient.spotify.com
+185.199.108.133 gist.githubusercontent.com
 37.230.192.51 gpt3-openai.com
 37.230.192.51 gql.twitch.tv
 37.230.192.51 graphql.strava.com
@@ -588,6 +601,7 @@
 37.230.192.51 interview.strava.com
 37.230.192.51 inward.deezer.com
 37.230.192.51 ios.chat.openai.com
+103.27.157.38 ipv6.msftconnecttest.com
 103.27.157.38 ipv6.msftconnecttest.com.edgesuite.net
 37.230.192.51 ita-free.app.deepl.com
 37.230.192.51 ita-free.www.deepl.com
@@ -680,6 +694,7 @@
 37.230.192.51 mta-sts.test.tuta.com
 37.230.192.51 mta-sts.tuta.com
 37.230.192.51 my.naukri.com
+149.154.167.220 my.telegram.org
 37.230.192.51 mydeezerstory.deezer.com
 37.230.192.51 mydeezeryear.deezer.com
 37.230.192.51 myjetbrains.com
@@ -727,6 +742,7 @@
 37.230.192.51 oauth.account.jetbrains.com
 37.230.192.51 oauth.deezer.com
 37.230.192.51 oauth.fls.jetbrains.com
+149.154.167.220 oauth.telegram.org
 37.230.192.51 oauth2-proxy-api.api.jetbrains.com
 37.230.192.51 old-lemmy.fmhy.net
 37.230.192.51 old.fmhy.net
@@ -780,6 +796,7 @@
 37.230.192.51 preprod-stream.deezer.com
 37.230.192.51 preview.deezer.com
 37.230.192.51 preview.reve.art
+185.199.108.133 private-user-images.githubusercontent.com
 37.230.192.51 proactivebackend-pa.googleapis.com
 37.230.192.51 productupdates.naukri.com
 37.230.192.51 profile.broadcom.com
@@ -792,6 +809,7 @@
 37.230.192.51 pump.fun
 37.230.192.51 queue.deezer.com
 37.230.192.51 qwant.com
+185.199.109.133 raw.githubusercontent.com
 37.230.192.51 rdxfootmark.naukri.com
 37.230.192.51 recruit.naukri.com
 37.230.192.51 recruiter.naukri.com
@@ -803,6 +821,7 @@
 37.230.192.51 referral.naukri.com
 37.230.192.51 registry.eu-1.jetbrains.space
 37.230.192.51 registry.jetbrains.space
+185.199.109.133 release-assets.githubusercontent.com
 37.230.192.51 renew-your-ssl-certificate.jetbrains.com
 37.230.192.51 resbilling.naukri.com
 37.230.192.51 resdex.base.naukri.com
@@ -1082,6 +1101,7 @@
 37.230.192.51 www.metro.strava.com
 103.27.157.38 www.microsoft.com-c-3.edgekey.net
 103.27.157.38 www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net
+103.27.157.38 www.msftconnecttest.com
 103.27.157.38 www.msftncsi.com.edgesuite.net
 37.230.192.51 www.naukimg.com
 37.230.192.51 www.naukri.com
@@ -1123,5 +1143,3 @@
 149.154.167.220 zws2.web.telegram.org
 149.154.167.220 zws4-1.web.telegram.org
 149.154.167.220 zws4.web.telegram.org
-103.27.157.38 www.msftconnecttest.com
-103.27.157.38 ipv6.msftconnecttest.com

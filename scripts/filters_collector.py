@@ -279,7 +279,7 @@ def main():
 
     print("\n[1/2] Получение и очистка фильтров...")
     cleaned_filters = fetch_and_clean_filters(
-        "file_list.txt", "cleaned_filters.txt", exceptions, proxies
+        "filters_sources.txt", "cleaned_filters.txt", exceptions, proxies
     )
 
     if not cleaned_filters:
