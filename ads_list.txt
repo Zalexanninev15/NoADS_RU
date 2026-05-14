@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 12 мая 2026 года
-! Total: 21096
+! Last modified: 14 мая 2026 года
+! Total: 21106
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -24697,3 +24697,17 @@ apteka.ru##div[class*="Carousel"]
 ! May 12, 2026 DeepSeek
 chat.deepseek.com##.undefined.cookie_banner-wrap
 www.deepseek.com##.undefined.cookie_banner-wrap
+
+! May 14, 2026 https://www.userscript.zone
+www.userscript.zone##.right.searcad
+
+! May 14, 2026 https://dtf.ru
+dtf.ru##.cookie-consent-banner
+dtf.ru##.sticky-stack-sidebar-section
+dtf.ru##.aside--right.aside
+dtf.ru##.content-list > div.rotator--limitless.rotator
+dtf.ru##.entry-rotator.rotator--limitless.rotator
+dtf.ru##div[class="supbar supbar--top"]
+||api.dtf.ru/v*/distribution^
+||api.dtf.ru/v*/stats/*
+||api.dtf.ru/v*/sessions^
