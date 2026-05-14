@@ -24,7 +24,7 @@ def get_last_modified_line():
     return f"# Last modified: {today.day} {months[today.month-1]} {today.year} года\n"
 
 
-def load_exceptions(exc_file="exceptions_hosts.dat"):
+def load_exceptions(exc_file="hosts_exceptions.dat"):
     """Загружает исключения для хостов."""
     exceptions = {"exact": set(), "regex": []}
     if not os.path.exists(exc_file):
