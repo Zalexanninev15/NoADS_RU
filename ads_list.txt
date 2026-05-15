@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 14 мая 2026 года
-! Total: 21106
+! Last modified: 15 мая 2026 года
+! Total: 21099
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -21462,9 +21462,7 @@ m.avito.ru##div[data-marker*="teaser"]
 ||onebox.market.n.xiaomi.com^
 ||onebox.xmpush.xiaomi.com^
 ||order.music.xiaomi.com^
-||ot.io.mi.com^
 ||ots.io.mi.com^
-||ott.io.mi.com^
 ||ottl7-l2.pandora.xiaomi.com^
 ||pdc.micloud.xiaomi.net^
 ||phonecallapi.micloud.xiaomi.net^
@@ -23092,7 +23090,6 @@ m.avito.ru##div[data-marker*="teaser"]
 ||crowdfunding.event.mi.com^
 ||cs.be.mi.com^
 ||cs.jr.mi.com^
-||ct.nbiot.io.mi.com^
 ||d.mi.com^
 ||data.credit.mi.com^
 ||data.d.mi.com^
@@ -23758,12 +23755,8 @@ m.avito.ru##div[data-marker*="teaser"]
 ||i2.hlth.io.mi.com^
 ||ru.hlth.io.mi.com^
 ||sg.hlth.io.mi.com^
-||de.ot.io.mi.com^
-||sg.ot.io.mi.com^
 ||ru.ots.io.mi.com^
 ||sg.ots.io.mi.com^
-||de.ott.io.mi.com^
-||sg.ott.io.mi.com^
 ||p2psy2.io.mi.com^
 ||ru.p2psy2.io.mi.com^
 ||sg2.p2psy2.io.mi.com^
@@ -23775,7 +23768,6 @@ m.avito.ru##div[data-marker*="teaser"]
 ||sg.p2psy3.io.mi.com^
 ||sg2.p2psy3.io.mi.com^
 ||us.p2psy3.io.mi.com^
-||pv-miot.io.mi.com^
 ||product.smarthome.iot.mi.com^
 ||sg.watch-appstore.iot.mi.com^
 ||sg.watch.iot.mi.com^
@@ -24711,3 +24703,6 @@ dtf.ru##div[class="supbar supbar--top"]
 ||api.dtf.ru/v*/distribution^
 ||api.dtf.ru/v*/stats/*
 ||api.dtf.ru/v*/sessions^
+
+! May 15, 2026 https://ya.ru
+ya.ru##div[id^="adv"]

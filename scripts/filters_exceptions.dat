@@ -7,3 +7,12 @@ $removeparam=via,domain=ya.ru
 $removeparam=origin,domain=~yandex.ru|~yandex.com
 ||i.instagram.com
 ||mi.com^
+||ot.io.mi.com^
+||ct.nbiot.io.mi.com^
+||de.ot.io.mi.com^
+||pv-miot.io.mi.com^
+||sg.ot.io.mi.com^
+||ott.io.mi.com^
+||ru.io.mi.com^
+||de.ott.io.mi.com^
+||sg.ott.io.mi.com^
