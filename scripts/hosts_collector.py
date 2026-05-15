@@ -180,7 +180,7 @@ def save_hosts_file(output_path, hosts, default_ip=None):
 def main():
     exceptions = load_exceptions("exceptions_hosts.dat")
     print(
-        f"⏳ Загружено исключений: {len(exceptions['exact'])} доменов, {len(exceptions['regex'])} regex"
+        f"⏳ Загружено исключений: {len(exceptions['exact'])} (ext.: {len(exceptions['regex'])})"
     )
 
     standard_list, two_list, fl_list = [], [], []
