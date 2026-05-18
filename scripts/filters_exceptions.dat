@@ -17,3 +17,6 @@ $removeparam=origin,domain=~yandex.ru|~yandex.com
 ||de.ott.io.mi.com^
 ||sg.ott.io.mi.com^
 ||io.mi.com^
+4pda.*##+js(abort-current-inline-script, document.querySelectorAll, outerHeight)
+4pda.*##+js(no-setTimeout-if, removeAttr, setTimeout)
+4pda.*##+js(abort-on-property-read, document.referrer)

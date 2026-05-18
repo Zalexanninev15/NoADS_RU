@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
 ! Last modified: 18 мая 2026 года
-! Total: 21050
+! Total: 17620
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -12757,8 +12757,6 @@ yandex.*#?#div[class*="-header"] ~ div[id*="page"] div[class*="__col"]:-abp-has(
 ~yandex.net,yandex.*#?#+js(set-constant, Object.prototype.loaderVer, noopFunc)
 ~yandex.net,yandex.*#?#+js(set-constant, Object.prototype.los, null)
 ~yandex.net,yandex.*#?#+js(set-constant, Object.prototype.useAbdBundle, false)
-4pda.*##+js(abort-current-inline-script, document.querySelectorAll, outerHeight)
-4pda.*##+js(no-setTimeout-if, removeAttr, setTimeout)
 4pda.*##html[style] > body [class]:not([id]):not(div):not([style]) > div ~ :not(div)[id][class][style=""]
 4pda.*##html[style] > body [class]:not([id]):not(div):not([style]) > div:empty + [data-revive-zoneid]
 4pda.*##html[style] > body :not(div) ~ :not(div)[class][id][style]:style(background-image: none !important)
@@ -18019,7 +18017,6 @@ ya.*,~yandex.net,yandex.*##body > div[style="position:absolute;left:-10px;top:0;
 4pda.*##html:not([style]) tbody > tr[valign="top"] > td[width*="20"] + td[class]:style(display: none !important)
 4pda.*##html:not([style]) > body:not([itemscope]) > div[id]:not([href]) > [href="#"]:empty ~ [id][href]:style(display: none !important)
 4pda.*##.menu-main-mobile > [style="display:none;"]:style(display: none !important)
-4pda.*##+js(abort-on-property-read, document.referrer)
 $document,removeparam=/[a-z]\=1$/,domain=svpressa.ru
 $document,removeparam=app_id_mytracker,domain=mail.ru
 $document,removeparam=authid,domain=mail.ru
