@@ -20,3 +20,4 @@ $removeparam=origin,domain=~yandex.ru|~yandex.com
 4pda.*##+js(abort-current-inline-script, document.querySelectorAll, outerHeight)
 4pda.*##+js(no-setTimeout-if, removeAttr, setTimeout)
 4pda.*##+js(abort-on-property-read, document.referrer)
+4pda.*##+js(remove-class, wide-1|wide-2|wide-3, .advanced-area .post)
