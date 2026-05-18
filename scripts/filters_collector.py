@@ -248,7 +248,7 @@ def update_target_file(target_file, cleaned_filters, exceptions):
 def main():
     exceptions = load_exceptions("filters_exceptions.dat")
     print(
-        f"⏳ Загружено исключений: {len(exceptions['exact'])} точных, {len(exceptions['regex'])} regex"
+        f"⏳ Загружено исключений: {len(exceptions['exact'])} (ext.: {len(exceptions['regex'])})"
     )
 
     proxies = None
