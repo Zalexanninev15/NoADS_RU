@@ -1,5 +1,5 @@
-# Total hosts: 1143
-# Last modified: 14 мая 2026 года
+# Total hosts: 1142
+# Last modified: 18 мая 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
@@ -127,7 +127,6 @@
 37.230.192.51 bms.naukimg.com
 37.230.192.51 bo-partners.deezer.com
 37.230.192.51 bo-playlist.deezer.com
-255.255.255.255 broadcasthost
 37.230.192.51 builds.parsec.app
 37.230.192.51 business.strava.com
 37.230.192.51 byid.eu-1.jetbrains.space

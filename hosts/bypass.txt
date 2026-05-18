@@ -1,5 +1,5 @@
-# Total hosts: 494
-# Last modified: 14 мая 2026 года
+# Total hosts: 493
+# Last modified: 18 мая 2026 года
 3.164.206.34 a-v2.sndcdn.com
 77.239.114.0 a.claude.ai
 103.27.157.38 a1961.g2.akamai.net
@@ -54,7 +54,6 @@
 103.27.157.38 azwindows.ipv6.microsoft.com.akadns.net
 157.240.245.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
-255.255.255.255 broadcasthost
 103.27.157.38 builds.parsec.app
 204.12.192.222 calendar.notion.so
 103.27.157.38 cdn.auth0.com
