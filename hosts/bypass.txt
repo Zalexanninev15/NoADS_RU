@@ -1,5 +1,5 @@
 # Total hosts: 493
-# Last modified: 18 мая 2026 года
+# Last modified: 19 мая 2026 года
 3.164.206.34 a-v2.sndcdn.com
 77.239.114.0 a.claude.ai
 103.27.157.38 a1961.g2.akamai.net
