@@ -1,5 +1,5 @@
 ! Title: 😎🤘 NoADS_RU Extended Plus
-! Last modified: 19 мая 2026 года
+! Last modified: 20 мая 2026 года
 ! Total: 176758
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
@@ -179341,8 +179341,8 @@ skadden.com#@#a[href="#back-to-top"]
 ||play.google.com/log?*
 ||grok.com/api/log_metric*
 @@||/?sentry_key=^$domain=spotify.com
-codeberg.org#@#a[href*="/ads_list_"]
-github.com#@#a[href*="/ads_list_"]
+codeberg.org#@#a[href*="/ads"]
+github.com#@#a[href*="/ads"]
 
 ! Google Black List
 ||doubleclick.net
