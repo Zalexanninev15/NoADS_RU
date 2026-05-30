@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 20 мая 2026 года
-! Total: 17621
+! Last modified: 30 мая 2026 года
+! Total: 17630
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -21204,3 +21204,16 @@ www.reddit.com##a[href="/premium"]
 www.reddit.com##div[role="banner"]
 ||matrix.redditspace.com/_matrix/client/v*/account/whoami
 ||www.reddit.com/svc/shreddit/partial/*/banned-user-banner
+
+! May 30, 2026 https://sourceforge.net
+sourceforge.net###aistdo-coding-bar
+sourceforge.net###mdb_obj
+sourceforge.net###get-updates
+sourceforge.net##aside.m-sidebar-widget:nth-of-type(1)
+sourceforge.net###mdb_bnnr
+sourceforge.net##.sticky-inner
+sourceforge.net###nels
+sourceforge.net###social
+
+! May 30, 2026 https://telegram.org
+telegram.org##[href="https://twitter.com/telegram"]
