@@ -196,14 +196,14 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 В качестве мессенджеров рекомендую присмотреться к [Delta Chat](https://delta.chat/ru/) (также помогает при "белых списках", но есть свои особенности при использовании) и [SimpleX Chat](https://simplex.chat), которые не требуют от вас ничего. Ни паспорта, ни номера телефона, а поднять свой сервер/релей может любой. Вообще это отдельная тема, она крайне интересная и полезная для каждого человека, которого хоть как-то волнует безопасность и приватность.
 [AniX](https://anixart.netlify.app/) (удобно смотрим аниме вне приложения Anixart)
 
-💡 [Моя настройка кастомных поисковиков на примере браузера Vivaldi](https://shitpost.poridge.club/notes/ab27s6de5p) (+ замена Яндекса), скоро обновлю немножко пост, но он всё ещё актуален для меня
+💡 [Моя настройка кастомных поисковиков на примере браузера Vivaldi](https://shitpost.poridge.club/notes/ab27s6de5p) (+ замена Яндекса). Пост чуточку устарел для меня, но всё ещё актуален для вас. Скоро выпущу обновление.
 
 > [!TIP]
 > Если приведенный инстант 4get заблокирован для поиска по Я* — используйте любой другой из [списка](https://4get.ca/instances). В планах у меня идея создать свой инстант (ранее уже создавал, но он был закрыт в связи с заменой VPS).
 
-🧪 Тестеры блокировки рекламы [?](https://4pda.to/forum/index.php?showtopic=1021363&view=findpost&p=143396466):
+🧪 Тестеры блокировки рекламы [[источник](https://4pda.to/forum/index.php?showtopic=1021363&view=findpost&p=143396466)]:
 - [Сайт с рекламой (версия 3.1.1 от 23.11.2023)](https://checkadblock.ru)
-- [Симпатичный тестер блокировщиков рекламы](https://obfusgated.com/ru/tools/ad-block-test) [?](https://t.me/airfield1972/5228)
+- [Симпатичный тестер блокировщиков рекламы](https://obfusgated.com/ru/tools/ad-block-test) [[источник](https://t.me/airfield1972/5228)]
 - [adblock.turtlecute.org](https://adblock.turtlecute.org)
 - [Тест блокировщика рекламы](https://mobileproxy.space/adblock-test.html)
 
