@@ -170,7 +170,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 Для сторонников хостов подготовлен другой тип правил — **[NoADS_RU Hosts](https://github.com/Zalexanninev15/NoADS_RU/tree/main/hosts)**. Включает в себя домены с рекламой, аналитикой, трекерами, сборами информации об ошибках, Android OEM, специфичные для Windows хосты (Microsoft, Adobe) и многие другие.
 
 > [!NOTE]
-> Блокировка рекламных доменов, сбора данных о вас, аналитика и многое другое. Bypass - обход ограничений различных сервисов, если вы находитесь в недружественных странах.
+> Блокировка рекламных доменов, сбора данных о вас, аналитика и многое другое. Bypass - обход ограничений различных сервисов, которые запрещают доступ к себе на основании геолокации / "не той страны".
 
 > [!TIP]
 > [Использование Blocker и BlockerFL на устройствах с OpenWRT](https://github.com/Zalexanninev15/NoADS_RU/discussions/22).
@@ -201,7 +201,11 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 > [!TIP]
 > Если приведенный инстант 4get заблокирован для поиска по Я* — используйте любой другой из [списка](https://4get.ca/instances). В планах у меня идея создать свой инстант (ранее уже создавал, но он был закрыт в связи с заменой VPS).
 
-😊 [Симпатичный тестер блокировщиков рекламы](https://obfusgated.com/tools/ad-block-test)
+🧪 Тестеры блокировки рекламы [?](https://4pda.to/forum/index.php?showtopic=1021363&view=findpost&p=143396466):
+- [Сайт с рекламой (версия 3.1.1 от 23.11.2023)](https://checkadblock.ru)
+- [Симпатичный тестер блокировщиков рекламы](https://obfusgated.com/ru/tools/ad-block-test) [?](https://t.me/airfield1972/5228)
+- [adblock.turtlecute.org](https://adblock.turtlecute.org)
+- [Тест блокировщика рекламы](https://mobileproxy.space/adblock-test.html)
 
 #### 📟 NoADS_RU TGCL
 
