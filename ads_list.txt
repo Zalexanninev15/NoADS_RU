@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 30 мая 2026 года
-! Total: 17685
+! Last modified: 31 мая 2026 года
+! Total: 17712
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -21298,3 +21298,34 @@ sourceforge.net###social
 
 ! May 30, 2026 https://telegram.org
 telegram.org##[href="https://twitter.com/telegram"]
+
+! May 31, 2026 Авито
+avito.ru##div[data-marker="location/tooltip/target"]
+avito.ru##div[class^="advert"]
+avito.ru##a[data-marker="header/bonuses"]
+avito.ru##div[class^="AdvBanner"]
+avito.ru##div[data-marker="videoUploader/onboardingv2"]
+m.avito.ru##svg[data-icon-name="motivationcoin"]
+m.avito.ru##div[style^="--statusbar-color"]
+||www.avito.st/static/phone-actualization/client/
+m.avito.ru##button[data-marker="heroBannerWidget/link"]
+||m.avito.ru/#block
+m.avito.ru##a[href="https://vk.com/avito"]
+m.avito.ru##a[href="https://ok.ru/avito"]
+m.avito.ru##a[href^="https://t.me/"]
+m.avito.ru##a[href^="https://rutube.ru/"]
+m.avito.ru##a[href^="https://max.ru/avito"]
+||www.avito.st/s/app/i/snippets/mav/stores_entrypoint.png
+||m.avito.ru/clickstream/events/1/json
+m.avito.ru##div[style*="error_page_not_available_common"]
+
+! May 31, 2026 https://alfabank.ru и его зависимости
+alfabank.ru##div[data-test-id*="video-"]
+alfabank.ru##a[href*="rustore"]
+private.auth.alfabank.ru##a[href="https://alfabank.ru/online/bid/"]
+||metrics.alfabank.ru
+||ru.id.facct.ru
+alfabank.ru##div[data-test-id*="Banner"]
+alfabank.ru##div[data-test-id*="banner"]
+alfabank.ru##section[data-test-id="CarouselPanel"]
+alfabank.ru##div[data-widget-name="BlockHolder"]

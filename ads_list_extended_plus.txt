@@ -1,6 +1,6 @@
 ! Title: 😎🤘 NoADS_RU Extended Plus
-! Last modified: 30 мая 2026 года
-! Total: 176586
+! Last modified: 31 мая 2026 года
+! Total: 176620
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -16972,8 +16972,8 @@ _WebVitalsReporter_
 /rrweb-script.js
 /rrweb.js
 /rrweb.min.js
-/DNSCheck.js
-/DNSChecker.js
+/DNSCheck.js$domain=~github.com
+/DNSChecker.js$domain=~github.com
 /hawk.js
 /hawkeye.js
 /hawklinks.js
@@ -23784,6 +23784,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||682a5845.b-cdn.net^
 ||99widgets.com/counters/
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
+||a.cineflix.st^
 ||a.emea01.idio.episerver.net^
 ||a.getflowbox.com^
 ||a.hcaptcha.com^
@@ -24947,6 +24948,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fst-ec.perimeterx.net^
 ||ftimg.net/js/log.js?
 ||ftm.fluencyinc.co^
+||fubuki-umami.space/api/script.js
 ||fudge.ai/metrics?
 ||future-fie-assets.co.uk^
 ||future-price.co.uk^
@@ -29414,6 +29416,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||messenger.com/ajax/bnzai?
 ||metacrawler.com/pingback
 ||metis.truecaller.com^
+||metrics-a.wbx2.com^
 ||metrics.audius.co^
 ||metrics.bangbros.com^
 ||metrics.camsoda.com^
@@ -30258,6 +30261,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trx3.famousfix.com^
 ||try.elevenlabs.io/pr/js
 ||ts.delfi.lt^
+||tsa.webex.com^
 ||tsmate.com/api/metrics
 ||tubepornstars.com/js/analytics
 ||tubi.io/datascience/logging?
@@ -86449,6 +86453,7 @@ sharefaith.com###gdpr-bot
 nanotalegame.com###gdpr-consent-form
 almaasdiamonds.com,cfu-airport.gr,clustrmaps.com,cobau.com.br,croatiaexcursions.com,estrelladecastilla.es,gofoexpress.com,jsi-airport.gr,kgs-airport.gr,leube.cz,map.purpleair.com,portal.amity.copiri.com,rho-airport.gr,skg-airport.gr,tapas.io,teamspeak.com,zth-airport.gr###gdpr-cookie-message
 quizwiz.pro###gdpr-cookie-msg
+uploadrar.com###gdpr-cookie-notice
 usg.edu###gdpr-cookie-notification
 terro.com,woodstreambrands.ca###gdpr-dialog
 bonbon.hr,businessmediamags.co.za,dailydispatch.co.za,eid.hr,theherald.co.za,timeslive.co.za,wantedonline.co.za###gdpr-overlay
@@ -86464,7 +86469,7 @@ fawesome.tv###gdpr_cookie_info_bar-wr
 myedit.online###gdpr_notes
 jagran.com,jagranjosh.com,mid-day.com###gdprbx
 maxmind.com###global-privacy-control-check
-pornhub.com###globalCookieBanner
+pornhub.com,pornhub.org###globalCookieBanner
 lloyd.com###globalerror
 draeger.com###globalnotification
 freebcc.com###google_cookie_box_bottom
@@ -92290,6 +92295,7 @@ dzen.ru###recommend-tech-snackbar
 blsspainrussia.ru###removeCookie
 rgs.ru###rgs-main-context-bar
 sport-express.net###se-cookie-popup
+thepublic.info###silktide-wrapper
 softline.ru###stripe_permission_use_cookie
 dobrodel.mosreg.ru###toast-container
 keysight-technologies.ru###uni-notification
@@ -92388,6 +92394,7 @@ supersamsev.ru##.cookie-consent-container-wrap
 lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
 sponsr.ru##.cookie-site-alert
+kgdavia.ru##.cookieAgr
 korusconsulting.ru##.cookieConfirm
 rusnano.com##.cookie__in
 gostest.com##.cookie__open
@@ -180232,3 +180239,34 @@ sourceforge.net###social
 
 ! May 30, 2026 https://telegram.org
 telegram.org##[href="https://twitter.com/telegram"]
+
+! May 31, 2026 Авито
+avito.ru##div[data-marker="location/tooltip/target"]
+avito.ru##div[class^="advert"]
+avito.ru##a[data-marker="header/bonuses"]
+avito.ru##div[class^="AdvBanner"]
+avito.ru##div[data-marker="videoUploader/onboardingv2"]
+m.avito.ru##svg[data-icon-name="motivationcoin"]
+m.avito.ru##div[style^="--statusbar-color"]
+||www.avito.st/static/phone-actualization/client/
+m.avito.ru##button[data-marker="heroBannerWidget/link"]
+||m.avito.ru/#block
+m.avito.ru##a[href="https://vk.com/avito"]
+m.avito.ru##a[href="https://ok.ru/avito"]
+m.avito.ru##a[href^="https://t.me/"]
+m.avito.ru##a[href^="https://rutube.ru/"]
+m.avito.ru##a[href^="https://max.ru/avito"]
+||www.avito.st/s/app/i/snippets/mav/stores_entrypoint.png
+||m.avito.ru/clickstream/events/1/json
+m.avito.ru##div[style*="error_page_not_available_common"]
+
+! May 31, 2026 https://alfabank.ru и его зависимости
+alfabank.ru##div[data-test-id*="video-"]
+alfabank.ru##a[href*="rustore"]
+private.auth.alfabank.ru##a[href="https://alfabank.ru/online/bid/"]
+||metrics.alfabank.ru
+||ru.id.facct.ru
+alfabank.ru##div[data-test-id*="Banner"]
+alfabank.ru##div[data-test-id*="banner"]
+alfabank.ru##section[data-test-id="CarouselPanel"]
+alfabank.ru##div[data-widget-name="BlockHolder"]
