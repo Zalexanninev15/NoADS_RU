@@ -1,10 +1,10 @@
-# Total hosts: 1142
-# Last modified: 30 мая 2026 года
+# Total hosts: 1147
+# Last modified: 31 мая 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
 3.164.206.34 a-v2.sndcdn.com
-77.239.114.0 a.claude.ai
+45.155.204.190 a.claude.ai
 103.27.157.38 a1961.g2.akamai.net
 103.27.157.38 a1968.i6g1.akamai.net
 37.230.192.51 aaa.deezer.com
@@ -54,7 +54,7 @@
 37.230.192.51 api.elevenlabs.io
 37.230.192.51 api.fitbit.com
 37.230.192.51 api.fmhy.net
-77.239.114.0 api.github.com
+103.27.157.38 api.github.com
 37.230.192.51 api.imgur.com
 103.27.157.38 api.individual.githubcopilot.com
 37.230.192.51 api.jetbrains.ai
@@ -71,6 +71,7 @@
 37.230.192.51 api16-normal-alisg.mchost.guru
 37.230.192.51 apis.google.com
 37.230.192.51 apis.naukri.com
+45.155.204.190 app.notion.com
 37.230.192.51 app.reve.com
 37.230.192.51 app.test.tuta.com
 37.230.192.51 app.tuta.com
@@ -154,7 +155,7 @@
 37.230.192.51 cdn.jetbrains.com
 37.230.192.51 cdn.oaistatic.com
 37.230.192.51 cdn.openai.com
-77.239.114.0 cdn.platform.openai.com
+45.155.204.190 cdn.platform.openai.com
 149.154.167.220 cdn.telesco.pe
 149.154.167.220 cdn1.telesco.pe
 149.154.167.220 cdn2.telesco.pe
@@ -252,7 +253,7 @@
 37.230.192.51 developer.nvidia.com
 37.230.192.51 developerprofiles-pa.googleapis.com
 37.230.192.51 developers.deepl.com
-77.239.114.0 developers.openai.com
+45.155.204.190 developers.openai.com
 37.230.192.51 dict-audio.deepl.com
 37.230.192.51 dict.deepl.com
 37.230.192.51 discovery.deezer.com
@@ -271,7 +272,7 @@
 37.230.192.51 drp-auth.deezer.com
 37.230.192.51 dunnhumby.fls.jetbrains.com
 37.230.192.51 dynmap.fmhy.net
-77.239.114.0 dyson.com
+45.155.204.190 dyson.com
 103.27.157.38 dzcdn.net
 37.230.192.51 e-learning.naukri.com
 103.27.157.38 e13678.dscb.akamaiedge.net
@@ -854,6 +855,10 @@
 157.240.205.11 scontent-hel3-1.xx.fbcdn.net
 157.240.224.63 scontent.cdninstagram.com
 57.144.244.128 scontent.xx.fbcdn.net
+45.155.204.190 sdmntpritalynorth.oaiusercontent.com
+45.155.204.190 sdmntprnortheu.oaiusercontent.com
+45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
+45.155.204.190 sdmntprukwest.oaiusercontent.com
 37.230.192.51 searx.fmhy.net
 18.165.140.56 secure.sndcdn.com
 31.25.239.132 security.id.supercell.com
@@ -1000,7 +1005,7 @@
 37.230.192.51 videos.openai.com
 37.230.192.51 view.datalore.jetbrains.com
 37.230.192.51 vmscanus.naukri.com
-77.239.114.0 voice-proxy.www.deepl.com
+45.155.204.190 voice-proxy.www.deepl.com
 37.230.192.51 w-x.co
 37.230.192.51 w.deepl.com
 37.230.192.51 w.naukri.com
