@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 31 мая 2026 года
-! Total: 17712
+! Last modified: 4 июня 2026 года
+! Total: 17711
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -20636,7 +20636,6 @@ askdev.ru###ishame
 ||mc.yandex.ru/metrika^
 ||avatars.mds.yandex.net/get-direct-picture$image
 ! Если нужен Я*, ищите инстант 4get или другой поисковик уже используйте.
-||mail.ru^
 ||widget.uxfeedback.ru
 ||www.googleadservices.com
 ||googleads.g.doubleclick.net
@@ -21329,3 +21328,9 @@ alfabank.ru##div[data-test-id*="Banner"]
 alfabank.ru##div[data-test-id*="banner"]
 alfabank.ru##section[data-test-id="CarouselPanel"]
 alfabank.ru##div[data-widget-name="BlockHolder"]
+
+! June 4, 2026 https://m.avito.ru
+m.avito.ru##div[data-code^="promo"]
+
+! June 4, 2026 https://forum.ixbt.com
+forum.ixbt.com###cookie_alert
