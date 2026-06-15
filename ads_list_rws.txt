@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 4 июня 2026 года
-! Total: 17657
+! Last modified: 15 июня 2026 года
+! Total: 17660
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -10306,6 +10306,7 @@ booking.com$removeparam=ssne_untouched
 boom.ru$removeparam=share_auth
 boosty.to$removeparam=_1ld
 boosty.to$removeparam=_1lp
+boosty.to$removeparam=fromComment
 bolshayastrana.com$removeparam=sub_id
 boltdns.net$removeparam=prof
 boredpanda.com$removeparam=cexp_id
@@ -21134,8 +21135,22 @@ aistudio.google.com##.upgrade-card-wrapper
 ! Block banner OneTrust
 *###onetrust-consent-sdk
 
-! Block Avito detect
+! Block and Bypass Avito and WB detects (+ blocking data collection)
 ||www.avito.ru/web/1/network/check
+||a.wb.ru/e/Alert_VPN*$domain=wildberries.ru
+||journal-bt.wildberries.ru/journal/api/v1/set$domain=wildberries.ru
+||static-basket-01.wbbasket.ru/vol2/site/app/performanceAnalytics*.js$domain=wildberries.ru
+||a.wb.ru/e/performance$domain=wildberries.ru
+||cdn.wbbasket.ru/api/v3/upstreams$domain=wildberries.ru
+||a.wb.ru/e/Banner_VI*$domain=wildberries.ru
+||static-basket-01.wbbasket.ru/vol0/data/all-poo-v12.json.hash$domain=wildberries.ru
+||static-basket-01.wbbasket.ru/vol0/data/all-poo-fr-v12.json$domain=wildberries.ru
+||static-basket-01.wbbasket.ru/vol0/data/promotion-creatives.json.hash$domain=wildberries.ru
+||a.wb.ru/e/Banner_SI*$domain=wildberries.ru
+||a.wb.ru/e/Banner_I*$domain=wildberries.ru
+||a.wb.ru/e/Screen_V*$domain=wildberries.ru
+||static-basket-01.wbbasket.ru/vol2/site/app/recentActivitiesService$domain=wildberries.ru
+||data-checker.wildberries.ru/data-checker/api/v1/user/check$domain=wildberries.ru
 
 ! May 5, 2026 https://www.flaticon.com
 www.flaticon.com##.tooltip--bottom.tooltip.detail__copysvg.btn-copy
@@ -21254,3 +21269,9 @@ m.avito.ru##div[data-code^="promo"]
 
 ! June 4, 2026 https://forum.ixbt.com
 forum.ixbt.com###cookie_alert
+
+! June 15, 2026 г. https://ya.ru
+ya.ru##.FuturisSnippet
+
+! June 15, 2026 г. https://www.bing.com
+www.bing.com##.banner
