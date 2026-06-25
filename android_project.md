@@ -103,13 +103,13 @@
 
 ### Значения
 
-Строкой: `rustore io.appmetrica vk. .Vk ya. yandex. admob huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.ads. .ads.`
+Строкой: `rustore io.appmetrica com.vk.api .Vk ya. yandex. admob huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.ads. .ads.`
 
 Списком:
 - `rustore`
 - `io.appmetrica`
-- `vk.`
 - `.Vk`
+- `com.vk.api`
 - `ya.`
 - `yandex.`
 - `huawei` (если у вас Google Play)
