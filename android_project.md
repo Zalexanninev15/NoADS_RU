@@ -60,15 +60,20 @@
 * [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - помогает сделать скрытие для определённых приложений.
 * [noplayserviceswarning](https://github.com/garbb/noplayserviceswarning) - помогает запустить приложения, которые требуют включения или обновления Сервисов Google Play, но прекрасно работают и без них. Проверить это можно (не для всех приложений, но большинства) через приложение [Plexus](https://f-droid.org/packages/tech.techlore.plexus/).
 
+## 👺 Проверенные годами авторы и модификации приложений
+
+* [Модификации Ozon, Wildberries, Avito и других 🇷🇺 приложений от BlackViper](https://t.me/BlackViperMod) (Telegram канал автора, но можно [на 4PDA через посты автора поискать](https://4pda.to/forum/index.php?act=search&source=pst&sort=dd&username-id=1103977)) - Full AMOLED (и не только), без рекламы и сбора данных, идеальны в качестве основы для модулей от Blue Cat
+* [Очень годные модификации 🇷🇺 приложений, особенно, AliExpress Россия, а также изменение шрифта на узкий и более вместительный от alenka_persikova на 4PDA](https://4pda.to/forum/index.php?act=search&source=pst&sort=dd&username-id=4165148)
+* [Старый-добрый Strannik (TG) и его отличные модификации](https://t.me/alexstranniklite)
+* [Модификации Tele2](https://t.me/tgx_mod) (редко обновляются)
+* [Модификации от Modz](https://t.me/modzzz21) - очень много уникальных модификаций, перечислять не буду, дабы не "светить"
+* [Яндекс SRow](https://4pda.to/forum/index.php?showtopic=749081&view=findpost&p=88687314) (существенная модификация Яндекс Клавиатуры) — на мой субъективный взгляд лучшая клавиатура из существующих. Именно модификация!
+* [RedditM от 21Modz (новее)](https://t.me/ytrvel/235) / [RedditRV от 21Modz](https://t.me/ytrvel/227) - лучшая модификация Reddit, основана на проекте ReVanced. 
+
 ## 🌳 Хосты
 
 * [bindhosts](https://github.com/bindhosts/) - для использования **NoADS_RU Hosts Blocker** и **NoADS_RU Hosts BlockerFL** на устройствах с root-правами. А также [AdAway](https://4pda.to/forum/index.php?showtopic=275091).
 * Для устройств Xiaomi рекомендуется данный проект: https://github.com/Kittyskj/FreeFromMi
-
-## 👺 Другие проекты (модификации)
-
-* [Яндекс SRow](https://4pda.to/forum/index.php?showtopic=749081&view=findpost&p=88687314) (модификация Яндекс Клавиатуры) — на мой субъективный взгляд лучшая клавиатура из существующих. Именно модификация!
-* [RedditM от 21Modz (новее)](https://t.me/ytrvel/235) / [RedditRV от 21Modz](https://t.me/ytrvel/227) - модификация Reddit, основана на проекте ReVanced
 
 ## 🥸 Личная настройка приложений через App Manager
 
