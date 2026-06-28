@@ -68,7 +68,8 @@
 * [Модификации Tele2](https://t.me/tgx_mod) (редко обновляются)
 * [Модификации от Modz](https://t.me/modzzz21) - очень много уникальных модификаций, перечислять не буду, дабы не "светить"
 * [Яндекс SRow](https://4pda.to/forum/index.php?showtopic=749081&view=findpost&p=88687314) (существенная модификация Яндекс Клавиатуры) — на мой субъективный взгляд лучшая клавиатура из существующих. Именно модификация!
-* [RedditM от 21Modz (новее)](https://t.me/ytrvel/235) / [RedditRV от 21Modz](https://t.me/ytrvel/227) - лучшая модификация Reddit, основана на проекте ReVanced. 
+* [RedditM от 21Modz (новее)](https://t.me/ytrvel/235) / [RedditRV от 21Modz](https://t.me/ytrvel/227) - лучшая модификация Reddit, основана на проекте ReVanced.
+* Рекомендую сначала перейти по ссылкам выше, у авторов ещё очень много модификаций, которые я не подсветил, а так, если что-то не найдёте – я обычно ищу на 4PDA в теме приложения. Стандартная практика, так сказать.
 
 ## 🌳 Хосты
 
@@ -112,7 +113,7 @@
 
 ### Значения
 
-Строкой: `rustore io.appmetrica com.vk.api .Vk ya. yandex. admob huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.ads. .ads.`
+Строкой: `rustore io.appmetrica com.vk.api .Vk ya. yandex. com.yandex.runtime.connectivity admob huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.ads. .ads.`
 
 Списком:
 - `rustore`
@@ -126,6 +127,7 @@
 - `io.sentry.`
 - `com.alibaba.analytics`
 - `com.google.android.gms.ads.`
+- `com.yandex.runtime.connectivity`
 - `.ads.`
 - `admob`
 
