@@ -1,5 +1,5 @@
-# Total hosts: 1217
-# Last modified: 15 июня 2026 года
+# Total hosts: 1218
+# Last modified: 29 июня 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
@@ -799,6 +799,7 @@
 37.230.192.51 oauth.fls.jetbrains.com
 149.154.167.220 oauth.telegram.org
 37.230.192.51 oauth2-proxy-api.api.jetbrains.com
+185.199.109.133 objects.githubusercontent.com
 37.230.192.51 ogimg.chatgpt.com
 37.230.192.51 old-lemmy.fmhy.net
 37.230.192.51 old.fmhy.net

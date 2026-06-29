@@ -16,3 +16,17 @@
 0.0.0.0 st.hybrid.ai
 0.0.0.0 tube.buzzoola.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 metrika.yandex.net
+0.0.0.0 redirect.appmetrica.yandex.net
+0.0.0.0 ext.yandex.ru
+0.0.0.0 yandexmetrika.com
+0.0.0.0 appmetrica.io
+0.0.0.0 ads.gapi.unity3d.com
+0.0.0.0 outcomes-ssp.supersonicads.com
+0.0.0.0 api.is.com
+0.0.0.0 r.mail.ru
+0.0.0.0 amc.mail.ru
+0.0.0.0 t.vk.com
+0.0.0.0 err.vk.com
+0.0.0.0 analytics.my.com
+0.0.0.0 bip.my.com
