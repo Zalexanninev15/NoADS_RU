@@ -1,5 +1,5 @@
-# Total hosts: 1218
-# Last modified: 29 июня 2026 года
+# Total hosts: 1228
+# Last modified: 30 июня 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
@@ -33,6 +33,7 @@
 37.230.192.51 amazon.fls.jetbrains.com
 37.230.192.51 amd.com
 37.230.192.51 android.chat.openai.com
+172.67.190.231 android.clients.google.com
 172.67.192.246 anilib.me
 37.230.192.51 ansync.deezer.com
 37.230.192.51 anthropic.com
@@ -224,6 +225,12 @@
 37.230.192.51 claudemcpclient.com
 37.230.192.51 clearance.deepl.com
 37.230.192.51 client-api.linear.app
+172.67.190.231 clients1.google.com
+172.67.190.231 clients2.google.com
+172.67.190.231 clients3.google.com
+172.67.190.231 clients4.google.com
+172.67.190.231 clients5.google.com
+172.67.190.231 clients6.google.com
 37.230.192.51 cloudconfig.jetbrains.com
 37.230.192.51 cloudfront.pkg-cdn.jetbrains.space
 37.230.192.51 cm.naukri.com
@@ -247,6 +254,9 @@
 37.230.192.51 configr.jetbrains.com
 37.230.192.51 confluence.jetbrains.com
 37.230.192.51 connect.deezer.com
+172.67.190.231 connectivitycheck.android.com
+172.67.190.231 connectivitycheck.google.com
+172.67.190.231 connectivitycheck.gstatic.com
 37.230.192.51 consent.badoo.com
 37.230.192.51 console.anthropic.com
 37.230.192.51 console.x.ai
