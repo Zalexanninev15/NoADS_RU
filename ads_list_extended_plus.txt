@@ -1,6 +1,6 @@
 ! Title: 😎🤘 NoADS_RU Extended Plus
 ! Last modified: 30 июня 2026 года
-! Total: 176978
+! Total: 176985
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -21951,6 +21951,7 @@ omni.soundestlink.com$image
 ||potatoinvention.com^
 ||powerfulblends.com^
 ||powerfulcopper.com^
+||powertoolwiki.com^
 ||preciousplanes.com^
 ||precisear.com^
 ||predictplate.com^
@@ -90851,6 +90852,7 @@ vobco.hr###blokDiv
 dokutv.net###cmp_overlay
 liberal.hr###footer
 aktivnosti.zagreb.hr###gdc-cookieSettings
+mikronis.hr###gdc-shade
 vindija.hr###gdpr-overlay
 iarh.hr###kukijima
 tzdubrovnik.hr###mygdprPopupHR
@@ -90867,10 +90869,11 @@ generali.hr##.cd-module
 rba.hr,rbainvest.hr##.cd-module-main
 flair.hr##.css-8g6x3l
 hapih.hr,podravski.hr##.dialog-widget
+aviteh.hr##.ec-gtm-cookie-directive
 zagreb.mozemo.hr##.fs-consent_component-2
 gov.hr,hakom.hr,zagreb.hr,zgh.hr##.gdc-container
 aktivnosti.zagreb.hr##.gdc-shade
-gumiimpex.hr,ljekarna-pablo.hr,mobyfix.hr##.gdpr-container-wrapper
+aloalo.hr,gumiimpex.hr,ljekarna-pablo.hr,mobyfix.hr##.gdpr-container-wrapper
 eid.hr,vindija.hr##.gdpr-prompt
 buket.hr##.kukip
 agroproteinka.hr##.notice-container
@@ -180633,3 +180636,12 @@ m.avito.ru##div[data-code^="promo"]
 ! June 4, 2026 https://forum.ixbt.com
 forum.ixbt.com###cookie_alert
 
+! June 15, 2026 https://ya.ru
+ya.ru##.FuturisSnippet
+
+! June 15, 2026 https://www.bing.com
+www.bing.com##.banner
+
+! June 30, 2026 Avito
+www.avito.ru##div[data-key^="promoWidget"]
+m.avito.ru##div[data-key^="promoWidget"]
