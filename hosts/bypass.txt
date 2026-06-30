@@ -1,5 +1,5 @@
-# Total hosts: 499
-# Last modified: 29 июня 2026 года
+# Total hosts: 509
+# Last modified: 30 июня 2026 года
 3.164.206.34 a-v2.sndcdn.com
 45.155.204.190 a.claude.ai
 103.27.157.38 a1961.g2.akamai.net
@@ -19,6 +19,7 @@
 103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
+172.67.190.231 android.clients.google.com
 172.67.192.246 anilib.me
 103.27.157.38 ap-gew1.spotify.com
 103.27.157.38 api-free.deepl.com
@@ -73,7 +74,16 @@
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
 45.155.204.190 client-api.linear.app
+172.67.190.231 clients1.google.com
+172.67.190.231 clients2.google.com
+172.67.190.231 clients3.google.com
+172.67.190.231 clients4.google.com
+172.67.190.231 clients5.google.com
+172.67.190.231 clients6.google.com
 204.12.192.222 codeium.com
+172.67.190.231 connectivitycheck.android.com
+172.67.190.231 connectivitycheck.google.com
+172.67.190.231 connectivitycheck.gstatic.com
 103.27.157.38 console.anthropic.com
 45.155.204.190 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
