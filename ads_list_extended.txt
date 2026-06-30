@@ -1,6 +1,6 @@
 ! Title: 😎 NoADS_RU Extended
 ! Last modified: 30 июня 2026 года
-! Total: 74525
+! Total: 74529
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -75444,6 +75444,8 @@ nime-bit.online##.layer_box > #header
 /js/adbuddy.min.js$script
 ###adbuddy-no-adb-container
 ###adbuddy-overlay
+#@##sponsored-ad
+#@#.afs_ads
 /aadb/script.js|$script
 ||codeclan.altervista.org/wp-content/uploads/*/*/*.mp3$media
 /plugins/better-stop-adblock/*
@@ -75475,9 +75477,11 @@ nime-bit.online##.layer_box > #header
 b-website.com#@##adsense
 ||adunblock.com/code/*.html
 ||adblockconverter.com/js/aab.js$script,third-party
+#@##banner_ad
 @@||adternal.com/*/ad-loading.bmp$image
 @@||s3-eu-west-1.amazonaws.com/bucket-ad/ad-image.png=$image
 @@||d2jqs2kfmi9hwf.cloudfront.net/ad-image.png=$image
+#@#div[itemtype="http://schema.org/WPAdBlock"]
 /kill-adblock//js/function.js$script
 /kill-adblock/js/function.js$script
 fuckadblock.sitexw.fr#@#.pub_300x250

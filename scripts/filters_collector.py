@@ -29,7 +29,10 @@ def count_rules(lines):
     return sum(
         1
         for ln in lines
-        if ln.strip() and not ln.strip().startswith("!") and not ln.startswith(" ")
+        if ln.strip() 
+        and not ln.strip().startswith("!") 
+        and not ln.strip().lower().startswith("[adblock") 
+        and not ln.startswith(" ")
     )
 
 
@@ -115,12 +118,12 @@ def fetch_and_clean_filters(input_file, output_file, exceptions, proxies):
                 continue
             if rule.startswith("!") or rule.startswith("!!"):
                 continue
-            if (
-                rule.startswith("#")
-                and not rule.startswith("##")
-                and not rule.startswith("#?")
-            ):
+            
+            # Пропускаем обычные текстовые комментарии #, но сохраняем 
+            # все рабочие фильтры: ##, #@#, #?#, #%#, #$#
+            if rule.startswith("#") and "#" not in rule[1:4]:
                 continue
+                
             if "  # " in rule:
                 rule = rule.split("  # ", 1)[0].rstrip()
 
