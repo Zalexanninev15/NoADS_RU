@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
 ! Last modified: 30 июня 2026 года
-! Total: 17734
+! Total: 17736
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -21354,8 +21354,12 @@ m.avito.ru##div[data-code^="promo"]
 ! June 4, 2026 https://forum.ixbt.com
 forum.ixbt.com###cookie_alert
 
-! June 15, 2026 г. https://ya.ru
+! June 15, 2026 https://ya.ru
 ya.ru##.FuturisSnippet
 
-! June 15, 2026 г. https://www.bing.com
+! June 15, 2026 https://www.bing.com
 www.bing.com##.banner
+
+! June 30, 2026 Avito
+www.avito.ru##div[data-key^="promoWidget"]
+m.avito.ru##div[data-key^="promoWidget"]
