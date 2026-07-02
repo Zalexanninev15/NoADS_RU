@@ -84,7 +84,7 @@
 
 ## 🥸 Личная настройка приложений через App Manager
 
-😉 Убираем трекеры и метрику с Zalexanninev15! Рекомендую применять как для модификаций (т.к. в них всё равно остаются следы и рабочие *плохие вещи*), так и к оригинальным приложениям.
+😉 Убираем трекеры, метрику и скрытые службы с Zalexanninev15! Рекомендую применять как для модификаций (т.к. в них всё равно остаются следы и рабочие *плохие вещи*), так и к оригинальным приложениям.
 
 0. Перед началом сразу скажу – у меня устройство с root-правами, поэтому всё что я могу заблокировать – не фактчтоо вы сможете!
 > [!IMPORTANT]
@@ -108,18 +108,19 @@
 ### Для множества приложений
 
 > [!IMPORTANT]  
-> ⚠️ Используйте с осторожностью!
+> 🧠 Используйте с умом!
 
 1. Выбираем через 3 точки пункт **Операции в один клик**
 2. **Заблокировать/разблокировать трекеры**
 3. Выбираем приложения из списка и блокируем все трекеры (оранжевая плашка)
 4. **Заблокировать/разблокировать компоненты**
 5. Введите значения через пробел (строкой)
-6. Выберите все приложения и заблокируйте компоненты.
+6. При желании, можно проверить системные приложения, особенно если 🇷🇺 приложения вшиты в систему.
+7. Выберите все приложения (или проанализируйте, в зависимости от введённых значений, но я обычно сразу всё выбираю, а позже уже подгоняю, если в каком-то приложении не работают нужные мне функции) и заблокируйте компоненты.
 
 ### Значения
 
-Строкой: `rustore io.appmetrica com.vk.api .Vk ya. yandex. com.yandex.runtime.connectivity admob huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.ads. .ads.`
+Строкой: `rustore io.appmetrica com.vk.api .Vk ya. yandex. com.yandex.runtime.connectivity admob huawei HMSPushAppService io.sentry. com.alibaba.analytics com.google.android.gms.ads. .ads. ru.ok.sdk ru.ok.android ru.mts.biometry ru.cyberity.cbr ru.tinkoff ru.rustore.sdk com.edna.android.push_lite.rustore.RcmPushService ru.rtln.tds com.vk.id.captcha.web.VKCaptchaWebViewActivity`
 
 Списком:
 - `rustore`
@@ -136,6 +137,15 @@
 - `com.yandex.runtime.connectivity`
 - `.ads.`
 - `admob`
+- `ru.ok.sdk`
+- `ru.ok.android`
+- `ru.mts.biometry`
+- `ru.cyberity.cbr`
+- `ru.tinkoff`
+- `ru.rustore.sdk`
+- `com.edna.android.push_lite.rustore.RcmPushService`
+- `ru.rtln.tds`
+- `com.vk.id.captcha.web.VKCaptchaWebViewActivity`
 
 > [!IMPORTANT]  
 > ⚠️ Некоторые функции приложений (такие как снятие камерой, например) могут перестать корректно отрабатывать, а приложения могут начать "вылетать", в таком случае просто удалите все применённые правила для приложения через 3 точки.
