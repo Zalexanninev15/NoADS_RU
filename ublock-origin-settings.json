@@ -29,6 +29,7 @@
   ],
   "hiddenSettings": {
     "autoUpdateDelayAfterLaunch": 80,
+    "autoUpdatePeriod": 1,
     "consoleLogLevel": "info",
     "popupFontSize": "13px",
     "popupPanelOrientation": "landscape",
