@@ -243,8 +243,8 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 
 * Mozilla Firefox (и браузеры на его основе, рекомендую использовать его сборки: Floorp или Zen Browser)
 * Vivaldi 🦖
-* Helium ❤️ (поставляется со встроенным uBlock Origin и поддержкой всех расширений)
-* Brave 🦖 (поставляется с некоторыми расширениями с Manifest V2 для улучшения конфиденциальности и безопасности, а также блокировки рекламы – uBlock Origin)
+* Helium ❤️ (поставляется со встроенным uBlock Origin и поддержкой всех расширений Manifest V2, рекомендуемый выбор для полноценной работы uBlock Origin и списков фильтров)
+* Brave 🦖 (поставляется с некоторыми расширениями с Manifest V2 для улучшения конфиденциальности и безопасности)
 * Другие браузеры, которые имеют встроенный AdBlock с поддержкой пользовательских списков фильтров
 
 > [!IMPORTANT]
@@ -295,7 +295,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 > [!TIP]
 > Методы могут быть частично актуальны и для других браузерных расширений.
 
-🦸 Рекомендуется к использованию: **Авторские настройки для uBlock Origin**
+🦸 Рекомендуется к использованию: **Авторские настройки для uBlock Origin** и браузер [Helium](https://github.com/imputnet/helium) (данный браузер уже имеет встроенный uBlock Origin).
 
 - 👍 Лучшие настройки и отличная оптимизация!
 - 👍 Подписка на список **NoADS_RU** активирована!
@@ -376,7 +376,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt
 
 **Такими браузерами являются**
 
-[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru) [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/ru/)
+[![Helium Browser](https://img.shields.io/badge/Helium-344fcf?style=for-the-badge&logo=claude&logoColor=white)](https://helium.computer) [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru) [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/ru/)
 
 #### Как настроить?
 
