@@ -1,5 +1,5 @@
-# Total hosts: 509
-# Last modified: 7 июля 2026 года
+# Total hosts: 513
+# Last modified: 20 июля 2026 года
 3.164.206.34 a-v2.sndcdn.com
 45.155.204.190 a.claude.ai
 103.27.157.38 a1961.g2.akamai.net
@@ -68,6 +68,7 @@
 149.154.167.220 cdn3.telesco.pe
 149.154.167.220 cdn4.telesco.pe
 149.154.167.220 cdn5.telesco.pe
+149.154.167.220 cdn6.telesco.pe
 103.27.157.38 chatgpt.com
 204.12.192.222 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
@@ -96,6 +97,7 @@
 103.27.157.38 dds.dell.com
 103.27.157.38 deepl.com
 103.27.157.38 deezer.com
+149.154.167.220 desktop.telegram.org
 103.27.157.38 developer.nvidia.com
 45.155.204.190 developers.openai.com
 103.27.157.38 dict.deepl.com
@@ -366,6 +368,7 @@
 103.27.157.38 login.app.spotify.com
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
+149.154.167.220 macos.telegram.org
 3.66.189.153 mail.proton.me
 45.155.204.190 manus.im
 45.155.204.190 marketplace.windsurf.com
@@ -380,6 +383,7 @@
 204.12.192.222 ntc.party
 103.27.157.38 o.pki.goog
 149.154.167.220 oauth.telegram.org
+149.154.167.220 oauth.tg.dev
 185.199.109.133 objects.githubusercontent.com
 103.27.157.38 oneshot-free.www.deepl.com
 204.12.192.222 open-exp.spotifycdn.com

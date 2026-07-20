@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 7 июля 2026 года
-! Total: 17747
+! Last modified: 20 июля 2026 года
+! Total: 17750
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -8433,7 +8433,6 @@ medium.com##.fi.cn.q.ab.ur.uq.up.uo.un.um.v.ul.t.uk
 dev.to##.popover-billboard--menuopenupwards.right-0.left-0.bottom-0.fixed.js-billboard.crayons-story__billboard.popover-billboard.crayons-bb.crayons-card--secondary.crayons-card
 
 ! 10 июн. 2024 г. https://ya.ru
-ya.ru##div.body__content:nth-of-type(4)
 ya.ru##[class^="ListItem MenuItem MenuItem_get-plus"]
 ya.ru##[class^="NoLogin-Text-Wrapper"]
 ya.ru##[class^="ya-search-promo__option ya-search-promo__option_active ya-search-promo__option-ya"]
@@ -9744,7 +9743,7 @@ $removeparam=fb_comment_id
 $removeparam=fb_source
 $removeparam=feeditemid
 $removeparam=fref
-$removeparam=from,from=~alfabank.ru|~jlcpcb.com|~account.mail.ru|~id.mail.ru|~auth.mail.ru|~e.mail.ru|~auto.ru|~nextdns.io|~ozon.ru|~ozone.ru|~sberbank.ru|~tradingview.com|~uds.app|~yandex.*
+$removeparam=from,from=~alfabank.ru|~jlcpcb.com|~account.mail.ru|~id.mail.ru|~auth.mail.ru|~e.mail.ru|~auto.ru|~nextdns.io|~ozon.ru|~ozone.ru|~sberbank.ru|~ticktick.com|~tradingview.com|~uds.app|~yandex.*
 /?from=yanews$removeparam=from
 ||yandex.*/news/$removeparam=from
 ||yandex.*/images/search?text=*&from=$document,removeparam=|from,domain=yandex.*
@@ -10348,6 +10347,7 @@ bloomberg.com$removeparam=in_source
 bloomberg.com$removeparam=leadSource
 bloomberg.com$removeparam=sref
 bloomberg.com$removeparam=srnd
+bloomberg.com$removeparam=taid
 bluestacks.com$removeparam=email
 bluestacks.com$removeparam=guid
 bluestacks.com$removeparam=oem
@@ -10528,6 +10528,7 @@ dvdfab.org$removeparam=soft
 dvdfab.org$removeparam=ver
 dw.com$removeparam=maca
 dw-world.cn$removeparam=maca
+pepurl.com$removeparam=maca
 eastday.com$removeparam=qid
 easyfundraising.org.uk$removeparam=efr_medium
 easyfundraising.org.uk$removeparam=efr_source
@@ -11273,6 +11274,7 @@ theplatform.com$removeparam=/^((?!SMIL|formats).)*$/i
 theregister.com$removeparam=td
 theresanaiforthat.com$removeparam=term
 thetimes.co.uk$removeparam=shareToken
+threads.com$removeparam=xmt
 ticketshop.ru$removeparam=r
 tiktok.com$removeparam=app_name
 tiktok.com$removeparam=browser_language
@@ -21083,7 +21085,7 @@ alexhost.com##.promo-banner__content
 alexhost.com##.promo-banner__top
 alexhost.com##.black-friday-banner__container.container
 
-! 2 мар. 2026 г. https://dzen.ru
+! Mar 2, 2026 https://dzen.ru
 dzen.ru##span[class*="-ad-"]
 dzen.ru##span[data-testid*="ad-"]
 
@@ -21378,3 +21380,59 @@ account.habr.com##.socials-buttons__button_yandex
 habr.com##.single-banner.inner
 habr.com##.has-own-style.banner > .inner
 habr.com##.advertising-button
+
+! July 20, 2026 https://search.brave.com
+search.brave.com##dialog:has(.promo-content)
+
+! July 20, 2026 https://t2.ru
+t2.ru##.ask-for-region-line-t2
+t2.ru##.cookies-confirmation-popover
+t2.ru##.t2-footer__first-floor--left
+t2.ru##.tele2-ui-kit__teaser--has-media.tele2-ui-kit__teaser--loading.tele2-ui-kit__teaser--light.tele2-ui-kit__teaser
+t2.ru##.tele2-ui-kit__carousel--smooth-scroll.tele2-ui-kit__carousel
+t2.ru##div[data-cartridge-type="TeasersCarousel"]
+||s3.t2.ru/ds-site/images/banners/banner-popup-auth.png$image
+t2.ru##.t2-keycloak-login-modal__login-banner-text
+||s3.t2.ru/ds-site/images/banners/banner-popup-auth.png$image
+t2.ru##.tele2-ui-kit__teaser-small--loading.tele2-ui-kit__teaser-small--light.tele2-ui-kit__teaser-small.personalized-banner-lenta__teaser.tele2-ui-kit__condition-link-wrapper-link
+||s3.t2.ru/ds-site/images/lk/tree.png$image
+t2.ru##.card-with-scale-hover.no-hover.dashboard-tree-certificates.tele2-ui-kit__card--with-border-radius.tele2-ui-kit__card--with-shadow.tele2-ui-kit__card--with-padding.tele2-ui-kit__card.tele2-ui-kit__condition-link-wrapper-link
+t2.ru##.right-image-design-2024__inner
+t2.ru##.card-with-scale-hover.space-holder-top-sm-48.space-holder-top-xs-8.no-hover.right-image-design-2024.tele2-ui-kit__card--with-border-radius.tele2-ui-kit__card--with-shadow.tele2-ui-kit__card__text--default.tele2-ui-kit__card--default.tele2-ui-kit__card.tele2-ui-kit__condition-link-wrapper-link
+t2.ru##.dashboard-banner-mixx__content
+t2.ru##.card-with-scale-hover.space-holder-top-xs-8.space-holder-top-sm-48.no-hover.dashboard-banner-mixx.tele2-ui-kit__card--with-border-radius.tele2-ui-kit__card--with-padding.tele2-ui-kit__card__text--dark.tele2-ui-kit__card--dark.tele2-ui-kit__card.tele2-ui-kit__condition-link-wrapper-link
+||t2.ru/static/media/logo.*.gif$image
+t2.ru##.card-with-scale-hover.info-item--custom.no-hover.info-item.tele2-ui-kit__card--with-border-radius.tele2-ui-kit__card--with-shadow.tele2-ui-kit__card--with-padding.tele2-ui-kit__card.tele2-ui-kit__condition-link-wrapper-link
+||s3.t2.ru/ds-site/images/banners/menu/b-menu-mnp-mob.jpg$image
+t2.ru##.no-hover.menu-block-banner.tele2-ui-kit__card--with-border-radius.tele2-ui-kit__card--with-shadow.tele2-ui-kit__card--with-padding.tele2-ui-kit__card__text--dark.tele2-ui-kit__card--dark.tele2-ui-kit__card.tele2-ui-kit__condition-link-wrapper-link
+t2.ru##.card-with-scale-hover.space-holder-top-xs-8.no-hover.right-image-design-2024.tele2-ui-kit__card--with-border-radius.tele2-ui-kit__card--with-shadow.tele2-ui-kit__card__text--default.tele2-ui-kit__card--default.tele2-ui-kit__card.tele2-ui-kit__condition-link-wrapper-link
+t2.ru##a[href="/promo/number-forever"]
+t2.ru##a[href="https://referral.t2.ru/"]
+t2.ru##div[class="swiper-slide tariff-card-t2-slide swiper-slide-active"]
+
+! July 20, 2026 https://web.alfabank.ru
+web.alfabank.ru##.newclick-marketplace-ui
+web.alfabank.ru##div[data-test-id="fake-transaction-wrapper"]
+web.alfabank.ru##img[src*=stories]
+web.alfabank.ru##main > .newclick-dashboard-ui
+
+! July 20, 2026 https://ozon.ru
+ozon.ru##div[data-widget="cookieBubble"]
+ozon.ru##a[href*="?advert="]
+ozon.ru##a[href*="promo"]
+ozon.ru##div[data-widget="advBanner"]
+ozon.ru##div[data-widget="seasonWidget"]
+ozon.ru##div[data-widget="bannerCarousel"]
+ozon.ru##a[href*="esia"]
+
+! July 20, 2026 https://www.wildberries.ru
+www.wildberries.ru##.cookies
+
+! July 20, 2026 https://yoomoney.ru
+yoomoney.ru##div[id*="promotional"]
+yoomoney.ru##div[data-offer-block-id*="promotional"]
+yoomoney.ru##img[data-qa*="promotional"]
+yoomoney.ru##img[src*="bonus"]
+
+! Фантики после оплаты
+||flocktory.com

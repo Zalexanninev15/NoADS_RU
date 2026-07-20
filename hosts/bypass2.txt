@@ -1,5 +1,5 @@
-# Total hosts: 1228
-# Last modified: 7 июля 2026 года
+# Total hosts: 1232
+# Last modified: 20 июля 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
@@ -171,6 +171,7 @@
 149.154.167.220 cdn3.telesco.pe
 149.154.167.220 cdn4.telesco.pe
 149.154.167.220 cdn5.telesco.pe
+149.154.167.220 cdn6.telesco.pe
 37.230.192.51 charts-images.scdn.co
 31.13.72.33 chat-e2ee-mini.c10r.facebook.com
 57.144.244.8 chat-e2ee-mini.facebook.com
@@ -306,6 +307,7 @@
 37.230.192.51 demoresdex.naukri.com
 37.230.192.51 designer.microsoft.com
 37.230.192.51 designerapp.officeapps.live.com
+149.154.167.220 desktop.telegram.org
 37.230.192.51 dev-gcast.deezer.com
 37.230.192.51 dev.strava.com
 37.230.192.51 developer.nvidia.com
@@ -728,6 +730,7 @@
 37.230.192.51 m83.naukri.com
 37.230.192.51 m9.naukri.com
 37.230.192.51 m91.naukri.com
+149.154.167.220 macos.telegram.org
 37.230.192.51 maestrorecruiter.naukri.com
 37.230.192.51 mail.jetbrains.com
 37.230.192.51 mail.naukri.com
@@ -808,6 +811,7 @@
 37.230.192.51 oauth.deezer.com
 37.230.192.51 oauth.fls.jetbrains.com
 149.154.167.220 oauth.telegram.org
+149.154.167.220 oauth.tg.dev
 37.230.192.51 oauth2-proxy-api.api.jetbrains.com
 185.199.109.133 objects.githubusercontent.com
 37.230.192.51 ogimg.chatgpt.com
