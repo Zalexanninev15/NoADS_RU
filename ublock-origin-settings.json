@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1781184860423,
-  "version": "1.71.0",
+  "timeStamp": 1784557951811,
+  "version": "1.72.2",
   "userSettings": {
     "advancedUserEnabled": true,
     "cnameUncloakEnabled": false,
@@ -17,7 +17,8 @@
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt",
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt"
     ],
-    "popupPanelSections": 15
+    "popupPanelSections": 15,
+    "suspendUntilListsAreLoaded": true
   },
   "selectedFilterLists": [
     "user-filters",
@@ -28,10 +29,9 @@
   ],
   "hiddenSettings": {
     "autoUpdateDelayAfterLaunch": 80,
+    "consoleLogLevel": "info",
     "popupFontSize": "13px",
     "popupPanelOrientation": "landscape",
-    "autoUpdatePeriod": 1,
-    "consoleLogLevel": "info",
     "updateAssetBypassBrowserCache": true,
     "userResourcesLocation": "https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/video-swap-new/video-swap-new-ublock-origin.js"
   },
