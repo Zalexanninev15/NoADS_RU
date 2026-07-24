@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 20 июля 2026 года
-! Total: 17750
+! Last modified: 24 июля 2026 года
+! Total: 17791
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -21436,3 +21436,5 @@ yoomoney.ru##img[src*="bonus"]
 
 ! Фантики после оплаты
 ||flocktory.com
+
+||ya.ru^$removeparam=ysclid
