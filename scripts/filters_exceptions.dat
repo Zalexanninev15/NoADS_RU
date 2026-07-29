@@ -4,7 +4,7 @@ aliexpress.*##a:has-text(/^$/)
 ||ogs.google.com$subdocument
 $removeparam=via
 $removeparam=via,domain=ya.ru
-$removeparam=origin,domain=~yandex.ru|~yandex.com
+$removeparam=origin,domain=~stripe.com|~yandex.ru|~yandex.com
 ||i.instagram.com
 ||mi.com^
 ||ot.io.mi.com^
@@ -21,3 +21,4 @@ $removeparam=origin,domain=~yandex.ru|~yandex.com
 4pda.*##+js(no-setTimeout-if, removeAttr, setTimeout)
 4pda.*##+js(abort-on-property-read, document.referrer)
 4pda.*##+js(remove-class, wide-1|wide-2|wide-3, .advanced-area .post)
+$removeparam=/trackid/i

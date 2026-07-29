@@ -1,5 +1,5 @@
 # Total hosts: 513
-# Last modified: 24 июля 2026 года
+# Last modified: 29 июля 2026 года
 3.164.206.34 a-v2.sndcdn.com
 45.155.204.190 a.claude.ai
 103.27.157.38 a1961.g2.akamai.net
@@ -61,7 +61,7 @@
 103.27.157.38 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
-45.155.204.190 cdn.platform.openai.com
+37.230.192.51 cdn.platform.openai.com
 149.154.167.220 cdn.telesco.pe
 149.154.167.220 cdn1.telesco.pe
 149.154.167.220 cdn2.telesco.pe
@@ -99,7 +99,7 @@
 103.27.157.38 deezer.com
 149.154.167.220 desktop.telegram.org
 103.27.157.38 developer.nvidia.com
-45.155.204.190 developers.openai.com
+103.27.157.38 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
@@ -361,7 +361,7 @@
 149.154.167.220 kws4-1.web.telegram.org
 149.154.167.220 kws4.web.telegram.org
 103.27.157.38 labs.google
-45.155.204.190 linear.app
+185.246.223.127 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
 103.27.157.38 login-wall.deepl.com
@@ -370,7 +370,7 @@
 103.27.157.38 login5.spotify.com
 149.154.167.220 macos.telegram.org
 3.66.189.153 mail.proton.me
-45.155.204.190 manus.im
+37.230.192.51 manus.im
 45.155.204.190 marketplace.windsurf.com
 149.154.167.220 my.telegram.org
 103.27.157.38 ncsi-geo.trafficmanager.net
@@ -392,7 +392,7 @@
 103.27.157.38 ott.deepl.com
 185.246.223.127 patreon.com
 103.27.157.38 payment.deezer.com
-45.155.204.190 platform.claude.com
+37.230.192.51 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 185.199.108.133 private-user-images.githubusercontent.com
@@ -463,7 +463,7 @@
 149.154.167.220 vesta-1.web.telegram.org
 149.154.167.220 vesta.web.telegram.org
 204.12.192.222 videos.openai.com
-45.155.204.190 voice-proxy.www.deepl.com
+37.230.192.51 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 45.155.204.190 web-backend.codeium.com
@@ -474,7 +474,7 @@
 103.27.157.38 win1910.ipv6.microsoft.com
 45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf-telemetry.codeium.com
-45.155.204.190 windsurf.com
+185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 204.12.192.222 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
@@ -499,7 +499,7 @@
 158.255.0.189 www.netflix.com
 103.27.157.38 www.notion.so
 185.246.223.127 www.patreon.com
-45.155.204.190 www.qwant.com
+37.230.192.51 www.qwant.com
 103.27.157.38 www.spotify.com
 157.240.224.63 www.threads.com
 103.27.157.38 www.tiktok.com

@@ -1,5 +1,5 @@
 # Total hosts: 1232
-# Last modified: 24 июля 2026 года
+# Last modified: 29 июля 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
@@ -1087,7 +1087,7 @@
 37.230.192.51 videos.openai.com
 37.230.192.51 view.datalore.jetbrains.com
 37.230.192.51 vmscanus.naukri.com
-45.155.204.190 voice-proxy.www.deepl.com
+37.230.192.51 voice-proxy.www.deepl.com
 37.230.192.51 w-x.co
 37.230.192.51 w.deepl.com
 37.230.192.51 w.naukri.com
