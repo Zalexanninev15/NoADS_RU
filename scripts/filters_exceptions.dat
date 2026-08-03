@@ -22,3 +22,5 @@ $removeparam=origin,domain=~stripe.com|~yandex.ru|~yandex.com
 4pda.*##+js(abort-on-property-read, document.referrer)
 4pda.*##+js(remove-class, wide-1|wide-2|wide-3, .advanced-area .post)
 $removeparam=/trackid/i
+@@||s.youtube.com/api/stats/playback?$image,domain=youtube.com
+@@||s.youtube.com^
