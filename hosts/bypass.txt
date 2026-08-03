@@ -1,5 +1,5 @@
-# Total hosts: 513
-# Last modified: 29 июля 2026 года
+# Total hosts: 512
+# Last modified: 3 августа 2026 года
 3.164.206.34 a-v2.sndcdn.com
 45.155.204.190 a.claude.ai
 103.27.157.38 a1961.g2.akamai.net
@@ -478,7 +478,6 @@
 103.27.157.38 write-free.www.deepl.com
 204.12.192.222 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
-204.12.192.222 www.bing.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com

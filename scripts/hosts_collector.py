@@ -101,31 +101,42 @@ def process_hosts_from_list(file_list, exceptions=None, proxies=None):
 
     for file_source in file_list:
         file_source = file_source.strip()
+        if not file_source:
+            continue
         print(f"⏳ Источник: {file_source}")
         blocker_hosts = set()
         bypass_hosts = {}
-
+        is_domain_only = file_source.endswith('D')
         if file_source.startswith(("http://", "https://")):
             try:
                 headers = {
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0"
                 }
+                if is_domain_only:
+                    file_source = file_source[:-1]
                 response = requests.get(
                     file_source, headers=headers, proxies=proxies, timeout=60
                 )
                 response.raise_for_status()
                 content = response.text.splitlines()
+
                 for line in content:
-                    ip, domains = parse_hosts_line(line)
-                    if ip is None:
-                        continue
-                    for domain in domains:
-                        if is_exception(domain, exceptions):
+                    if is_domain_only:
+                        domain = line.split('#')[0].strip().lower()
+                        if domain and is_valid_domain(domain):
+                            if not is_exception(domain, exceptions):
+                                blocker_hosts.add(domain)
+                    else:
+                        ip, domains = parse_hosts_line(line)
+                        if ip is None:
                             continue
-                        if ip in ("0.0.0.0", "127.0.0.1", "0.0.0.1"):
-                            blocker_hosts.add(domain)
-                        else:
-                            bypass_hosts[domain] = ip
+                        for domain in domains:
+                            if is_exception(domain, exceptions):
+                                continue
+                            if ip in ("0.0.0.0", "127.0.0.1", "0.0.0.1"):
+                                blocker_hosts.add(domain)
+                            else:
+                                bypass_hosts[domain] = ip
             except Exception as e:
                 print(f"❌ Ошибка скачивания {file_source}: {e}")
         else:
@@ -133,16 +144,22 @@ def process_hosts_from_list(file_list, exceptions=None, proxies=None):
                 if os.path.exists(file_source):
                     with open(file_source, "r", encoding="utf-8-sig") as f:
                         for line in f:
-                            ip, domains = parse_hosts_line(line)
-                            if ip is None:
-                                continue
-                            for domain in domains:
-                                if is_exception(domain, exceptions):
+                            if is_domain_only:
+                                domain = line.split('#')[0].strip().lower()
+                                if domain and is_valid_domain(domain):
+                                    if not is_exception(domain, exceptions):
+                                        blocker_hosts.add(domain)
+                            else:
+                                ip, domains = parse_hosts_line(line)
+                                if ip is None:
                                     continue
-                                if ip in ("0.0.0.0", "127.0.0.1", "0.0.0.1"):
-                                    blocker_hosts.add(domain)
-                                else:
-                                    bypass_hosts[domain] = ip
+                                for domain in domains:
+                                    if is_exception(domain, exceptions):
+                                        continue
+                                    if ip in ("0.0.0.0", "127.0.0.1", "0.0.0.1"):
+                                        blocker_hosts.add(domain)
+                                    else:
+                                        bypass_hosts[domain] = ip
                 else:
                     print(f"⚠️ Файл не найден: {file_source}")
             except Exception as e:
@@ -178,7 +195,7 @@ def save_hosts_file(output_path, hosts, default_ip=None):
 
 
 def main():
-    exceptions = load_exceptions("exceptions_hosts.dat")
+    exceptions = load_exceptions("hosts_exceptions.dat")
     print(
         f"⏳ Загружено исключений: {len(exceptions['exact'])} (ext.: {len(exceptions['regex'])})"
     )
@@ -192,7 +209,6 @@ def main():
                 if not line or line.startswith("#"):
                     continue
 
-                # Парсинг префиксов
                 prefix_match = re.match(r"^\[(\w+)\]\s*(.+)$", line)
                 if prefix_match:
                     prefix, source = (
@@ -219,17 +235,20 @@ def main():
             with open(proxy_file, "r", encoding="utf-8") as pf:
                 addr = pf.readline().strip()
                 if not addr == "":
-                    if addr == "0":
+                    if addr.lower() == "net":
                         use_proxy_auto = False
                     else:
-                        print(f"🌐 Прокси выбран автоматически: {addr}")
-                        proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}
+                        print(f"🌐 Выбран socks5-прокси: {addr}")
+                        proxies = {
+                            "http": f"socks5h://{addr}",
+                            "https": f"socks5h://{addr}",
+                        }
         except:
             pass
 
     if not proxies and use_proxy_auto:
         if input("🌐 Использовать SOCKS5? (y/n): ").lower() == "y":
-            addr = input("⚙️  Адрес (например: 127.0.0.1:3401): ")
+            addr = input("⚙️  Введите адрес (например: 127.0.0.1:3401): ")
             if addr == "":
                 addr = "127.0.0.1:3401"
             proxies = {"http": f"socks5h://{addr}", "https": f"socks5h://{addr}"}

@@ -1,5 +1,5 @@
-# Total hosts: 1232
-# Last modified: 29 июля 2026 года
+# Total hosts: 1229
+# Last modified: 3 августа 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
@@ -608,7 +608,6 @@
 37.230.192.51 gov-demo.chatgpt.com
 37.230.192.51 gpt3-openai.com
 37.230.192.51 gql.twitch.tv
-57.144.244.192 graph.instagram.com
 37.230.192.51 graphql.strava.com
 37.230.192.51 grok.com
 37.230.192.51 grok.x.ai
@@ -639,7 +638,6 @@
 37.230.192.51 i-lo.scdn.co
 37.230.192.51 i.dell.com
 37.230.192.51 i.fmhy.net
-57.144.244.192 i.instagram.com
 37.230.192.51 i.scdn.co
 37.230.192.51 id.trimble.com
 37.230.192.51 ij-perf.jetbrains.com
@@ -1150,7 +1148,6 @@
 37.230.192.51 www.anthropic.com
 37.230.192.51 www.autodesk.com
 37.230.192.51 www.badoo.com
-204.12.192.222 www.bing.com
 37.230.192.51 www.blog.strava.com
 37.230.192.51 www.business.strava.com
 37.230.192.51 www.canva.com
