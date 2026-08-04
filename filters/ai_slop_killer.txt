@@ -134,6 +134,7 @@
 ||*ithy.com/article^
 
 ! YouTube Channels
+! Source: https://github.com/Override92/AiSList
 ||www.youtube.com/@ChickofHonor-l^
 ||www.youtube.com/@ChickofHonor-3i^
 ||www.youtube.com/@ChickofHonor-w8v^
