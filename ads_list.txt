@@ -96570,3 +96570,9 @@ yoomoney.ru##img[src*="bonus"]
 ||zzzjvqzmkazvo.top^
 ||zzzmjfixezere.site^
 ||zzzmyl.com^
+
+! Блокировочки для Авито
+||www.avito.ru/web/1/adv/network/creative
+||mon.avito.ru^
+! В тестовом формате
+||www.avito.ru/static/remote-verification/client/remoteEntry.js
