@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 3 августа 2026 года
-! Total: 92880
+! Last modified: 4 августа 2026 года
+! Total: 92910
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -14383,7 +14383,6 @@ _pagespeed_beacon?
 ||google.com/uds/stats?
 ||googleusercontent.com/tracker/
 ||id.google.*/verify/*.gif
-||s.youtube.com^
 ||s2.youtube.com^
 ||video-stats.video.google.
 ||www.google.*/imgevent?$script
@@ -22558,7 +22557,6 @@ askdev.ru###ishame
 @@||pics.wikireality.ru/upload/
 @@||polemika.com.ua/content/counter|$xmlhttprequest,domain=polemika.com.ua
 @@||s.imgur.com/min/px.js?ch=$script,domain=imgur.com
-@@||s.youtube.com/api/stats/playback?$image,domain=youtube.com
 @@||scorecardresearch.com/*/streamingtag_plugin_jwplayer.js|$third-party,script
 @@||sephora.ru/assets/js/counter_gtm.js$domain=sephora.ru
 @@||st.top100.ru/top100/top100.js|$script,domain=comments.rambler.ru|ferra.ru|gazeta.press|gazeta.ru|indicator.ru|letidor.ru|moslenta.ru|motor.ru|passion.ru|quto.ru|secretmag.ru|wmj.ru
@@ -23428,7 +23426,7 @@ yoomoney.ru##img[src*="bonus"]
 ||capital^$doc,domain=~scalable.capital
 ||careers^$doc,domain=~commonspirit.careers
 ||casa^$doc,domain=~keys.casa|~nabu.casa
-||cash^$doc,domain=~doe.cash|~redtiger.cash|~vitunleija.cash
+||cash^$doc,domain=~cake.cash|~doe.cash|~redtiger.cash|~vitunleija.cash
 ||casino^$doc
 ||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~clashofmagic.cc|~coolkit.cc|~coopoo.cc|~crcon.cc|~datapump.cc|~dhilosnetworks.cc|~dict.cc|~dns36.cc|~fanbox.cc|~fiedler.cc|~fito.cc|~forestapp.cc|~frontrow.cc|~godoflove.cc|~imgus.cc|~is.cc|~itead.cc|~kktix.cc|~libstc.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~nssm.cc|~postimg.cc|~ppt.cc|~pravatar.cc|~pretendo.cc|~ptt.cc|~pttweb.cc|~rapha.cc|~rapidcdn.cc|~reurl.cc|~road.cc|~rutracker.cc|~shottr.cc|~silca.cc|~sneakpeek.cc|~theradio.cc|~toxicland.cc|~ultra.cc|~ultracloud.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~yz168.cc|~zcyph.cc
 ||center^$doc,domain=~found.center|~mein-kunden.center|~oh.center|~priv.center|~relaxx.center
@@ -23550,7 +23548,7 @@ yoomoney.ru##img[src*="bonus"]
 ||loan^$doc
 ||loans^$doc
 ||locker^$doc
-||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~guns.lol|~hubcloud.lol|~io.lol|~kizuki.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~sibellavia.lol|~social.lol|~status.lol|~techaro.lol|~vcloud.lol|~weblog.lol
+||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~guns.lol|~io.lol|~kizuki.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~sibellavia.lol|~social.lol|~status.lol|~techaro.lol|~vcloud.lol|~weblog.lol
 ||london^$doc,domain=~football.london
 ||love^$doc
 ||ltd^$doc,domain=~digitalize.ltd|~homebrew.ltd|~picsee.ltd|~swizzin.ltd
@@ -24762,6 +24760,7 @@ yoomoney.ru##img[src*="bonus"]
 ||jyskonlinemall.sa.com^
 ||onlinestrausss.sa.com^
 ||sezaneclothingshop.sa.com^
+||store-blaser.sa.com^
 ||weleda.sa.com^
 ||fr.samtradefx.com^
 ||secure.selure.de^
@@ -24885,6 +24884,7 @@ yoomoney.ru##img[src*="bonus"]
 ||01broker.com^
 ||01crypto.com^
 ||0el-preiswert-kaufen.de^
+||1-rx-shop.com^
 ||100percentboutique.com^
 ||101vectorcenter.sbs^
 ||10xdealership.com^
@@ -25713,6 +25713,7 @@ yoomoney.ru##img[src*="bonus"]
 ||aromascent.club^
 ||aroxcapital.com^
 ||arptrade.com^
+||arqzjlq.shop^
 ||arredamenti-italia.de^
 ||art-impulse.fr^
 ||art-portrait.de^
@@ -26684,6 +26685,7 @@ yoomoney.ru##img[src*="bonus"]
 ||bitcoin-pharmacy.com^
 ||bitcoin-revolution.org^
 ||bitcoin-trader.net^
+||bitcoin-up.io^
 ||bitcoin-xact.fr^
 ||bitcoinarchon.com^
 ||bitcoineer.ai^
@@ -26718,6 +26720,7 @@ yoomoney.ru##img[src*="bonus"]
 ||bixvolt.com^
 ||bizcox.net^
 ||bizglobeinvest.com^
+||bjbta.com^
 ||bjmining.com^
 ||bk-daten.de^
 ||bkaffee.de^
@@ -26839,6 +26842,7 @@ yoomoney.ru##img[src*="bonus"]
 ||bongochat.de^
 ||bonluda.de^
 ||bonnieandbloom.com^
+||bonniekelly.shop^
 ||bonprixsho.shop^
 ||bonsaiexperte.com^
 ||bonvya.com^
@@ -26987,6 +26991,7 @@ yoomoney.ru##img[src*="bonus"]
 ||bringwish.com^
 ||brinkmann-mode.de^
 ||brinkmannkanzlei.de^
+||brinylagge.shop^
 ||briospielzeug.com^
 ||briospielzeugrabatt.com^
 ||britishnewstoday.com^
@@ -27342,6 +27347,7 @@ yoomoney.ru##img[src*="bonus"]
 ||ccmangebote.com^
 ||ccmedia.news^
 ||ccs-consulting.net^
+||ccwjl.com^
 ||cdbczz.com^
 ||cdcauldron.com^
 ||cdf-pellets.de^
@@ -28537,6 +28543,7 @@ yoomoney.ru##img[src*="bonus"]
 ||doinvitletter.de^
 ||dokumentenkaufen.eu^
 ||dolaxe.com^
+||dolce-gabbana-online.shop^
 ||dolceamara.com^
 ||dolcevitashoe.com^
 ||doleras.com^
@@ -28870,6 +28877,7 @@ yoomoney.ru##img[src*="bonus"]
 ||edreamtrips.com^
 ||edrxmeds.com^
 ||ee-fahrrad-handel.de^
+||eegomr.shop^
 ||eew-karriere.de^
 ||efeublute.com^
 ||efficient-flow.solutions^
@@ -29234,6 +29242,7 @@ yoomoney.ru##img[src*="bonus"]
 ||estimatem.com^
 ||estransportundlogistik-gmbh.de^
 ||estrategen.de^
+||eswedfxl.shop^
 ||esy-oil.com^
 ||esyqefp.top^
 ||etcydecor.de^
@@ -31184,6 +31193,7 @@ yoomoney.ru##img[src*="bonus"]
 ||harleydavidsons.at^
 ||harleysaleoutlets.com^
 ||harmoniouy.com^
+||harperyoung.shop^
 ||hartholz-briketts.de^
 ||hartmann-frankfurt.com^
 ||hartmannmode.de^
@@ -31248,6 +31258,7 @@ yoomoney.ru##img[src*="bonus"]
 ||hausversand.com^
 ||hautecouturetaschenreinigung.de^
 ||havaianasflipflops.at^
+||havaianasstore.top^
 ||haventrend.com^
 ||haviequipaferramentas.com^
 ||havro.de^
@@ -32948,6 +32959,7 @@ yoomoney.ru##img[src*="bonus"]
 ||kmgr.store^
 ||kmgr-shop.com^
 ||kmncvsdou.shop^
+||kndpigjc.shop^
 ||knieexpert.de^
 ||knife-sharp.com^
 ||knifebearson.com^
@@ -33026,6 +33038,7 @@ yoomoney.ru##img[src*="bonus"]
 ||koupitpsychedelika.cz^
 ||kovali.de^
 ||kowela.com^
+||kpnukknv.shop^
 ||kpoweronline.com^
 ||krabihotelsthailand.net^
 ||kraftdesweins.com^
@@ -33134,6 +33147,7 @@ yoomoney.ru##img[src*="bonus"]
 ||kynaz10fashion.com^
 ||kynebeauty.de^
 ||kynubeauty.de^
+||kzlkozlm.shop^
 ||la-sportivas.at^
 ||laamcom.com^
 ||labelparis.com^
@@ -33442,6 +33456,7 @@ yoomoney.ru##img[src*="bonus"]
 ||lichtprofis.com^
 ||lichtvondeutschland.com^
 ||lichtzauberaustria.com^
+||lidgg.de^
 ||lidio.de^
 ||lidl-card.gifts^
 ||lidleurope.com^
@@ -33657,6 +33672,7 @@ yoomoney.ru##img[src*="bonus"]
 ||lottoportugal.net^
 ||lottoslovakia.sk^
 ||lottosouthafrica.net^
+||lotus-handeln.com^
 ||lotusgaminglive.com^
 ||lotz-container.com^
 ||louise-boutique.com^
@@ -33869,6 +33885,7 @@ yoomoney.ru##img[src*="bonus"]
 ||magischepfoten.de^
 ||magischesparfum.de^
 ||magisk.zip^
+||magiskapk.net^
 ||magiskzip.com^
 ||magliecalciocn.net^
 ||magmovebikes.com^
@@ -33895,6 +33912,7 @@ yoomoney.ru##img[src*="bonus"]
 ||maintenanceh.com^
 ||mainz-mode.de^
 ||maiser-markt.de^
+||maisiewalker.shop^
 ||maison-dartois.co^
 ||maison-margiela.at^
 ||maisonerve.com^
@@ -34073,6 +34091,7 @@ yoomoney.ru##img[src*="bonus"]
 ||matchpoint-kaufungen.de^
 ||matenor.fr^
 ||materialbearbeitung.com^
+||matildareid.shop^
 ||matrixator.com^
 ||matrixersatzteile.com^
 ||mats-outlet.com^
@@ -35160,6 +35179,7 @@ yoomoney.ru##img[src*="bonus"]
 ||nexusbids.com^
 ||nexussolaraus.com^
 ||nexxco24.de^
+||nffajhgq.shop^
 ||nflfanaticsstore.com^
 ||nger.de^
 ||nguebelipharma.com^
@@ -36165,6 +36185,7 @@ yoomoney.ru##img[src*="bonus"]
 ||pharmacy-xl.org^
 ||pharmacyeurope24.com^
 ||pharmacyinventory.org^
+||pharmacymarketonline.com^
 ||pharmacynod.com^
 ||pharmacyonline24.com^
 ||pharmacysavingshub.shop^
@@ -36202,6 +36223,7 @@ yoomoney.ru##img[src*="bonus"]
 ||physicisti.com^
 ||pianidicotturascontato.com^
 ||pibok.de^
+||piccu.org^
 ||pickario.de^
 ||pickleballoffer.com^
 ||pickledfoodonline.com^
@@ -36663,6 +36685,7 @@ yoomoney.ru##img[src*="bonus"]
 ||qinero.com^
 ||qlepy.com^
 ||qliopbn.forum^
+||qmvcgm.shop^
 ||qnesz.shop^
 ||qnfreerypc.click^
 ||qq339.com^
@@ -37278,6 +37301,7 @@ yoomoney.ru##img[src*="bonus"]
 ||rustundneumann.com^
 ||rutherford.life^
 ||ruxavild.at^
+||rwcstore.com^
 ||rwvapje.shop^
 ||rx-10.com^
 ||rx-budapest.com^
@@ -37344,6 +37368,7 @@ yoomoney.ru##img[src*="bonus"]
 ||salegermaniatools.com^
 ||salehasafdarglobalconsulting.com^
 ||salehealthfoods.com^
+||salehokasports.com^
 ||salejcb.de^
 ||salelanawelpen.de^
 ||salelcov.click^
@@ -37904,6 +37929,7 @@ yoomoney.ru##img[src*="bonus"]
 ||siamrose.com^
 ||siaoryne.com^
 ||sicher-oel.de^
+||sideinstaller.com^
 ||sidelinejerseys.com^
 ||sidiaustria.com^
 ||siebert-modellbau.de^
@@ -38673,6 +38699,7 @@ yoomoney.ru##img[src*="bonus"]
 ||sunbike-shop.de^
 ||sunbirdfx.com^
 ||suncoin.xyz^
+||sundanceliving-us.com^
 ||sundaynaturalshop.de^
 ||sunflex-de.com^
 ||sunfresh-garten.de^
@@ -39680,6 +39707,7 @@ yoomoney.ru##img[src*="bonus"]
 ||ullis-immo.com^
 ||ulta-beauty-us.com^
 ||ultenicstaubsauger.com^
+||ultimaglobal.net^
 ||ultracybertrust.digital^
 ||ultraexpertfx.com^
 ||ultraheatpro.com^
@@ -39820,6 +39848,7 @@ yoomoney.ru##img[src*="bonus"]
 ||ustiquemasejoy.shop^
 ||uswestnews.com^
 ||utahforkliftcompanyltd.shop^
+||utewealth.de^
 ||utubechannelsforsale.com^
 ||uvh-apotheke.de^
 ||uvives.de^
@@ -40688,6 +40717,7 @@ yoomoney.ru##img[src*="bonus"]
 ||woodoclock.de^
 ||woofgear.de^
 ||wooflyx.com^
+||woofz.academy^
 ||woolyroots.com^
 ||wordmarkets.com^
 ||workerflix.com^
@@ -45300,6 +45330,7 @@ yoomoney.ru##img[src*="bonus"]
 ||cr.tatsmanaffects.com^
 ||tj.tazzaspices.com^
 ||go.tbllprem.com^
+||go.tbllreg.com^
 ||go.tbllrej.com^
 ||go.tbllzon.com^
 ||pgk.te1p-a4ir.com^
@@ -49454,7 +49485,6 @@ yoomoney.ru##img[src*="bonus"]
 ||20seven.org^
 ||20thcpaint.org^
 ||20tracks.com^
-||21-dream.com^
 ||21-media.com^
 ||215cams.com^
 ||2169.cc^
@@ -49757,7 +49787,6 @@ yoomoney.ru##img[src*="bonus"]
 ||2t4f7g9a.de^
 ||2ta5l5rc0.de^
 ||2tfg9bo2i.de^
-||2tgallery.com^
 ||2thumbswap.com^
 ||2tlc698ma.de^
 ||2tq7pgs0f.de^
@@ -52155,7 +52184,6 @@ yoomoney.ru##img[src*="bonus"]
 ||adtrue.com^
 ||adtrue24.com^
 ||adulateearring.com^
-||adult.xyz^
 ||adultadvertising.net^
 ||adultadworld.com^
 ||adultcallcenter.com^
@@ -70287,6 +70315,7 @@ yoomoney.ru##img[src*="bonus"]
 ||icdirect.com^
 ||icdrdgeh.com^
 ||icebergaccusedfurnace.com^
+||icecapunspeak.cfd^
 ||icelessbogles.com^
 ||iceprogs.ru^
 ||icetechus.com^
@@ -70369,6 +70398,7 @@ yoomoney.ru##img[src*="bonus"]
 ||idoletsluices.com^
 ||idolized-laugh.com^
 ||idolized-record.pro^
+||idolized-share.pro^
 ||idolized-style.pro^
 ||idolizedestimate.pro^
 ||idolizedfoundation.pro^
@@ -79762,6 +79792,7 @@ yoomoney.ru##img[src*="bonus"]
 ||optimizesocial.com^
 ||optimizesrv.com^
 ||optimumassurancevie.com^
+||optinmonster.com^
 ||optionsdisk.com^
 ||optiontwentiethhart.com^
 ||optnx.com^
@@ -82798,7 +82829,6 @@ yoomoney.ru##img[src*="bonus"]
 ||pubgalaxy.com^
 ||pubgears.com^
 ||pubgenius.io^
-||pubguru.com^
 ||pubguru.net^
 ||pubimageboard.com^
 ||pubjzoxav.com^

@@ -1,6 +1,6 @@
 ! Title: 😎 NoADS_RU Extended
-! Last modified: 3 августа 2026 года
-! Total: 188802
+! Last modified: 4 августа 2026 года
+! Total: 188963
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -34695,6 +34695,8 @@ tumblr.com##div#cmp-app-container
 tiktok.com##tiktok-cookie-banner
 globalblue.com##.gbnew-cookie-bar
 wildberries.ru###Portal-warning-cookies-modal
+vodafone.pt###cookieModalContainer
+app.privacy.com#?#.banner:has-text(We care about your privacy.)
 revolut.com#?#div[role="dialog"]:has-text(/Cookies|cookies/)
 minhaconexao.com.br##section[id][class]:has(:scope > div[class] > button[class][onclick^="onClickCookiesBannerWeb"])
 eduface.ru,edumsko.ru#@#.cookies_popup
@@ -45035,9 +45037,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||123moviescz.com^
 ||123moviesd.xyz^
 ||123moviesdata.com^
+||123moviesdownload.info^
 ||123moviesdownload.online^
 ||123moviese.lol^
 ||123moviese.online^
+||123moviesen.com^
 ||123movieser.com^
 ||123movieseries.online^
 ||123movieservis.com^
@@ -45365,6 +45369,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||1jour1film11.online^
 ||1jour1film2.online^
 ||1jour1film2026.site^
+||1jour1film22.online^
 ||1kif.com^
 ||1kino.in^
 ||1l1l.to^
@@ -45460,6 +45465,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||2-lib.org^
 ||2-lordfilm.lol^
 ||20090910.xyz^
+||200pelisflix.lat^
 ||2025movies.com^
 ||2026-lordfilm.pics^
 ||2026-lordfilm.site^
@@ -45717,6 +45723,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||5movies.live^
 ||5movies.mom^
 ||5movies.net^
+||5movies.online^
 ||5movies.run^
 ||5movies.sbs^
 ||5movies.site^
@@ -45802,6 +45809,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||8kun.top^
 ||8millimeters.com^
 ||8putlocker.com^
+||8serial-lordfilm.ru^
 ||8soap2day.com^
 ||8wsm.com^
 ||909190.xyz^
@@ -45879,6 +45887,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||9kmovies.makeup^
 ||9kmovies.meme^
 ||9kmovies.mov^
+||9kmovies.onl^
 ||9kmovies.org^
 ||9kmovies.pet^
 ||9kmovies.pics^
@@ -45970,6 +45979,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||adams-familiao-lordfilm.ru^
 ||adams-familias-lordfilm.ru^
 ||adams-familiau-lordfilm.ru^
+||adams-family-lordfilm.ru^
 ||adamsfile.com^
 ||adboost.ro^
 ||add0n.com^
@@ -46421,6 +46431,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||amerikanskaya-istoriya-uzhasov-lordfilm3.ru^
 ||amerikanskaya-semeiika-lordfilm.ru^
 ||amerikanskaya-semejka-lordfilm3.ru^
+||amerikanskaya-semeyka-serial-lordfilm.ru^
 ||amerikanskij-nindzya-lordfilm3.ru^
 ||amerikanskij-papasha-lordfilm3.ru^
 ||amerikanskij-pirog-lordfilm3.ru^
@@ -47015,6 +47026,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||audiobookbay.nl^
 ||audiobookbay.se^
 ||audiobookbay.store^
+||audiobookbayplayer.com^
 ||audiobooks.cloud^
 ||audiobooksbee.com^
 ||audiobookss.com^
@@ -47985,6 +47997,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||bytecollectors.com^
 ||byuro-lordfilm3.ru^
 ||byvaet-i-huzhe-lordfilm3.ru^
+||byvayet-i-huzhe-lordfilm.ru^
 ||byvshie-lordfilm.ru^
 ||byxatab.biz^
 ||byxatab.com^
@@ -48092,6 +48105,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||casasapienza.it^
 ||cash2day4u.net^
 ||castle-apks.app^
+||castle-serial-lordfilm.ru^
 ||castlei-lordfilm.ru^
 ||castlevaniy-lordfilm.ru^
 ||castradio.net^
@@ -48164,6 +48178,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||cb01.xyz^
 ||cb01.yachts^
 ||cb01-ai.biz^
+||cb01-ai.lat^
 ||cb01-ai.lol^
 ||cb01-ai.uno^
 ||cb01-ai.vip^
@@ -48763,6 +48778,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||cinepulse.xyz^
 ||cinepulse24.com^
 ||cinepulsebuzz.com^
+||cinepulseindia.com^
 ||cinepulsetv.com^
 ||cinepulsetv.lat^
 ||cinevid.tv^
@@ -48771,6 +48787,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||cinevood.work^
 ||cinevoodc.com^
 ||cinewhale.com^
+||cinister-lordfilm.ru^
 ||cinostudia-lordfilm.ru^
 ||circleftp.net^
 ||circlenetworkbd.net^
@@ -49469,6 +49486,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||detektivy-s-togo-sveta-lordfilm3.ru^
 ||detektuvy-s-togo-sveta-lordfilm.ru^
 ||deti-peremen-lordfilm.lol^
+||deti-peremen-lordfilm.rest^
 ||deti-peremen-lordfilm.ru^
 ||deti-peremen-lordfilm.top^
 ||deti-peremen-serial-lordfilm.ru^
@@ -49635,6 +49653,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||dizipal.fun^
 ||dizipal.homes^
 ||dizipal.life^
+||dizipal.ltd^
 ||dizipal.online^
 ||dizipal.plus^
 ||dizipal.stream^
@@ -49668,6 +49687,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||dizipal080.vip^
 ||dizipal081.vip^
 ||dizipal082.vip^
+||dizipal083.vip^
 ||dizipal1.plus^
 ||dizipal1001.vip^
 ||dizipal101.vip^
@@ -50042,9 +50062,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||dizipalgunceli.com^
 ||dizipalhd.click^
 ||dizipalhd5.site^
+||dizipalhd7.vip^
 ||dizipalhdguncel.top^
 ||dizipaliptv.org^
 ||dizipaliptvdns.site^
+||dizipalizle150.com^
 ||dizipalizlemh.click^
 ||dizipaljesus.icu^
 ||dizipall12.com^
@@ -50067,6 +50089,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||dizipalorijinal10.com^
 ||dizipalorijinal11.com^
 ||dizipalorijinal12.com^
+||dizipalorijinal13.com^
 ||dizipalorijinal1562.vip^
 ||dizipalorijinal2.vip^
 ||dizipalorijinal3.vip^
@@ -50143,6 +50166,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||dnevniki-vamppura-lordfilms.ru^
 ||dnevniki-vampyra-lordfilms.ru^
 ||dnevnikivampira-lordfilm.online^
+||dnevnikivampira-serial-lordfilm.ru^
 ||dnevniky-vampira-lordfilms.ru^
 ||dnevnnuk-pamyati-lordfilm.ru^
 ||dnevnnuk-pamyatii-lordfilm.ru^
@@ -50240,6 +50264,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||domahi.com^
 ||domdata.ru^
 ||domdrakona-lordfilm.lol^
+||domdrakona-lordfilm.ru^
 ||domik-prerii-lordfilm.ru^
 ||dominicanchannels.com^
 ||dominiospelisflix.com^
@@ -50678,6 +50703,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||dzhini-i-dzhordzhiya-lordfilms.ru^
 ||dzhinni-i-dzhordzhiya-lordfilm.buzz^
 ||dzhinni-i-dzhordzhiya-lordfilm3.ru^
+||dzhinni-i-dzhordzhiya-serial-lordfilm.ru^
 ||dzhoan-lordfilm.ru^
 ||dzhodha-i-akbar-istoriya-velikoj-lyubvi-lordfilm3.ru^
 ||dzhon-oliver-lordfilm.ru^
@@ -50785,6 +50811,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||elementariu-lordfilm.ru^
 ||elementariy-lordfilm.ru^
 ||elementarno-lordfilm3.ru^
+||elementarno-serial-lordfilm.ru^
 ||elementarno-serial-lordfilm3.ru^
 ||elementarnos-lordfilm.ru^
 ||elementarnou-lordfilm.ru^
@@ -50797,6 +50824,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||elit-bg.com^
 ||elita-lordfilm3.ru^
 ||elita-smotret-lordfilm2.ru^
+||elite-serial-lordfilm.ru^
 ||elite-tracker.net^
 ||elitegoltv.run^
 ||elitetorrent.com^
@@ -50908,6 +50936,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||eternavt-lordfilm3.ru^
 ||eternavta-lordfilm.ru^
 ||ethor.net^
+||etim-letom-ya-stala-krasivoy-lordfilm.ru^
 ||eto-mmy-lordfilms.ru^
 ||eto-more-perepolnitsya-lordfilm.ru^
 ||eto-my-lordfilm3.ru^
@@ -51960,6 +51989,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||fmovies.co^
 ||fmovies.date^
 ||fmovies.day^
+||fmovies.fans^
 ||fmovies.fo^
 ||fmovies.forum^
 ||fmovies.fyi^
@@ -52022,6 +52052,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||fmovies-ro.cyou^
 ||fmovies-ru.online^
 ||fmovies-ru.xyz^
+||fmovies-se.net^
 ||fmovies-stream.lol^
 ||fmovies-style.lol^
 ||fmovies-sx.my^
@@ -52130,6 +52161,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||fmoviess.cyou^
 ||fmoviess.info^
 ||fmoviess.live^
+||fmoviess.mobi^
 ||fmoviess.online^
 ||fmoviess.org^
 ||fmoviess.site^
@@ -52150,6 +52182,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||fmoviesto.org^
 ||fmoviesto.ru^
 ||fmoviesto.site^
+||fmoviesto.space^
 ||fmoviesto.tube^
 ||fmoviesto.us^
 ||fmoviesto.xyz^
@@ -52776,6 +52809,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||genialnaia-podruga-lordfilm.ru^
 ||genmirror.com^
 ||genoanime.com^
+||gentleman-lordfilm.ru^
 ||gentlemenis-lordfilm.ru^
 ||gentlemens-lordfilm.ru^
 ||gentlemensiu-lordfilm.ru^
@@ -52847,6 +52881,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||gidonline.one^
 ||gidonline.org^
 ||gidonline.site^
+||gidonline.tube^
 ||gidonline.vip^
 ||gidonline.ws^
 ||gidonline.xyz^
@@ -53773,6 +53808,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||hdfilmpremium.life^
 ||hdfilms.live^
 ||hdfilms.tv^
+||hdfilmseyircisi.org^
 ||hdfilmsite.com^
 ||hdfilmsitesi.click^
 ||hdfilmsitesi.org^
@@ -54043,6 +54079,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||hdmovie2new.com^
 ||hdmovie2on.com^
 ||hdmovie2r.com^
+||hdmovie2r.cz^
 ||hdmovie2r.fan^
 ||hdmovie2r.lgbt^
 ||hdmovie2r.loan^
@@ -54059,6 +54096,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||hdmovie365.net^
 ||hdmovie4.asia^
 ||hdmovie4.com^
+||hdmovie4muft.xyz^
 ||hdmovie5.pro^
 ||hdmovie5.vip^
 ||hdmovie88.club^
@@ -54094,12 +54132,14 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||hdmoviehub.blog^
 ||hdmoviehub.chat^
 ||hdmoviehub.deals^
+||hdmoviehub.democrat^
 ||hdmoviehub.fashion^
 ||hdmoviehub.gripe^
 ||hdmoviehub.info^
 ||hdmoviehub.irish^
 ||hdmoviehub.loan^
 ||hdmoviehub.mobi^
+||hdmoviehub.pet^
 ||hdmoviehub.recipes^
 ||hdmoviehub.tours^
 ||hdmoviehub.wang^
@@ -54208,6 +54248,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||hdmovieshub.website^
 ||hdmovieshub.world^
 ||hdmovieshub.xyz^
+||hdmovieshubb.online^
 ||hdmoviesite.com^
 ||hdmovieslab.net^
 ||hdmovieslink.com^
@@ -54510,6 +54551,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||hodyachie-mertvecy-lordfilm3.ru^
 ||hodyachie-mertvecy-vyzhivshie-lordfilm3.ru^
 ||hodyachie-mertwecy-vyzhivshie-lordfilm.ru^
+||hodyachiye-mertvetsy-lordfilm.ru^
 ||hoerbuch.us^
 ||hoerspielprojekt.de^
 ||hoichoi24.com^
@@ -54743,6 +54785,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||igra-v-kalmaraa-lordfilm.ru^
 ||igra-v-kalmaria-lordfilm.ru^
 ||igram.world^
+||igraprestolov-serial-lordfilm.ru^
 ||igravkalmara-lordfilm.ru^
 ||igro-torrent.ru^
 ||igrovuha.org^
@@ -54970,6 +55013,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||iptvsource.com^
 ||iptvstream.tv^
 ||iptvsupra.com^
+||ira-serial-lordfilm.ru^
 ||irlandia-lordfilms.ru^
 ||irlandiya-lordfilms.ru^
 ||irlandua-lordfilms.ru^
@@ -55013,6 +55057,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||istinnaya-krasota-lordfilm3.ru^
 ||istinnayakrasota-lordfilm.ru^
 ||istinnoeobrazovanie-lordfilm.ru^
+||istinnoye-obrazovaniye-lordfilm.ru^
 ||istole.it^
 ||istoria-igrusshec-lordfilm.ru^
 ||istoriya-ego-sluzhanki-lordfilm.homes^
@@ -55082,6 +55127,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||ivanko-lordfilm.homes^
 ||ivanko-lordfilm.rest^
 ||ivanko-lordfilm.top^
+||ivanko-serial-lordfilm.ru^
 ||ivesoccer.sx^
 ||ivtlordfilm.lol^
 ||iwatchfreestreams.to^
@@ -55453,6 +55499,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||khodyachie-mertvetsy-lordfilm.rest^
 ||khodyachie-mertvetsy-lordfilm.top^
 ||khodyachie-mertvettsi-lordfilm.ru^
+||kholod-lordfilm.ru^
 ||kholostyak-lordfilm.rest^
 ||khoroshii-malchik-lordfilm.ru^
 ||khrustalnyi-lordfilm.ru^
@@ -55654,6 +55701,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||kinovod071125.pro^
 ||kinovod071225.pro^
 ||kinovod080326.pro^
+||kinovod080424.pro^
 ||kinovod080426.pro^
 ||kinovod080526.pro^
 ||kinovod080825.pro^
@@ -55951,6 +55999,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||kitsrun.com^
 ||kiwi-box.tv^
 ||kiwi-ip.tv^
+||kizilovyy-shcherbet-lordfilm.ru^
 ||kjr-lordfilm.lol^
 ||kkasl-lordfilm.ru^
 ||kkiste.autos^
@@ -56161,6 +56210,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||krapopolis-lordfilm3.ru^
 ||krasavchiik-lordfilm.ru^
 ||krasavtsi-lordfilm.ru^
+||krasiveye-tebya-serial-lordfilm.ru^
 ||krasnoee-uvedomleniee-lordfilm.ru^
 ||krasnoee-uvedomleniye-lordfilm.ru^
 ||krasnoee-uvedomlleniee-lordfilm.ru^
@@ -56257,6 +56307,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||la-breya-lordfilm3.ru^
 ||la123movies.com^
 ||la123movies.sbs^
+||la123moviesto.com^
 ||la18hd.su^
 ||la20hd.com^
 ||laacibsports.com^
@@ -56282,6 +56333,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||landyshi-lordfilm.ru^
 ||landyshi-lordfilms.ru^
 ||landyshi-takaya-nezhnaya-lyubov-lordfilm.buzz^
+||landyshi-takaya-nezhnaya-lyubov-lordfilm.rest^
 ||laola1.tv^
 ||lapa-krrofft-lordfilm.ru^
 ||lapak21.com^
@@ -56548,6 +56600,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lih-serial-lordfilm.ru^
 ||lihachi-lordfilm3.ru^
 ||lihielordfilmserial.lat^
+||lihiye-serial-lordfilm.ru^
 ||liihie-lordfilm.ru^
 ||likhie-lordfilm.buzz^
 ||likhie-lordfilm.rest^
@@ -57230,8 +57283,10 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilm-secret-materials.ru^
 ||lordfilm-seledka-pod-shuboy.store^
 ||lordfilm-serial.buzz^
+||lordfilm-serial.pro^
 ||lordfilm-serial.rest^
 ||lordfilm-serials.lat^
+||lordfilm-serialy.org^
 ||lordfilm-serialy.top^
 ||lordfilm-seriya.buzz^
 ||lordfilm-seriya.rest^
@@ -57387,6 +57442,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilm11.help^
 ||lordfilm11.monster^
 ||lordfilm11.pro^
+||lordfilm111.lol^
 ||lordfilm1111.lat^
 ||lordfilm1112.lat^
 ||lordfilm1113.lat^
@@ -57784,6 +57840,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilm73zen.icu^
 ||lordfilm743.top^
 ||lordfilm74z.lol^
+||lordfilm76.lol^
 ||lordfilm77.help^
 ||lordfilm771.lat^
 ||lordfilm777.icu^
@@ -58454,6 +58511,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmbound.sbs^
 ||lordfilmbov.biz^
 ||lordfilmbovj.lol^
+||lordfilmbox.life^
 ||lordfilmboyr.lol^
 ||lordfilmboz.lol^
 ||lordfilmbp.lol^
@@ -58626,6 +58684,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmbzz.lat^
 ||lordfilmc.cyou^
 ||lordfilmc.one^
+||lordfilmc.org^
 ||lordfilmc-1tv.monster^
 ||lordfilmc1v2b.icu^
 ||lordfilmc2v3b.icu^
@@ -58855,6 +58914,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmcor.icu^
 ||lordfilmcor.life^
 ||lordfilmcoral.icu^
+||lordfilmcore.lat^
 ||lordfilmcounter.cfd^
 ||lordfilmcourse.top^
 ||lordfilmcovk.lol^
@@ -60341,6 +60401,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmflm.life^
 ||lordfilmflop.lat^
 ||lordfilmfloppy.lat^
+||lordfilmflow.life^
 ||lordfilmflq.life^
 ||lordfilmflq.lol^
 ||lordfilmfls.lat^
@@ -62467,6 +62528,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmkitu.lol^
 ||lordfilmkiu.shop^
 ||lordfilmkiv.vu^
+||lordfilmkivo.lol^
 ||lordfilmkiy.one^
 ||lordfilmkiyv.lol^
 ||lordfilmkizs.biz^
@@ -63029,6 +63091,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmlumen.lat^
 ||lordfilmlumina.cfd^
 ||lordfilmlun.life^
+||lordfilmlunex.lol^
 ||lordfilmlupa.icu^
 ||lordfilmlustrous.cyou^
 ||lordfilmlut.lat^
@@ -64246,6 +64309,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmpbl.biz^
 ||lordfilmpbmn.lat^
 ||lordfilmpbq.live^
+||lordfilmpbw.cc^
 ||lordfilmpbw.life^
 ||lordfilmpbxn.lol^
 ||lordfilmpbz.life^
@@ -64522,6 +64586,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmpuh.online^
 ||lordfilmpuj.lol^
 ||lordfilmpuller.cfd^
+||lordfilmpulse.icu^
 ||lordfilmpum.lol^
 ||lordfilmpune.lol^
 ||lordfilmpunk.sbs^
@@ -65066,6 +65131,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmriq.vu^
 ||lordfilmris.lat^
 ||lordfilmrisb.lat^
+||lordfilmrise.lat^
 ||lordfilmritual.lat^
 ||lordfilmriuw.lol^
 ||lordfilmriver.icu^
@@ -65884,6 +65950,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmsound.sbs^
 ||lordfilmsp.monster^
 ||lordfilmspace.icu^
+||lordfilmspark.life^
 ||lordfilmspasm.lol^
 ||lordfilmspay.lat^
 ||lordfilmspb.life^
@@ -66156,6 +66223,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmsye.one^
 ||lordfilmsyi.lat^
 ||lordfilmsylar.icu^
+||lordfilmsync.live^
 ||lordfilmsyntax.lat^
 ||lordfilmsys.lat^
 ||lordfilmsystem.lol^
@@ -67515,6 +67583,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmwap.biz^
 ||lordfilmwap.vu^
 ||lordfilmwart.lat^
+||lordfilmwave.live^
 ||lordfilmwave.top^
 ||lordfilmwax.lol^
 ||lordfilmwaxy.lol^
@@ -68473,6 +68542,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmytjf.lat^
 ||lordfilmytp.life^
 ||lordfilmytq.life^
+||lordfilmytzs.lat^
 ||lordfilmyu.monster^
 ||lordfilmyucu.lol^
 ||lordfilmyud.lat^
@@ -68792,6 +68862,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lordfilmzon.study^
 ||lordfilmzop.lat^
 ||lordfilmzopu.lol^
+||lordfilmzoran.icu^
 ||lordfilmzos.lol^
 ||lordfilmzot.vu^
 ||lordfilmzow.lat^
@@ -69063,6 +69134,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lyubi-menya-lordfilm.ru^
 ||lyubimaya-vorovka-lordfilm.ru^
 ||lyubit-po-russki-lordfilm3.ru^
+||lyubov-naprokat-lordfilm.ru^
 ||lyubov-oblakakh-lordfilm.ru^
 ||lyubov-smerrt-roboty-lordfilm.ru^
 ||lyubov-smert-i-roboty-lordfilm3.ru^
@@ -69083,6 +69155,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||lyupen-lordfilm3.ru^
 ||lyutcufer-lordfilm.ru^
 ||lyuter-lordfilme.ru^
+||lyutsifer-serial-lordfilm.ru^
 ||lztlordfilm.lol^
 ||m0vies-and-vide0s.fit^
 ||m0vies123.com^
@@ -69395,6 +69468,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||masha-i-medved-multik-lordfilm.ru^
 ||mashaimedved-lordfilm.ru^
 ||mashle-lordfilm.ru^
+||maska-zorro-lordfilm.ru^
 ||maskas-lordfilm.ru^
 ||maskasp-lordfilm.ru^
 ||massgrave.dev^
@@ -69439,6 +69513,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||mazetorrents.net^
 ||mazhor-lordfilm.rest^
 ||mazhor-lordfilms.ru^
+||mazhor-serial-lordfilm.ru^
 ||mbcej.org^
 ||mbdny.org^
 ||mbeaj.org^
@@ -69492,6 +69567,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||medialink24.net^
 ||mediator-lordfilm.ru^
 ||mediki-chikago-lordfilm3.ru^
+||mediki-chikago-serial-lordfilm.ru^
 ||medleenye-loshadi-lordfilm.ru^
 ||medlennye-loshadi-lordfilm3.ru^
 ||medved-lordfilm3.ru^
@@ -69722,6 +69798,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||meuslivros.online^
 ||mexa.sh^
 ||mexashare.com^
+||mezhdu-lordfilm.ru^
 ||mezhdu-nami-himiya-serial-lordfilm.ru^
 ||mezhdu-strok-lordfilm.ru^
 ||mezhdy-nami-lordfilm.ru^
@@ -69765,6 +69842,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||milye-obmanshchicy-lordfilm3.ru^
 ||milyi-domu-lordfilm.ru^
 ||milyj-vo-frankse-lordfilm.ru^
+||milyye-obmanshchitsy-lordfilm.ru^
 ||mimimishka-lordfilm.ru^
 ||mindhunter-lordfilm.fun^
 ||mindhuntera-lordfilm.ru^
@@ -70000,6 +70078,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||molodye-monnarhi-lordfilm.ru^
 ||molodyozhka-novaya-smena-lordfilm.hair^
 ||molokososu-lordfilm.ru^
+||molokososy-serial-lordfilm.ru^
 ||molokososy-smotret-lordfilm2.ru^
 ||monarh-nasledie-monstrov-lordfilm3.ru^
 ||monarrhh-lordfilm.ru^
@@ -70167,6 +70246,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||motchillc.one^
 ||motchillc.onl^
 ||motchillc.xyz^
+||motchillcity.bond^
 ||motchillco.icu^
 ||motchillco.live^
 ||motchillco.mom^
@@ -70234,6 +70314,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||motchillki.com^
 ||motchillki.fm^
 ||motchillks.org^
+||motchillkv.org^
 ||motchillkx.org^
 ||motchillkz.org^
 ||motchilll.online^
@@ -70270,6 +70351,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||motchillsi.org^
 ||motchillso.com^
 ||motchillsp.net^
+||motchillss.net^
 ||motchillst.org^
 ||motchillsz.org^
 ||motchillt.mov^
@@ -70561,6 +70643,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||movierulz4u.com^
 ||movierulza.com^
 ||movierulza.online^
+||movierulzak.com^
 ||movierulzap.com^
 ||movierulzapk.com^
 ||movierulzapkz.xyz^
@@ -71316,6 +71399,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||myflixer.art^
 ||myflixer.autos^
 ||myflixer.baby^
+||myflixer.best^
 ||myflixer.boats^
 ||myflixer.buzz^
 ||myflixer.cam^
@@ -71428,6 +71512,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||myflixers.website^
 ||myflixers.win^
 ||myflixers.work^
+||myflixers2.com^
 ||myflixersc.com^
 ||myflixerseries.com^
 ||myflixersz.com^
@@ -71778,6 +71863,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||nevidumka-lordfilm.ru^
 ||nevskij-lordfilm3.ru^
 ||nevskiy-lordfilms.ru^
+||nevskiy-serial-lordfilm.ru^
 ||nevsky-lordfilm.ru^
 ||nevsky-serial-lordfilm.ru^
 ||new-123movies.net^
@@ -72487,6 +72573,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||otchayannye-domohozyajki-lordfilm3.ru^
 ||otchayannye-domohozyajki-smotret-lordfilm2.ru^
 ||otchayannye-domokhozyayki-lordfilm.buzz^
+||otchayannyye-domokhozyayki-serial-lordfilm.ru^
 ||otchayanye-domohozyaiki-lordfilm.ru^
 ||otdel-neraskrytyh-del-lordfilm3.ru^
 ||otel-eleon-lordfilm.buzz^
@@ -72690,6 +72777,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||patsanki-lordfilm.rest^
 ||patsanki-lordfilm.top^
 ||patsanu-lordfilm.ru^
+||patsany-serial-lordfilm.ru^
 ||patudom.com^
 ||patup.com^
 ||pauk-nuar-lordfilm.lat^
@@ -72847,6 +72935,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||pelisplus.org^
 ||pelisplusgt.com^
 ||pelisplushd.net^
+||pembawarezekiku.com^
 ||penguins-of-madagascar-lordfilm.ru^
 ||penny-dreadfule-lordfilm.ru^
 ||pentkhaus-lordfilm.ru^
@@ -73021,6 +73110,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||piratebaymirror.eu^
 ||piratebaymirror.xyz^
 ||piratebayorg.net^
+||piratebayproxy.fun^
 ||piratebayproxy.info^
 ||piratebayproxy.live^
 ||piratebayproxy.net^
@@ -73180,6 +73270,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||pobreflix.com^
 ||pobreflixonline.com^
 ||pochemu-zhenshchiny-ubivayut-lordfilm.ru^
+||pochka-serial-lordfilm.ru^
 ||poclezavtrra-lordfilm.ru^
 ||pod-kupolom-lordfilm3.ru^
 ||pod-kupolom-serial-lordfilm.ru^
@@ -73226,6 +73317,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||pokent.com^
 ||pokerfejs-lordfilm3.ru^
 ||pokhishcheniye-lordfilm.ru^
+||pokhishcheniye-serial-lordfilm.ru^
 ||pokiemonis-lordfilm.ru^
 ||pokoleenie-vi-lordfilms.ru^
 ||pokoleenie-vii-lordfilm.ru^
@@ -73238,6 +73330,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||pokolleniie-vi-lordfilm.ru^
 ||poletim-nalunu-lordfilm.lol^
 ||police-academmy-lordfilm.ru^
+||policeacademi-lordfilm.ru^
 ||policeiskaya-academiya-lordfilm.ru^
 ||policeiskaya-academiyu-lordfilm.ru^
 ||policeiskaya-istoriyae-lordfilm.ru^
@@ -73511,6 +73604,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||prmovies.se^
 ||prmovies.study^
 ||prmovies.taxi^
+||prmovies.today^
 ||prmovies.top^
 ||prmovies.town^
 ||prmovies.tv^
@@ -73755,6 +73849,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||putlocker-gy.cyou^
 ||putlocker-hd.tv^
 ||putlocker-hd.xyz^
+||putlocker-live.org^
 ||putlocker-m.com^
 ||putlocker-new.site^
 ||putlocker-now.net^
@@ -74339,6 +74434,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||rips.club^
 ||rise-of-the-footsoldierr-lordfilms.ru^
 ||rise-of-the-footsoldiers-lordfilm.ru^
+||riverdale-serial-lordfilm.ru^
 ||riverdalle-lordfilm.ru^
 ||riverdeiil-lordfilm.ru^
 ||riverdeil-lordfilms.ru^
@@ -74585,6 +74681,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||sashatanya-lordfilm.buzz^
 ||sashatanya-lordfilm.hair^
 ||sashatanya-lordfilm.rest^
+||sashatanya-lordfilm.ru^
 ||sashatanya-lordfilm.top^
 ||sastatus.com^
 ||sat-extreme.pl^
@@ -74785,6 +74882,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||serialy-lordfilm.com^
 ||serialy-lordfilm.lat^
 ||serialy-lordfilm.lol^
+||serialy-lordfilm.org^
 ||serialy-lordfilm.sbs^
 ||serialy-lordfilm1.com^
 ||serialy-lordfilm1.lol^
@@ -74905,6 +75003,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||seriesflixhd.hair^
 ||seriesflixhd.ink^
 ||seriesflixhd.lat^
+||seriesflixhd.life^
 ||seriesflixhd.lol^
 ||seriesflixhd.net^
 ||seriesflixhd.online^
@@ -75425,6 +75524,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||snatche-lordfilm.ru^
 ||snatchu-lordfilm.ru^
 ||sneedex.moe^
+||snegopad-serial-lordfilm.ru^
 ||snipere-lordfilm.ru^
 ||snipero-lordfilm.ru^
 ||snoudeen-lordfilm.ru^
@@ -75462,6 +75562,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||soap2day.dev^
 ||soap2day.fit^
 ||soap2day.forum^
+||soap2day.gives^
 ||soap2day.green^
 ||soap2day.host^
 ||soap2day.id^
@@ -75538,6 +75639,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||soap2day02.com^
 ||soap2day1.pro^
 ||soap2day1080p.biz^
+||soap2day2x.site^
 ||soap2day4free.com^
 ||soap2day4u.ltd^
 ||soap2day4u.org^
@@ -75639,6 +75741,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||soap2days.hair^
 ||soap2days.ing^
 ||soap2days.lat^
+||soap2days.life^
 ||soap2days.live^
 ||soap2days.loan^
 ||soap2days.lol^
@@ -75886,6 +75989,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||solarmoviems.com^
 ||solarmovieon.com^
 ||solarmovieru.com^
+||solarmovieru.watch^
 ||solarmovies.ac^
 ||solarmovies.bar^
 ||solarmovies.buzz^
@@ -76774,6 +76878,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||streamingseries.rip^
 ||streamingunity.biz^
 ||streamingunity.dog^
+||streamingunity.vip^
 ||streamit.ws^
 ||streamix.so^
 ||streamiz-filmze.com^
@@ -76882,6 +76987,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||streettorrent.pl^
 ||streghettaincucina.com^
 ||strela-lordfilm3.ru^
+||strela-serial-lordfilm.ru^
 ||streli-lordfilm.ru^
 ||strellaa-lordfilm.ru^
 ||streloke-lordfilm.ru^
@@ -77109,6 +77215,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||sverhestestvennoe-smotret-lordfilm3.ru^
 ||sverhhestestvennoe-lordfilm.ru^
 ||sverigeplay.tv^
+||sverkhyestestvennoye-serial-lordfilm.ru^
 ||svetlyachok-lordfilm3.ru^
 ||svinka-peppa-lordfilm3.ru^
 ||svintsovye-deti-lordfilm.lol^
@@ -77312,6 +77419,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||tayna-koko-multik-lordfilm.ru^
 ||tayna-tayn-lordfilm.ru^
 ||tayny-smolvilya-lordfilm.rest^
+||tayny-smolvilya-serial-lordfilm.ru^
 ||taynyy-audit-lordfilm.top^
 ||taynyy-millioner-lordfilm.buzz^
 ||taynyyaudit-lordfilm.ru^
@@ -77352,6 +77460,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||ted-lasou-lordfilm.ru^
 ||ted-lasso-lordfilm.buzz^
 ||ted-lasso-lordfilm3.ru^
+||ted-lasso-serial-lordfilm.ru^
 ||ted-lassoi-lordfilm.ru^
 ||ted-lassou-lordfilm.ru^
 ||ted-llusso-lordfilm.ru^
@@ -77608,6 +77717,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||the-lordfilm26.top^
 ||the-man-from-ancles-lordfilm.ru^
 ||the-man-from-ancley-lordfilm.ru^
+||the-mask-lordfilm.ru^
 ||the-matrixe-lordfilm.ru^
 ||the-maze-runner-lordfilm.ru^
 ||the-mechanico-lordfilm.ru^
@@ -78304,6 +78414,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||torrentai.org^
 ||torrentalpha.xyz^
 ||torrentals.com^
+||torrentandchill.shop^
 ||torrentannihilationfight.com^
 ||torrentantenna.com^
 ||torrentapi.org^
@@ -78374,6 +78485,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||torrentcode.xyz^
 ||torrentcolors.com^
 ||torrentcon.com^
+||torrentcontrol.pw^
 ||torrentcounter.to^
 ||torrentcounter.xyz^
 ||torrentcrm.com^
@@ -78460,6 +78572,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||torrentflix.win^
 ||torrentfox.com^
 ||torrentfrancais.com^
+||torrentfreak.org^
 ||torrentfreaks.xyz^
 ||torrentfree.online^
 ||torrentfulkebbucks.surf^
@@ -78499,6 +78612,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||torrenthub.club^
 ||torrenthunt.com^
 ||torrenti-igruha.org^
+||torrentia.no^
 ||torrential.tech^
 ||torrential.ws^
 ||torrentialai.com^
@@ -78614,6 +78728,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||torrentonly.com^
 ||torrentonly1.com^
 ||torrentor.pro^
+||torrentory.com^
 ||torrentoyna.xyz^
 ||torrentoyunindir.com^
 ||torrentoyunindir.net^
@@ -78700,6 +78815,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||torrents.ca^
 ||torrents.com^
 ||torrents.ge^
+||torrents.lol^
 ||torrents.lv^
 ||torrents.me^
 ||torrents.ro^
@@ -79106,6 +79222,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||trigger-lordfilm.top^
 ||trigger-serial-lordfilm.ru^
 ||trii-xxx-lordfilms.ru^
+||triiksa-lordfilms.ru^
 ||triiler-dorama-lordfilm.ru^
 ||triiler-lordfilms.ru^
 ||trilerr-lordfilms.ru^
@@ -79645,6 +79762,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||unitvnet.top^
 ||univer-lordfilm.rest^
 ||univer-lordfilme.ru^
+||univer-novaya-obshchaga-lordfilm.ru^
 ||univer-serial-lordfilm.ru^
 ||universalmediaserver.com^
 ||universalnyj-soldat-lordfilm3.ru^
@@ -79726,6 +79844,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||ushchelye-lordfilm.ru^
 ||uslish-menya-lordfilm.ru^
 ||uslovnyy-ment-lordfilm.ru^
+||uslovnyy-ment-serial-lordfilm.ru^
 ||uslysh-menya-lordfilm.buzz^
 ||uslysh-menya-lordfilm.homes^
 ||usmoviestoday.xyz^
@@ -80126,6 +80245,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||vegamovies8.voyage^
 ||vegamovies8.xyz^
 ||vegamoviesa.diy^
+||vegamoviesa.xyz^
 ||vegamoviesai.com^
 ||vegamoviescom.xyz^
 ||vegamoviesdenji.shop^
@@ -80159,6 +80279,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||vegamoviesr.cfd^
 ||vegamoviess.auction^
 ||vegamoviess.best^
+||vegamoviess.fun^
 ||vegamoviess.lat^
 ||vegamoviess.rodeo^
 ||vegamoviestv.cfd^
@@ -80232,6 +80353,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||vetreniy-holm-lordfilm.ru^
 ||vetreniy-lordfilm.ru^
 ||vetrenyy-holm-lordfilm.ru^
+||vetrenyy-serial-lordfilm.ru^
 ||vetrolom-lordfilm3.ru^
 ||vexmovies.org^
 ||vexmovies.uno^
@@ -80469,6 +80591,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||vne-kampysa-lordfilm.ru^
 ||vne-very-lordfilm.ru^
 ||vne-vremeni-lordfilm.ru^
+||vne-zakona-lordfilm.ru^
 ||vneshnie-otmeeli-lordfilm.ru^
 ||vneshnie-otmeli-lordfilm3.ru^
 ||vneshnie-otmelis-lordfilm.ru^
@@ -80551,6 +80674,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||voron-smotret-lordfilm2.ru^
 ||vorone-lordfilm.ru^
 ||voroni-lordfilm.ru^
+||voroniny-serial-lordfilm.ru^
 ||vorons-lordfilm.ru^
 ||voronu-lordfilm.ru^
 ||vortexnetwork.org^
@@ -80630,6 +80754,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||vstat-na-nogi-lordfilm.rest^
 ||vstorrent.org^
 ||vstrechu-tebya-v-podzemelle-lordfilm.ru^
+||vstretil-vashu-mamu-lordfilm.ru^
 ||vsyorasprodano-lordfilm.ru^
 ||vtoroy-muzh-lordfilm.ru^
 ||vtorzhenii-lordfilm.ru^
@@ -80810,6 +80935,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||wareztuga.shop^
 ||wareztuga.ws^
 ||warezturkey.org^
+||warezturkey.software^
 ||warezwitch.com^
 ||warezworm.com^
 ||warezwpla.com^
@@ -80832,6 +80958,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||watch-fullmovie.site^
 ||watch-series.co^
 ||watch-series.la^
+||watch-spiderman-brandnewday-fullmovie.online^
 ||watch-tvseries.net^
 ||watch0123movies.org^
 ||watch123movies.info^
@@ -81619,6 +81746,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||yomovies.work^
 ||yomovies.yoga^
 ||yomovies-official.lol^
+||yomovies1.com^
 ||yomovies1.org^
 ||yomovies2.com^
 ||yomovieshd.baby^
@@ -81973,6 +82101,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||zlibrary-global.com^
 ||zlibrary5.ru^
 ||zlibrarya.online^
+||zlibrarya.ru^
 ||zlibraryaccess.com^
 ||zlibraryapk.com^
 ||zlibraryapk.online^
@@ -82048,7 +82177,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||zone-telechargement.info^
 ||zone-telechargement.irish^
 ||zone-telechargement.lol^
+||zone-telechargement.onl^
 ||zone-telechargement.poker^
+||zone-telechargement.sbs^
 ||zone-telechargement.space^
 ||zone-telechargement.tattoo^
 ||zone-telechargement.team^
@@ -82136,6 +82267,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||zxcstream.xyz^
 ||zxonlinebd.com^
 ||zymorodok-lordfilm.ru^
+||zymorodok-serial-lordfilm.ru^
 ||zz101.online^
 
 ! Последний шртих
@@ -82282,7 +82414,6 @@ voshod-reklama.ru$inline-script
 @@||pics.wikireality.ru/upload/
 @@||polemika.com.ua/content/counter|$xmlhttprequest,domain=polemika.com.ua
 @@||s.imgur.com/min/px.js?ch=$script,domain=imgur.com
-@@||s.youtube.com/api/stats/playback?$image,domain=youtube.com
 @@||scorecardresearch.com/*/streamingtag_plugin_jwplayer.js|$third-party,script
 @@||sephora.ru/assets/js/counter_gtm.js$domain=sephora.ru
 @@||st.top100.ru/top100/top100.js|$script,domain=comments.rambler.ru|ferra.ru|gazeta.press|gazeta.ru|indicator.ru|letidor.ru|moslenta.ru|motor.ru|passion.ru|quto.ru|secretmag.ru|wmj.ru
@@ -83319,7 +83450,6 @@ _pagespeed_beacon?
 ||google.com/uds/stats?
 ||googleusercontent.com/tracker/
 ||id.google.*/verify/*.gif
-||s.youtube.com^
 ||s2.youtube.com^
 ||video-stats.video.google.
 ||www.google.*/imgevent?$script
@@ -118413,7 +118543,6 @@ gaara-fr.com###ga-skin-top
 @@||pics.wikireality.ru/upload/
 @@||polemika.com.ua/content/counter|$xmlhttprequest,domain=polemika.com.ua
 @@||s.imgur.com/min/px.js?ch=$script,domain=imgur.com
-@@||s.youtube.com/api/stats/playback?$image,domain=youtube.com
 @@||scorecardresearch.com/*/streamingtag_plugin_jwplayer.js|$third-party,script
 @@||sephora.ru/assets/js/counter_gtm.js$domain=sephora.ru
 @@||st.top100.ru/top100/top100.js|$script,domain=comments.rambler.ru|ferra.ru|gazeta.press|gazeta.ru|indicator.ru|letidor.ru|moslenta.ru|motor.ru|passion.ru|quto.ru|secretmag.ru|wmj.ru
@@ -119273,7 +119402,7 @@ habr.com##.article-donation-block
 ||capital^$doc,domain=~scalable.capital
 ||careers^$doc,domain=~commonspirit.careers
 ||casa^$doc,domain=~keys.casa|~nabu.casa
-||cash^$doc,domain=~doe.cash|~redtiger.cash|~vitunleija.cash
+||cash^$doc,domain=~cake.cash|~doe.cash|~redtiger.cash|~vitunleija.cash
 ||casino^$doc
 ||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~clashofmagic.cc|~coolkit.cc|~coopoo.cc|~crcon.cc|~datapump.cc|~dhilosnetworks.cc|~dict.cc|~dns36.cc|~fanbox.cc|~fiedler.cc|~fito.cc|~forestapp.cc|~frontrow.cc|~godoflove.cc|~imgus.cc|~is.cc|~itead.cc|~kktix.cc|~libstc.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~nssm.cc|~postimg.cc|~ppt.cc|~pravatar.cc|~pretendo.cc|~ptt.cc|~pttweb.cc|~rapha.cc|~rapidcdn.cc|~reurl.cc|~road.cc|~rutracker.cc|~shottr.cc|~silca.cc|~sneakpeek.cc|~theradio.cc|~toxicland.cc|~ultra.cc|~ultracloud.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~yz168.cc|~zcyph.cc
 ||center^$doc,domain=~found.center|~mein-kunden.center|~oh.center|~priv.center|~relaxx.center
@@ -119395,7 +119524,7 @@ habr.com##.article-donation-block
 ||loan^$doc
 ||loans^$doc
 ||locker^$doc
-||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~guns.lol|~hubcloud.lol|~io.lol|~kizuki.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~sibellavia.lol|~social.lol|~status.lol|~techaro.lol|~vcloud.lol|~weblog.lol
+||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~guns.lol|~io.lol|~kizuki.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~sibellavia.lol|~social.lol|~status.lol|~techaro.lol|~vcloud.lol|~weblog.lol
 ||london^$doc,domain=~football.london
 ||love^$doc
 ||ltd^$doc,domain=~digitalize.ltd|~homebrew.ltd|~picsee.ltd|~swizzin.ltd
@@ -120717,6 +120846,7 @@ habr.com##.article-donation-block
 ||jyskonlinemall.sa.com^
 ||onlinestrausss.sa.com^
 ||sezaneclothingshop.sa.com^
+||store-blaser.sa.com^
 ||weleda.sa.com^
 ||fr.samtradefx.com^
 ||secure.selure.de^
@@ -120840,6 +120970,7 @@ habr.com##.article-donation-block
 ||01broker.com^
 ||01crypto.com^
 ||0el-preiswert-kaufen.de^
+||1-rx-shop.com^
 ||100percentboutique.com^
 ||101vectorcenter.sbs^
 ||10xdealership.com^
@@ -121668,6 +121799,7 @@ habr.com##.article-donation-block
 ||aromascent.club^
 ||aroxcapital.com^
 ||arptrade.com^
+||arqzjlq.shop^
 ||arredamenti-italia.de^
 ||art-impulse.fr^
 ||art-portrait.de^
@@ -122639,6 +122771,7 @@ habr.com##.article-donation-block
 ||bitcoin-pharmacy.com^
 ||bitcoin-revolution.org^
 ||bitcoin-trader.net^
+||bitcoin-up.io^
 ||bitcoin-xact.fr^
 ||bitcoinarchon.com^
 ||bitcoineer.ai^
@@ -122673,6 +122806,7 @@ habr.com##.article-donation-block
 ||bixvolt.com^
 ||bizcox.net^
 ||bizglobeinvest.com^
+||bjbta.com^
 ||bjmining.com^
 ||bk-daten.de^
 ||bkaffee.de^
@@ -122794,6 +122928,7 @@ habr.com##.article-donation-block
 ||bongochat.de^
 ||bonluda.de^
 ||bonnieandbloom.com^
+||bonniekelly.shop^
 ||bonprixsho.shop^
 ||bonsaiexperte.com^
 ||bonvya.com^
@@ -122942,6 +123077,7 @@ habr.com##.article-donation-block
 ||bringwish.com^
 ||brinkmann-mode.de^
 ||brinkmannkanzlei.de^
+||brinylagge.shop^
 ||briospielzeug.com^
 ||briospielzeugrabatt.com^
 ||britishnewstoday.com^
@@ -123297,6 +123433,7 @@ habr.com##.article-donation-block
 ||ccmangebote.com^
 ||ccmedia.news^
 ||ccs-consulting.net^
+||ccwjl.com^
 ||cdbczz.com^
 ||cdcauldron.com^
 ||cdf-pellets.de^
@@ -124492,6 +124629,7 @@ habr.com##.article-donation-block
 ||doinvitletter.de^
 ||dokumentenkaufen.eu^
 ||dolaxe.com^
+||dolce-gabbana-online.shop^
 ||dolceamara.com^
 ||dolcevitashoe.com^
 ||doleras.com^
@@ -124825,6 +124963,7 @@ habr.com##.article-donation-block
 ||edreamtrips.com^
 ||edrxmeds.com^
 ||ee-fahrrad-handel.de^
+||eegomr.shop^
 ||eew-karriere.de^
 ||efeublute.com^
 ||efficient-flow.solutions^
@@ -125189,6 +125328,7 @@ habr.com##.article-donation-block
 ||estimatem.com^
 ||estransportundlogistik-gmbh.de^
 ||estrategen.de^
+||eswedfxl.shop^
 ||esy-oil.com^
 ||esyqefp.top^
 ||etcydecor.de^
@@ -127139,6 +127279,7 @@ habr.com##.article-donation-block
 ||harleydavidsons.at^
 ||harleysaleoutlets.com^
 ||harmoniouy.com^
+||harperyoung.shop^
 ||hartholz-briketts.de^
 ||hartmann-frankfurt.com^
 ||hartmannmode.de^
@@ -127203,6 +127344,7 @@ habr.com##.article-donation-block
 ||hausversand.com^
 ||hautecouturetaschenreinigung.de^
 ||havaianasflipflops.at^
+||havaianasstore.top^
 ||haventrend.com^
 ||haviequipaferramentas.com^
 ||havro.de^
@@ -128903,6 +129045,7 @@ habr.com##.article-donation-block
 ||kmgr.store^
 ||kmgr-shop.com^
 ||kmncvsdou.shop^
+||kndpigjc.shop^
 ||knieexpert.de^
 ||knife-sharp.com^
 ||knifebearson.com^
@@ -128981,6 +129124,7 @@ habr.com##.article-donation-block
 ||koupitpsychedelika.cz^
 ||kovali.de^
 ||kowela.com^
+||kpnukknv.shop^
 ||kpoweronline.com^
 ||krabihotelsthailand.net^
 ||kraftdesweins.com^
@@ -129089,6 +129233,7 @@ habr.com##.article-donation-block
 ||kynaz10fashion.com^
 ||kynebeauty.de^
 ||kynubeauty.de^
+||kzlkozlm.shop^
 ||la-sportivas.at^
 ||laamcom.com^
 ||labelparis.com^
@@ -129397,6 +129542,7 @@ habr.com##.article-donation-block
 ||lichtprofis.com^
 ||lichtvondeutschland.com^
 ||lichtzauberaustria.com^
+||lidgg.de^
 ||lidio.de^
 ||lidl-card.gifts^
 ||lidleurope.com^
@@ -129612,6 +129758,7 @@ habr.com##.article-donation-block
 ||lottoportugal.net^
 ||lottoslovakia.sk^
 ||lottosouthafrica.net^
+||lotus-handeln.com^
 ||lotusgaminglive.com^
 ||lotz-container.com^
 ||louise-boutique.com^
@@ -129824,6 +129971,7 @@ habr.com##.article-donation-block
 ||magischepfoten.de^
 ||magischesparfum.de^
 ||magisk.zip^
+||magiskapk.net^
 ||magiskzip.com^
 ||magliecalciocn.net^
 ||magmovebikes.com^
@@ -129850,6 +129998,7 @@ habr.com##.article-donation-block
 ||maintenanceh.com^
 ||mainz-mode.de^
 ||maiser-markt.de^
+||maisiewalker.shop^
 ||maison-dartois.co^
 ||maison-margiela.at^
 ||maisonerve.com^
@@ -130028,6 +130177,7 @@ habr.com##.article-donation-block
 ||matchpoint-kaufungen.de^
 ||matenor.fr^
 ||materialbearbeitung.com^
+||matildareid.shop^
 ||matrixator.com^
 ||matrixersatzteile.com^
 ||mats-outlet.com^
@@ -131115,6 +131265,7 @@ habr.com##.article-donation-block
 ||nexusbids.com^
 ||nexussolaraus.com^
 ||nexxco24.de^
+||nffajhgq.shop^
 ||nflfanaticsstore.com^
 ||nger.de^
 ||nguebelipharma.com^
@@ -132120,6 +132271,7 @@ habr.com##.article-donation-block
 ||pharmacy-xl.org^
 ||pharmacyeurope24.com^
 ||pharmacyinventory.org^
+||pharmacymarketonline.com^
 ||pharmacynod.com^
 ||pharmacyonline24.com^
 ||pharmacysavingshub.shop^
@@ -132157,6 +132309,7 @@ habr.com##.article-donation-block
 ||physicisti.com^
 ||pianidicotturascontato.com^
 ||pibok.de^
+||piccu.org^
 ||pickario.de^
 ||pickleballoffer.com^
 ||pickledfoodonline.com^
@@ -132618,6 +132771,7 @@ habr.com##.article-donation-block
 ||qinero.com^
 ||qlepy.com^
 ||qliopbn.forum^
+||qmvcgm.shop^
 ||qnesz.shop^
 ||qnfreerypc.click^
 ||qq339.com^
@@ -133233,6 +133387,7 @@ habr.com##.article-donation-block
 ||rustundneumann.com^
 ||rutherford.life^
 ||ruxavild.at^
+||rwcstore.com^
 ||rwvapje.shop^
 ||rx-10.com^
 ||rx-budapest.com^
@@ -133299,6 +133454,7 @@ habr.com##.article-donation-block
 ||salegermaniatools.com^
 ||salehasafdarglobalconsulting.com^
 ||salehealthfoods.com^
+||salehokasports.com^
 ||salejcb.de^
 ||salelanawelpen.de^
 ||salelcov.click^
@@ -133859,6 +134015,7 @@ habr.com##.article-donation-block
 ||siamrose.com^
 ||siaoryne.com^
 ||sicher-oel.de^
+||sideinstaller.com^
 ||sidelinejerseys.com^
 ||sidiaustria.com^
 ||siebert-modellbau.de^
@@ -134628,6 +134785,7 @@ habr.com##.article-donation-block
 ||sunbike-shop.de^
 ||sunbirdfx.com^
 ||suncoin.xyz^
+||sundanceliving-us.com^
 ||sundaynaturalshop.de^
 ||sunflex-de.com^
 ||sunfresh-garten.de^
@@ -135635,6 +135793,7 @@ habr.com##.article-donation-block
 ||ullis-immo.com^
 ||ulta-beauty-us.com^
 ||ultenicstaubsauger.com^
+||ultimaglobal.net^
 ||ultracybertrust.digital^
 ||ultraexpertfx.com^
 ||ultraheatpro.com^
@@ -135775,6 +135934,7 @@ habr.com##.article-donation-block
 ||ustiquemasejoy.shop^
 ||uswestnews.com^
 ||utahforkliftcompanyltd.shop^
+||utewealth.de^
 ||utubechannelsforsale.com^
 ||uvh-apotheke.de^
 ||uvives.de^
@@ -136643,6 +136803,7 @@ habr.com##.article-donation-block
 ||woodoclock.de^
 ||woofgear.de^
 ||wooflyx.com^
+||woofz.academy^
 ||woolyroots.com^
 ||wordmarkets.com^
 ||workerflix.com^
@@ -141255,6 +141416,7 @@ habr.com##.article-donation-block
 ||cr.tatsmanaffects.com^
 ||tj.tazzaspices.com^
 ||go.tbllprem.com^
+||go.tbllreg.com^
 ||go.tbllrej.com^
 ||go.tbllzon.com^
 ||pgk.te1p-a4ir.com^
@@ -145409,7 +145571,6 @@ habr.com##.article-donation-block
 ||20seven.org^
 ||20thcpaint.org^
 ||20tracks.com^
-||21-dream.com^
 ||21-media.com^
 ||215cams.com^
 ||2169.cc^
@@ -145712,7 +145873,6 @@ habr.com##.article-donation-block
 ||2t4f7g9a.de^
 ||2ta5l5rc0.de^
 ||2tfg9bo2i.de^
-||2tgallery.com^
 ||2thumbswap.com^
 ||2tlc698ma.de^
 ||2tq7pgs0f.de^
@@ -148110,7 +148270,6 @@ habr.com##.article-donation-block
 ||adtrue.com^
 ||adtrue24.com^
 ||adulateearring.com^
-||adult.xyz^
 ||adultadvertising.net^
 ||adultadworld.com^
 ||adultcallcenter.com^
@@ -166242,6 +166401,7 @@ habr.com##.article-donation-block
 ||icdirect.com^
 ||icdrdgeh.com^
 ||icebergaccusedfurnace.com^
+||icecapunspeak.cfd^
 ||icelessbogles.com^
 ||iceprogs.ru^
 ||icetechus.com^
@@ -166324,6 +166484,7 @@ habr.com##.article-donation-block
 ||idoletsluices.com^
 ||idolized-laugh.com^
 ||idolized-record.pro^
+||idolized-share.pro^
 ||idolized-style.pro^
 ||idolizedestimate.pro^
 ||idolizedfoundation.pro^
@@ -175717,6 +175878,7 @@ habr.com##.article-donation-block
 ||optimizesocial.com^
 ||optimizesrv.com^
 ||optimumassurancevie.com^
+||optinmonster.com^
 ||optionsdisk.com^
 ||optiontwentiethhart.com^
 ||optnx.com^
@@ -178753,7 +178915,6 @@ habr.com##.article-donation-block
 ||pubgalaxy.com^
 ||pubgears.com^
 ||pubgenius.io^
-||pubguru.com^
 ||pubguru.net^
 ||pubimageboard.com^
 ||pubjzoxav.com^
