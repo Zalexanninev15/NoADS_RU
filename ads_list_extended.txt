@@ -1,6 +1,6 @@
 ! Title: 😎 NoADS_RU Extended
-! Last modified: 6 августа 2026 года
-! Total: 189871
+! Last modified: 7 августа 2026 года
+! Total: 189708
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -34077,7 +34077,7 @@ nakedwines.co.uk##nkd-cookie-banner
 weatherbug.com##notification-footer
 northwell.edu##nwhlit-gdpr-banner
 1inch.com##oi-cookies-popup
-eu.reservewheels.com,kingkoil.com,ridealso.com,tenthstreethats.com,villagehatshop.com##pandectes-cmp
+eu.reservewheels.com,kingkoil.com,prestacycle.eu,ridealso.com,tenthstreethats.com,villagehatshop.com##pandectes-cmp
 playpaxdei.com##paxdei-cookie-consent
 proactua.com##proactua-cookie-consent
 lookup.icann.org##rwc-cookie-notification
@@ -121290,7 +121290,6 @@ habr.com##.article-donation-block
 ||maws-aax-eu-rtb-adx.amazon-adsystem.com^
 ||maws-aax-eu-rtb.amazon-adsystem.com^
 ||maws-aax-eu.amazon-adsystem.com^
-||maws-aax-fe-sin.amazon-adsystem.com^
 ||maws-aax-fe.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
@@ -121348,6 +121347,7 @@ habr.com##.article-donation-block
 ||sponsored-ads-eu.amazon.se^
 ||sponsored-ads-fe.amazon-adsystem.com^
 ||sponsored-ads-na.amazon-adsystem.com^
+||sponsored-ads.amazon.ae^
 ||sponsored-ads.amazon.ca^
 ||sponsored-ads.amazon.co.jp^
 ||sponsored-ads.amazon.co.uk^
@@ -121355,6 +121355,7 @@ habr.com##.article-donation-block
 ||sponsored-ads.amazon.com.br^
 ||sponsored-ads.amazon.com.mx^
 ||sponsored-ads.amazon.com^
+||sponsored-ads.amazon.eg^
 ||sponsored-ads.amazon.es^
 ||sponsored-ads.amazon.fr^
 ||sponsored-ads.amazon.in.alphionsee.in^
@@ -125628,7 +125629,6 @@ habr.com##.article-donation-block
 ||digitale-horoskope.de^
 ||digitalerkredit.com^
 ||digitalhandel.shop^
-||digitalheizer.de^
 ||digitalkontor24.de^
 ||digitalmarkt.online^
 ||digitalshopbolivia.com^
@@ -125648,7 +125648,6 @@ habr.com##.article-donation-block
 ||dinem-tech.de^
 ||dinosaurier.store^
 ||dinosupplies.to^
-||dioey.com^
 ||dionfashion.com^
 ||diotrange.com^
 ||dirctychop.com^
@@ -125827,7 +125826,6 @@ habr.com##.article-donation-block
 ||dresdenmodehaus.de^
 ||dressfat.com^
 ||dressnik.com^
-||dressshirtsblouses.com^
 ||dresswithsoul.com^
 ||drezia.com^
 ||drgillmaier.de^
@@ -125924,7 +125922,6 @@ habr.com##.article-donation-block
 ||dyson-store.de^
 ||dystopian-gaming.com^
 ||dystopiangaming.com^
-||dyynnafitsale.shop^
 ||dyzay.com^
 ||dznrspot.com^
 ||dztraktoren.de^
@@ -125945,7 +125942,6 @@ habr.com##.article-donation-block
 ||e-holzgmbh.com^
 ||e-medsbuy.com^
 ||e-rechberger.at^
-||e-rollzock.com^
 ||e-scooter.de^
 ||e-trekkingrader.com^
 ||e-vignette.cz^
@@ -125953,12 +125949,10 @@ habr.com##.article-donation-block
 ||eaepp.com^
 ||eafengrowkniveshub.com^
 ||earlynoon.com^
-||earnavioat.works^
 ||eartischleuchten.com^
 ||easies.de^
 ||east-tek.com^
 ||eastcapitalmarkets.com^
-||eastpakwien.at^
 ||eastspringinvest.io^
 ||easy-oel.de^
 ||easy-software.org^
@@ -125990,7 +125984,6 @@ habr.com##.article-donation-block
 ||ebiketeilekauf.com^
 ||ebiketeileverkaufe.com^
 ||ebikezubehoer.com^
-||ebonylinebeauty.shop^
 ||ebooklyn.net^
 ||eburpat.com^
 ||ecco-management.com^
@@ -126078,7 +126071,6 @@ habr.com##.article-donation-block
 ||ehandler.de^
 ||eheringede.com^
 ||ehfzhepg.shop^
-||ehketzlg.shop^
 ||ehkschutzengel.de^
 ||ehreer.com^
 ||ehs-pellets.de^
@@ -126099,9 +126091,7 @@ habr.com##.article-donation-block
 ||einschraubschlauch.com^
 ||eintrachtfrankfurttrikots.de^
 ||einzigartigehaustiere.com^
-||einzigartigetaschen.com^
 ||einzu.de^
-||eioew.com^
 ||eiroshop.lv^
 ||eisangelntackle.com^
 ||eiselefahrrad.de^
@@ -126110,7 +126100,6 @@ habr.com##.article-donation-block
 ||eisenwarenshop.com^
 ||eishockeyangebot.com^
 ||eisner-kollegen.de^
-||ejdigitalvendas.com^
 ||ekmshp.com^
 ||eku-handel.de^
 ||ekzsale.shop^
@@ -126173,16 +126162,13 @@ habr.com##.article-donation-block
 ||elektro-willi.de^
 ||elektrodan.com^
 ||elektrodepo.de^
-||elektrodomus.de^
 ||elektroemax.de^
 ||elektroexpress24.com^
 ||elektrofuralle.de^
 ||elektrogeraterabatt.com^
 ||elektrohandel-schmidt.com^
 ||elektrohandelplus.de^
-||elektrohause.com^
 ||elektroheld24.de^
-||elektrokauf.com^
 ||elektrokaufen.com^
 ||elektrokessmarkt.de^
 ||elektrokueche.de^
@@ -126195,12 +126181,10 @@ habr.com##.article-donation-block
 ||elektropfeifer.de^
 ||elektrosde.com^
 ||elektrosparkvien.com^
-||elektrotech24.de^
 ||elektrotop-shop.com^
 ||elektrozone24.com^
 ||elementaryfinancial.com^
 ||elementaryt.com^
-||elementiporta.com^
 ||elenawelpen.de^
 ||elencoco.com^
 ||eletrospark.de^
@@ -126288,9 +126272,7 @@ habr.com##.article-donation-block
 ||emssnow.com^
 ||emtphasis.com^
 ||emulatorshop.com^
-||emv-galabau24.de^
 ||enapr.de^
-||enblinvest.com^
 ||enchic.store^
 ||endlich-gesund.com^
 ||endoflife.space^
@@ -126301,7 +126283,6 @@ habr.com##.article-donation-block
 ||energieausweis-fuer-verkauf.at^
 ||energiefach.com^
 ||energiefuerbuerger.de^
-||energieheizen.de^
 ||energiekick.at^
 ||energiepreise24.com^
 ||energiesparkonzept24.de^
@@ -126311,7 +126292,6 @@ habr.com##.article-donation-block
 ||engerer-handel.de^
 ||engineeringh.com^
 ||englandsoccerfanstore.com^
-||engwe-ebike.com^
 ||engwe-ebike.de^
 ||eniam.com^
 ||enigmaonlineworld.com^
@@ -126432,7 +126412,6 @@ habr.com##.article-donation-block
 ||estimatem.com^
 ||estransportundlogistik-gmbh.de^
 ||estrategen.de^
-||eswedfxl.shop^
 ||esy-oil.com^
 ||esyqefp.top^
 ||etcydecor.de^
@@ -126532,9 +126511,7 @@ habr.com##.article-donation-block
 ||euvitafarm.com^
 ||ev-farm.com^
 ||evaam.de^
-||evaluma.de^
 ||evane.store^
-||evanimo.com^
 ||evans-online.de^
 ||evans-shop.de^
 ||evansdplaw.com^
@@ -127801,6 +127778,7 @@ habr.com##.article-donation-block
 ||giantfahrraderrabatt.com^
 ||giardinoambienti.com^
 ||gicastores.com^
+||giebel-motorgeraetekg.de^
 ||giecy.com^
 ||giesler-drogerie.com^
 ||giesswein.cz^
@@ -131079,7 +131057,6 @@ habr.com##.article-donation-block
 ||magiemarkt.com^
 ||magischepfoten.de^
 ||magischesparfum.de^
-||magisk.zip^
 ||magiskapk.net^
 ||magiskzip.com^
 ||magliecalciocn.net^
@@ -131358,6 +131335,7 @@ habr.com##.article-donation-block
 ||mediaxim.com^
 ||medicalandbeautycare.com^
 ||medicalgroupsk.sk^
+||medicalsupportsale.com^
 ||medicamententreparticulier.com^
 ||medicareonthemoveaz.com^
 ||medicineronline.net^
@@ -131990,6 +131968,7 @@ habr.com##.article-donation-block
 ||motoenthusiastsbase.com^
 ||motoholland.com^
 ||motonordic.shop^
+||motopartsdeutschland.com^
 ||motorblockelektrik.com^
 ||motoriderde.com^
 ||motorrad-ausstattung.com^
@@ -132021,6 +132000,7 @@ habr.com##.article-donation-block
 ||mrlmshop.com^
 ||mrtmarkets.com^
 ||mrxcapitaltrading.com^
+||msanhanger.at^
 ||msc-beratung.de^
 ||mseminar.com^
 ||msf.global^
@@ -132377,7 +132357,6 @@ habr.com##.article-donation-block
 ||nexusbids.com^
 ||nexussolaraus.com^
 ||nexxco24.de^
-||nffajhgq.shop^
 ||nflfanaticsstore.com^
 ||nger.de^
 ||nguebelipharma.com^
@@ -133296,6 +133275,7 @@ habr.com##.article-donation-block
 ||pergolarabatt.com^
 ||perlatoschuhe.com^
 ||perlatoshoe.com^
+||perlenwerk.com^
 ||perlenzwoelfe.de^
 ||permatexshop.com^
 ||perpetualstore.com^
@@ -135287,6 +135267,7 @@ habr.com##.article-donation-block
 ||smitdeals.de^
 ||smk.dog^
 ||smlkje.com^
+||smokelabin.com^
 ||smokerland.net^
 ||smtoygalaxy.com^
 ||snap-sell.de^
@@ -138610,6 +138591,7 @@ habr.com##.article-donation-block
 ||builderall.net^
 ||builtfree.org^
 ||bulkurlshortener.com^
+||business.site^
 ||business-minagne.com^
 ||bx5.de^
 ||byethost.com^
@@ -140640,7 +140622,6 @@ habr.com##.article-donation-block
 ||dp.dipodeplebby.com^
 ||is.dirgesimious.com^
 ||hz.dirgingkeelage.com^
-||eg.disavowyap.click^
 ||sb-z-uzou-fukunoturu.discover-news.tokyo^
 ||an.disdarrummers.shop^
 ||zw.dismaysvara.com^
@@ -140664,7 +140645,6 @@ habr.com##.article-donation-block
 ||jp.dorpshexyls.com^
 ||pb.dosachen.com^
 ||he.dossersdementi.com^
-||du.dossersmilor.com^
 ||uj.dotiestnucleli.com^
 ||fls.doubleclick.net^
 ||g.doubleclick.net^
@@ -140676,16 +140656,10 @@ habr.com##.article-donation-block
 ||lf.dracoencinal.com^
 ||bm.dragbarvipery.com^
 ||qr.drammerxylinid.com^
-||pq.draweesoutkiss.com^
 ||qgjmaw.dreamiinyou.com^
-||nrmzbk.dreamiiova.com^
-||llozqb.dreamilove.com^
 ||xbamro.dreamjustforyou.com^
 ||zovzgo.dreamlloves.com^
-||nrjbow.dreamsigh.com^
 ||www.largze.dreamydatees.com^
-||endggk.dreamyfae.com^
-||vnwxkk.dreanlove.com^
 ||rnmrla.dreemdat.com^
 ||enwvwx.dreemllov.com^
 ||vnwxkk.dreemlov.com^
@@ -140694,10 +140668,6 @@ habr.com##.article-donation-block
 ||ogmrzv.dreemmyou.com^
 ||vnwxkk.dreemmyou.com^
 ||vnwxkk.dreemyou.com^
-||ya.dreidlstabella.com^
-||xbqzrd.dremiova.com^
-||nrjbaw.dremiove.com^
-||jbvng.dremlove.com^
 ||qr.driverwheyish.com^
 ||rf.drolltenino.com^
 ||lf.drownshangar.com^
@@ -140786,7 +140756,6 @@ habr.com##.article-donation-block
 ||webtelegram.eu.org^
 ||mlcrosoftonline.com.eu-secured.com^
 ||ys.euclaseselenic.com^
-||yv.euterpecabinet.com^
 ||ua.evacuesmiters.com^
 ||ly.evensbarilla.com^
 ||fb.evertsmiggles.com^
@@ -140797,7 +140766,6 @@ habr.com##.article-donation-block
 ||s4.everydayporn.com^
 ||dw.evo.cn^
 ||nu.evokingshend.com^
-||www.a.ewps.cn^
 ||world.ex-advantage.jp^
 ||lf.examplescug.com^
 ||elmjvr.exceptionaldates.net^
@@ -140806,7 +140774,6 @@ habr.com##.article-donation-block
 ||rnwmjo.exceptionaldates.net^
 ||vnwodl.exceptionaldates.net^
 ||nk.excidesparers.com^
-||kt.excusersquare.com^
 ||ie.exdieanglo.com^
 ||ff.exinesriles.com^
 ||ae.exquirelikest.com^
@@ -140824,7 +140791,6 @@ habr.com##.article-donation-block
 ||do.fantastindents.com^
 ||at.fantasytenore.com^
 ||api.faostat.org^
-||alters.fapesmounsight.life^
 ||ar.fapnado.xxx^
 ||ca.fapnado.xxx^
 ||nl.fapnado.xxx^
@@ -149094,6 +149060,7 @@ habr.com##.article-donation-block
 ||adorablekind.pro^
 ||adorablenet.com^
 ||adorableold.com^
+||adorablequestion.pro^
 ||adoredcount.com^
 ||adoredsignificance.pro^
 ||adoreplans.com^
@@ -151275,7 +151242,6 @@ habr.com##.article-donation-block
 ||arraignmentjump.com^
 ||arrakis2.com^
 ||arrangedateslocally.com^
-||arrangementsfilter.com^
 ||arrangeunstablehuman.com^
 ||arrawqnh.com^
 ||arraydepressinginnocence.com^
@@ -158901,9 +158867,6 @@ habr.com##.article-donation-block
 ||dignityprop.com^
 ||diguantong.com^
 ||digubpgjkdmsl.website^
-||digueravi.cfd^
-||digzjnuguwwxr.online^
-||dikasomywnqww.website^
 ||dikaulicon.cyou^
 ||dikcmpgwemomx.space^
 ||dikeprotectorencyclopaedia.com^
@@ -158912,7 +158875,6 @@ habr.com##.article-donation-block
 ||dilapidationeavesdropping.com^
 ||dilapidationgroupprovidence.com^
 ||dilapidationmule.com^
-||dilapidationrestminor.com^
 ||dilemmadaily.com^
 ||diligentairline.pro^
 ||diligentcloset.com^
@@ -158932,7 +158894,6 @@ habr.com##.article-donation-block
 ||dimmockvanglo.com^
 ||dimnessslatecosmetic.com^
 ||dimpled-dig.pro^
-||dimpleswraw.com^
 ||dimpsychology.pro^
 ||dimspace.pro^
 ||dimtairdumpoorg.net^
@@ -158983,7 +158944,6 @@ habr.com##.article-donation-block
 ||directnessrhythmirony.com^
 ||directone.xyz^
 ||directorym.com^
-||directpaltry.com^
 ||directr.xyz^
 ||directrankcl.com^
 ||directrev.com^
@@ -158991,7 +158951,6 @@ habr.com##.article-donation-block
 ||directtrck.com^
 ||direeyesightstray.com^
 ||dirlink.net^
-||dirtemotionsun.com^
 ||dirtharvestnickel.com^
 ||dirtinessdiffers.com^
 ||dirtinessestimatesherry.com^
@@ -159009,7 +158968,6 @@ habr.com##.article-donation-block
 ||disadvantageattached.com^
 ||disappearanceinspiredscan.com^
 ||disappearancetickfilth.com^
-||disappeardividedkept.com^
 ||disappearedcleaver.com^
 ||disappearheedless.com^
 ||disappearsurgery.com^
@@ -159061,7 +159019,6 @@ habr.com##.article-donation-block
 ||disdainplayedbluster.com^
 ||disdainsneeze.com^
 ||diseasejournalistscallion.com^
-||disembodyflick.com^
 ||disembodyobjectionscremate.com^
 ||disembroildisembroilrepresssurvival.com^
 ||disfigurecult.com^
@@ -159085,7 +159042,6 @@ habr.com##.article-donation-block
 ||dishonourmercifulaffection.com^
 ||dishround.com^
 ||dishtrekkerunderfoot.com^
-||dishwasherfall.com^
 ||dishwasherperspire.com^
 ||dishwaterconcedehearty.com^
 ||disinheritsteve.com^
@@ -159148,14 +159104,12 @@ habr.com##.article-donation-block
 ||disquietreason.com^
 ||disqusads.com^
 ||disregarddisembodythereby.com^
-||disrespectpearsdetestable.com^
 ||disrespectsuffer.com^
 ||dissertanitos.com^
 ||dissipatecombinedcolon.com^
 ||dissmaixzx.com^
 ||dissolvedbrevityclog.com^
 ||dissolvedcaprizecaprize.com^
-||dissolvedcarverconvert.com^
 ||dissolveequivalentreasoning.com^
 ||distancedreamboatstoic.com^
 ||distancesets.com^
@@ -159172,8 +159126,6 @@ habr.com##.article-donation-block
 ||distorted-hello.pro^
 ||distortedresolve.com^
 ||distortedwin.com^
-||distractbeatlab.com^
-||distractedjillfeast.com^
 ||distractingcashthorny.com^
 ||distractingzodiacperpetrate.com^
 ||distractiontradingamass.com^
@@ -159216,7 +159168,6 @@ habr.com##.article-donation-block
 ||divibase.xyz^
 ||dividedformularelay.com^
 ||dividedgrandtoll.com^
-||dividedintegrationtransparent.com^
 ||dividedscientific.com^
 ||dividesmoked.com^
 ||dividetribute.com^
@@ -159228,7 +159179,6 @@ habr.com##.article-donation-block
 ||divinitydistil.com^
 ||divisiondrearilyunfiled.com^
 ||divlnedates.com^
-||divorceresentmentconsists.com^
 ||diwhitohoap.com^
 ||dixhrutqxceptsi.com^
 ||dixxiowrgeame.online^
@@ -159300,7 +159250,6 @@ habr.com##.article-donation-block
 ||dlworker.top^
 ||dlyazdorovia.ru^
 ||dm2l.com^
-||dmdadwkf.icu^
 ||dmemutamv.com^
 ||dmgfqmltttogq.space^
 ||dmghgdmlepsek.online^
@@ -159369,7 +159318,6 @@ habr.com##.article-donation-block
 ||doctorpost.net^
 ||doctrinekettleworsening.com^
 ||doctruyencotich.vn^
-||documentaryangerabed.com^
 ||docusine.com^
 ||dodderytactite.com^
 ||dodeinoa.com^
@@ -159403,7 +159351,6 @@ habr.com##.article-donation-block
 ||dokscnultmj.com^
 ||dolatiaschan.com^
 ||dolefulbailjoy.com^
-||dolefulexaggeratecommon.com^
 ||dolekaraokeoversleep.com^
 ||dollardelta.com^
 ||dollarwimp.com^
@@ -159537,6 +159484,7 @@ habr.com##.article-donation-block
 ||doubtcigardug.com^
 ||doubtclubhouse.com^
 ||doubtedinternet.com^
+||doubtshazesteed.com^
 ||doubtsuseless.com^
 ||doucetdidact.shop^
 ||doucheraisiny.com^
@@ -159581,7 +159529,6 @@ habr.com##.article-donation-block
 ||downypiece.com^
 ||dowryhandgripballot.com^
 ||dowtyler.com^
-||doxeaowk.icu^
 ||doyggxotqwrxubmbpf.com^
 ||dozenshallow.com^
 ||dozepokinganthem.com^
@@ -159655,13 +159602,11 @@ habr.com##.article-donation-block
 ||dramaticmight.pro^
 ||drankclosed.com^
 ||draperyrevolvertiara.com^
-||dratblissfully.com^
 ||dratetillage.com^
 ||drav.vn^
 ||draweressence.com^
 ||drawnbinary.com^
 ||drawpacketlanguage.com^
-||drawx.xyz^
 ||drcfwuuwswbni.store^
 ||drct-match.com^
 ||drct-match.net^
@@ -159675,13 +159620,10 @@ habr.com##.article-donation-block
 ||dreamaquarium.com^
 ||dreamatch.jp^
 ||dreamcatcherbnbcolorado.com^
-||dreamdatte.com^
-||dreamdatte.net^
 ||dreamforya.com^
 ||dreamgiffted.com^
 ||dreamilovee.com^
 ||dreamlikefostergala.com^
-||dreamllove.net^
 ||dreammail.org^
 ||dreammember-journey.com^
 ||dreamonforyou.com^
@@ -159691,7 +159633,6 @@ habr.com##.article-donation-block
 ||dreamteamaffiliates.com^
 ||dreamtgistliveliness.com^
 ||dreamtogetheer.com^
-||dreamviibe.com^
 ||dreamwitthyou.com^
 ||dreamy2dates.com^
 ||dreamytabs.com^
@@ -159705,16 +159646,12 @@ habr.com##.article-donation-block
 ||dreeamdate.com^
 ||dreeamyou.com^
 ||dreemllove.net^
-||dreemlove.com^
-||dreemlove.net^
 ||dreemloves.com^
 ||dreemloves.net^
 ||dremdwbfeofrb.site^
-||dremlight.com^
 ||dremllove.com^
 ||dremlloves.com^
 ||dremlust.com^
-||dremluv.com^
 ||dremmatch.com^
 ||dremp.xyz^
 ||drenchcampus.com^
@@ -159760,7 +159697,6 @@ habr.com##.article-donation-block
 ||drjsialuvitqq.space^
 ||drkness.net^
 ||drmohamedabdo.com^
-||drnniuaxhvpgz.website^
 ||drollwharf.com^
 ||dronred.com^
 ||droopgloomhooter.com^
@@ -159811,12 +159747,7 @@ habr.com##.article-donation-block
 ||drzqijno6u91u832r91yqzou1jvd5pn2mt2s.com^
 ||ds0yue.com^
 ||ds3.biz^
-||ds4de1.com^
-||ds6n6c.com^
 ||ds7hds92.de^
-||ds8ect.com^
-||ds8fc0.com^
-||dsa8h7.com^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
 ||dsadyttmalqac.website^
 ||dsau5u.com^
@@ -159824,9 +159755,7 @@ habr.com##.article-donation-block
 ||dsbohcqqdvbyt.site^
 ||dsbuiu.com^
 ||dscdkrwk.com^
-||dsckgc.com^
 ||dsdfhyey.net^
-||dseel9.com^
 ||dseudvepnmooe.net^
 ||dseveralmefarketi.com^
 ||dsf-egypt.com^
@@ -159851,7 +159780,6 @@ habr.com##.article-donation-block
 ||dswagqnjedlcq.site^
 ||dswckxxivdrjj.website^
 ||dsxadwwna.com^
-||dsxgwwrkecsxd.online^
 ||dsxmn0.com^
 ||dt00.net^
 ||dt07.net^
@@ -159863,7 +159791,6 @@ habr.com##.article-donation-block
 ||dtf2.com^
 ||dthhxxpkppevtg.net^
 ||dtibgbtfoitnv.store^
-||dtjzcyjeywfaa.website^
 ||dtmacigm.com^
 ||dtmpub.com^
 ||dtnegrmxamvmyss.com^
@@ -159873,7 +159800,6 @@ habr.com##.article-donation-block
 ||dtpvgzuxgdgmu.website^
 ||dtqfxwrnev.com^
 ||dtqhyoqp.com^
-||dtrem.site^
 ||dtritalia.com^
 ||dtsan.net^
 ||dtscdn.com^
@@ -159890,7 +159816,6 @@ habr.com##.article-donation-block
 ||dtyurebaioecr.com^
 ||du0.jp^
 ||du3d.com^
-||du99.xyz^
 ||dualguitar.pro^
 ||dualinconvenientdoorman.com^
 ||dualistesseda.com^
@@ -159919,7 +159844,6 @@ habr.com##.article-donation-block
 ||duespajamassurgical.com^
 ||duetads.com^
 ||dufixen.com^
-||dugfairfaxgait.com^
 ||dugksbcmvvxdf.site^
 ||dugothitachan.com^
 ||dugrhmdlsdcop.website^
@@ -159972,12 +159896,10 @@ habr.com##.article-donation-block
 ||duringcereal.com^
 ||duringherenurew.com^
 ||duros.lol^
-||dusioknopper.com^
 ||duskedaruac.com^
 ||duskwander.com^
 ||dustaitch.com^
 ||dustersaying.com^
-||dustexhibition.com^
 ||dustinga.com^
 ||dustyhammer.com^
 ||dustymural.com^
@@ -159995,7 +159917,6 @@ habr.com##.article-donation-block
 ||dutyfreeoutlet.com^
 ||dutypayslips.com^
 ||dutytill.com^
-||duujwfceivrra.site^
 ||duxatuer.com^
 ||duzzeurope.com^
 ||dvdjtxgcokydc.online^
@@ -160037,7 +159958,6 @@ habr.com##.article-donation-block
 ||dwrmadbgml.com^
 ||dwvdofpcelstt.site^
 ||dwyofqsfugu.com^
-||dwztkzptvisct.site^
 ||dx-fu.com^
 ||dx828.com^
 ||dxaobbhcuiech.online^
@@ -160046,9 +159966,7 @@ habr.com##.article-donation-block
 ||dxcvqzxyycraw.website^
 ||dxdaarpubbpkpmd.com^
 ||dxdxfl.icu^
-||dxelsudieastk.store^
 ||dxenmweujarfm.store^
-||dxewphcplowwk.site^
 ||dxiilazmsqprw.online^
 ||dxkmeispvbfsx.website^
 ||dxled.com^
@@ -160058,9 +159976,7 @@ habr.com##.article-donation-block
 ||dxmyaglse.com^
 ||dxoiomfjfvvub.space^
 ||dxouwbn7o.com^
-||dxpkiaeu.icu^
 ||dxqqoctjgddts.space^
-||dxroxl.icu^
 ||dxtv1.com^
 ||dxuerrtyri.com^
 ||dxuvxrdqeyzwj.online^
@@ -160092,7 +160008,6 @@ habr.com##.article-donation-block
 ||dynsrvtyu.com^
 ||dynsrvwer.com^
 ||dynssp.com^
-||dyptanaza.com^
 ||dypuabqvyek.com^
 ||dysenterychartbulky.com^
 ||dysfunction-erectile.com^
@@ -160104,8 +160019,6 @@ habr.com##.article-donation-block
 ||dzhjmp.com^
 ||dziamswamc.com^
 ||dzioldox.com^
-||dzjlyvcsggmls.online^
-||dzpoejczjsmkk.store^
 ||dzqxwy.com^
 ||dzthdolznengm.space^
 ||dzubavstal.com^
@@ -160123,17 +160036,14 @@ habr.com##.article-donation-block
 ||e-serviceparts.info^
 ||e-viral.com^
 ||e-workgroup.com^
-||e03abc72c5.com^
 ||e088b80df3.com^
 ||e0b2d6a445.com^
 ||e25b585b36.com^
 ||e261.net^
 ||e2ertt.com^
 ||e3a9997095.com^
-||e548899712.com^
 ||e56706706b.com^
 ||e5ce73abf6.com^
-||e5f1418a7a.com^
 ||e5yx.com^
 ||e67repidwnfu7gcha.com^
 ||e6c84e5378.com^
@@ -160167,7 +160077,6 @@ habr.com##.article-donation-block
 ||eamrxyoyatwgm.website^
 ||eandjcontractors.net^
 ||eanjuliw.com^
-||eanresultancet.com^
 ||eaoyilbmqypkz.site^
 ||earbossysavvy.com^
 ||eardepth-prisists.com^
@@ -160194,7 +160103,6 @@ habr.com##.article-donation-block
 ||earringsatisfiedsplice.com^
 ||earthnet.cloud^
 ||earthquakeinexpedienttransmitter.com^
-||earthystick.com^
 ||earwrinkle.com^
 ||earzfzuoxaof.com^
 ||easebestow.com^
@@ -160235,7 +160143,6 @@ habr.com##.article-donation-block
 ||easylummos.com^
 ||easypost14.com^
 ||easysearch.click^
-||easysemblyjusti.info^
 ||eatablesquare.com^
 ||eatcells.com^
 ||eatlocal.info^
@@ -160340,7 +160247,6 @@ habr.com##.article-donation-block
 ||edaciousedacioussewcomfortless.com^
 ||edacityedacitymoisturecold.com^
 ||edalloverwiththinl.info^
-||edaughablelead.org^
 ||edaukooru.net^
 ||edawan.net^
 ||edbmtunvlkcxm.website^
@@ -160355,9 +160261,7 @@ habr.com##.article-donation-block
 ||edible-sort.pro^
 ||edioca.com^
 ||edition25.com^
-||editionillustrate.com^
 ||editorialeducationalceiling.com^
-||editorialexecutiveharness.com^
 ||editorviolentlick.com^
 ||edixagnesag.net^
 ||edlilu.com^
@@ -160391,7 +160295,6 @@ habr.com##.article-donation-block
 ||edvjmyoyhntiu.com^
 ||edwmpt.com^
 ||edws.net^
-||edxilaprgjxqt.site^
 ||eebivsjgsjktp.store^
 ||eebsoohajaung.net^
 ||eecd.xyz^
@@ -160410,7 +160313,6 @@ habr.com##.article-donation-block
 ||eehassoosostoa.com^
 ||eeheeghaikraz.net^
 ||eehuzaih.com^
-||eeiinjqsioicn.site^
 ||eejipukaijy.net^
 ||eejorgoulip.net^
 ||eekighoo.com^
@@ -160481,7 +160383,6 @@ habr.com##.article-donation-block
 ||effluveputting.com^
 ||efforlessefforlessadherence.com^
 ||efforlessefforlessunited.com^
-||effortamendconfined.com^
 ||effulgentnook.com^
 ||effulgenttempest.com^
 ||effusedprankle.com^
@@ -160491,12 +160392,10 @@ habr.com##.article-donation-block
 ||efooheegounoap.net^
 ||efooravirarsow.com^
 ||eforeukandthi.org^
-||eforgotteddisgu.com^
 ||efortiessdate.net^
 ||efpdkrgrluqec.store^
 ||efulcurtseysadmi.org^
 ||efully.info^
-||efwukoulnhdluki.org^
 ||efxstcllyicd.com^
 ||efxumler.com^
 ||efyvcvjmtxg.com^
@@ -160523,13 +160422,11 @@ habr.com##.article-donation-block
 ||egnnkmsnxranb.xyz^
 ||egoampoomsicird.net^
 ||egogtlcne.com^
-||egoismillogicaldegradation.com^
 ||egopiyqfyhuvf.site^
 ||egori.xyz^
 ||egotisticalshells.com^
 ||egpdbp6e.de^
 ||egpealygnhgue.online^
-||egqhbuyfdpswm.space^
 ||egraglauvoathog.com^
 ||egroatodoam.com^
 ||egslot.com^
@@ -160549,11 +160446,9 @@ habr.com##.article-donation-block
 ||ehfeuvyalaxlm.online^
 ||ehhvkgdfviw.com^
 ||ehlfnpduxldcy.online^
-||ehmnmovcnwkyb.website^
 ||ehokeeshex.com^
 ||ehrydnmdoe.com^
 ||ehshjgxvclijyi.com^
-||ehtkfjhrozkeu.website^
 ||ehvphrpgxyikgm.com^
 ||ehwjeuwyq.com^
 ||ehwtrxeivhora.site^
@@ -160564,11 +160459,9 @@ habr.com##.article-donation-block
 ||eibjggfihcjiiheeaach.world^
 ||eidersalias.com^
 ||eidersrettory.com^
-||eideticcrucian.life^
 ||eidmygko.com^
 ||eievqnmr.com^
 ||eievvwywxpcev.xyz^
-||eightcombustibleexpose.com^
 ||eighthpowerfully.com^
 ||eightmessengerphysique.com^
 ||eijivbeakvnpi.store^
@@ -160615,7 +160508,6 @@ habr.com##.article-donation-block
 ||ekerududeyuqb.space^
 ||ekexwkwmu.com^
 ||ekgguide.com^
-||ekgxbcb.icu^
 ||ekhxhoqkxa.com^
 ||ekjyguvzxzlrb.online^
 ||ekklgpfmaviji.online^
@@ -160662,7 +160554,6 @@ habr.com##.article-donation-block
 ||electconvertcompanion.com^
 ||electionmmdevote.com^
 ||electionpuritydeceived.com^
-||electluscious.com^
 ||electnext.com^
 ||electorshreds.top^
 ||electosake.com^
@@ -160720,7 +160611,6 @@ habr.com##.article-donation-block
 ||elizabethpoundscontributor.com^
 ||elizabethpunishhead.com^
 ||elizabethrell.xyz^
-||eljeunmkjiamm.space^
 ||elkanadi.com^
 ||elkunbalanceunfounded.com^
 ||ellcurvth.com^
@@ -160793,8 +160683,6 @@ habr.com##.article-donation-block
 ||embwmpt.com^
 ||emcviqfh.net^
 ||emediate.dk^
-||ementrandings.org^
-||ementxviewsin.com^
 ||emeraldhecticteapot.com^
 ||emeraldsteroid.com^
 ||emeraldsurrogatefabric.com^
@@ -160803,7 +160691,6 @@ habr.com##.article-donation-block
 ||emergencyidiomjokingly.com^
 ||emergencyroomclients.com^
 ||emerson.kr^
-||emeutetubbers.cfd^
 ||emfhxsmebkthh.website^
 ||emicalcoveningspon.org^
 ||emierete.com^
@@ -160868,7 +160755,6 @@ habr.com##.article-donation-block
 ||enacttournamentcute.com^
 ||enaisoabet.com^
 ||enalsk.click^
-||enamelearnestlyencase.com^
 ||enamelhurdleunpaid.com^
 ||enathyimemedi.org^
 ||enbxweghgupsj.space^
@@ -160892,7 +160778,6 @@ habr.com##.article-donation-block
 ||encouragedmemistress.com^
 ||encouragedreamsfancied.com^
 ||encouragingblab.com^
-||encouragingbrightest.com^
 ||encouragingcivil.com^
 ||encouragingthread.com^
 ||encroachbuzzing.com^
@@ -160927,7 +160812,6 @@ habr.com##.article-donation-block
 ||enduranceabjureplains.com^
 ||enduranceappropriate.com^
 ||endurancesupervision.com^
-||endureart.com^
 ||endurosweekday.com^
 ||enelslthfenmh.site^
 ||enematalordan.com^
@@ -160941,7 +160825,6 @@ habr.com##.article-donation-block
 ||energetic-surgery.pro^
 ||energeticpassenger.pro^
 ||energeticshot.com^
-||energizeio.com^
 ||energyborazon.com^
 ||energyflexibilituk.org^
 ||energylabperu.com^
@@ -160980,7 +160863,6 @@ habr.com##.article-donation-block
 ||enjoy4dating.com^
 ||enjoy4dating.net^
 ||enjoyabiedate.com^
-||enjoyedacerbityfisher.com^
 ||enjoyepisode.com^
 ||enjoyingcane.com^
 ||enjoyingclienthousing.com^
@@ -160988,7 +160870,6 @@ habr.com##.article-donation-block
 ||enjoysetup.pro^
 ||enlabspartners.com^
 ||enlargefoldervaliant.com^
-||enlargementnegligentheadline.com^
 ||enlightened-drama.com^
 ||enlightened-hall.pro^
 ||enlightened-quit.com^
@@ -161002,7 +160883,6 @@ habr.com##.article-donation-block
 ||enmusubimail000.com^
 ||ennatcaraposin.com^
 ||ennedranorway.top^
-||ennhtjzkuhjjw.online^
 ||enoebfgxwevgee.com^
 ||enormous-god.pro^
 ||enormousadmiralphysician.com^
@@ -161011,13 +160891,10 @@ habr.com##.article-donation-block
 ||enot.fyi^
 ||enoughturtlecontrol.com^
 ||enpwguftxyrgv.online^
-||enqfwum.icu^
 ||enquirysavagely.com^
-||enragecustomsanthill.com^
 ||enraged-clock.pro^
 ||enraged-contest.pro^
 ||enrageperplexparable.com^
-||enraptureminims.com^
 ||enrgbroywf.xyz^
 ||enrtx.com^
 ||ensignpancreasrun.com^
@@ -161054,7 +160931,6 @@ habr.com##.article-donation-block
 ||entrustfacileproficient.com^
 ||entrustscratchedcriticize.com^
 ||entterto.com^
-||entwithoughtsu.com^
 ||enueduringhere.info^
 ||enum.pro^
 ||enuredmira.cyou^
@@ -161161,14 +161037,12 @@ habr.com##.article-donation-block
 ||equalitywouldbrew.com^
 ||equallyobviouslint.com^
 ||equalpreparation.pro^
-||equarm.click^
 ||equation-of-happiness.com^
 ||equatorial-cold.pro^
 ||equatorialboy.pro^
 ||equatorspitefulbilliards.com^
 ||equatorstayslang.com^
 ||equides.pro^
-||equipmentrailway.com^
 ||equipmentselfemployed.com^
 ||equirekeither.xyz^
 ||equiremukentsi.org^
@@ -161216,29 +161090,24 @@ habr.com##.article-donation-block
 ||eroidere.com^
 ||eromatchi.jp^
 ||erosionchaste.com^
-||eroticdate0625.click^
 ||erovation.com^
 ||erpupydeklzyp.space^
 ||erpzllhibhdzv.site^
-||errandavailcolour.com^
 ||erranddealing.com^
 ||errandsracket.com^
 ||erroneousobligedcooler.com^
 ||errorartisticmanslaughter.com^
 ||errorrespan.com^
 ||errorshell.com^
-||errorspenholder.com^
 ||errtherapystrictly.com^
 ||errumoso.xyz^
 ||ershniff.com^
 ||ersislaqands.com^
-||erstonordersity.org^
 ||erthaf.com^
 ||erthfeoveukrn.org^
 ||ertongwu.com^
 ||ertya.com^
 ||eruxjtbqruaep.site^
-||erxnqfhkkjkzz.site^
 ||eryqgqkrcgpiv.online^
 ||erysilenitmanb.com^
 ||esaidees.com^
@@ -161248,7 +161117,6 @@ habr.com##.article-donation-block
 ||escalatorclung.com^
 ||escapeaccusation.com^
 ||escapeenlist.com^
-||eschemicalco.org^
 ||eschewsairflow.shop^
 ||escollevineyard.com^
 ||escondidogolf.com^
@@ -161258,7 +161126,6 @@ habr.com##.article-donation-block
 ||esdjjfglcxl.com^
 ||esemrvueskrke.site^
 ||esesmyinteukre.org^
-||esfljmhdtpdvj.xyz^
 ||eshinoddlegs.com^
 ||eshkol.io^
 ||eshkol.one^
@@ -161267,7 +161134,6 @@ habr.com##.article-donation-block
 ||eskimi.com^
 ||esmudmsccavdcvn.com^
 ||esoujeebou.com^
-||espbrohujtbch.online^
 ||espionagedisqualify.com^
 ||espionagenutshellclad.com^
 ||espleestrick.com^
@@ -161310,10 +161176,8 @@ habr.com##.article-donation-block
 ||estoyparaservirte.com^
 ||estrangeoverrated.com^
 ||estuarystreams.net^
-||esusaryproced.com^
 ||esveabkwjvkcj.space^
 ||esvpnjdntgr.com^
-||eswfsinghtywb.website^
 ||et-code.ru^
 ||etarg.network^
 ||etavlufwkgqynwx.com^
@@ -161322,7 +161186,6 @@ habr.com##.article-donation-block
 ||eternityadditionbanish.com^
 ||eternityconstructionrang.com^
 ||eternityparity.com^
-||etgetoexukprese.org^
 ||ethaushihakiy.net^
 ||ethecityonata.com^
 ||ethecityonatallcolu.org^
@@ -161355,7 +161218,6 @@ habr.com##.article-donation-block
 ||etology.com^
 ||etonews.ru^
 ||etphoneme.com^
-||etrem.site^
 ||etrewon.com^
 ||etrna.jp^
 ||etrogshuzzah.cfd^
@@ -161370,7 +161232,6 @@ habr.com##.article-donation-block
 ||etymonsibycter.com^
 ||etymonstheine.shop^
 ||eubidderstats.com^
-||eubobpzucyagl.online^
 ||euboicarmpit.top^
 ||euddkrjfolwrr.com^
 ||eugheyvl.com^
@@ -161395,7 +161256,6 @@ habr.com##.article-donation-block
 ||euros4click.de^
 ||eussownwpyxdw.online^
 ||eustatsunative.com^
-||eutecnimzptot.space^
 ||euvucipykb.com^
 ||euwdsqkrxwhwu.online^
 ||euyiouggtacm.com^
@@ -161408,7 +161268,6 @@ habr.com##.article-donation-block
 ||evanetwork.com^
 ||evbfvbny.com^
 ||evcnmtw.top^
-||evcustom-ad.xyz^
 ||evdqwqmidjmlyvy.xyz^
 ||evelynkong.com^
 ||even-memory.pro^
@@ -161420,11 +161279,8 @@ habr.com##.article-donation-block
 ||eventfulpitcher.com^
 ||eventsbritaingrocery.com^
 ||eventsbysarakyleen.com^
-||eventsimmersedrepress.com^
 ||eventsquiteclick.com^
-||eventuryremov.com^
 ||eventweepinghoarse.com^
-||evenyumbroadlywitharmoire.com^
 ||ever8trk.com^
 ||evergreen-kitchen.pro^
 ||evergreen-room.com^
@@ -161460,7 +161316,6 @@ habr.com##.article-donation-block
 ||evidencestunundermine.com^
 ||evilexchanged.com^
 ||evilforumsuck.com^
-||evilinsanitydoing.com^
 ||evilstrike.pro^
 ||evippusc.com^
 ||evivuwhoa.com^
@@ -161478,7 +161333,6 @@ habr.com##.article-donation-block
 ||evxxkaaecmwgz.online^
 ||evylputjibynd.website^
 ||evyzocotbfw.com^
-||evzhzppj5kel.com^
 ||ewasverymuchad.info^
 ||ewaugloojy.com^
 ||ewcnmtw.top^
@@ -161509,7 +161363,6 @@ habr.com##.article-donation-block
 ||examinerashtrayquizmaster.com^
 ||examinerreachpigeons.com^
 ||exampledomain.live^
-||examplehibernatescientific.com^
 ||examplesclasp.com^
 ||examsartisticframes.com^
 ||examshormonesettle.com^
@@ -161529,7 +161382,6 @@ habr.com##.article-donation-block
 ||excellent-crazy.com^
 ||excellentpartialarm.com^
 ||excellingvista.com^
-||excellojapanel.org^
 ||excelsepeti.com^
 ||exceptingpealstipulate.com^
 ||exceptional-ingress.life^
@@ -161541,7 +161393,6 @@ habr.com##.article-donation-block
 ||excgpdlgxuwvb.com^
 ||exchangedhuskbunny.com^
 ||excitable-anxiety.pro^
-||excitableknee.com^
 ||excitablepass.com^
 ||excitead.com^
 ||excitedassist.pro^
@@ -161578,7 +161429,6 @@ habr.com##.article-donation-block
 ||exhaustedmusic.pro^
 ||exhaustedprobation.com^
 ||exhaustingseestand.com^
-||exhaustremarks.com^
 ||exhibitedthawolympics.com^
 ||exhibitioncontinuedmate.com^
 ||exhibitiondelight.com^
@@ -161646,7 +161496,6 @@ habr.com##.article-donation-block
 ||explainederupt.com^
 ||explainplaysettwisting.com^
 ||explanationstaggered.com^
-||explapasitignes.com^
 ||expleboted.com^
 ||explodclikmn.com^
 ||explodebritish.com^
@@ -161686,7 +161535,6 @@ habr.com##.article-donation-block
 ||extaevernia.com^
 ||extend.tv^
 ||extendconceivedinattentive.com^
-||extendedboredom.com^
 ||extendingreversionmotorcycle.com^
 ||extension-ad-stopper.com^
 ||extensionfrenchunaccustomed.com^
@@ -161719,13 +161567,11 @@ habr.com##.article-donation-block
 ||extremitycoexistnutmeg.com^
 ||extroverted-shine.com^
 ||extroverteddish.pro^
-||extrovertedproduct.pro^
 ||extrovertedrub.pro^
 ||extsoft.info^
 ||extyoneplus-3.com^
 ||exuberantedge.com^
 ||exucn.com^
-||exweuxkvvckho.website^
 ||exxtended-access.com^
 ||ey43.com^
 ||eyaganyfyivhw.online^
@@ -161741,7 +161587,6 @@ habr.com##.article-donation-block
 ||eyebrowscrambledlater.com^
 ||eyebrowsneardual.com^
 ||eyecarespecialtiesofmaryland.com^
-||eyecoke.com^
 ||eyecons.xyz^
 ||eyelessmamelon.com^
 ||eyeofporn.com^
@@ -161805,7 +161650,6 @@ habr.com##.article-donation-block
 ||f351966262.com^
 ||f3jxoio03eoe.top^
 ||f4cd8a8bf0.com^
-||f587cad87f.com^
 ||f5ds1jkkk4d.info^
 ||f65e53278b.com^
 ||f7170e601a.com^
@@ -161832,7 +161676,6 @@ habr.com##.article-donation-block
 ||facilitatebreakfast.com^
 ||facilitatecaptured.com^
 ||facilityappreciate.com^
-||facingdivedplunder.com^
 ||facinghuldee.com^
 ||facingostensible.com^
 ||facisespess.com^
@@ -161843,7 +161686,6 @@ habr.com##.article-donation-block
 ||facultativecheating.com^
 ||facultativethus.com^
 ||facultycoffeehouseharp.com^
-||facultydriedgrope.com^
 ||facultymoney.com^
 ||facxupsw.com^
 ||fadedsnow.com^
@@ -161869,8 +161711,6 @@ habr.com##.article-donation-block
 ||faicheegee.com^
 ||faiirylove.net^
 ||faiiryloves.com^
-||faiiryluv.com^
-||faiirynkiss.com^
 ||faikudoka.net^
 ||failaan.com^
 ||failedapartment.com^
@@ -161891,12 +161731,9 @@ habr.com##.article-donation-block
 ||fair-contest.pro^
 ||fairfunction.pro^
 ||fairhole.com^
-||fairlove.net^
 ||fairlyleadingenquiry.com^
 ||fairlyplead.com^
-||fairlyscarydefense.com^
 ||fairrylove.com^
-||fairyhearted.com^
 ||fairytaletablets.com^
 ||faithdikeeach.com^
 ||faithful-fact.pro^
@@ -161920,7 +161757,6 @@ habr.com##.article-donation-block
 ||fallclk.com^
 ||fallengalaxydestroyed.com^
 ||fallin-thedatingfever.com^
-||fallingbypass.com^
 ||fallinmatches-paradises.com^
 ||fallofpassion.com^
 ||fallstring.website^
@@ -161966,7 +161802,6 @@ habr.com##.article-donation-block
 ||fanta-stic.net^
 ||fantabro.com^
 ||fantasia-menard.com^
-||fantasiavashi.com^
 ||fantasies-girls.com^
 ||fantasticfishapp.com^
 ||fantasyhustledarkness.com^
@@ -162993,6 +162828,7 @@ habr.com##.article-donation-block
 ||folacinamylome.help^
 ||folbwkw.com^
 ||foldyahoolestorderly.com^
+||foliagecelebrityoctavian.com^
 ||foliosenumbing.com^
 ||folkgrid.com^
 ||follisspooler.com^
@@ -169699,6 +169535,7 @@ habr.com##.article-donation-block
 ||kagonst.com^
 ||kahjmiaz.com^
 ||kai-safari.net^
+||kai-search.com^
 ||kaidoplayers.xyz^
 ||kaiers.org^
 ||kaigaidoujin.com^
