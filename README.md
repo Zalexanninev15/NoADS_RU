@@ -13,12 +13,7 @@
 [![](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![](https://img.shields.io/badge/Donate-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://z15.neocities.org/donate)
 
-## Текущие задачи
-
-- [ ] Задача #87
-- [ ] Автоматическая генерация списков фильтров и хостов без участия автора раз в неделю с ручной проверкой.
-
-### Задачи с низким приоритетом
+## Задачи
 - [ ] Новый логотип для NoADS_RU, [присылайте мне свои варианты](https://z15.neocities.org/contacts).
 - [ ] Хотелось бы попасть на сайт [filterlists.com](https://filterlists.com). Буду рад, если [подсобите](https://github.com/collinbarrett/FilterLists) 🙏
 - [ ] Адаптация списков фильтров NoADS_RU и NoADS_RU Extended под современные реалии и упразднение отдельного списка NoADS_RU RWS. Происходит постепенно.
@@ -33,7 +28,12 @@
 > [!NOTE]
 > Также проектом **NoADS_RU** развивается список для гарантированной работы RU-сервисов (**NoADS_RU RWS**), расширенные списки фильтров (**NoADS_RU Extended** и **NoADS_RU Extended Plus**), Add-on списки фильтров, списки хостов (**NoADS_RU Hosts**), блокировка рекламы на Android (**NoADS_RU Android Project**) и информация по безопасному чтению Telegram каналов (**NoADS_RU TGCL**).
 
-Имеется небольшой [генератор](https://z15.neocities.org/apps/noads_ru) для удобства и возможности быстро сориентироваться.
+
+> [!TIP]
+> Имеется небольшой [генератор](https://z15.neocities.org/apps/noads_ru) для удобства и возможности быстро сориентироваться.
+
+> [!TIP]
+> Начиная с 7 августа, в тестовом формате, настроено автоматическое обновление списков фильтров и хостов каждую среду в 15:00!
 
 <details>
     <summary>
