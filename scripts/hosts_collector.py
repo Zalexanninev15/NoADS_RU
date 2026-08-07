@@ -110,7 +110,8 @@ def process_hosts_from_list(file_list, exceptions=None, proxies=None):
         if file_source.startswith(("http://", "https://")):
             try:
                 headers = {
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0"
+                    # "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0"
+                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
                 }
                 if is_domain_only:
                     file_source = file_source[:-1]

@@ -94,7 +94,8 @@ def fetch_and_clean_filters(input_file, output_file, exceptions, proxies):
         if url.startswith(("http://", "https://")):
             try:
                 headers = {
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                    # "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
                 }
                 resp = requests.get(url, headers=headers, proxies=proxies, timeout=60)
                 resp.raise_for_status()
