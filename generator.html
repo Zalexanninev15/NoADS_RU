@@ -19,11 +19,11 @@
 
         /* ── THEMES ── */
         :root {
-            --bg: #0d0f14;
+            --bg: #0f141a;
             --surf: #13161e;
             --surf2: #1a1e28;
             --border: #232736;
-            --accent: #f04f23;
+            --accent: #2684cf;
             --text: #d8dbe5;
             --sub: #9aa0b8;
             --muted: #525870;
@@ -37,11 +37,11 @@
 
         @media (prefers-color-scheme: light) {
             html[data-theme="auto"] {
-                --bg: #f4f3ef;
+                --bg: #f9f9f9;
                 --surf: #ffffff;
                 --surf2: #f0eeea;
                 --border: #dddbd6;
-                --accent: #e04010;
+                --accent: #4ea0f1;
                 --text: #1a1c24;
                 --sub: #4a4f66;
                 --muted: #888da8;
@@ -53,11 +53,11 @@
         }
 
         html[data-theme="light"] {
-            --bg: #f4f3ef;
+            --bg: #f9f9f9;
             --surf: #ffffff;
             --surf2: #f0eeea;
             --border: #dddbd6;
-            --accent: #e04010;
+            --accent: #4ea0f1;
             --text: #1a1c24;
             --sub: #4a4f66;
             --muted: #888da8;
@@ -68,11 +68,11 @@
         }
 
         html[data-theme="dark"] {
-            --bg: #0d0f14;
+            --bg: #0f141a;
             --surf: #13161e;
             --surf2: #1a1e28;
             --border: #232736;
-            --accent: #f04f23;
+            --accent: #2684cf;
             --text: #d8dbe5;
             --sub: #9aa0b8;
             --muted: #525870;
@@ -1442,7 +1442,7 @@
                                         <span class="cnt" id="cnt-bypass2">…</span>
                                     </div>
                                     <div class="opt-desc">
-                                        Альтернативный обход, редко обновляется.
+                                        Альтернативный обход.
                                     </div>
                                 </div>
                             </div>
@@ -2046,64 +2046,64 @@
                 }
             });
 
-            document.querySelectorAll('[data-count-type^="filter"]').forEach(function (el) {
-                const val = el.dataset.val;
-                if (!val || !FL[val]) return;
-                const item = FL[val];
-                const abpUrl = 'abp:subscribe?location=' + encodeURIComponent(item.url) + '&title=' + encodeURIComponent(item.name);
+            // document.querySelectorAll('[data-count-type^="filter"]').forEach(function (el) {
+            //     const val = el.dataset.val;
+            //     if (!val || !FL[val]) return;
+            //     const item = FL[val];
+            //     const abpUrl = 'abp:subscribe?location=' + encodeURIComponent(item.url) + '&title=' + encodeURIComponent(item.name);
 
-                const wrap = document.createElement('div');
-                wrap.className = 'sub-wrap';
+            //     const wrap = document.createElement('div');
+            //     wrap.className = 'sub-wrap';
 
-                const btn = document.createElement('a');
-                btn.className = 'opt-sub';
-                btn.href = abpUrl;
-                btn.innerHTML = BOLT + ' Подключить';
+            //     const btn = document.createElement('a');
+            //     btn.className = 'opt-sub';
+            //     btn.href = abpUrl;
+            //     btn.innerHTML = BOLT + ' Подключить';
 
-                if (isApproved) {
-                    // On approved domain → direct abp: link, works natively
-                    btn.target = '_self';
-                    btn.rel = 'noopener';
-                    btn.addEventListener('click', function (e) { e.stopPropagation(); });
-                } else {
-                    // Not approved → show tooltip with copy fallback
-                    btn.removeAttribute('href');
-                    btn.style.cursor = 'pointer';
-                    btn.addEventListener('click', function (e) {
-                        e.preventDefault(); e.stopPropagation();
-                        const tip = wrap.querySelector('.sub-tip');
-                        const wasOpen = tip.classList.contains('open');
-                        document.querySelectorAll('.sub-tip.open').forEach(t => t.classList.remove('open'));
-                        if (!wasOpen) tip.classList.add('open');
-                    });
+            //     if (isApproved) {
+            //         // On approved domain → direct abp: link, works natively
+            //         btn.target = '_self';
+            //         btn.rel = 'noopener';
+            //         btn.addEventListener('click', function (e) { e.stopPropagation(); });
+            //     } else {
+            //         // Not approved → show tooltip with copy fallback
+            //         btn.removeAttribute('href');
+            //         btn.style.cursor = 'pointer';
+            //         btn.addEventListener('click', function (e) {
+            //             e.preventDefault(); e.stopPropagation();
+            //             const tip = wrap.querySelector('.sub-tip');
+            //             const wasOpen = tip.classList.contains('open');
+            //             document.querySelectorAll('.sub-tip.open').forEach(t => t.classList.remove('open'));
+            //             if (!wasOpen) tip.classList.add('open');
+            //         });
 
-                    const tip = document.createElement('div');
-                    tip.className = 'sub-tip';
-                    tip.innerHTML =
-                        '<p>Кнопка работает только при открытии с <strong>github.com</strong> или <strong>github.io</strong>. Если вы видите данное сообщение — вручную скопируйте ссылку и вставьте в uBlock Origin → Списки фильтров → Импорт...</p>';
+            //         const tip = document.createElement('div');
+            //         tip.className = 'sub-tip';
+            //         tip.innerHTML =
+            //             '<p>Кнопка работает только при открытии с <strong>github.com</strong> или <strong>github.io</strong>. Если вы видите данное сообщение — вручную скопируйте ссылку и вставьте в uBlock Origin → Списки фильтров → Импорт...</p>';
 
-                    const copyRow = document.createElement('button');
-                    copyRow.className = 'sub-copy';
-                    copyRow.title = 'Скопировать ссылку';
-                    copyRow.innerHTML = CPICO + '<span class="sub-url">' + item.url + '</span>';
-                    copyRow.addEventListener('click', function (e) {
-                        e.stopPropagation();
-                        navigator.clipboard.writeText(item.url).then(() => {
-                            copyRow.innerHTML = CHICO + '<span class="sub-url">Скопировано!</span>';
-                            setTimeout(() => {
-                                copyRow.innerHTML = CPICO + '<span class="sub-url">' + item.url + '</span>';
-                            }, 2000);
-                        });
-                    });
+            //         const copyRow = document.createElement('button');
+            //         copyRow.className = 'sub-copy';
+            //         copyRow.title = 'Скопировать ссылку';
+            //         copyRow.innerHTML = CPICO + '<span class="sub-url">' + item.url + '</span>';
+            //         copyRow.addEventListener('click', function (e) {
+            //             e.stopPropagation();
+            //             navigator.clipboard.writeText(item.url).then(() => {
+            //                 copyRow.innerHTML = CHICO + '<span class="sub-url">Скопировано!</span>';
+            //                 setTimeout(() => {
+            //                     copyRow.innerHTML = CPICO + '<span class="sub-url">' + item.url + '</span>';
+            //                 }, 2000);
+            //             });
+            //         });
 
-                    tip.appendChild(copyRow);
-                    wrap.appendChild(tip);
-                }
+            //         tip.appendChild(copyRow);
+            //         wrap.appendChild(tip);
+            //     }
 
-                wrap.insertBefore(btn, wrap.firstChild);
-                const desc = el.querySelector('.opt-desc');
-                if (desc) desc.after(wrap);
-            });
+            //     wrap.insertBefore(btn, wrap.firstChild);
+            //     const desc = el.querySelector('.opt-desc');
+            //     if (desc) desc.after(wrap);
+            // });
         })();
     </script>
 </body>

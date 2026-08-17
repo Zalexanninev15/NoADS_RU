@@ -181,10 +181,15 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt
 > [!TIP]
 > [Использование Blocker и BlockerFL на устройствах с OpenWRT](https://github.com/Zalexanninev15/NoADS_RU/discussions/22).
 
-Типы host-файлов: 
+Типы hosts-файлов: 
 - Блокировщик ([Blocker](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt))
 - Расширенный блокировщик ([BlockerFL](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt))
 - Анлокер сайтов ([Bypass](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt)) или [Bypass2](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass2.txt) (альтернативный).
+
+🐧 Интересный трюк с объединением нескольких hosts-файлов в единый `/etc/hosts` с сохранением оригинальных записей в нём на Linux:
+```bash
+sudo cp /etc/hosts /etc/hosts.bak && (curl -sk "https://codeberg.org/Zalexanninev15/NoADS_RU/raw/branch/main/hosts/blockerFL.txt" "https://codeberg.org/Zalexanninev15/NoADS_RU/raw/branch/main/hosts/bypass2.txt" | grep -v '#' | grep -vwE '^\s*$' | sudo tee -a /etc/hosts > /dev/null)
+```
 
 #### 📱 NoADS_RU Android Project
 
