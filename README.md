@@ -92,7 +92,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt
 > [!TIP]
 > Начиная с 2026 года рекомендуется использовать для подключения **NoADS_RU Extended**: `https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt`
 
-👉️ [Подробные инструкции по подключению](https://codeberg.org/Zalexanninev15/NoADS_RU#инструкция-по-настройке-некоторых-расширений-и-браузеров-для-работы-со-списком)
+👉️ [Подробные инструкции по подключению](https://codeberg.org/Zalexanninev15/NoADS_RU#%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B5-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B8-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81%D0%BE-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BC)
 
 > [!TIP]
 > [Обратная связь](https://codeberg.org/Zalexanninev15/NoADS_RU#%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C)
@@ -313,7 +313,7 @@ sudo cp /etc/hosts /etc/hosts.bak && (curl -sk "https://codeberg.org/Zalexannine
 - 👍 Доступны для активации списки **NoADS_RU Extended**, **NoADS_RU Extended Plus** и **NoADS_RU RWS**!
 - 👍 Доступны для активации списки из раздела **Add-on**!
 
-![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/All_in_uBlock_Origin.png?raw=true)
+![image](./assets/All_in_uBlock_Origin.png?raw=true)
 
 Просто скачай, импортируй и пользуйся! Никакой мороки с настройками расширения, без СМС и регистрации.
 
@@ -343,7 +343,7 @@ sudo cp /etc/hosts /etc/hosts.bak && (curl -sk "https://codeberg.org/Zalexannine
 > [!WARNING]
 > Ссылка работает только при [открытии с репозитория конкретно на GitHub](https://github.com/Zalexanninev15/NoADS_RU?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0). [Подробнее](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#adding-via-approved-external-websites).
 
-![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/Subscribe-in-uBlock-Origin.png?raw=true)
+![image](./assets/Subscribe-in-uBlock-Origin.png)
 
 <details>
     <summary>
@@ -355,7 +355,7 @@ sudo cp /etc/hosts /etc/hosts.bak && (curl -sk "https://codeberg.org/Zalexannine
 1. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 2. Следуйте данной гифке
 
-![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-subscribe-in-uBlock-Origin.gif)
+![](./assets/How-to-subscribe-in-uBlock-Origin.gif)
 
 🔗 Ссылка, которую нужно вставить: 
 ```
@@ -372,7 +372,7 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt
 3. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
 4. Следуйте данной гифке, после импорта файл можно удалить
 
-![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-from-file-in-uBlock-Origin.gif)
+![](./assets/How-to-from-file-in-uBlock-Origin.gif)
 
 </details>
 
@@ -410,7 +410,7 @@ vivaldi://settings/privacy/
 ``` 
 2. Следуйте стрелкам, показанным на скриншоте
 
-![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/Subscribe-in-Vivaldi.png?raw=true)
+![image](./assets/Subscribe-in-Vivaldi.png?raw=true)
 
 3. В текстовое поле всплывающего окна вставьте ссылку
 ```
