@@ -1,5 +1,5 @@
-# Total hosts: 1229
-# Last modified: 12 августа 2026 года
+# Total hosts: 1231
+# Last modified: 19 августа 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
@@ -316,6 +316,7 @@
 37.230.192.51 developers.openai.com
 37.230.192.51 dict-audio.deepl.com
 37.230.192.51 dict.deepl.com
+162.159.135.232 discord.com
 37.230.192.51 discovery.deezer.com
 37.230.192.51 discuss.openai.com
 37.230.192.51 dl.teamviewer.com
@@ -1064,6 +1065,7 @@
 37.230.192.51 ui.fmhy.net
 37.230.192.51 universe.openai.com
 37.230.192.51 unleash.codeium.com
+162.159.135.232 updates.discord.com
 37.230.192.51 uploads.jetbrains.com
 37.230.192.51 uploads.linear.app
 37.230.192.51 uploads.services.jetbrains.com
