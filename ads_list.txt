@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 26 августа 2026 года
-! Total: 19761
+! Last modified: 27 августа 2026 года
+! Total: 19764
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -23413,3 +23413,8 @@ www.reddit.com###data-protection-consent-dialog
 www.nintendolife.com##div.for-mobile.centered.insert-label
 www.nintendolife.com##.for-mobile.lazyload.with-label.for-mixed.insert
 www.nintendolife.com##.lazyload.insert-extended.for-mobile.below-article.soft-bg.insert
+
+! AliExpress AWSC fingerprinting scripts (extended)
+||assets.aliexpress-media.com/g/AWSC/*/collina.js$script,domain=aliexpress.com|aliexpress.us
+||assets.aliexpress-media.com/g/AWSC/*/fireyejs.js$script,domain=aliexpress.com|aliexpress.us
+||assets.aliexpress-media.com/g/awsc/webumid/
