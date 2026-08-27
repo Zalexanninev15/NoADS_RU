@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
 ! Last modified: 27 августа 2026 года
-! Total: 19709
+! Total: 19707
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -347,19 +347,6 @@ otvet.mail.ru##a.item.h4:nth-of-type(3)
 otvet.mail.ru##.category-leaders
 otvet.mail.ru##.question-leaders > .list
 otvet.mail.ru##.x-ph__projects__links-left-panel > .x-ph__projects__link.js-link
-
-! 13.02.2020 https://sosedopedia.fandom.com
-sosedopedia.fandom.com##.notify.wds-message.wds-banner-notification
-sosedopedia.fandom.com##.wds-is-fandom-apps.wds-global-footer__section
-sosedopedia.fandom.com##div.wds-global-footer__column:nth-of-type(4)
-sosedopedia.fandom.com##.wds-is-advertise.wds-global-footer__section
-sosedopedia.fandom.com##.wds-is-follow-us.wds-global-footer__section > .wds-global-footer__links-list > li.wds-global-footer__links-list-item:nth-of-type(1)
-sosedopedia.fandom.com###wds-icons-twitter > use
-sosedopedia.fandom.com###wds-icons-twitter
-sosedopedia.fandom.com##.wds-is-follow-us.wds-global-footer__section > .wds-global-footer__links-list > li.wds-global-footer__links-list-item:nth-of-type(2) > .wds-global-footer__link
-
-! 13.02.2020 https://dc.fandom.com
-dc.fandom.com##div.wds-global-footer__column:nth-of-type(4)
 
 ! 13.02.2020 https://habr.com
 habr.com##.social-icons__item-link_twitter.social-icons__item-link_normal.social-icons__item-link
@@ -4030,13 +4017,6 @@ duckduckgo.com##.results--powered
 duckduckgo.com##.js-badge-link.badge-link--full.badge-link
 duckduckgo.com##.content-info__title
 
-! 2020-10-31 https://community.fandom.com
-community.fandom.com##.warn.wds-warning.wds-banner-notification
-
-! 2020-11-01 https://varlamov.ru
-varlamov.ru##.j-w--s2-varlamov-after-first-widget.enwp50l1.j--w.j-w
-varlamov.ru##.es776lfzisg3e4k.j-beta-w.j-w
-
 ! 2020-11-02 https://www.techpowerup.com
 www.techpowerup.com##.clearfix.site-header
 
@@ -4239,11 +4219,6 @@ vscode.ru##.FixedWidget__fixed_widget.widget_custom_html.widget.widget_text
 vc.ru##.sidebar__footer__icon--android.sidebar__footer__icon
 vc.ru##.sidebar__footer__icons
 vc.ru##.sidebar__footer__item--sponsor.sidebar__footer__item > span
-
-! 2021-01-13 https://transformers.fandom.com
-transformers.fandom.com##.wds-is-ddb-stores.wds-global-footer__section
-transformers.fandom.com##.wds-is-advertise.wds-global-footer__section
-transformers.fandom.com##div.wds-global-footer__column:nth-of-type(4)
 
 ! 2021-01-13 https://travel.ozon.ru
 travel.ozon.ru##.MobileAdSection_mobilePart__3ctgt
@@ -6681,9 +6656,6 @@ emojiguide.com##div.adsense-5.adsense:nth-of-type(2)
 
 ! 2022-01-17 https://sqa.stackexchange.com
 sqa.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-
-! 2022-01-17 https://minininja.fandom.com
-minininja.fandom.com##.wikia-bar-anon.wikia-bar
 
 ! 2022-01-20 https://itvdn.com
 itvdn.com##.cookies-message__body
@@ -23338,3 +23310,19 @@ www.nintendolife.com##.lazyload.insert-extended.for-mobile.below-article.soft-bg
 ||assets.aliexpress-media.com/g/AWSC/*/collina.js$script,domain=aliexpress.com|aliexpress.us
 ||assets.aliexpress-media.com/g/AWSC/*/fireyejs.js$script,domain=aliexpress.com|aliexpress.us
 ||assets.aliexpress-media.com/g/awsc/webumid/
+
+! Fandom Wiki
+fandom.com##.notify.wds-message.wds-banner-notification
+fandom.com##.wds-is-fandom-apps.wds-global-footer__section
+fandom.com##div.wds-global-footer__column:nth-of-type(4)
+fandom.com##.wds-is-advertise.wds-global-footer__section
+fandom.com##.wds-is-follow-us.wds-global-footer__section > .wds-global-footer__links-list > li.wds-global-footer__links-list-item:nth-of-type(1)
+fandom.com###wds-icons-twitter > use
+fandom.com###wds-icons-twitter
+fandom.com##.wds-is-follow-us.wds-global-footer__section > .wds-global-footer__links-list > li.wds-global-footer__links-list-item:nth-of-type(2) > .wds-global-footer__link
+fandom.com##div.wds-global-footer__column:nth-of-type(4)
+fandom.com##.warn.wds-warning.wds-banner-notification
+fandom.com##.wikia-bar-anon.wikia-bar
+fandom.com##.wds-is-ddb-stores.wds-global-footer__section
+fandom.com##.wds-is-advertise.wds-global-footer__section
+fandom.com##div.wds-global-footer__column:nth-of-type(4)
