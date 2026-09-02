@@ -1,10 +1,10 @@
-# Total hosts: 1231
-# Last modified: 27 августа 2026 года
+# Total hosts: 1243
+# Last modified: 2 сентября 2026 года
 37.230.192.51 a-api.anthropic.com
 37.230.192.51 a-cdn.anthropic.com
 37.230.192.51 a-lemmy.fmhy.net
 3.164.206.34 a-v2.sndcdn.com
-45.155.204.190 a.claude.ai
+193.233.112.68 a.claude.ai
 37.230.192.51 a1961.g2.akamai.net
 37.230.192.51 a1968.i6g1.akamai.net
 37.230.192.51 aaa.deezer.com
@@ -60,7 +60,7 @@
 37.230.192.51 api.elevenlabs.io
 37.230.192.51 api.fitbit.com
 37.230.192.51 api.fmhy.net
-103.27.157.38 api.github.com
+103.137.248.179 api.github.com
 37.230.192.51 api.imgur.com
 103.27.157.38 api.individual.githubcopilot.com
 57.144.244.192 api.instagram.com
@@ -117,7 +117,16 @@
 37.230.192.51 autodiscover.naukri.com
 37.230.192.51 autodiscover.rms.naukri.com
 37.230.192.51 avasin.naukri.com
-185.199.108.133 avatars.githubusercontent.com
+146.75.22.132 avatars.githubusercontent.com
+146.75.22.132 avatars0.githubusercontent.com
+146.75.22.132 avatars1.githubusercontent.com
+146.75.22.132 avatars2.githubusercontent.com
+146.75.22.132 avatars3.githubusercontent.com
+146.75.22.132 avatars4.githubusercontent.com
+146.75.22.132 avatars5.githubusercontent.com
+146.75.22.132 avatars6.githubusercontent.com
+146.75.22.132 avatars7.githubusercontent.com
+146.75.22.132 avatars8.githubusercontent.com
 37.230.192.51 awsproxy.pkg-cdn.jetbrains.space
 37.230.192.51 azwindows.ipv6.microsoft.com.akadns.net
 157.240.0.174 b.i.instagram.com
@@ -149,6 +158,7 @@
 37.230.192.51 cai.jetbrains.com
 37.230.192.51 calendar.notion.com
 37.230.192.51 calendar.notion.so
+146.75.22.132 camo.githubusercontent.com
 37.230.192.51 canva.com
 37.230.192.51 canvaz.scdn.co
 37.230.192.51 careernavigator.naukri.com
@@ -232,6 +242,7 @@
 172.67.190.231 clients4.google.com
 172.67.190.231 clients5.google.com
 172.67.190.231 clients6.google.com
+146.75.22.132 cloud.githubusercontent.com
 37.230.192.51 cloudconfig.jetbrains.com
 37.230.192.51 cloudfront.pkg-cdn.jetbrains.space
 37.230.192.51 cm.naukri.com
@@ -334,7 +345,7 @@
 37.230.192.51 drp-auth.deezer.com
 37.230.192.51 dunnhumby.fls.jetbrains.com
 37.230.192.51 dynmap.fmhy.net
-45.155.204.190 dyson.com
+193.233.112.68 dyson.com
 103.27.157.38 dzcdn.net
 37.230.192.51 e-learning.naukri.com
 37.230.192.51 e13678.dscb.akamaiedge.net
@@ -605,7 +616,7 @@
 37.230.192.51 geolocation.onetrust.com
 37.230.192.51 gew1-dealer.spotify.com
 37.230.192.51 gew1-spclient.spotify.com
-185.199.108.133 gist.githubusercontent.com
+146.75.22.132 gist.githubusercontent.com
 37.230.192.51 gov-demo.chatgpt.com
 37.230.192.51 gpt3-openai.com
 37.230.192.51 gql.twitch.tv
@@ -744,6 +755,7 @@
 37.230.192.51 maven.jetbrains.space
 37.230.192.51 maven.pkg.jetbrains.space
 37.230.192.51 media.deezer.com
+146.75.22.132 media.githubusercontent.com
 37.230.192.51 media.naukri.com
 37.230.192.51 mediacdn.naukri.com
 37.230.192.51 merchandise.jetbrains.com
@@ -812,7 +824,7 @@
 149.154.167.220 oauth.telegram.org
 149.154.167.220 oauth.tg.dev
 37.230.192.51 oauth2-proxy-api.api.jetbrains.com
-185.199.109.133 objects.githubusercontent.com
+146.75.22.132 objects.githubusercontent.com
 37.230.192.51 ogimg.chatgpt.com
 37.230.192.51 old-lemmy.fmhy.net
 37.230.192.51 old.fmhy.net
@@ -870,7 +882,7 @@
 37.230.192.51 preview.deezer.com
 37.230.192.51 preview.reve.art
 37.230.192.51 privacy-pass-issuer.api.chatgpt.com
-185.199.108.133 private-user-images.githubusercontent.com
+146.75.22.132 private-user-images.githubusercontent.com
 37.230.192.51 proactivebackend-pa.googleapis.com
 37.230.192.51 productupdates.naukri.com
 37.230.192.51 profile.broadcom.com
@@ -883,7 +895,7 @@
 37.230.192.51 pump.fun
 37.230.192.51 queue.deezer.com
 37.230.192.51 qwant.com
-185.199.109.133 raw.githubusercontent.com
+146.75.22.132 raw.githubusercontent.com
 37.230.192.51 rdxfootmark.naukri.com
 37.230.192.51 realtime.chatgpt.com
 37.230.192.51 recruit.naukri.com
@@ -896,7 +908,7 @@
 37.230.192.51 referral.naukri.com
 37.230.192.51 registry.eu-1.jetbrains.space
 37.230.192.51 registry.jetbrains.space
-185.199.109.133 release-assets.githubusercontent.com
+146.75.22.132 release-assets.githubusercontent.com
 37.230.192.51 renew-your-ssl-certificate.jetbrains.com
 37.230.192.51 resbilling.naukri.com
 37.230.192.51 resdex.base.naukri.com
@@ -1087,7 +1099,7 @@
 37.230.192.51 videos.openai.com
 37.230.192.51 view.datalore.jetbrains.com
 37.230.192.51 vmscanus.naukri.com
-37.230.192.51 voice-proxy.www.deepl.com
+193.233.112.68 voice-proxy.www.deepl.com
 37.230.192.51 w-x.co
 37.230.192.51 w.deepl.com
 37.230.192.51 w.naukri.com
