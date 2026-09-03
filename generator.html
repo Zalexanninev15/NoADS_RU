@@ -24,6 +24,7 @@
             --surf2: #1a1e28;
             --border: #232736;
             --accent: #2684cf;
+            --accent-rgb: 38, 132, 207;
             --text: #d8dbe5;
             --sub: #9aa0b8;
             --muted: #525870;
@@ -42,6 +43,7 @@
                 --surf2: #f0eeea;
                 --border: #dddbd6;
                 --accent: #4ea0f1;
+                --accent-rgb: 78, 160, 241;
                 --text: #1a1c24;
                 --sub: #4a4f66;
                 --muted: #888da8;
@@ -58,6 +60,7 @@
             --surf2: #f0eeea;
             --border: #dddbd6;
             --accent: #4ea0f1;
+            --accent-rgb: 78, 160, 241;
             --text: #1a1c24;
             --sub: #4a4f66;
             --muted: #888da8;
@@ -73,6 +76,7 @@
             --surf2: #1a1e28;
             --border: #232736;
             --accent: #2684cf;
+            --accent-rgb: 38, 132, 207;
             --text: #d8dbe5;
             --sub: #9aa0b8;
             --muted: #525870;
@@ -354,30 +358,12 @@
 
         .opt.sel {
             border-color: var(--accent);
-            background: rgba(240, 79, 35, 0.06);
+            background: rgba(var(--accent-rgb), 0.07);
         }
 
         .opt.on {
-            border-color: rgba(240, 79, 35, 0.45);
-            background: rgba(240, 79, 35, 0.04);
-        }
-
-        html[data-theme="light"] .opt.sel {
-            background: rgba(224, 64, 16, 0.07);
-        }
-
-        html[data-theme="light"] .opt.on {
-            background: rgba(224, 64, 16, 0.05);
-        }
-
-        @media (prefers-color-scheme: light) {
-            html[data-theme="auto"] .opt.sel {
-                background: rgba(224, 64, 16, 0.07);
-            }
-
-            html[data-theme="auto"] .opt.on {
-                background: rgba(224, 64, 16, 0.05);
-            }
+            border-color: rgba(var(--accent-rgb), 0.45);
+            background: rgba(var(--accent-rgb), 0.05);
         }
 
         .radio {
@@ -512,13 +498,13 @@
         }
 
         .t-x {
-            background: rgba(240, 79, 35, 0.14);
-            color: #ff7a52;
+            background: rgba(var(--accent-rgb), 0.14);
+            color: var(--accent);
         }
 
         .t-xx {
-            background: rgba(240, 79, 35, 0.22);
-            color: #ff5030;
+            background: rgba(var(--accent-rgb), 0.22);
+            color: var(--accent);
         }
 
         .t-a {
@@ -532,8 +518,8 @@
         }
 
         .t-full {
-            background: rgba(240, 79, 35, 0.14);
-            color: #ff7a52;
+            background: rgba(var(--accent-rgb), 0.14);
+            color: var(--accent);
         }
 
         .t-bl {
@@ -564,13 +550,13 @@
             justify-content: center;
             gap: 7px;
             transition: 0.15s;
-            box-shadow: 0 3px 16px rgba(240, 79, 35, 0.2);
+            box-shadow: 0 3px 16px rgba(var(--accent-rgb), 0.2);
         }
 
         .btn-gen:hover {
-            background: #cf3a0e;
+            background: color-mix(in srgb, var(--accent) 80%, black);
             transform: translateY(-1px);
-            box-shadow: 0 5px 22px rgba(240, 79, 35, 0.35);
+            box-shadow: 0 5px 22px rgba(var(--accent-rgb), 0.35);
         }
 
         .btn-gen:active {
@@ -593,7 +579,7 @@
         }
 
         .res-card.has {
-            border-color: rgba(240, 79, 35, 0.22);
+            border-color: rgba(var(--accent-rgb), 0.22);
         }
 
         .res-tabs {
@@ -643,8 +629,8 @@
 
         /* full → orange */
         .rb-full {
-            background: rgba(240, 79, 35, 0.15);
-            color: #ff7a52;
+            background: rgba(var(--accent-rgb), 0.15);
+            color: var(--accent);
         }
 
         /* add-on → purple */
@@ -734,8 +720,8 @@
         }
 
         .ub-full {
-            background: rgba(240, 79, 35, 0.14);
-            color: #ff7a52;
+            background: rgba(var(--accent-rgb), 0.14);
+            color: var(--accent);
         }
 
         .ub-add {
@@ -809,7 +795,7 @@
 
         .ucopy:hover {
             color: var(--accent);
-            background: rgba(240, 79, 35, 0.07);
+            background: rgba(var(--accent-rgb), 0.07);
         }
 
         .ucopy.ok {
@@ -929,7 +915,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            box-shadow: 0 4px 18px rgba(240, 79, 35, 0.35);
+            box-shadow: 0 4px 18px rgba(var(--accent-rgb), 0.35);
             opacity: 0;
             transform: translateY(12px) scale(0.85);
             pointer-events: none;
@@ -943,9 +929,9 @@
         }
 
         .scroll-top:hover {
-            background: #cf3a0e;
+            background: color-mix(in srgb, var(--accent) 80%, black);
             transform: translateY(-2px);
-            box-shadow: 0 6px 22px rgba(240, 79, 35, 0.5);
+            box-shadow: 0 6px 22px rgba(var(--accent-rgb), 0.5);
         }
 
         .scroll-top:active {
