@@ -37,8 +37,10 @@
 
 <details>
     <summary>
-        Полный список проектов в рамках NoADS_RU (откройте таблицы кликом по тексту)
+        Полный список проектов в рамках NoADS_RU (Нажмите на эту строку, чтобы развернуть информацию)
     </summary>
+
+---
 
 #### Фильтры
 
@@ -77,6 +79,9 @@
 - Информация по безопасному чтению Telegram каналов - **NoADS_RU TGCL**.
 
 > Более подробно про все представленные выше проекты смотрите чуть ниже в разделе **Альтернативные фильтры, прочие списки и сторонние проекты в рамках NoADS_RU**
+
+---
+
 </details>
 
 **Сделаем сайты чище, а просмотр удобнее и безопаснее!**
@@ -284,7 +289,7 @@ sudo cp /etc/hosts /etc/hosts.bak && (curl -sk "https://codeberg.org/Zalexannine
 - [LocalCDN](https://www.localcdn.org/)
 - [User Agent Switcher and Manager](https://webextension.org/listing/useragent-switcher.html)
 - [LibRedirect](https://libredirect.github.io/)
-- [FoxyProxy](https://github.com/foxyproxy/browser-extension) (я использую "по работе", но вариантов использования много 🤫). Версия для Chromium-браузеров имеется, а также рекомендую рассмотреть иные расширения с похожим функционалом: [Proxy SwitchyOmega 3 (ZeroOmega)](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped) и [ProxyControl](https://chromewebstore.google.com/detail/proxycontrol/hjocpjdeacglfchomobaagbmipeggnjg)
+- [FoxyProxy](https://getfoxyproxy.org/downloads/#proxypanel) (я использую "по работе", но вариантов использования много 🤫). Версия для Chromium-браузеров имеется, а также рекомендую рассмотреть иные расширения с похожим функционалом: [Proxy SwitchyOmega 3 (ZeroOmega)](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped) и [ProxyControl](https://chromewebstore.google.com/detail/proxycontrol/hjocpjdeacglfchomobaagbmipeggnjg)
 - [ClearURLs](https://github.com/ClearURLs/Addon)
 
 > [!WARNING]
@@ -347,6 +352,8 @@ sudo cp /etc/hosts /etc/hosts.bak && (curl -sk "https://codeberg.org/Zalexannine
         К сожалению, этот метод подписки в один клик может не работать. Можно использовать другие методы, они работают всегда и во всех расширениях и браузерах с AdBlock. (Нажмите на эту строку, чтобы развернуть описание)
     </summary>
 
+---
+
 #### Добавление вручную с автообновлением списка (аналог подписки, если не получилось автоматически)
 
 1. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
@@ -370,6 +377,8 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt
 4. Следуйте данной гифке, после импорта файл можно удалить
 
 ![](./assets/How-to-from-file-in-uBlock-Origin.gif)
+
+---
 
 </details>
 
@@ -399,6 +408,8 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt
         Гайд для браузера Vivaldi (Нажмите на эту строку, чтобы развернуть описание)
     </summary>
 
+---
+
 ### Подключение списка
 
 1. Перейдите по ссылке (см. ниже) и пролистайте до раздела "БЛОКИРОВКА СЛЕЖКИ И РЕКЛАМЫ"
@@ -415,12 +426,16 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt
 ```
 4. Согласитесь на добавление списка
 
+---
+
 </details>
 
 <details>
     <summary>
         Гайд для браузера Brave (Нажмите на эту строку, чтобы развернуть описание)
     </summary>
+
+---
 
 ### Подключение списка
 
@@ -440,6 +455,8 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt
 ```
 
 3. Нажмите кнопку "Добавить" и обновите страницу настроек
+
+---
 
 </details>
 
