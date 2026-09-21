@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 16 сентября 2026 года
-! Total: 19789
+! Last modified: 21 сентября 2026 года
+! Total: 19792
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -23445,3 +23445,12 @@ store.steampowered.com###sale_under10_area
 
 ! Вам не кажется, что на странице магазина Good Old Games слишком много кнопок, "предлагающих" необязательный лаунчер?
 www.gog.com##.footer-microservice-download__button--other.footer-microservice-download__button
+
+! Sep 18, 2026 https://www.speedtest.net
+www.speedtest.net##.pure-u-custom-ad-rectangle
+
+! Sep 18, 2026 https://2ip.io
+2ip.io##.premium-banner
+
+! Sep 19, 2026 https://avito.ru
+avito.ru##div[class^="extraImage"]

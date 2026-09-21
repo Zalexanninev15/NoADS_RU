@@ -1,5 +1,5 @@
-# Total hosts: 1122
-# Last modified: 16 сентября 2026 года
+# Total hosts: 1123
+# Last modified: 21 сентября 2026 года
 193.233.112.88 37signals.com
 193.233.112.68 a-api.anthropic.com
 193.233.112.88 a-cdn.anthropic.com
@@ -375,6 +375,7 @@
 193.233.112.68 gew1-dealer.spotify.com
 193.233.112.88 gew1-spclient.spotify.com
 146.75.22.132 gist.githubusercontent.com
+140.82.121.3 github.com
 193.233.112.68 gql.twitch.tv
 193.233.112.68 graphql.strava.com
 193.233.112.88 grok.com
