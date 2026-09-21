@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
 ! Last modified: 21 сентября 2026 года
-! Total: 19792
+! Total: 19793
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -23454,3 +23454,6 @@ www.speedtest.net##.pure-u-custom-ad-rectangle
 
 ! Sep 19, 2026 https://avito.ru
 avito.ru##div[class^="extraImage"]
+
+! Исправление: Не загружаются изображения на ChatGPT
+@@||sdmntprdenmarkeast.oaiusercontent.com/files/$xhr,domain=chatgpt.com
