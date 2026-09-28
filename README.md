@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/platform-AdBlocking_Extensions-F40D12.svg?logo=adblock)](https://codeberg.org/Zalexanninev15/NoADS_RU)
 [![](https://img.shields.io/badge/scripts-Python-%233776AB.svg?logo=python)](https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/scripts)
-[![](https://img.shields.io/github/last-commit/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/commits/main)
+[![](https://img.shields.io/gitea/last-commit/Zalexanninev15/NoADS_RU?gitea_url=https%3A%2F%2Fcodeberg.org)](https://codeberg.org/Zalexanninev15/NoADS_RU/commits/main)
 [![](https://img.shields.io/github/forks/Zalexanninev15/NoADS_RU)](https://github.com/Zalexanninev15/NoADS_RU/network/members)
 [![](https://img.shields.io/gitea/stars/Zalexanninev15/NoADS_RU.svg?gitea_url=https%3A%2F%2Fcodeberg.org)](https://codeberg.org/Zalexanninev15/NoADS_RU/stars)
 [![](https://img.shields.io/gitea/forks/Zalexanninev15/NoADS_RU.svg?gitea_url=https%3A%2F%2Fcodeberg.org)](https://codeberg.org/Zalexanninev15/NoADS_RU/forks)
