@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Donate-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://z15.neocities.org/donate)
 
 ## Задачи
-- [ ] Новый логотип для NoADS_RU, [присылайте мне свои варианты](https://z15.neocities.org/contacts).
+- [ ] Новый логотип для NoADS_RU, [присылайте мне свои варианты в специальную задачу](https://codeberg.org/Zalexanninev15/NoADS_RU/issues/95).
 - [ ] Хотелось бы попасть на сайт [filterlists.com](https://filterlists.com). Буду рад, если [подсобите](https://github.com/collinbarrett/FilterLists) 🙏
 - [ ] Адаптация списков фильтров NoADS_RU и NoADS_RU Extended под современные реалии и упразднение отдельного списка NoADS_RU RWS. Происходит постепенно.
 
