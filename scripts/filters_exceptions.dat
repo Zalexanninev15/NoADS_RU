@@ -25,3 +25,5 @@ $removeparam=/trackid/i
 ||s.youtube.com^
 ||s.youtube.com
 ||connect.facebook.net
+||ali.click^
+ali.click

@@ -17,7 +17,6 @@
             padding: 0;
         }
 
-        /* ── THEMES ── */
         :root {
             --bg: #0f141a;
             --surf: #13161e;
@@ -97,7 +96,6 @@
                 color 0.2s;
         }
 
-        /* ── HEADER ── */
         header {
             border-bottom: 1px solid var(--border);
             padding: 0 32px;
@@ -176,7 +174,6 @@
             background: var(--surf2);
         }
 
-        /* Theme toggle */
         .theme-btn {
             display: flex;
             align-items: center;
@@ -228,7 +225,6 @@
             }
         }
 
-        /* ── HERO ── */
         .hero {
             padding: 36px 32px 28px;
             max-width: 1100px;
@@ -255,7 +251,6 @@
             line-height: 1.7;
         }
 
-        /* ── LAYOUT ── */
         .layout {
             max-width: 1100px;
             margin: 0 auto;
@@ -266,7 +261,6 @@
             align-items: start;
         }
 
-        /* ── CARD ── */
         .card {
             background: var(--surf);
             border: 1px solid var(--border);
@@ -274,7 +268,6 @@
             overflow: hidden;
         }
 
-        /* ── TABS ── */
         .tabs {
             display: flex;
             border-bottom: 1px solid var(--border);
@@ -313,7 +306,6 @@
             display: block;
         }
 
-        /* ── SECTION ── */
         .sec {
             margin-bottom: 20px;
         }
@@ -331,7 +323,6 @@
             margin-bottom: 8px;
         }
 
-        /* ── OPTION (radio/check) ── */
         .opts {
             display: flex;
             flex-direction: column;
@@ -442,7 +433,6 @@
             line-height: 1.5;
         }
 
-        /* live count badge */
         .cnt {
             font-family: var(--mono);
             font-size: 10px;
@@ -461,7 +451,6 @@
             border-color: var(--dim);
         }
 
-        /* date badge on option cards, next to count */
         .date-cnt {
             font-family: var(--mono);
             font-size: 10px;
@@ -480,7 +469,6 @@
             border-color: rgba(240, 192, 64, 0.3);
         }
 
-        /* ── TAG ── */
         .tag {
             display: inline-block;
             font-size: 9px;
@@ -532,7 +520,6 @@
             color: var(--purple);
         }
 
-        /* ── GENERATE ── */
         .btn-gen {
             width: 100%;
             margin-top: 20px;
@@ -563,7 +550,6 @@
             transform: none;
         }
 
-        /* ── OUTPUT ── */
         .out {
             display: flex;
             flex-direction: column;
@@ -627,31 +613,26 @@
             border-radius: 8px;
         }
 
-        /* full → orange */
         .rb-full {
             background: rgba(var(--accent-rgb), 0.15);
             color: var(--accent);
         }
 
-        /* add-on → purple */
         .rb-add {
             background: rgba(157, 135, 255, 0.13);
             color: var(--purple);
         }
 
-        /* hosts blocker → green */
         .rb-bl {
             background: rgba(62, 207, 142, 0.13);
             color: var(--green);
         }
 
-        /* bypass → purple-muted */
         .rb-bp {
             background: rgba(157, 135, 255, 0.14);
             color: var(--purple);
         }
 
-        /* empty fallback */
         .rb-none {
             background: var(--surf2);
             color: var(--muted);
@@ -847,12 +828,10 @@
             color: var(--green);
         }
 
-        /* ── MOBILE / RESPONSIVE ── */
         @media (max-width: 860px) {
             .layout {
                 grid-template-columns: 1fr;
                 gap: 16px;
-                /* visible gap between card-col and out on mobile */
             }
         }
 
@@ -874,7 +853,6 @@
             }
         }
 
-        /* Prevent URL code blocks from blowing layout */
         .layout,
         .layout>*,
         .out,
@@ -886,21 +864,17 @@
             min-width: 0;
         }
 
-        /* Code block: scroll the URL, pin the copy button */
         .ucode-wrap {
             max-width: 100%;
             overflow: hidden;
-            /* clip, not expand */
         }
 
         .ucode {
             min-width: 0;
-            /* scrollbar always thin */
             scrollbar-width: thin;
             scrollbar-color: var(--dim) transparent;
         }
 
-        /* ── SCROLL TO TOP ── */
         .scroll-top {
             position: fixed;
             bottom: 28px;
@@ -953,7 +927,6 @@
             }
         }
 
-        /* ── SUBSCRIBE TOOLTIP ── */
         .sub-wrap {
             position: relative;
             display: inline-block;
@@ -1155,8 +1128,6 @@
                     </button>
                     <button class="tab" data-tab="hosts">Хосты</button>
                 </div>
-
-                <!-- FILTERS TAB -->
                 <div class="tab-panel active" id="tab-filters">
                     <div class="sec">
                         <div class="sec-lbl">
@@ -1202,7 +1173,7 @@
                                         Специальная версия NoADS_RU
                                         адаптированная конкретно под
                                         гарантированную работоспособность
-                                        сервисов Яндекс, ВК, MAX, Mail.ru.
+                                        сервисов Ямы, ВК, Повесточки, Mail.ru.
                                         Использовать на своё усмотрение.
                                     </div>
                                 </div>
@@ -1217,9 +1188,6 @@
                                 <div>
                                     <div class="opt-name">
                                         Расширенный
-                                        <!--<span class="tag t-x"
-                                                >Extended</span
-                                            >-->
                                         <span class="cnt" id="cnt-extended">…</span>
                                     </div>
                                     <div class="opt-desc">
@@ -1239,7 +1207,6 @@
                                 <div>
                                     <div class="opt-name">
                                         Расширенный+
-                                        <!--<span class="tag t-xx">Plus</span>-->
                                         <span class="cnt" id="cnt-extended_plus">…</span>
                                     </div>
                                     <div class="opt-desc">
@@ -1334,7 +1301,6 @@
                     </div>
                 </div>
 
-                <!-- HOSTS TAB -->
                 <div class="tab-panel" id="tab-hosts">
                     <div class="sec">
                         <div class="sec-lbl">
@@ -1439,7 +1405,6 @@
 
         </div>
 
-        <!-- OUTPUT -->
         <div class="out">
             <div class="res-card" id="res-card">
                 <div class="res-tabs">
@@ -1516,7 +1481,6 @@
     </button>
 
     <script>
-        // ── LOGO ──
         (function () {
             const LOGO_URL =
                 "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/assets/Logo.png";
@@ -1533,19 +1497,16 @@
                 raw.crossOrigin = "anonymous";
                 raw.onload = function () {
                     try {
-                        // Draw at 2× the display size (52px) for crisp retina screens
                         const SIZE = 52;
                         const c = document.createElement("canvas");
                         c.width = c.height = SIZE;
                         c.getContext("2d").drawImage(raw, 0, 0, SIZE, SIZE);
-                        // WebP at 0.75 quality — tiny file, sharp enough at 26px
                         const compressed = c.toDataURL("image/webp", 0.75);
                         try {
                             localStorage.setItem(CACHE_KEY, compressed);
                         } catch (_) { }
                         applyLogo(compressed);
                     } catch (_) {
-                        // Canvas tainted (CORS) — just use the original
                         applyLogo(src);
                     }
                 };
@@ -1554,8 +1515,6 @@
                 };
                 raw.src = src;
             }
-
-            // Try cache first — zero network cost
             try {
                 const cached = localStorage.getItem(CACHE_KEY);
                 if (cached) {
@@ -1564,7 +1523,6 @@
                 }
             } catch (_) { }
 
-            // First visit — fetch, compress, store
             compressAndCache(LOGO_URL);
         })();
 
@@ -1653,7 +1611,6 @@
         let fUrls = [],
             hUrls = [];
 
-        // ── THEMES ──
         function getTheme() {
             return localStorage.getItem("theme") || "auto";
         }
@@ -1677,7 +1634,6 @@
         }
         applyTheme(getTheme());
 
-        // ── TOTAL COUNTS ──
         function fmt(n) {
             return n >= 1000 ? (n / 1000).toFixed(1) + "k" : String(n);
         }
@@ -1750,7 +1706,6 @@
                 el.textContent = fmt(count);
                 el.classList.add("loaded");
 
-                // Update date badge on opt card (searches across both hosts and filters files)
                 if (val) {
                     let dm = null;
                     for (let i = 0; i < Math.min(8, lines.length); i++) {
@@ -1769,8 +1724,6 @@
                         dateEl.textContent = "—";
                     }
                 }
-
-                // Refresh tab badges live as counts arrive
                 refreshFBadge();
                 refreshHBadge();
             } catch (e) {
@@ -1782,9 +1735,7 @@
             }
         }
 
-        // Fetch all counts on load
         document.addEventListener("DOMContentLoaded", () => {
-            // Inject date badge span after .cnt in every opt-name
             document.querySelectorAll("[data-url][data-count-type]").forEach((opt) => {
                 const val = opt.dataset.val;
                 const cntEl = document.getElementById("cnt-" + val);
@@ -1816,7 +1767,6 @@
             }, { passive: true });
         });
 
-        // ── Form tabs ──
         document.querySelectorAll(".tab").forEach((t) => {
             t.addEventListener("click", () => {
                 document
@@ -1832,7 +1782,6 @@
             });
         });
 
-        // ── Result tabs ──
         document.querySelectorAll(".res-tab").forEach((t) => {
             t.addEventListener("click", () => {
                 document
@@ -1848,7 +1797,6 @@
             });
         });
 
-        // ── full radio ──
         document.querySelectorAll("#full-group > .opt").forEach((opt) => {
             opt.addEventListener("click", () => {
                 document
@@ -1859,7 +1807,6 @@
             });
         });
 
-        // ── Checkboxes ──
         document
             .querySelectorAll(
                 "#addon-group .opt,#hosts-block .opt,#hosts-bypass .opt",
@@ -1871,7 +1818,6 @@
                 });
             });
 
-        // ── Generate ──
         function generate() {
             fUrls = [];
             hUrls = [];
@@ -1890,8 +1836,6 @@
             document.getElementById("res-card").classList.add("has");
         }
 
-        // ── Badge helpers ──
-        // Sum countCache by badge type; returns {total, loading}
         function sumByBadge(list, badgeType) {
             let total = 0, loading = false;
             list.filter(u => u.badge === badgeType).forEach(u => {
@@ -2017,7 +1961,6 @@
             document.getElementById("cbtn-" + k).classList.remove("ok");
         }
 
-        // ── Subscribe buttons ──
         (function () {
             const BOLT = `<svg width="9" height="11" viewBox="0 0 9 11" fill="none"><path d="M5 1L1 6.5h3.5L3 10l5-5.5H4.5L5 1z" fill="currentColor"/></svg>`;
             const CPICO = `<svg width="10" height="10" viewBox="0 0 11 11" fill="none"><rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1.3" stroke="currentColor" stroke-width="1.2"/><path d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg>`;
@@ -2025,7 +1968,6 @@
 
             const isApproved = /^https?:\/\/(github\.com|[^/]+\.github\.io|filterlists\.com|forums\.lanik\.us|[^/]+\.letsblock\.it)/.test(location.href);
 
-            // Close all tooltips when clicking elsewhere
             document.addEventListener('click', function (e) {
                 if (!e.target.closest('.sub-wrap')) {
                     document.querySelectorAll('.sub-tip.open').forEach(t => t.classList.remove('open'));
@@ -2093,5 +2035,4 @@
         })();
     </script>
 </body>
-
 </html>

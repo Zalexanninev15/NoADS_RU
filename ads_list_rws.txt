@@ -22665,7 +22665,7 @@ dzen.ru##div[class^="dzen-with-punch-desktop__main"] + div[class*="feedContent"]
 dzen.ru##div[class^="dzen-with-punch-desktop__container"]:style(display: unset !important)
 dzen.ru##div[class^="dzen-with-punch-desktop__main"] div[class^="geoblock-weather__content"]:style(flex-direction: unset !important; justify-content: space-between !important)
 
-! Aug 22, 2025 Всякое от Я*
+! Aug 22, 2025 Всякое от Ямы
 yandex.ru##div:contains(RKH: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
 yandex.ru##[role="button"]:contains(РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ)
 yandex.ru##[text*="РКН: иностранный владелец ресурса www.youtube.com нарушает закон РФ"]
@@ -23387,3 +23387,23 @@ avito.ru##div[class^="extraImage"]
 ! Sep 21, 2026 https://keeneticported.dev и https://keeneticported.gitverse.site
 keeneticported.dev##[href^="https://telegram.me/myapn_bot"]
 keeneticported.gitverse.site##[href^="https://telegram.me/myapn_bot"]
+
+! Sep 26, 2026 https://www.speedtest.net
+www.speedtest.net##.pure-u-custom-ad-skyscraper
+
+! Oct 5, 2026 https://fast.com
+fast.com###share-on-twitter-link
+fast.com###share-on-facebook-link
+
+! Oct 6, 2026 https://www.needrom.com
+||cdn.needrom.com/images/block_topbg.gif$image
+||cdn.needrom.com/elya-31.js
+
+! Oct 15, 2026 https://thepiratebay.org
+thepiratebay.org##[href*="/redirect"]
+
+! Oct 15, 2026 https://rsload.net
+rsload.net##.footer
+
+! Исправление работы сортировки на Пиратской бухте
+@@||torrindex.net/static/tinysort.min.js$script,domain=thepiratebay.org
