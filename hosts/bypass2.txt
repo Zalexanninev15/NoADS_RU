@@ -1,5 +1,5 @@
-# Total hosts: 1151
-# Last modified: 18 октября 2026 года
+# Total hosts: 1166
+# Last modified: 22 октября 2026 года
 193.233.112.67 37signals.com
 159.194.200.33 a-api.anthropic.com
 193.233.112.67 a-cdn.anthropic.com
@@ -31,6 +31,7 @@
 193.233.112.67 agentn.global.api5.cursor.sh
 193.233.112.68 ai.google.dev
 193.233.112.68 aicode.googleapis.com
+193.233.112.67 aida.googleapis.com
 193.233.112.68 aisandbox-pa.googleapis.com
 193.233.112.68 aistudio.google.com
 193.233.112.68 aitestkitchen.withgoogle.com
@@ -42,7 +43,10 @@
 172.67.190.231 android.clients.google.com
 172.67.192.246 anilib.me
 159.194.200.33 anthropic.com
+193.233.112.88 antigravity-pa.googleapis.com
+193.233.112.88 antigravity-unleash.goog
 193.233.112.88 antigravity.google
+159.194.200.33 antigravity.googleapis.com
 138.201.204.218 ap-gew1.spotify.com
 193.233.112.67 api-free.deepl.com
 143.20.64.55 api-global.squareup.com
@@ -294,7 +298,7 @@
 162.159.135.232 discord.com
 193.233.112.68 dl.teamviewer.com
 159.194.200.33 dnsspeedtest.online
-193.233.112.68 dnstest.geohide.ru
+37.230.192.51 dnstest.geohide.ru
 159.194.200.33 dola.com
 193.233.112.88 download.jetbrains.com
 193.233.112.68 download.teamviewer.com
@@ -521,6 +525,7 @@
 193.233.112.68 microcenter.com
 193.233.112.88 microchip.com
 193.233.112.68 minicircuits.com
+193.233.112.67 miro.com
 193.233.112.68 misterfpga.org
 159.194.200.33 mobile.naukri.com
 193.233.112.68 modivo.pl
@@ -719,6 +724,10 @@
 193.233.112.67 sketchup.com
 159.194.200.33 sketchup.trimble.com
 193.233.112.68 sl.deepl.com
+193.233.112.88 slack-core.com
+159.194.200.33 slack-edge.com
+193.233.112.88 slack-files.com
+193.233.112.68 slack-imgs.com
 159.194.200.33 slack.com
 159.194.200.33 slackb.com
 193.233.112.88 smtp.naukri.com
@@ -899,6 +908,7 @@
 193.233.112.67 www.amd.com
 193.233.112.68 www.analog.com
 193.233.112.68 www.anthropic.com
+193.233.112.68 www.antigravity-unleash.goog
 193.233.112.68 www.antigravity.google
 193.233.112.88 www.arduino.cc
 159.194.200.33 www.arkoselabs.com
@@ -1039,6 +1049,7 @@
 159.194.200.33 www.microcenter.com
 193.233.112.67 www.microchip.com
 193.233.112.88 www.minicircuits.com
+159.194.200.33 www.miro.com
 193.233.112.88 www.misterfpga.org
 159.194.200.33 www.modivo.pl
 193.233.112.67 www.mongodb.com
@@ -1090,6 +1101,10 @@
 193.233.112.88 www.securitytrails.com
 193.233.112.88 www.singlekey-id.com
 159.194.200.33 www.sketchup.com
+193.233.112.68 www.slack-core.com
+193.233.112.67 www.slack-edge.com
+193.233.112.67 www.slack-files.com
+193.233.112.88 www.slack-imgs.com
 193.233.112.68 www.slack.com
 193.233.112.67 www.slackb.com
 193.233.112.67 www.spotify.com
