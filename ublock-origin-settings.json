@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1792319138151,
+  "timeStamp": 1793197746615,
   "version": "1.75.0",
   "userSettings": {
     "advancedUserEnabled": true,
@@ -7,7 +7,7 @@
     "uiAccentCustom": true,
     "uiAccentCustom0": "#57e389",
     "uiTheme": "dark",
-    "externalLists": "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt",
+    "externalLists": "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt\n\nhttps://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube_beta.txt",
     "importedLists": [
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt",
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt",
@@ -15,7 +15,8 @@
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt",
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt",
       "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt",
-      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt"
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt",
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube_beta.txt"
     ],
     "popupPanelSections": 15,
     "suspendUntilListsAreLoaded": true
