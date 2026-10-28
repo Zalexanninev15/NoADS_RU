@@ -1239,13 +1239,30 @@
                                         <span class="cnt" id="cnt-youtube">…</span>
                                     </div>
                                     <div class="opt-desc">
-                                        Фильтры для YouTube и
-                                        видеохостингов, а также для
-                                        других медиа-сервисов.
+                                        Фильтры для YouTube, Spotify, BiliBili, RuTube.
                                     </div>
                                 </div>
                             </div>
-
+                        <div class="opts" id="addon-group">
+                            <div class="opt" data-val="youtube_beta"
+                                data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube_beta.txt"
+                                data-count-type="filter-count">
+                                <div class="cbox">
+                                    <svg width="9" height="7" viewBox="0 0 9 7" fill="none">
+                                        <path d="M1 3.5L3 5.5L8 1" stroke="white" stroke-width="1.6"
+                                            stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </div>
+                                <div>
+                                    <div class="opt-name">
+                                        NoADS_RU YouTube Beta
+                                        <span class="cnt" id="cnt-youtube_beta">…</span>
+                                    </div>
+                                    <div class="opt-desc">
+                                        Фильтры для YouTube, Spotify, BiliBili, RuTube. Содержит ещё больше фильтров, если вам показалось их мало в стандартном варианте.
+                                    </div>
+                                </div>
+                            </div>
                             <div class="opt" data-val="ai_slop"
                                 data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt"
                                 data-count-type="filter-count">
@@ -1563,6 +1580,13 @@
                 val: "youtube",
                 url: B + "filters/youtube.txt",
                 name: "NoADS_RU YouTube",
+                badge: "ub-add",
+                lbl: "add-on",
+            },
+            youtube_beta: {
+                val: "youtube_beta",
+                url: B + "filters/youtube-beta.txt",
+                name: "NoADS_RU YouTube Beta",
                 badge: "ub-add",
                 lbl: "add-on",
             },

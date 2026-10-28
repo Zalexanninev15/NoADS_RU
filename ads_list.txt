@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
 ! Last modified: 28 октября 2026 года
-! Total: 19808
+! Total: 19822
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -23193,6 +23193,8 @@ www.flaticon.com##.btn-warning.bj-button.btn.btn-svg
 ||st.hybrid.ai^
 ||tube.buzzoola.com^
 ||pagead2.googlesyndication.com^
+||rb.mail.ru^
+||cnt.tbz.liveinternet.ru^
 
 ! May 8, 2026 https://apteka.ru
 apteka.ru##.BannersContent__img.photopicture
@@ -23490,3 +23492,37 @@ rsload.net##.footer
 
 ! Исправление работы сортировки на Пиратской бухте
 @@||torrindex.net/static/tinysort.min.js$script,domain=thepiratebay.org
+
+! Google AI and Google scripts
+@@||www.googletagmanager.com/gtm.js$script,domain=aistudio.google.com
+@@||alkalimakersuite-pa.clients6.google.com/$rpc/google.internal.alkali.applications.makersuite.v1.MakerSuiteService/ListModels$xhr,domain=aistudio.google.com
+@@||console.cloud.google.com/onboarding/auth_warmup?origin=https%3A%2F%2Faistudio.google.com$subdocument,domain=aistudio.google.com
+@@||www.gstatic.com/_/mss/boq-makersuite/_/js/k=boq-makersuite.MakerSuite$script,domain=aistudio.google.com
+@@||alkalimakersuite-pa.clients6.google.com/$rpc/google.internal.alkali.applications.makersuite.v1.MakerSuiteService/GenerateAccessToken$xhr,domain=aistudio.google.com
+@@||play.google.com/log?format=json&hasfast=true&authuser=0$xhr,domain=aistudio.google.com
+@@||waa-pa.clients6.google.com/$rpc/google.internal.waa.v1.Waa/Create$xhr,domain=aistudio.google.com
+@@||aistudio.google.com/_/MakerSuite/cspreport$other,domain=aistudio.google.com
+@@||aistudio.google.com/generate_204$image,domain=aistudio.google.com
+@@||play.google.com/log$ping,domain=aistudio.google.com
+aistudio.google.com##.has-promo
+aistudio.google.com##.ng-star-inserted.ms-button-secondary
+gemini.google.com##.ng-star-inserted.signed-out-buttons
+gemini.google.com##gem-button[fonticonname="download"]
+
+! Рекламные метрики
+yandex.*,dzen.ru##[aria-label="Реклама"]
+yandex.*,dzen.ru##[aria-label="Промо"]
+yandex.*,dzen.ru##.AdvLabel,.AdvLabel-Text,.AdvCaption,.PromoOffer,.direct-label,.mg-adv-label,[data-baobab-name="adv"],.DistributionLinkBro,[data-testid^="promo"],[data-fast-name="PromoOffer"]
+yandex.*,dzen.ru##.RealtyListing-AdvItem,.OfferSnippet_highlight
+||redirect.appmetrica.yandex.com^$3p
+||ad.atdmt.com^$3p
+||tbgcounter.com^$3p
+||clickagy.com^$3p
+
+! Фиксы, чтобы не задело
+@@||google.com/recaptcha/$3p
+@@||www.google.com/recaptcha/$3p
+@@||api.vk.com^
+@@||challenges.cloudflare.com^
+@@||hcaptcha.com^
+@@||recaptcha.net^

@@ -1,5 +1,5 @@
 ! Title: 📹🎧 NoADS_RU YouTube
-! Last modified: 23 марта 2026 года
+! Last modified: 28 октября 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -30,10 +30,6 @@ www.youtube.com##ytd-mini-guide-entry-renderer:has(.title:has-text(/^Shorts$/i))
 ! Hide shorts section on homepage
 www.youtube.com##ytd-rich-section-renderer:has(#title:has-text(/(^| )Shorts( |$)/i))
 www.youtube.com##ytd-reel-shelf-renderer:has(.ytd-reel-shelf-renderer:has-text(/(^| )Shorts( |$)/i))
-! Hide shorts tab on channel pages
-m.youtube.com##.single-column-browse-results-tabs>a:has-text(Shorts)
-! Old style
-www.youtube.com##tp-yt-paper-tab:has(.tp-yt-paper-tab:has-text(Shorts))
 ! Hide short remixes in video descriptions
 www.youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer:has-text(/^Shorts remixing this video$/i)
 ! Hide shorts category on homepage and search pages
@@ -102,3 +98,28 @@ open.spotify.com##a[href*="download"]
 open.spotify.com##button:has-text(/^Premium$/)
 open.spotify.com##div[aria-labelledby*="app"]
 open.spotify.com##div[aria-describedby=*="app"]
+
+! BiliBili
+bilibili.com,bilibili.tv##.bpx-player-qoeFeedback
+bilibili.com,bilibili.tv##.ad-report.strip-ad.left-banner
+bilibili.com,bilibili.tv##.ad-report.ad-floor-exp.left-banner
+bilibili.com,bilibili.tv##.ad-report.ad-floor-exp.right-bottom-banner
+bilibili.com,bilibili.tv##.ad-report.video-card-ad-small
+bilibili.com,bilibili.tv##.activity-m-v1.act-end
+bilibili.com,bilibili.tv##.activity-m-v1.act-now
+bilibili.com,bilibili.tv##.video-card-ad-small
+bilibili.com,bilibili.tv##.video-page-game-card-small
+bilibili.com,bilibili.tv##.slide-ad-exp
+bilibili.com,bilibili.tv###slide-ad-exp
+bilibili.com,bilibili.tv###slide_ad
+bilibili.com,bilibili.tv###right-bottom-banner
+bilibili.com,bilibili.tv###bannerAd
+bilibili.com,bilibili.tv###activity_vote
+bilibili.com,bilibili.tv##.pop-live-small-mode.part-1
+bilibili.com,bilibili.tv##.ad-floor-cover.b-img
+
+! RuTube
+rutube.ru##.preroll,.player__preroll,.preroll__container,.video-adv,.player__overlay-adv
+rutube.ru##[data-adv],[data-ad]
+rutube.ru###advertising
+rutube.ru###ADFOX_FEED_BANNER
