@@ -97,7 +97,7 @@ open.spotify.com##div[data-testid*="premium"]
 open.spotify.com##a[href*="download"]
 open.spotify.com##button:has-text(/^Premium$/)
 open.spotify.com##div[aria-labelledby*="app"]
-open.spotify.com##div[aria-describedby=*="app"]
+open.spotify.com##div[aria-describedby*="app"]
 
 ! BiliBili
 bilibili.com,bilibili.tv##.bpx-player-qoeFeedback
