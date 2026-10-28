@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 22 октября 2026 года
-! Total: 19805
+! Last modified: 28 октября 2026 года
+! Total: 19808
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -9959,7 +9959,7 @@ $removeparam=srsltid
 $removeparam=sscid
 $removeparam=sspUserID
 $removeparam=/^stm_/i
-$removeparam=/^subid/i
+~vk.com,~vkuser.net$removeparam=/^subid/i
 $removeparam=subprogram_id
 $removeparam=taboola_hm
 $removeparam=taboola_id
@@ -11222,6 +11222,9 @@ substack.com$removeparam=publication_id
 substack.com$removeparam=post_id
 substack.com$removeparam=r
 substack.com$removeparam=triedRedirect
+suno.com$removeparam=pre_signup_origin
+suno.com$removeparam=redirected_from
+suno.com$removeparam=signup_source
 synergyacademy.com$removeparam=marketer
 synergyacademy.com$removeparam=produkt
 t.me$removeparam=start
