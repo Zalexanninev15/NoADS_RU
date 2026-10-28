@@ -2,38 +2,717 @@
 <html lang="ru" data-theme="auto">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>NoADS_RU Generator</title>
-    <link
-        href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Onest:wght@400;500;600;700&display=swap"
-        rel="stylesheet" />
-    <style>
-        *,
-        *::before,
-        *::after {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NoADS_RU Generator</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Onest:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#0f141a;--surf:#13161e;--surf2:#1a1e28;--border:#232736;--accent:#2684cf;--accent-rgb:38,132,207;--text:#d8dbe5;--sub:#9aa0b8;--muted:#525870;--dim:#3a3f52;--green:#3ecf8e;--purple:#9d87ff;--yellow:#f0c040;--mono:"JetBrains Mono",monospace;--sans:"Onest",sans-serif}
+@media (prefers-color-scheme:light){html[data-theme="auto"]{--bg:#f9f9f9;--surf:#ffffff;--surf2:#f0eeea;--border:#dddbd6;--accent:#4ea0f1;--accent-rgb:78,160,241;--text:#1a1c24;--sub:#4a4f66;--muted:#888da8;--dim:#c8c5be;--green:#1a9e6a;--purple:#7055e0;--yellow:#b08800}}
+html[data-theme="light"]{--bg:#f9f9f9;--surf:#ffffff;--surf2:#f0eeea;--border:#dddbd6;--accent:#4ea0f1;--accent-rgb:78,160,241;--text:#1a1c24;--sub:#4a4f66;--muted:#888da8;--dim:#c8c5be;--green:#1a9e6a;--purple:#7055e0;--yellow:#b08800}
+html[data-theme="dark"]{--bg:#0f141a;--surf:#13161e;--surf2:#1a1e28;--border:#232736;--accent:#2684cf;--accent-rgb:38,132,207;--text:#d8dbe5;--sub:#9aa0b8;--muted:#525870;--dim:#3a3f52;--green:#3ecf8e;--purple:#9d87ff;--yellow:#f0c040}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);font-size:14px;min-height:100vh;transition:background .2s,color .2s}
+header{border-bottom:1px solid var(--border);padding:0 32px;display:flex;align-items:center;gap:12px;height:56px;background:var(--surf);position:sticky;top:0;z-index:20}
+.logo{display:flex;align-items:center;gap:9px;text-decoration:none;color:var(--text);font-family:var(--mono);font-size:14px;font-weight:600}
+.logo img{width:26px;height:26px;border-radius:5px;object-fit:contain;background:var(--surf2)}
+.logo-fb{display:none;width:26px;height:26px;background:var(--accent);border-radius:5px;align-items:center;justify-content:center;font-size:13px}
+.hsep{width:1px;height:16px;background:var(--border);margin:0 2px}
+.hsub{font-family:var(--sans);font-size:12px;font-weight:400;color:var(--muted)}
+header nav{margin-left:auto;display:flex;align-items:center;gap:4px}
+header nav a{font-size:12.5px;color:var(--muted);text-decoration:none;padding:5px 11px;border-radius:6px;transition:.15s}
+header nav a:hover{color:var(--text);background:var(--surf2)}
+.theme-btn{display:flex;align-items:center;justify-content:center;width:32px;height:32px;background:none;border:1px solid var(--border);border-radius:7px;cursor:pointer;color:var(--muted);transition:.15s;flex-shrink:0}
+.theme-btn:hover{color:var(--text);border-color:var(--dim)}
+.theme-btn svg{width:15px;height:15px}
+.icon-sun{display:none}
+.icon-moon{display:block}
+html[data-theme="light"] .icon-sun{display:block}
+html[data-theme="light"] .icon-moon{display:none}
+@media (prefers-color-scheme:light){html[data-theme="auto"] .icon-sun{display:block}html[data-theme="auto"] .icon-moon{display:none}}
+.hero{padding:36px 32px 28px;max-width:1100px;margin:0 auto}
+.hero h1{font-size:clamp(22px,3vw,34px);font-weight:700;letter-spacing:-.8px;line-height:1.2;margin-bottom:8px}
+.hero h1 em{color:var(--accent);font-style:normal}
+.hero p{color:var(--sub);font-size:13.5px;max-width:480px;line-height:1.7}
+.layout{max-width:1100px;margin:0 auto;padding:0 32px 60px;display:grid;grid-template-columns:400px 1fr;gap:20px;align-items:start}
+.card{background:var(--surf);border:1px solid var(--border);border-radius:12px;overflow:hidden}
+.tabs{display:flex;border-bottom:1px solid var(--border)}
+.tab{padding:12px 20px;font-family:var(--sans);font-size:13px;font-weight:500;color:var(--muted);background:none;border:none;border-bottom:2px solid transparent;margin-bottom:-1px;cursor:pointer;transition:.15s;user-select:none}
+.tab:hover{color:var(--text)}
+.tab.active{color:var(--text);border-bottom-color:var(--accent)}
+.tab-panel{display:none;padding:20px 20px 10px}
+.tab-panel.active{display:block}
+.sec{margin-bottom:20px}
+.sec:last-child{margin-bottom:0}
+.sec-lbl{font-size:10px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.opts{display:flex;flex-direction:column;gap:5px}
+.opt{display:flex;align-items:flex-start;gap:10px;padding:10px 12px;border:1px solid var(--border);border-radius:8px;cursor:pointer;transition:.15s;user-select:none;background:var(--surf)}
+.opt:hover{border-color:var(--dim);background:var(--surf2)}
+.opt.sel{border-color:var(--accent);background:rgba(var(--accent-rgb),.07)}
+.opt.on{border-color:rgba(var(--accent-rgb),.45);background:rgba(var(--accent-rgb),.05)}
+.radio{width:15px;height:15px;border:2px solid var(--border);border-radius:50%;flex-shrink:0;margin-top:2px;display:grid;place-items:center;transition:.15s}
+.opt.sel .radio{border-color:var(--accent)}
+.rdot{width:6px;height:6px;border-radius:50%;background:var(--accent);opacity:0;transform:scale(0);transition:.12s}
+.opt.sel .rdot{opacity:1;transform:scale(1)}
+.cbox{width:15px;height:15px;border:2px solid var(--border);border-radius:4px;flex-shrink:0;margin-top:2px;display:grid;place-items:center;transition:.15s}
+.opt.on .cbox{background:var(--accent);border-color:var(--accent)}
+.cbox svg{opacity:0;transform:scale(0);transition:.12s}
+.opt.on .cbox svg{opacity:1;transform:scale(1)}
+.opt-name{font-size:13.5px;font-weight:500;line-height:1.3;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.opt-desc{font-size:12px;color:var(--sub);margin-top:3px;line-height:1.5}
+.cnt{font-family:var(--mono);font-size:10px;font-weight:600;padding:1px 6px;border-radius:4px;background:var(--surf2);border:1px solid var(--border);color:var(--muted);white-space:nowrap;transition:.2s}
+.cnt.loaded{color:var(--sub);border-color:var(--dim)}
+.date-cnt{font-family:var(--mono);font-size:10px;font-weight:600;padding:1px 6px;border-radius:4px;background:var(--surf2);border:1px solid var(--border);color:var(--muted);white-space:nowrap;transition:color .2s,border-color .2s}
+.date-cnt.loaded{color:var(--yellow);border-color:rgba(240,192,64,.3)}
+.tag{display:inline-block;font-size:9px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;padding:1px 6px;border-radius:3px;white-space:nowrap}
+.t-a{background:rgba(157,135,255,.13);color:var(--purple)}
+.t-full{background:rgba(var(--accent-rgb),.14);color:var(--accent)}
+.t-bl{background:rgba(62,207,142,.11);color:var(--green)}
+.t-bp{background:rgba(157,135,255,.14);color:var(--purple)}
+.out{display:flex;flex-direction:column;gap:16px}
+.res-card{background:var(--surf);border:1px solid var(--border);border-radius:12px;overflow:hidden;transition:border-color .3s}
+.res-card.has{border-color:rgba(var(--accent-rgb),.22)}
+.res-tabs{display:flex;border-bottom:1px solid var(--border)}
+.res-tab{padding:12px 18px;font-family:var(--sans);font-size:12.5px;font-weight:500;color:var(--muted);background:none;border:none;border-bottom:2px solid transparent;margin-bottom:-1px;cursor:pointer;transition:.15s;display:flex;align-items:center;gap:6px;user-select:none}
+.res-tab:hover{color:var(--text)}
+.res-tab.active{color:var(--text);border-bottom-color:var(--accent)}
+.rbadges{display:inline-flex;align-items:center;gap:3px}
+.rbadge{font-size:10px;font-weight:700;padding:1px 6px;border-radius:8px}
+.rb-full{background:rgba(var(--accent-rgb),.15);color:var(--accent)}
+.rb-add{background:rgba(157,135,255,.13);color:var(--purple)}
+.rb-bl{background:rgba(62,207,142,.13);color:var(--green)}
+.rb-bp{background:rgba(157,135,255,.14);color:var(--purple)}
+.rb-none{background:var(--surf2);color:var(--muted)}
+.res-panel{display:none}
+.res-panel.active{display:block}
+.urlbox{padding:16px 18px;min-height:100px}
+.ph{display:flex;align-items:center;justify-content:center;min-height:90px;font-size:13px;color:var(--muted);text-align:center;line-height:1.7}
+.urow{display:flex;align-items:flex-start;gap:9px;padding:7px 0;border-bottom:1px solid var(--border);animation:fu .2s ease both}
+.urow:last-child{border-bottom:none;padding-bottom:0}
+@keyframes fu{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+.ubadge{font-size:9px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;padding:3px 7px;border-radius:4px;flex-shrink:0;margin-top:2px;white-space:nowrap}
+.ub-full{background:rgba(var(--accent-rgb),.14);color:var(--accent)}
+.ub-add{background:rgba(157,135,255,.13);color:var(--purple)}
+.ub-bl{background:rgba(62,207,142,.11);color:var(--green)}
+.ub-bp{background:rgba(157,135,255,.14);color:var(--purple)}
+.uname{font-size:13px;font-weight:500;margin-bottom:6px}
+.ucode-wrap{display:flex;align-items:center;gap:0;background:var(--surf2);border:1px solid var(--border);border-radius:6px;overflow:hidden;max-width:100%}
+.ucode{font-family:var(--mono);font-size:11px;color:var(--sub);white-space:nowrap;overflow-x:auto;padding:6px 10px;flex:1;min-width:0;line-height:1.4;scrollbar-width:thin;scrollbar-color:var(--dim) transparent}
+.ucode::-webkit-scrollbar{height:3px}
+.ucode::-webkit-scrollbar-thumb{background:var(--dim);border-radius:2px}
+.ucopy{flex-shrink:0;display:flex;align-items:center;justify-content:center;width:30px;height:30px;background:none;border:none;border-left:1px solid var(--border);color:var(--muted);cursor:pointer;transition:.15s}
+.ucopy:hover{color:var(--accent);background:rgba(var(--accent-rgb),.07)}
+.ucopy.ok{color:var(--green)}
+.ucopy svg{width:11px;height:11px;pointer-events:none}
+.btn-copy{display:flex;align-items:center;gap:6px;padding:7px 16px;background:transparent;color:var(--text);font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid var(--border);border-radius:7px;cursor:pointer;transition:.15s;white-space:nowrap}
+.btn-copy:hover{border-color:var(--accent);color:var(--accent)}
+.btn-copy.ok{border-color:var(--green);color:var(--green)}
+.btn-link{display:inline-flex;align-items:center;gap:5px;padding:6px 11px;background:transparent;color:var(--sub);font-family:var(--sans);font-size:12px;font-weight:500;border:1px solid var(--border);border-radius:7px;text-decoration:none;transition:.15s;white-space:nowrap}
+.btn-link:hover{color:var(--text);border-color:var(--dim);background:var(--surf2)}
+.btn-link svg{flex-shrink:0}
+.btn-dl{display:flex;align-items:center;justify-content:center;gap:7px;width:100%;margin-top:8px;padding:9px 12px;background:transparent;color:var(--sub);font-family:var(--sans);font-size:13px;font-weight:500;border:1px solid var(--border);border-radius:9px;text-decoration:none;transition:.15s}
+.btn-dl:hover{color:var(--text);border-color:var(--dim);background:var(--surf2)}
+.copybar-ext{padding:10px 14px;border-top:1px solid var(--border);display:none;align-items:center;gap:6px;flex-wrap:wrap}
+.copybar-ext.vis{display:flex}
+.copybar-ext .btn-copy{margin-left:auto}
+.scroll-top{position:fixed;bottom:28px;right:28px;z-index:100;width:40px;height:40px;border-radius:50%;background:var(--accent);border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 18px rgba(var(--accent-rgb),.35);opacity:0;transform:translateY(12px) scale(.85);pointer-events:none;transition:opacity .25s,transform .25s}
+.scroll-top.vis{opacity:1;transform:none;pointer-events:auto}
+.scroll-top:hover{background:color-mix(in srgb,var(--accent) 80%,black);transform:translateY(-2px);box-shadow:0 6px 22px rgba(var(--accent-rgb),.5)}
+.scroll-top:active{transform:none}
+.scroll-top svg{width:16px;height:16px;color:#fff}
+.layout,.layout>*,.out,.res-card,.res-panel,.urlbox,.urow,.urow>div{min-width:0}
+@media (max-width:860px){.layout{grid-template-columns:1fr;gap:16px}}
+@media (max-width:560px){.hero,.layout{padding-left:16px;padding-right:16px}header{padding:0 16px}.hsep,.hsub{display:none}.scroll-top{bottom:18px;right:18px;width:36px;height:36px}}
+</style>
+</head>
+
+<body>
+<header>
+    <a href="https://github.com/Zalexanninev15/NoADS_RU" target="_blank" class="logo">
+        <img id="logo-img" alt="" onerror="this.style.display='none';document.querySelector('.logo-fb').style.display='flex';" />
+        <span class="logo-fb">✋</span>
+        NoADS_RU
+    </a>
+    <div class="hsep"></div>
+    <span class="hsub">NoADS_RU Generator</span>
+    <nav>
+        <a href="https://codeberg.org/Zalexanninev15/NoADS_RU" target="_blank">Репозиторий</a>
+        <a href="https://codeberg.org/Zalexanninev15/NoADS_RU/issues/new" target="_blank">Я нашёл проблему</a>
+        <button class="theme-btn" onclick="toggleTheme()" title="Переключить тему">
+            <svg class="icon-moon" viewBox="0 0 15 15" fill="none">
+                <path d="M2.9 8.5A5.5 5.5 0 0 0 12 6.1a5.5 5.5 0 0 1-6.6-6.6A5.5 5.5 0 0 0 2.9 8.5z" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round" />
+            </svg>
+            <svg class="icon-sun" viewBox="0 0 15 15" fill="none">
+                <circle cx="7.5" cy="7.5" r="2.5" stroke="currentColor" stroke-width="1.3" />
+                <path d="M7.5 1v1.5M7.5 12.5V14M1 7.5h1.5M12.5 7.5H14M3.2 3.2l1 1M10.8 10.8l1 1M10.8 3.2l-1 1M3.2 10.8l1-1" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" />
+            </svg>
+        </button>
+    </nav>
+</header>
+
+<section class="hero">
+    <h1>Генератор ссылок<br /><em>на списки фильтров и хосты</em></h1>
+    <p>Выберите нужные параметры и получите ссылки для подключения в uBlock Origin, AdGuard и других блокировщиках, а также ссылки на хосты для быстрого использования на роутерах и в приложениях.</p>
+</section>
+
+<main class="layout">
+    <div>
+        <div class="card">
+            <div class="tabs">
+                <button class="tab active" data-tab="filters">Фильтры</button>
+                <button class="tab" data-tab="hosts">Хосты</button>
+            </div>
+
+            <div class="tab-panel active" id="tab-filters">
+                <div class="sec">
+                    <div class="sec-lbl">Списки фильтров <span class="tag t-full" style="vertical-align:middle">full</span></div>
+                    <div class="opts" id="full-group">
+                        <div class="opt" data-val="standard" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt" data-count-type="filter">
+                            <div class="radio"><div class="rdot"></div></div>
+                            <div>
+                                <div class="opt-name">Стандартный <span class="cnt" id="cnt-standard">…</span></div>
+                                <div class="opt-desc">Основной список. Реклама, куки, трекеры. Рекомендуется к использованию, если готовы пожертвовать блокировками ради стабильности функционала сайтов.</div>
+                            </div>
+                        </div>
+                        <div class="opt" data-val="rws" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt" data-count-type="filter">
+                            <div class="radio"><div class="rdot"></div></div>
+                            <div>
+                                <div class="opt-name">Стандартный RWS <span class="cnt" id="cnt-rws">…</span></div>
+                                <div class="opt-desc">Специальная версия NoADS_RU адаптированная конкретно под гарантированную работоспособность сервисов Ямы, ВК, Повесточки, Mail.ru. Использовать на своё усмотрение.</div>
+                            </div>
+                        </div>
+                        <div class="opt" data-val="extended" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt" data-count-type="filter">
+                            <div class="radio"><div class="rdot"></div></div>
+                            <div>
+                                <div class="opt-name">Расширенный <span class="cnt" id="cnt-extended">…</span></div>
+                                <div class="opt-desc">Расширенный список фильтров. Рекомендуется к использованию для большинства пользователей.</div>
+                            </div>
+                        </div>
+                        <div class="opt" data-val="extended_plus" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt" data-count-type="filter">
+                            <div class="radio"><div class="rdot"></div></div>
+                            <div>
+                                <div class="opt-name">Расширенный+ <span class="cnt" id="cnt-extended_plus">…</span></div>
+                                <div class="opt-desc">Максимальная блокировка на базе расширенного списка.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sec">
+                    <div class="sec-lbl">Дополнения <span class="tag t-a" style="vertical-align:middle">Add-on</span></div>
+                    <div class="opts" id="addon-group">
+                        <div class="opt" data-val="youtube" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt" data-count-type="filter-count">
+                            <div class="cbox"><svg width="9" height="7" viewBox="0 0 9 7" fill="none"><path d="M1 3.5L3 5.5L8 1" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg></div>
+                            <div>
+                                <div class="opt-name">NoADS_RU YouTube <span class="cnt" id="cnt-youtube">…</span></div>
+                                <div class="opt-desc">Фильтры для YouTube, Spotify, BiliBili, RuTube.</div>
+                            </div>
+                        </div>
+                        <div class="opt" data-val="youtube_beta" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube_beta.txt" data-count-type="filter-count">
+                            <div class="cbox"><svg width="9" height="7" viewBox="0 0 9 7" fill="none"><path d="M1 3.5L3 5.5L8 1" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg></div>
+                            <div>
+                                <div class="opt-name">NoADS_RU YouTube Beta <span class="cnt" id="cnt-youtube_beta">…</span></div>
+                                <div class="opt-desc">Фильтры для YouTube, Spotify, BiliBili, RuTube. Содержит ещё больше фильтров, если вам показалось их мало в стандартном варианте.</div>
+                            </div>
+                        </div>
+                        <div class="opt" data-val="ai_slop" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt" data-count-type="filter-count">
+                            <div class="cbox"><svg width="9" height="7" viewBox="0 0 9 7" fill="none"><path d="M1 3.5L3 5.5L8 1" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg></div>
+                            <div>
+                                <div class="opt-name">NoADS_RU AI Slop Killer <span class="cnt" id="cnt-ai_slop">…</span></div>
+                                <div class="opt-desc">Блокировка низкокачественного ИИ-контента.</div>
+                            </div>
+                        </div>
+                        <div class="opt" data-val="faust" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt" data-count-type="filter-count">
+                            <div class="cbox"><svg width="9" height="7" viewBox="0 0 9 7" fill="none"><path d="M1 3.5L3 5.5L8 1" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg></div>
+                            <div>
+                                <div class="opt-name">NoADS_RU Faust <span class="cnt" id="cnt-faust">…</span></div>
+                                <div class="opt-desc">Дополнительные правила от Faust'а.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div style="padding:0 0 12px 0">
+                    <a class="btn-dl" href="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/refs/heads/main/ublock-origin-settings.json" target="_blank" rel="noopener" download>
+                        <svg width="13" height="13" viewBox="0 0 13 13" fill="none">
+                            <path d="M6.5 1.5v7M4 6.5l2.5 2.5L9 6.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M2 10h9" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" />
+                        </svg>
+                        Авторская настройка для uBlock Origin
+                    </a>
+                </div>
+            </div>
+
+            <div class="tab-panel" id="tab-hosts">
+                <div class="sec">
+                    <div class="sec-lbl">Блокировка <span class="tag t-bl" style="vertical-align:middle">hosts</span></div>
+                    <div class="opts" id="hosts-block">
+                        <div class="opt" data-val="blocker" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt" data-count-type="hosts">
+                            <div class="cbox"><svg width="9" height="7" viewBox="0 0 9 7" fill="none"><path d="M1 3.5L3 5.5L8 1" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg></div>
+                            <div>
+                                <div class="opt-name">NoADS_RU Hosts Blocker <span class="cnt" id="cnt-blocker">…</span></div>
+                                <div class="opt-desc">Реклама, трекеры, фишинг, аналитика, Android OEM, специфичные для Windows хосты (Microsoft, Adobe) и многое другое будет заблокировано для вашего удобства.</div>
+                            </div>
+                        </div>
+                        <div class="opt" data-val="blockerFL" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blockerFL.txt" data-count-type="hosts">
+                            <div class="cbox"><svg width="9" height="7" viewBox="0 0 9 7" fill="none"><path d="M1 3.5L3 5.5L8 1" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg></div>
+                            <div>
+                                <div class="opt-name">NoADS_RU Hosts BlockerFL <span class="cnt" id="cnt-blockerFL">…</span></div>
+                                <div class="opt-desc">Расширенная версия NoADS_RU Hosts Blocker. Рекомендуется к использованию для большинства пользователей.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sec">
+                    <div class="sec-lbl">Разблокировка <span class="tag t-bp" style="vertical-align:middle">bypass</span></div>
+                    <div class="opts" id="hosts-bypass">
+                        <div class="opt" data-val="bypass" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass.txt" data-count-type="hosts">
+                            <div class="cbox"><svg width="9" height="7" viewBox="0 0 9 7" fill="none"><path d="M1 3.5L3 5.5L8 1" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg></div>
+                            <div>
+                                <div class="opt-name">NoADS_RU Hosts Bypass <span class="cnt" id="cnt-bypass">…</span></div>
+                                <div class="opt-desc">Обход региональных ограничений РФ (на стороне сайта).</div>
+                            </div>
+                        </div>
+                        <div class="opt" data-val="bypass2" data-url="https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/bypass2.txt" data-count-type="hosts">
+                            <div class="cbox"><svg width="9" height="7" viewBox="0 0 9 7" fill="none"><path d="M1 3.5L3 5.5L8 1" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg></div>
+                            <div>
+                                <div class="opt-name">NoADS_RU Hosts Bypass2 <span class="cnt" id="cnt-bypass2">…</span></div>
+                                <div class="opt-desc">Альтернативный обход.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="out">
+        <div class="res-card" id="res-card">
+            <div class="res-tabs">
+                <button class="res-tab active" data-rtab="rf">Фильтры <span class="rbadges" id="rbf"><span class="rbadge rb-none">—</span></span></button>
+                <button class="res-tab" data-rtab="rh">Хосты <span class="rbadges" id="rbh"><span class="rbadge rb-none">—</span></span></button>
+            </div>
+
+            <div class="res-panel active" id="rf">
+                <div class="urlbox" id="fbox"><div class="ph">Настройте параметры</div></div>
+                <div class="copybar-ext" id="cbar-f">
+                    <a class="btn-link" href="https://codeberg.org/Zalexanninev15/NoADS_RU#%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B5-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B8-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81%D0%BE-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BC" target="_blank" rel="noopener">
+                        <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+                            <path d="M2 1.5h6a.5.5 0 0 1 .5.5v7.5H2.5A1 1 0 0 1 1.5 8.5v-7A.5.5 0 0 1 2 1z" stroke="currentColor" stroke-width="1.1" stroke-linejoin="round" />
+                            <path d="M8.5 9.5a1 1 0 0 1-1 1H2.5" stroke="currentColor" stroke-width="1.1" stroke-linecap="round" />
+                            <path d="M3.5 3.5h3M3.5 5.5h2" stroke="currentColor" stroke-width="1.1" stroke-linecap="round" />
+                        </svg> Инструкция</a>
+                    <button class="btn-copy" id="cbtn-f" onclick="copyUrls('f')">
+                        <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+                            <rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1.3" stroke="currentColor" stroke-width="1.2" />
+                            <path d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" />
+                        </svg> <span id="clbl-f">Скопировать ссылки</span></button>
+                </div>
+            </div>
+
+            <div class="res-panel" id="rh">
+                <div class="urlbox" id="hbox"><div class="ph">Выберите хосты на вкладке «Хосты»</div></div>
+                <div class="copybar-ext" id="cbar-h">
+                    <a class="btn-link" href="https://github.com/Zalexanninev15/NoADS_RU/discussions/22" target="_blank" rel="noopener">
+                        <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+                            <rect x="1" y="4" width="9" height="4.5" rx="1" stroke="currentColor" stroke-width="1.1" />
+                            <path d="M3.5 6.2h.01M5.5 6.2h.01M7.5 6.2h.01" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" />
+                            <path d="M3.5 4V3M5.5 4V2M7.5 4V3" stroke="currentColor" stroke-width="1.1" stroke-linecap="round" />
+                        </svg> OpenWRT</a>
+                    <button class="btn-copy" id="cbtn-h" onclick="copyUrls('h')">
+                        <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+                            <rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1.3" stroke="currentColor" stroke-width="1.2" />
+                            <path d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" />
+                        </svg> <span id="clbl-h">Скопировать ссылки</span></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<button class="scroll-top" id="scroll-top" title="Наверх" onclick="window.scrollTo({top:0,behavior:'smooth'})">
+    <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 13V3M4 7l4-4 4 4" />
+    </svg>
+</button>
+
+<script>
+(function () {
+    const LOGO_URL = "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/assets/Logo.png";
+    const CACHE_KEY = "noads_logo_v1";
+    const img = document.getElementById("logo-img");
+    if (!img) return;
+    function applyLogo(dataUrl) { img.src = dataUrl; }
+    function compressAndCache(src) {
+        const raw = new Image();
+        raw.crossOrigin = "anonymous";
+        raw.onload = function () {
+            try {
+                const SIZE = 52;
+                const c = document.createElement("canvas");
+                c.width = c.height = SIZE;
+                c.getContext("2d").drawImage(raw, 0, 0, SIZE, SIZE);
+                const compressed = c.toDataURL("image/webp", 0.75);
+                try { localStorage.setItem(CACHE_KEY, compressed); } catch (_) { }
+                applyLogo(compressed);
+            } catch (_) {
+                applyLogo(src);
+            }
+        };
+        raw.onerror = function () { img.dispatchEvent(new Event("error")); };
+        raw.src = src;
+    }
+    try {
+        const cached = localStorage.getItem(CACHE_KEY);
+        if (cached) { applyLogo(cached); return; }
+    } catch (_) { }
+    compressAndCache(LOGO_URL);
+})();
+
+const B = "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/";
+const SEL_KEY = "noads_sel";
+const countCache = {};
+const dateCache = {};
+
+const FL = {
+    standard: { val: "standard", url: B + "ads_list.txt", name: "NoADS_RU", badge: "ub-full", lbl: "full" },
+    rws: { val: "rws", url: B + "ads_list_rws.txt", name: "NoADS_RU RWS", badge: "ub-full", lbl: "full" },
+    extended: { val: "extended", url: B + "ads_list_extended.txt", name: "NoADS_RU Extended", badge: "ub-full", lbl: "full" },
+    extended_plus: { val: "extended_plus", url: B + "ads_list_extended_plus.txt", name: "NoADS_RU Extended Plus", badge: "ub-full", lbl: "full" },
+    youtube: { val: "youtube", url: B + "filters/youtube.txt", name: "NoADS_RU YouTube", badge: "ub-add", lbl: "add-on" },
+    youtube_beta: { val: "youtube_beta", url: B + "filters/youtube_beta.txt", name: "NoADS_RU YouTube Beta", badge: "ub-add", lbl: "add-on" },
+    ai_slop: { val: "ai_slop", url: B + "filters/ai_slop_killer.txt", name: "NoADS_RU AI Slop Killer", badge: "ub-add", lbl: "add-on" },
+    faust: { val: "faust", url: B + "filters/faust.txt", name: "NoADS_RU Faust", badge: "ub-add", lbl: "add-on" },
+};
+const HL = {
+    blocker: { val: "blocker", url: B + "hosts/blocker.txt", name: "NoADS_RU Hosts Blocker", badge: "ub-bl" },
+    blockerFL: { val: "blockerFL", url: B + "hosts/blockerFL.txt", name: "NoADS_RU Hosts BlockerFL", badge: "ub-bl" },
+    bypass: { val: "bypass", url: B + "hosts/bypass.txt", name: "NoADS_RU Hosts Bypass", badge: "ub-bp" },
+    bypass2: { val: "bypass2", url: B + "hosts/bypass2.txt", name: "NoADS_RU Hosts Bypass2", badge: "ub-bp" },
+};
+
+document.querySelectorAll("[data-url][data-val]").forEach((el) => {
+    const v = el.dataset.val;
+    if (FL[v]) FL[v].url = el.dataset.url;
+    if (HL[v]) HL[v].url = el.dataset.url;
+});
+
+let fUrls = [], hUrls = [];
+
+function getTheme() {
+    try { return localStorage.getItem("theme") || "auto"; } catch (_) { return "auto"; }
+}
+function applyTheme(t) {
+    document.documentElement.dataset.theme = t;
+    try { localStorage.setItem("theme", t); } catch (_) { }
+}
+function toggleTheme() {
+    const cur = getTheme();
+    const sys = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+    if (cur === "auto") applyTheme(sys === "light" ? "dark" : "light");
+    else if (cur === "dark") applyTheme("light");
+    else applyTheme("dark");
+}
+applyTheme(getTheme());
+
+function fmt(n) {
+    return n >= 1000 ? (n / 1000).toFixed(1) + "k" : String(n);
+}
+
+function setFailed(el, val) {
+    el.textContent = "—";
+    if (val) {
+        if (countCache[val] === undefined) countCache[val] = 0;
+        const dateEl = document.getElementById("date-cnt-" + val);
+        if (dateEl) dateEl.textContent = "—";
+        refreshFBadge();
+        refreshHBadge();
+    }
+}
+
+async function fetchHead(url) {
+    try {
+        const r = await fetch(url, { headers: { Range: "bytes=0-2047" } });
+        if (r.status === 206 || r.status === 200) return (await r.text()).slice(0, 4096);
+    } catch (_) { }
+    const r2 = await fetch(url);
+    if (!r2.ok) throw new Error("fail");
+    return (await r2.text()).slice(0, 4096);
+}
+
+async function fetchCount(url, type, id, val) {
+    const el = document.getElementById(id);
+    if (!el) return;
+    try {
+        let lines = [];
+        let count = 0;
+
+        if (type === "hosts") {
+            lines = (await fetchHead(url)).split("\n");
+            let found = false;
+            for (let i = 0; i < Math.min(15, lines.length); i++) {
+                const m = lines[i].match(/Total hosts:\s*(\d+)/i);
+                if (m) { count = parseInt(m[1]); found = true; break; }
+            }
+            if (!found) return setFailed(el, val);
+        } else if (type === "filter") {
+            lines = (await fetchHead(url)).split("\n");
+            let found = false;
+            for (let i = 0; i < Math.min(15, lines.length); i++) {
+                const m = lines[i].match(/^!\s*Total:\s*(\d+)/i);
+                if (m) { count = parseInt(m[1]); found = true; break; }
+            }
+            if (!found) return setFailed(el, val);
+        } else {
+            const fullRes = await fetch(url);
+            if (!fullRes.ok) throw new Error("fail");
+            lines = (await fullRes.text()).split("\n");
+            count = lines.filter((l) => l.trim() && !l.startsWith("!") && !l.startsWith("#") && !l.startsWith(" ")).length;
         }
 
-        :root {
-            --bg: #0f141a;
-            --surf: #13161e;
-            --surf2: #1a1e28;
-            --border: #232736;
-            --accent: #2684cf;
-            --accent-rgb: 38, 132, 207;
-            --text: #d8dbe5;
-            --sub: #9aa0b8;
-            --muted: #525870;
-            --dim: #3a3f52;
-            --green: #3ecf8e;
-            --purple: #9d87ff;
-            --yellow: #f0c040;
-            --mono: "JetBrains Mono", monospace;
-            --sans: "Onest", sans-serif;
+        if (val) countCache[val] = count;
+        el.textContent = fmt(count);
+        el.classList.add("loaded");
+
+        if (val) {
+            let dm = null;
+            for (let i = 0; i < Math.min(15, lines.length); i++) {
+                dm = lines[i].match(/^[!#]\s*Last modified:\s*(.+)/i);
+                if (dm) break;
+            }
+            if (dm) dateCache[val] = dm[1].trim();
+            const dateEl = document.getElementById("date-cnt-" + val);
+            if (dateEl && dateCache[val]) {
+                dateEl.textContent = dateCache[val];
+                dateEl.classList.add("loaded");
+            } else if (dateEl) {
+                dateEl.textContent = "—";
+            }
         }
+        refreshFBadge();
+        refreshHBadge();
+    } catch (e) {
+        setFailed(el, val);
+    }
+}
+
+function restoreSelection() {
+    try {
+        const s = JSON.parse(localStorage.getItem(SEL_KEY) || "null");
+        if (!s) return;
+        document.querySelectorAll("#full-group > .opt").forEach((o) => o.classList.toggle("sel", (s.f || []).includes(o.dataset.val)));
+        document.querySelectorAll("#addon-group .opt").forEach((o) => o.classList.toggle("on", (s.f || []).includes(o.dataset.val)));
+        document.querySelectorAll("#hosts-block .opt, #hosts-bypass .opt").forEach((o) => o.classList.toggle("on", (s.h || []).includes(o.dataset.val)));
+    } catch (_) { }
+}
+
+function saveSelection() {
+    try {
+        localStorage.setItem(SEL_KEY, JSON.stringify({ f: fUrls.map((i) => i.val), h: hUrls.map((i) => i.val) }));
+    } catch (_) { }
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll("[data-url][data-count-type]").forEach((opt) => {
+        const cntEl = document.getElementById("cnt-" + opt.dataset.val);
+        if (cntEl) {
+            const span = document.createElement("span");
+            span.className = "date-cnt";
+            span.id = "date-cnt-" + opt.dataset.val;
+            span.textContent = "…";
+            cntEl.after(span);
+        }
+    });
+
+    document.querySelectorAll("[data-url][data-count-type]").forEach((opt) => {
+        fetchCount(opt.dataset.url, opt.dataset.countType, "cnt-" + opt.dataset.val, opt.dataset.val);
+    });
+
+    restoreSelection();
+    generate();
+
+    const stBtn = document.getElementById("scroll-top");
+    window.addEventListener("scroll", () => {
+        stBtn.classList.toggle("vis", window.scrollY > 280);
+    }, { passive: true });
+});
+
+document.querySelectorAll(".tab").forEach((t) => {
+    t.addEventListener("click", () => {
+        document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
+        document.querySelectorAll(".tab-panel").forEach((x) => x.classList.remove("active"));
+        t.classList.add("active");
+        document.getElementById("tab-" + t.dataset.tab).classList.add("active");
+    });
+});
+
+document.querySelectorAll(".res-tab").forEach((t) => {
+    t.addEventListener("click", () => {
+        document.querySelectorAll(".res-tab").forEach((x) => x.classList.remove("active"));
+        document.querySelectorAll(".res-panel").forEach((x) => x.classList.remove("active"));
+        t.classList.add("active");
+        document.getElementById(t.dataset.rtab).classList.add("active");
+    });
+});
+
+document.querySelectorAll("#full-group > .opt").forEach((opt) => {
+    opt.addEventListener("click", () => {
+        document.querySelectorAll("#full-group > .opt").forEach((o) => o.classList.remove("sel"));
+        opt.classList.add("sel");
+        generate();
+    });
+});
+
+document.querySelectorAll("#addon-group .opt, #hosts-block .opt, #hosts-bypass .opt").forEach((opt) => {
+    opt.addEventListener("click", () => {
+        opt.classList.toggle("on");
+        generate();
+    });
+});
+
+function generate() {
+    fUrls = [];
+    hUrls = [];
+    const selOpt = document.querySelector("#full-group .opt.sel");
+    if (selOpt && FL[selOpt.dataset.val]) fUrls.push(FL[selOpt.dataset.val]);
+    document.querySelectorAll("#addon-group .opt.on").forEach((o) => {
+        if (FL[o.dataset.val]) fUrls.push(FL[o.dataset.val]);
+    });
+    document.querySelectorAll("#hosts-block .opt.on, #hosts-bypass .opt.on").forEach((o) => {
+        if (HL[o.dataset.val]) hUrls.push(HL[o.dataset.val]);
+    });
+    renderF();
+    renderH();
+    document.getElementById("res-card").classList.add("has");
+    saveSelection();
+}
+
+function sumByBadge(list, badgeType) {
+    let total = 0, loading = false;
+    list.filter((u) => u.badge === badgeType).forEach((u) => {
+        if (countCache[u.val] !== undefined) total += countCache[u.val];
+        else loading = true;
+    });
+    return { total, loading };
+}
+
+function renderBadges(containerId, specs) {
+    const el = document.getElementById(containerId);
+    const parts = specs
+        .map((s) => ({ cls: s.cls, ...sumByBadge(s.list, s.badgeType) }))
+        .filter((p) => p.total > 0 || p.loading);
+    if (!parts.length) {
+        el.innerHTML = '<span class="rbadge rb-none">—</span>';
+        return;
+    }
+    el.innerHTML = parts.map((p) => {
+        const txt = p.loading && p.total === 0 ? "…" : p.loading ? "~" + fmt(p.total) : fmt(p.total);
+        return `<span class="rbadge ${p.cls}">${txt}</span>`;
+    }).join("");
+}
+
+function refreshFBadge() {
+    renderBadges("rbf", [
+        { cls: "rb-full", badgeType: "ub-full", list: fUrls },
+        { cls: "rb-add", badgeType: "ub-add", list: fUrls },
+    ]);
+}
+function refreshHBadge() {
+    renderBadges("rbh", [
+        { cls: "rb-bl", badgeType: "ub-bl", list: hUrls },
+        { cls: "rb-bp", badgeType: "ub-bp", list: hUrls },
+    ]);
+}
+
+const COPY_SVG = `<svg viewBox="0 0 11 11" fill="none"><rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1.3" stroke="currentColor" stroke-width="1.2"/><path d="M7.5 3.5V2C7.5 1.45 7.05 1 6.5 1H2C1.45 1 1 1.45 1 2V6.5C1 7.05 1.45 7.5 2 7.5H3.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg>`;
+const CHECK_SVG = `<svg viewBox="0 0 11 11" fill="none"><path d="M2 5.5L4.5 8L9 3" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
+function mkRow(item, i, lbl) {
+    const d = document.createElement("div");
+    d.className = "urow";
+    d.style.animationDelay = i * 30 + "ms";
+
+    const copyBtn = document.createElement("button");
+    copyBtn.className = "ucopy";
+    copyBtn.title = "Копировать ссылку";
+    copyBtn.innerHTML = COPY_SVG;
+    copyBtn.addEventListener("click", () => {
+        navigator.clipboard.writeText(item.url).then(() => {
+            copyBtn.classList.add("ok");
+            copyBtn.innerHTML = CHECK_SVG;
+            setTimeout(() => {
+                copyBtn.classList.remove("ok");
+                copyBtn.innerHTML = COPY_SVG;
+            }, 1800);
+        });
+    });
+
+    d.innerHTML =
+        '<span class="ubadge ' + item.badge + '">' + lbl + "</span>" +
+        '<div style="flex:1;min-width:0">' +
+        '<div class="uname">' + item.name + "</div>" +
+        '<div class="ucode-wrap"><div class="ucode">' + item.url + "</div></div>" +
+        "</div>";
+
+    d.querySelector(".ucode-wrap").appendChild(copyBtn);
+    return d;
+}
+
+function renderF() {
+    const box = document.getElementById("fbox");
+    if (!fUrls.length) {
+        box.innerHTML = '<div class="ph">Выберите список фильтров</div>';
+        document.getElementById("rbf").innerHTML = '<span class="rbadge rb-none">—</span>';
+        document.getElementById("cbar-f").classList.remove("vis");
+        return;
+    }
+    box.innerHTML = "";
+    fUrls.forEach((item, i) => box.appendChild(mkRow(item, i, item.lbl)));
+    refreshFBadge();
+    document.getElementById("cbar-f").classList.add("vis");
+    resetBtn("f");
+}
+
+function renderH() {
+    const box = document.getElementById("hbox");
+    box.innerHTML = "";
+    if (!hUrls.length) {
+        box.innerHTML = '<div class="ph">Хосты не выбраны</div>';
+        document.getElementById("rbh").innerHTML = '<span class="rbadge rb-none">—</span>';
+        document.getElementById("cbar-h").classList.remove("vis");
+        return;
+    }
+    hUrls.forEach((item, i) => {
+        const lbl = item.badge === "ub-bp" ? "bypass" : "hosts";
+        box.appendChild(mkRow(item, i, lbl));
+    });
+    refreshHBadge();
+    document.getElementById("cbar-h").classList.add("vis");
+    resetBtn("h");
+}
+
+function copyUrls(k) {
+    const list = k === "f" ? fUrls : hUrls;
+    navigator.clipboard.writeText(list.map((i) => i.url).join("\n")).then(() => {
+        const btn = document.getElementById("cbtn-" + k);
+        const lbl = document.getElementById("clbl-" + k);
+        btn.classList.add("ok");
+        lbl.textContent = "Скопировано!";
+        setTimeout(() => {
+            btn.classList.remove("ok");
+            lbl.textContent = "Скопировать ссылки";
+        }, 2200);
+    });
+}
+
+function resetBtn(k) {
+    document.getElementById("clbl-" + k).textContent = "Скопировать ссылки";
+    document.getElementById("cbtn-" + k).classList.remove("ok");
+}
+</script>
+</body>
+</html>
 
         @media (prefers-color-scheme: light) {
             html[data-theme="auto"] {
