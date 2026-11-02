@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 28 октября 2026 года
-! Total: 19767
+! Last modified: 2 ноября 2026 года
+! Total: 19791
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -8647,6 +8647,7 @@ google.com##.chr-heading-pill
 google.com##+js(set-local-storage-item, mapslitepromosdismissed, 1)
 ||youtube.com/pixel
 ||contributor.google.com^*/loader.js$third-party
+||google.com/ccm/
 ||google.com/log?$important,from=~accounts.google.com
 ||googleapis.com/gsf-scripts/global-remarketing/
 /cleardot.gif$redirect=1x1.gif
@@ -8664,6 +8665,7 @@ support.google.com##.survey
 support.google.com##sc-shared-material-fab
 mail.google.com###talk_roster
 mail.google.com##div[role="alert"]:has-text(get calls here)
+mail.google.com##[role=banner]:has-text(supported browser)
 ||pay.google.com/gp/p/ui/payframe
 ||google.com/mail/u/0/jserror
 support.google.com##.gb_Ed
@@ -23446,3 +23448,11 @@ yandex.*,dzen.ru##.RealtyListing-AdvItem,.OfferSnippet_highlight
 @@||challenges.cloudflare.com^
 @@||hcaptcha.com^
 @@||recaptcha.net^
+
+! Nov 2, 2026 https://market.yandex.ru
+market.yandex.ru##div[data-banner-manager-id*="Promo"]
+market.yandex.ru##div[data-banner-manager-id*="promo"]
+market.yandex.ru##a[href*="/kolesoprizov"]
+market.yandex.ru##div[data-zone-name="loginAgitation"]
+market.yandex.ru##div[id*="promo"]
+market.yandex.ru##div[id*="Promo"]
