@@ -26,7 +26,8 @@
 0.0.0.0 api.is.com
 0.0.0.0 r.mail.ru
 0.0.0.0 amc.mail.ru
-0.0.0.0 t.vk.com
-0.0.0.0 err.vk.com
+0.0.0.0 t.vk.ru
+0.0.0.0 err.vk.ru
 0.0.0.0 analytics.my.com
 0.0.0.0 bip.my.com
+0.0.0.0 vk.com

@@ -7324,7 +7324,7 @@
 0.0.0.0 adblockeromega.com
 0.0.0.0 adblockerprofessional.com
 0.0.0.0 adblocksosal.ru
-0.0.0.0 adblogger.vk.com
+0.0.0.0 adblogger.vk.ru
 0.0.0.0 adblogger.vk.ru
 0.0.0.0 adbmetrics.abc.es
 0.0.0.0 adbmetrics.blogasturias.com
@@ -9462,7 +9462,7 @@
 0.0.0.0 adv.topvideo.tj
 0.0.0.0 adv.ukrinform.com
 0.0.0.0 adv.unionesarda.it
-0.0.0.0 adv.vk.com
+0.0.0.0 adv.vk.ru
 0.0.0.0 adv.vk.ru
 0.0.0.0 adv.vz.ru
 0.0.0.0 adv.yandex.com
@@ -13776,7 +13776,7 @@
 0.0.0.0 analytics.vivint.com
 0.0.0.0 analytics.vixcloud.co
 0.0.0.0 analytics.vk.asahi.co.jp
-0.0.0.0 analytics.vk.com
+0.0.0.0 analytics.vk.ru
 0.0.0.0 analytics.vnncdn.net
 0.0.0.0 analytics.vnpt.vn
 0.0.0.0 analytics.vnreview.vn
@@ -24003,7 +24003,7 @@
 0.0.0.0 bzrcdn.openai.com
 0.0.0.0 bzrch.heyskipperfishing.com
 0.0.0.0 bzrpp.nakednutrition.ca
-0.0.0.0 bzrpvk.com
+0.0.0.0 bzrp#vk.ru
 0.0.0.0 bzsfvi.fnacpro.com
 0.0.0.0 bztcjooivbndu.space
 0.0.0.0 bztzpzqpltlad.site
@@ -48344,7 +48344,7 @@
 0.0.0.0 elqtrk.morningstar.pt
 0.0.0.0 elqtrk.my.morningstar.com
 0.0.0.0 elqtrk.sg.morningstar.com
-0.0.0.0 elqtrk.stamford-avk.com
+0.0.0.0 elqtrk.stamford-a#vk.ru
 0.0.0.0 elqtrk.tw.morningstar.com
 0.0.0.0 elqunhaejiyfm.online
 0.0.0.0 elqview.kofax.com
@@ -49622,7 +49622,7 @@
 0.0.0.0 erpzllhibhdzv.site
 0.0.0.0 erqndwzejjkkc.online
 0.0.0.0 err.izooto.com
-0.0.0.0 err.vk.com
+0.0.0.0 err.vk.ru
 0.0.0.0 errandchavish.cfd
 0.0.0.0 erranddealing.com
 0.0.0.0 errandfourteenthcatering.com
@@ -77367,7 +77367,7 @@
 0.0.0.0 kagjin.bottegaverde.it
 0.0.0.0 kagocvncavfqi.store
 0.0.0.0 kagonst.com
-0.0.0.0 kagxyvk.com
+0.0.0.0 kagxy#vk.ru
 0.0.0.0 kahblkqxbjscd.website
 0.0.0.0 kahdz.carechanges.com
 0.0.0.0 kahenyptedkzt.website
@@ -101418,7 +101418,7 @@
 0.0.0.0 ms.topschooljobs.org
 0.0.0.0 ms.vacancesweb.be
 0.0.0.0 ms.vakantieweb.be
-0.0.0.0 ms.vk.com
+0.0.0.0 ms.vk.ru
 0.0.0.0 ms.vk.ru
 0.0.0.0 ms.xunyou.com
 0.0.0.0 ms1.morganstanley.com
@@ -108392,7 +108392,7 @@
 0.0.0.0 oqfy4va7a.com
 0.0.0.0 oqgelc.samuelhubbard.com
 0.0.0.0 oqgrax.sissy-boy.com
-0.0.0.0 oqhbgxvk.com
+0.0.0.0 oqhbgx#vk.ru
 0.0.0.0 oqidne.itaka.pl
 0.0.0.0 oqidu.handupgloves.com
 0.0.0.0 oqilfrcvqhty.com
@@ -109328,7 +109328,7 @@
 0.0.0.0 oyoxyc.josefsteiner.at
 0.0.0.0 oyqxdtshsivhl.online
 0.0.0.0 oyrsdqzzdfmjy.website
-0.0.0.0 oysdzwzivk.com
+0.0.0.0 oysdzwzi#vk.ru
 0.0.0.0 oyshsqsoyrexh.site
 0.0.0.0 oyssqe.easyvoyage.com
 0.0.0.0 oysterspottery.com
@@ -118663,7 +118663,7 @@
 0.0.0.0 rdi.as.criteo.com
 0.0.0.0 rdi.da1.vip.prod.criteo.com
 0.0.0.0 rdi.us.criteo.com
-0.0.0.0 rdipmrbwgvk.com
+0.0.0.0 rdipmrbwg#vk.ru
 0.0.0.0 rdiul.com
 0.0.0.0 rdjzt.buyindacloud.com
 0.0.0.0 rdkct.kickgame.co.uk
@@ -144045,7 +144045,7 @@
 0.0.0.0 ss.growgeneration.com
 0.0.0.0 ss.grunkeventfirmajulefrokost.dk
 0.0.0.0 ss.grupomendoncabarros.com.br
-0.0.0.0 ss.grupovk.com
+0.0.0.0 ss.grupo#vk.ru
 0.0.0.0 ss.gruppoe43.it
 0.0.0.0 ss.gualdatraining.com
 0.0.0.0 ss.guardality.com
@@ -162307,7 +162307,7 @@
 0.0.0.0 t.visx.net
 0.0.0.0 t.vitaliasupplements.co
 0.0.0.0 t.vitori.de
-0.0.0.0 t.vk.com
+0.0.0.0 t.vk.ru
 0.0.0.0 t.voyages-sncf.com
 0.0.0.0 t.vucommodores.com
 0.0.0.0 t.warlocksgym.com
@@ -163731,7 +163731,7 @@
 0.0.0.0 target.virginmoney.com.au
 0.0.0.0 target.visitandorra.com
 0.0.0.0 target.vivid.com
-0.0.0.0 target.vk.com
+0.0.0.0 target.vk.ru
 0.0.0.0 target.vk.ru
 0.0.0.0 target.volkswagenfinancialservices.nl
 0.0.0.0 target.vr-bankenportal.de
@@ -164169,7 +164169,7 @@
 0.0.0.0 tcvhz.joahbrown.com
 0.0.0.0 tcvnhomefic.com
 0.0.0.0 tcwubebhggddq.space
-0.0.0.0 tcwvvosfnvk.com
+0.0.0.0 tcwvvosfn#vk.ru
 0.0.0.0 tcx-beacon.docs.aws.dev
 0.0.0.0 tcxjkoekoqvkj.website
 0.0.0.0 tcxoatcplzqai.website
