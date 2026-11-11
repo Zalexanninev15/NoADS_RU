@@ -1,6 +1,6 @@
 ! Title: 👍️ NoADS_RU
-! Last modified: 6 ноября 2026 года
-! Total: 19852
+! Last modified: 11 ноября 2026 года
+! Total: 19853
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -23549,3 +23549,6 @@ reddit.com##a[href*="alb.reddit.com"]
 reddit.com##shreddit-ad-post
 reddit.com##*-ad-post
 !reddit.com##div[class*="error"]
+
+! Nov 11, 2026 https://dns-shop.ru
+dns-shop.ru##div[class="personal-block"]
