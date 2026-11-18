@@ -1,5 +1,5 @@
 ! Title: 📹🎧 NoADS_RU YouTube
-! Last modified: 28 октября 2026 года
+! Last modified: 18 ноября 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -77,6 +77,8 @@ youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-slim-items-per-r
 youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-game-cards-per-row: 7 !important;)
 youtube.com##+js(set-attr, ytd-rich-shelf-renderer, is-show-more-hidden)
 youtube.com##+js(ra, hidden, ytd-rich-item-renderer, stay)
+! Hide BIG YouTube logo
+www.youtube.com##.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
 
 ! Spotify
 @@||cdn.cookielaw.org/scripttemplates/$script,domain=open.spotify.com

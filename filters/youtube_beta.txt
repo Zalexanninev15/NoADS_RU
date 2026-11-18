@@ -1,5 +1,5 @@
 ! Title: 📹🎧 NoADS_RU YouTube Beta
-! Last modified: 28 октября 2026 года
+! Last modified: 18 ноября 2026 года
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -168,6 +168,8 @@ youtube.com,35.190.94.206##.branded-page-v2-secondary-col > .branded-page-relate
 youtube.com,35.190.94.206##.branded-page-v2-secondary-col > .branded-page-related-channels > .yt-uix-tooltip + .branded-page-related-channels-list
 ! "Subscribe to see more videos from this channel" on home page after watching some video of a channel
 youtube.com###channel-subscription-promo-in-feed
+! Hide BIG YouTube logo
+www.youtube.com##.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
 
 ! Spotify
 @@||cdn.cookielaw.org/scripttemplates/$script,domain=open.spotify.com
