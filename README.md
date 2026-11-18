@@ -52,7 +52,8 @@
 | 🇷🇺 **[NoADS_RU RWS](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_rws.txt)** | Full | Список фильтров для 100% работы Ямы, Повесточки, VK, Mail.ru (и, возможно, других русскоязычных сервисов) на базе NoADS_RU. |
 | 📹🎧 **[NoADS_RU YouTube](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.txt)** | Add-on | Дополнительные фильтры для YouTube, Spotify, BiliBili, RuTube. |
 | 📹🎧 **[NoADS_RU YouTube Beta](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube_beta.txt)** | Add-on | Дополнительные фильтры для YouTube, Spotify, BiliBili, RuTube. Содержит больше фильтров, чем стандартный вариант. |
-| 🤖🖼️❌ **[NoADS_RU AI Slop Killer](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt)** | Add-on | Блокировка ИИ и сгенерированного низкокачественного контента. |
+| 🤖🖼️✋ **[NoADS_RU Stop AI Slop](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/stop_ai_slop.txt)** | Add-on | Блокировка ИИ и сгенерированного низкокачественного контента. |
+| 🤖🖼️✋🩸 **[NoADS_RU Stop AI Slop Killer](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/stop_stop_ai_slop_killer.txt)** | Add-on | Блокировка ИИ и сгенерированного низкокачественного контента. |
 | 👨‍💻 **[NoADS_RU Faust](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/faust.txt)** | Add-on | Фильтры от Faust'а. |
 
 > [!NOTE]
@@ -151,17 +152,20 @@ https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube.t
 > [!TIP]
 > Для лучшей работы можете использовать другую ссылку `https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/youtube_beta.txt`
 
-#### 🤖🖼️❌ NoADS_RU AI Slop Killer
+#### 🤖🖼️✋ NoADS_RU Stop AI Slop (+ Killer 🩸)
 
 > [!NOTE]
 > ⚠️ Важно! Это не Full список фильтров, как остальные, которые развиваются в рамках NoADS_RU, а Add-on. Данный список фильтров как-бы "наслаивается" на другие списки. Такой подход позволяет не выбирать какой-то один список фильтров в качестве основы и планируется использовать для всех списков фильтров, чтобы вас было удобнее кастомизировать списки фильтров под свои нужды.
 
-Если вас уже бесит вездесущий ИИ и низкокачетсвенный контент, который им генерируется (всё чаще и чаще попадается в Интернете), то этот дополнительный список фильтров для вас.
+Если вас уже бесит вездесущий ИИ и низкокачетсвенный контент, который им генерируется (всё чаще и чаще попадается в Интернете), то этот дополнительный список фильтров для вас. Вариант **Killer** позволяет лучше фильтровать данный тип контента.
 
 🔗 Ссылка для подключения:
 ```
-https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/ai_slop_killer.txt
+https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/stop_ai_slop.txt
 ```
+
+> [!TIP]
+> Для лучшей работы можете использовать другую ссылку `https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/filters/stop_ai_slop_killer.txt`
 
 #### 👨‍💻 NoADS_RU Faust's Lists
 
