@@ -294,7 +294,9 @@ def main():
         "ads_list.txt",
         "ads_list_extended.txt",
         "ads_list_extended_plus.txt",
-        "ads_list_rws.txt",
+        "ads_list_rws.txt"
+#        "filters/stop_ai_slop_killer.txt",
+#        "filters/stop_ai_slop.txt"
     ]
 
     for target_file in target_files:
