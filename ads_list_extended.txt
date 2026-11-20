@@ -1,6 +1,6 @@
 ! Title: 😎 NoADS_RU Extended
 ! Last modified: 20 ноября 2026 года
-! Total: 75181
+! Total: 75183
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -78908,3 +78908,7 @@ www.regard.ru##div[class*="Banner"]
 
 ! Nov 13, 2026 https://dns-shop.ru
 ||a.dns-shop.ru/chat-assets/button/kolobok.webp$image
+
+! Nov 20, 2026 https://ya.ru
+ya.ru##.ChatListLoginPanel
+ya.ru##.NotificationBanner_type_unlogged.NotificationBanner
