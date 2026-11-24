@@ -1,6 +1,6 @@
 ! Title: 🇷🇺 NoADS_RU RWS
-! Last modified: 20 ноября 2026 года
-! Total: 17848
+! Last modified: 24 ноября 2026 года
+! Total: 17858
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -21328,8 +21328,9 @@ yoomoney.ru##div[data-offer-block-id*="promotional"]
 yoomoney.ru##img[data-qa*="promotional"]
 yoomoney.ru##img[src*="bonus"]
 
-! Фантики после оплаты
-! ||flocktory.com (оставил, вдруг вы один из тех, кто верит в чудо и кому нужны данные подачки)
+! Фантики после оплаты (оставил, вдруг вы один из тех, кто верит в чудо и кому нужны данные подачки)
+! ||flocktory.com^
+! ||share.flocktory.com^
 
 ||ya.ru^$removeparam=ysclid
 
@@ -21527,3 +21528,15 @@ www.regard.ru##div[class*="Banner"]
 ! Nov 20, 2026 https://ya.ru
 ya.ru##.ChatListLoginPanel
 ya.ru##.NotificationBanner_type_unlogged.NotificationBanner
+
+! Nov 20, 2026 https://onejailbreak.com
+onejailbreak.com##.ad_holder.adsbygoogle
+onejailbreak.com##.is-visible.wp-soft-prompt--top-center.wp-soft-prompt
+onejailbreak.com###slot-in-article-bottom
+onejailbreak.com###slot-sidebar-start
+onejailbreak.com###slot-top > div
+onejailbreak.com##.mobile-ad
+onejailbreak.com##section[class*="plus"]
+onejailbreak.com##div[id^="slot"]
+onejailbreak.com##a[href*="subscribe"]
+onejailbreak.com##div[data-ad-ignore="true"]

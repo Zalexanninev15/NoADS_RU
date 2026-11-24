@@ -255,7 +255,7 @@ def main():
     )
 
     proxies = None
-    proxy_file = ".s5proxy"
+    proxy_file = "socks5_proxy.configs"
     use_proxy_auto = True
     if os.path.exists(proxy_file):
         try:

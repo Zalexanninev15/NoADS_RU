@@ -1,5 +1,5 @@
-# Total hosts: 279
-# Last modified: 20 ноября 2026 года
+# Total hosts: 281
+# Last modified: 24 ноября 2026 года
 3.164.206.34 a-v2.sndcdn.com
 217.60.179.6 a.claude.ai
 134.0.118.88 ab.chatgpt.com
@@ -137,6 +137,7 @@
 217.60.179.6 help.elevenlabs.io
 57.144.248.34 help.instagram.com
 2.22.31.233 hulu.com
+162.159.135.232 images-ext-1.discordapp.net
 204.12.192.222 images.pump.fun
 217.60.179.6 images.tidal.com
 204.12.192.222 inference.codeium.com
@@ -159,6 +160,7 @@
 204.12.192.222 login5.spotify.com
 149.154.167.220 macos.telegram.org
 3.66.189.153 mail.proton.me
+162.159.135.232 media.discordapp.net
 146.75.22.132 media.githubusercontent.com
 149.154.167.220 my.telegram.org
 158.255.0.189 netflix.com

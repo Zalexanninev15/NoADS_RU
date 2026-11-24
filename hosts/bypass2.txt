@@ -1,5 +1,5 @@
-# Total hosts: 1166
-# Last modified: 20 ноября 2026 года
+# Total hosts: 1168
+# Last modified: 24 ноября 2026 года
 193.233.112.67 37signals.com
 159.194.200.33 a-api.anthropic.com
 193.233.112.67 a-cdn.anthropic.com
@@ -416,6 +416,7 @@
 193.233.112.68 i.fmhy.net
 159.194.200.33 id.trimble.com
 159.194.200.33 ikea.com
+162.159.135.232 images-ext-1.discordapp.net
 193.233.112.88 images.contentstack.io
 159.194.200.33 images.naukri.com
 193.233.112.88 images.pump.fun
@@ -513,6 +514,7 @@
 193.233.112.67 marketplace.cursorapi.com
 193.233.112.67 marketplace.windsurf.com
 2.27.118.34 matchmaking.stumbleguys.com
+162.159.135.232 media.discordapp.net
 146.75.22.132 media.githubusercontent.com
 159.194.200.33 media.naukri.com
 193.233.112.67 mediacdn.naukri.com

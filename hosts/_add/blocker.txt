@@ -31,3 +31,4 @@
 0.0.0.0 analytics.my.com
 0.0.0.0 bip.my.com
 0.0.0.0 vk.com
+0.0.0.0 share.flocktory.com
