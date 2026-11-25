@@ -1,6 +1,6 @@
 ! Title: 😎🤘 NoADS_RU Extended Plus
-! Last modified: 24 ноября 2026 года
-! Total: 179128
+! Last modified: 25 ноября 2026 года
+! Total: 179141
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -22089,6 +22089,7 @@ omni.soundestlink.com$image
 ||itsdonelist.com^
 ||itsmatchtime.com^
 ||itsviral.net^
+||ivoryandcrow.com^
 ||ivykiosk.com^
 ||j93557g.com^
 ||jackalsmovie.com^
@@ -25105,6 +25106,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.picox.bendingspoons.com/v1/events
 ||api.reo.dev^$third-party
 ||api.sardine.ai/assets/loader.min.js$third-party
+||api.sided.co/embed/registerDebateEvent
+||api.sided.co/embed/updateSession
 ||api.sovendus.com/js/landing.js
 ||api.tally.so/forms/*/events
 ||api.transtore.app/api/v2/storefront/tracking
@@ -30397,6 +30400,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gettapeads.com/stat/
 ||gettyimages.*/pulse$ping
 ||gg.asuracomic.net/api/views/collect
+||gg.deals/scripts/track-gtm.js
 ||gg.vevor.com^
 ||ghacks.net/statics/px.gif
 ||gianteagle.com/webevents/
@@ -31723,6 +31727,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||umami.vidfast.pro^
 ||umami.wakarimasen.moe^
 ||uncensored.ai/*/trackevents
+||uniqueness.greenmangaming.com^
 ||unity3d.com/v1/events
 ||unl1zvy2zuyn.franchiseplus.nl^
 ||unleash.zenchef.com/api/frontend/client/metrics
@@ -32026,6 +32031,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ebaystatic.com/rs/v/klminxoj1uyzvo0p0qu4nhpg0qo.js
 ||ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
 ||event.evtm.53.com^
+||greynoise.io/nvhc9u4gxsagNjY3ZGQ0MGViYjgwOTVlODlmMjc1NjM5/
 ||idhtm.bb.com.br^
 ||idstatus.sky.com^
 ||img2021.navyfederal.org^
@@ -32041,9 +32047,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qfp.intuit.com^
 ||rba-screen.healthsafe-id.com^
 ||rsx.afterpay.com^
+||secure.valnetinc.com/discover
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
 ||svc2.sc.com^
-||tips.delt.io
+||tiles.openfreemap.org/planet
+||tips.delt.io^
 ||tm-eps.neutrino.nu^
 ||tmetrix.my.chick-fil-a.com^
 ||tmx.bestbuy.com^
@@ -32295,7 +32303,7 @@ iphoneincanada.ca##+js(acs, document.createElement, __apNoHold)
 foxbusiness.com,foxnews.com##+js(aeld, /load|error/, \,G=null)\,clearTimeout(K)\,!)
 ranker.com##+js(aost, HTMLElement.prototype.insertBefore, /[A-Z] .+chunks\/\d{4}\./)
 cleveland.com,fox11online.com,oregonlive.com,reuters.com,weartv.com##+js(aost, admiral, .js?)
-al.com,attackofthefanboy.com,beavertonvalleytimes.com,destructoid.com,gamepur.com,gamerjournalist.com,gameskinny.com,lehighvalleylive.com,lehighvalleylivecom,lgbtqnation.com,macwelt.de,masslive.com,mlive.com,news8000.com,oregonlive.com,pcwelt.de,pennlive.com,portlandtribune.com,primagames.com,progameguides.com,queerty.com,siliconera.com,silive.com,sporcle.com,techcrunch.com,thebeenews.com,themarysue.com,theoutlookonline.com,touchtapplay.com,wegotthiscovered.com##+js(aost, decodeURI, /(?=^(?!.*\.js))/)
+al.com,attackofthefanboy.com,beavertonvalleytimes.com,destructoid.com,gamepur.com,gamerjournalist.com,gameskinny.com,lehighvalleylive.com,lehighvalleylivecom,lgbtqnation.com,macwelt.de,masslive.com,mlive.com,news8000.com,oregonlive.com,pcwelt.de,pennlive.com,portlandtribune.com,primagames.com,progameguides.com,queerty.com,siliconera.com,silive.com,sporcle.com,techcrunch.com,thebeenews.com,themarysue.com,theoutlookonline.com,touchtapplay.com,tweaktown.com,wegotthiscovered.com,wfaa.com##+js(aost, decodeURI, /(?=^(?!.*\.js))/)
 mensjournal.com##+js(json-edit, ..props.children.*[?.key=="admiral-script"])
 foxbusiness.com,foxnews.com##+js(nostif, \,G=null)\,clearTimeout(K)\,!)
 247sports.com,cbsnews.com,cbssports.com,indiewire.com,nypost.com,pagesix.com,pennlive.com##+js(rmnt, script, '"data-adm-url"')
@@ -88551,6 +88559,7 @@ acoup.blog,candidcyber.com,commonplacefacts.com,decorado.co.il,maxstock.co.il,po
 wpx.net###wpx-cookie-agreement
 here.com###wrapper
 groners.com###wrapper_cookiebanner
+web-site.care###wsc-consent
 wyze.com###wyze-cookie-banner
 xhorsetool.com###xri_GoogConsent
 hydramatics.co.za###zcb-banner
@@ -89100,7 +89109,7 @@ kbs.co.kr##.chrome_pick
 baldursgate3.game,larian.com##.ciastko
 tonies.com##.cjBwKv
 myvi.in##.ck-container
-behaviourchangeagency.com##.ck-cookie-w
+behaviourchangeagency.com,greynoise.io##.ck-cookie-w
 ilovepdf.com##.ck-tstr
 blog.dynasage.com,dotycat.com,phone-updates.com##.ckWrap
 img.ly##.cke-overlay
@@ -90608,7 +90617,7 @@ ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 anexia.com##[aria-describedby="privacy-settings-description"]
 dot-symbol.com##[aria-label="Analytics consent"]
 kstp.com,lucidchart.com,scribd.com,whec.com##[aria-label="Cookie Consent Banner"]
-1password.com,quantpedia.com,shirtspace.com##[aria-label="Cookie Consent"]
+1password.com,fontcheckerpro.com,quantpedia.com,shirtspace.com##[aria-label="Cookie Consent"]
 pretense.ai##[aria-label="Cookie and privacy notice"]
 dictionary.cambridge.org,lovable.dev##[aria-label="Cookie banner"]
 the-fence.com##[aria-label="Cookie choices"]
@@ -90895,6 +90904,7 @@ reddit.com##shreddit-cookie-banner
 remotehub.com##smp-cookies-banner
 truecaller.com##span > .max-w-md.shadow-lg
 planner.kaboodle.co.nz##tw-privacy-preference
+ed.ac.uk##uoe-consent
 trinitycineasia.com##ush-cookie-consent
 trumpf.com##ux-cookie-layer
 pacificpower.net,rockymountainpower.net##wcss-cookie-banner
@@ -94556,6 +94566,7 @@ lk-new.vtbnpf.ru##.cookie-layout
 theblueprint.ru##.cookie-line
 rutube.ru##.cookie-message-module__cookie-consent
 sponsr.ru##.cookie-site-alert
+rutube.ru##.cookie-snackbar-module__snackbar
 kgdavia.ru,mmkavia.ru##.cookieAgr
 korusconsulting.ru##.cookieConfirm
 rusnano.com##.cookie__in
@@ -95450,6 +95461,7 @@ fptshop.com.vn##[data-cookie-consent-modal="true"]
 ||oeaw.ac.at^*/js.cookie.min.js
 ||piazza.cc/public/app.js
 ||postleitzahl.org/images/consent.php
+||privacy.diepresse.com^
 ||rheinenergie.com/libs/cookiebanner/
 ||seduction-magazin.de/wp-content/plugins/borlabs-cookie/
 ||sprengel-pr.com/public/app.js
@@ -95480,6 +95492,7 @@ fptshop.com.vn##[data-cookie-consent-modal="true"]
 ||privacy.heidi.news^
 ||privacy.letemps.ch^
 ||privacy.luxair.lu^
+||privacy.maison-travaux.fr^
 ||ratp.fr/modules/custom/ratp_tarteaucitron/
 ||thesiteoueb.net/js/cm-head.js
 ||vape-phone.fr/bundles/webtoolcore/js/newCookieChoice.js

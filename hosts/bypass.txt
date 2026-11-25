@@ -1,5 +1,5 @@
 # Total hosts: 281
-# Last modified: 24 ноября 2026 года
+# Last modified: 25 ноября 2026 года
 3.164.206.34 a-v2.sndcdn.com
 217.60.179.6 a.claude.ai
 134.0.118.88 ab.chatgpt.com

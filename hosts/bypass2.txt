@@ -1,5 +1,5 @@
 # Total hosts: 1168
-# Last modified: 24 ноября 2026 года
+# Last modified: 25 ноября 2026 года
 193.233.112.67 37signals.com
 159.194.200.33 a-api.anthropic.com
 193.233.112.67 a-cdn.anthropic.com

@@ -1,6 +1,6 @@
 ! Title: 😎 NoADS_RU Extended
-! Last modified: 24 ноября 2026 года
-! Total: 75205
+! Last modified: 25 ноября 2026 года
+! Total: 75210
 ! Author: Zalexanninev15
 ! Homepage: https://codeberg.org/Zalexanninev15/NoADS_RU
 ! License: https://codeberg.org/Zalexanninev15/NoADS_RU/src/branch/main/LICENSE
@@ -29921,6 +29921,7 @@ acoup.blog,candidcyber.com,commonplacefacts.com,decorado.co.il,maxstock.co.il,po
 wpx.net###wpx-cookie-agreement
 here.com###wrapper
 groners.com###wrapper_cookiebanner
+web-site.care###wsc-consent
 wyze.com###wyze-cookie-banner
 xhorsetool.com###xri_GoogConsent
 hydramatics.co.za###zcb-banner
@@ -30470,7 +30471,7 @@ kbs.co.kr##.chrome_pick
 baldursgate3.game,larian.com##.ciastko
 tonies.com##.cjBwKv
 myvi.in##.ck-container
-behaviourchangeagency.com##.ck-cookie-w
+behaviourchangeagency.com,greynoise.io##.ck-cookie-w
 ilovepdf.com##.ck-tstr
 blog.dynasage.com,dotycat.com,phone-updates.com##.ckWrap
 img.ly##.cke-overlay
@@ -31978,7 +31979,7 @@ ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 anexia.com##[aria-describedby="privacy-settings-description"]
 dot-symbol.com##[aria-label="Analytics consent"]
 kstp.com,lucidchart.com,scribd.com,whec.com##[aria-label="Cookie Consent Banner"]
-1password.com,quantpedia.com,shirtspace.com##[aria-label="Cookie Consent"]
+1password.com,fontcheckerpro.com,quantpedia.com,shirtspace.com##[aria-label="Cookie Consent"]
 pretense.ai##[aria-label="Cookie and privacy notice"]
 dictionary.cambridge.org,lovable.dev##[aria-label="Cookie banner"]
 the-fence.com##[aria-label="Cookie choices"]
@@ -32265,6 +32266,7 @@ reddit.com##shreddit-cookie-banner
 remotehub.com##smp-cookies-banner
 truecaller.com##span > .max-w-md.shadow-lg
 planner.kaboodle.co.nz##tw-privacy-preference
+ed.ac.uk##uoe-consent
 trinitycineasia.com##ush-cookie-consent
 trumpf.com##ux-cookie-layer
 pacificpower.net,rockymountainpower.net##wcss-cookie-banner
@@ -35926,6 +35928,7 @@ lk-new.vtbnpf.ru##.cookie-layout
 theblueprint.ru##.cookie-line
 rutube.ru##.cookie-message-module__cookie-consent
 sponsr.ru##.cookie-site-alert
+rutube.ru##.cookie-snackbar-module__snackbar
 kgdavia.ru,mmkavia.ru##.cookieAgr
 korusconsulting.ru##.cookieConfirm
 rusnano.com##.cookie__in
@@ -36820,6 +36823,7 @@ fptshop.com.vn##[data-cookie-consent-modal="true"]
 ||oeaw.ac.at^*/js.cookie.min.js
 ||piazza.cc/public/app.js
 ||postleitzahl.org/images/consent.php
+||privacy.diepresse.com^
 ||rheinenergie.com/libs/cookiebanner/
 ||seduction-magazin.de/wp-content/plugins/borlabs-cookie/
 ||sprengel-pr.com/public/app.js
@@ -36850,6 +36854,7 @@ fptshop.com.vn##[data-cookie-consent-modal="true"]
 ||privacy.heidi.news^
 ||privacy.letemps.ch^
 ||privacy.luxair.lu^
+||privacy.maison-travaux.fr^
 ||ratp.fr/modules/custom/ratp_tarteaucitron/
 ||thesiteoueb.net/js/cm-head.js
 ||vape-phone.fr/bundles/webtoolcore/js/newCookieChoice.js
